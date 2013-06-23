@@ -1,4 +1,4 @@
 shiedman.github.io
 ==================
 
-github blog
+index listing
