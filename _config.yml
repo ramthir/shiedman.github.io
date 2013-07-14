@@ -1,3 +1,8 @@
+markdown: redcarpet
+timezone: Asia/Hong_Kong
+
+#Jekyll Bootstrap setting template 
+#
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title 
