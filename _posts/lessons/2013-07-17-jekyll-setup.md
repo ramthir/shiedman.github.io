@@ -25,6 +25,8 @@ tags: [jekyll, tutorial]
 since `site.related_posts` limited by 10, using `site.posts` instead of `site.related_posts` as you wishes
 @see: [filter site related posts in jekyll](http://stackoverflow.com/questions/10906574/filter-site-related-posts-in-jekyll)
 
+---
+
 #### fency code block with raw tag
 
 when running locally, if you included liquid template syntax like <code>&#123;% %}</code> or <code>&#123;{ }}</code>, just remember to embrace them with raw tag: <code>&#123;% raw %} ... &#123;% endraw %}</code>, or your code block would accidently broken.
