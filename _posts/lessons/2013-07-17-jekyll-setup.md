@@ -7,6 +7,7 @@ tags: [jekyll, tutorial]
 #### find related posts with category
 
 <!--excerpt:end-->
+{% raw %}
 ```
 {% for post in site.related_posts limit:5 %}
   {% assign match = false %}
@@ -20,6 +21,7 @@ tags: [jekyll, tutorial]
   {% endif %}                       
 {% endfor %}
 ```
+{% endraw %}
 since `site.related_posts` limited by 10, using `site.posts` instead of `site.related_posts` as you wishes
 @see: [filter site related posts in jekyll](http://stackoverflow.com/questions/10906574/filter-site-related-posts-in-jekyll)
 
