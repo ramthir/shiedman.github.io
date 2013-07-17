@@ -1,9 +1,10 @@
 markdown: redcarpet
 redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "hard_wrap", "prettify"]
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "table", "with_toc_data", "hard_wrap", "prettify"]
 timezone: Asia/Hong_Kong
 paginate: 5
 safe: true
+excerpt_separator: <!--excerpt:end-->
 #lsi: true
 #Jekyll Bootstrap setting template 
 #
@@ -90,7 +91,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
       short_name : shiedman
     livefyre :
