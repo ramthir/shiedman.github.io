@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /archive.html
+Disallow: /categories.html
+Disallow: /pages.html
+Disallow: /tags.html
