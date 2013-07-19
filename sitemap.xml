@@ -1,0 +1,24 @@
+---
+title : Sitemap
+# Remember to set production_url in your _config.yml file!
+#
+#{% for page in site.pages %}
+#{{site.production_url}}{{ page.url }}{% endfor %}
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!--
+    <url>
+        <loc>http://www.example.com/?id=who</loc>
+        <lastmod>2009-09-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    -->
+    {% for post in site.posts %}
+    <url>
+        <loc>{{site.production_url}}{{ post.url }}</loc>
+        <lastmod>{{post.date | date: "%Y-%m-%d" }}</lastmod>
+    </url>
+    {% endfor %}
+</urlset>
