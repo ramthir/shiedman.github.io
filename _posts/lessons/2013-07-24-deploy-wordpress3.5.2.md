@@ -7,6 +7,7 @@ tags: [wordpress,tutorial]
 
 #### wp-config.php
 ```php
+<?php
 define('DB_NAME', SAE_MYSQL_DB);
 define('DB_USER', SAE_MYSQL_USER);
 define('DB_PASSWORD', SAE_MYSQL_PASS);
@@ -27,6 +28,7 @@ define('SAE_URL', 'http://' . $_SERVER['HTTP_APPNAME'] . '-'.SAE_STORAGE.'.stor.
 wp-admin/includes/file.php(2)、wp-include/class-wp-image-editor-gd.php(1)
 
 ```php
+<?php
 if(!defined('SAE')){
     $stat = stat( dirname( $new_file ));
     $perms = $stat['mode'] & 0000666;
@@ -38,6 +40,7 @@ if(!defined('SAE')){
 wp-includes/functions.php 
 
 ```php
+<?php
 function wp_upload_dir( $time = null ) {
     //codes ...
    if(defined('SAE')){
