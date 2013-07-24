@@ -4,21 +4,26 @@ title : Sitemap
 #
 #{% for page in site.pages %}
 #{{site.production_url}}{{ page.url }}{% endfor %}
+
+#reference: http://www.sitemaps.org/protocol.html
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% comment %}
     <!--
     <url>
         <loc>http://www.example.com/?id=who</loc>
         <lastmod>2009-09-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
+        <lastmod>{{post.date | date: "%Y-%m-%d" }}</lastmod>
     </url>
     -->
+{% endcomment %}
     {% for post in site.posts %}
     <url>
         <loc>{{site.production_url}}{{ post.url }}</loc>
-        <lastmod>{{post.date | date: "%Y-%m-%d" }}</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     {% endfor %}
 </urlset>

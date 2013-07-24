@@ -1,35 +1,54 @@
 ---
-layout: default
-title: Tea Note
+layout: basic
 noindex: true
 ---
-{% include JB/setup %}
-<div class="row-fluid">
-  <div class="span12">
-        <!-- This loops through the paginated posts -->
-        {% for post in paginator.posts %}
-          <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-          <p class="author">
-            <span class="date">{{ post.date | date_to_long_string}}</span>
-          </p>
+{% comment %}
+<!-- Main jumbotron for a primary marketing message or call to action -->
+<div class="jumbotron">
+    <div class="container">
+        <h1>Hello, world!</h1>
+        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
+    </div>
+</div>
+{% endcomment %}
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <!-- This loops through the paginated posts -->
+      {% for post in paginator.posts %}
+      <div class="article">
+          <div class="page-header">
+          <h2><a href="{{BASE_PATH}}{{ post.url }}">{{ post.title }}</a></h2>
+          {% include categories_list.liquid categories=post.categories %}
+          <span class="label label-default">{{ post.date | date_to_long_string}}</span>
+           </div>
+          <div class="post-content">
           {{ post.excerpt }}
-        {% endfor %}
+          </div>
+      </div>
+      <hr></hr>
+      {% endfor %}
 
-        <!-- Pagination links -->
-        {% if paginator.total_pages > 1 %}
-            <div class="pagination">
-              {% if paginator.previous_page %}
-                <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
-              {% else %}
-                <span class="previous">Previous</span>
-              {% endif %}
-              <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-              {% if paginator.next_page %}
-                <a href="/page{{ paginator.next_page }}" class="next">Next</a>
-              {% else %}
-                <span class="next ">Next</span>
-              {% endif %}
-            </div>
+      <!-- Pagination links -->
+      {% if paginator.total_pages > 1 %}
+        <ul class="pager">
+        {% if paginator.previous_page %}
+          <li><a href="{{ paginator.previous_page_path }}">&larr; Prev</a></li>
+        {% else %}
+          <li class="disabled"><a href="#">&larr; Prev</a></li>
         {% endif %}
+        <li><span class="page_number "> {{ paginator.page }} / {{ paginator.total_pages }}</span></li>
+        {% if paginator.next_page %}
+          <li><a href="{{ paginator.next_page_path }}">Next &rarr;</a></li>
+        {% else %}
+          <li class="disabled"><a href="#">Next &rarr;</a></li>
+        {% endif %}
+        </ul>
+      {% endif %}
+      <!-- /Pagination links -->
+
+
+    </div>
   </div>
 </div>

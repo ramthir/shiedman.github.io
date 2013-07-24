@@ -1,0 +1,56 @@
+@import "bootstrap-3.0.3/bootstrap.less";
+
+@import "syntax-highlights.less";
+//theme like bootstrap 2.+
+@import "bootstrap-3.0.3/theme.less";
+//custom color setting
+@import "custom.variables.less";
+
+
+
+.container {
+  @media (min-width: @screen-md-min){
+    width: @container-sm;
+  }
+}
+.tag_box {
+  > li:first-child {
+    a { 
+      padding-right: 0;
+      /*margin-right: -1 * extract(@nav-link-padding,2) ;*/
+      i.glyphicon {
+          color: @green;
+      }
+    }
+  }
+  /*
+  > li:nth-child(2) {
+    a { 
+      padding-left: 5px;
+    }
+  }
+  */
+}
+
+.post-date {
+    padding-left: 10px;
+    color: @base00;
+}
+.row {
+    background-color: @base3;
+}
+.navbar-header a.navbar-brand{
+    .text-warning
+}
+.article {
+    /*margin: 0 10px;*/
+    /*font-size: 16px;*/
+}
+.page-header{
+    .label {
+        font-size: 0.8em;
+        font-weight: bold;
+        text-shadow: 0 -1px 0 rgba(0,0,0,.5);
+    }
+}
+

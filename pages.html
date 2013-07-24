@@ -2,13 +2,10 @@
 layout: page
 title: Pages 
 header: Pages
-#group: navigation
 noindex: true
 ---
-{% include JB/setup %}
 
 <h2>All Pages</h2>
 <ul>
-{% assign pages_list = site.pages %}
-{% include JB/pages_list %}
+{% include pages_list.liquid pages=site.pages %}
 </ul>

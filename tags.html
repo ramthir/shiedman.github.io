@@ -5,11 +5,9 @@ header: Posts By Tag
 #group: navigation
 noindex: true
 ---
-{% include JB/setup %}
 
-<ul class="tag_box inline">
-  {% assign tags_list = site.tags %}  
-  {% include JB/tags_list %}
+<ul class="nav nav-pills">
+  {% include tags_list.liquid tags=site.tags %}
 </ul>
 
 
@@ -17,6 +15,6 @@ noindex: true
   <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
   <ul>
     {% assign pages_list = tag[1] %}  
-    {% include JB/pages_list %}
+    {% include pages_list.liquid pages=pages_list %}
   </ul>
 {% endfor %}

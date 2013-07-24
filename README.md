@@ -1,46 +1,59 @@
-# Jekyll-Bootstrap
+---
+layout: post
+title: build blog on github with jekyll
+tagline: small title
+categories: tutor
+tags: [jekyll, bootstrap]
+---
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+Prepare
+=======
+1. config ~/.gemrc  
 
-## Usage
+        ---
+        :backtrace: false
+        :bulk_threshold: 1000
+        :sources:
+        - http://ruby.taobao.org/
+        :update_sources: true
+        :verbose: true
+        gem: --user-install
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+<!--more-->
+2. install jekyll
 
-## Version
+    **install to user home**
 
-0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
+    + init  : `gem install github-pages`  
+    + update: `gem update github-pages`
 
-**NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
-However, the actual API has not changed at all.
-You might want to run 0.3.0 in a branch to make sure you are ok with the theme design changes.
+    **or install to bundler**  
 
-## Contributing 
+    1. create file `Gemfile`
 
-This repository tracks 2 projects:
-
-- **Jekyll-Bootstrap Framework.**  
-  The framework for which users should clone and build their blog on top of is available in the master branch.
-  
-  To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
-  This is very important as it allows me to accept your pull request without having to publish a public version release.
-  
-  Small, atomic Features, bugs, etc.   
-  Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.   
-  Please rebase as often as possible when working.   
-  Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
-  
-  For Big Features or major API extensions/edits:   
-  This is the one case where I'll accept pull-requests based off the master branch.
-  This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
-  Translation : it might take a bit longer so please be patient! (but sincerely thank you).
- 
-- **Jekyll-Bootstrap Documentation Website.**    
-  The documentation website at <http://jekyllbootstrap.com> is maintained in the gh-pages branch.
-  Please fork and contribute documentation additions to this branch only.
-
-The master and gh-pages branch do not share the same ancestry. Please treat them as completely separate git repositories!
+            source 'https://rubygems.org'
+            gem 'github-pages'
 
 
-## License
+    2. install gem with bundler
 
-[MIT](http://opensource.org/licenses/MIT)
+            gem install bundler
+            bundle install
+
+3. create new blog
+
+        jekyll new myblog
+        cd myblog
+        jekyll serve --port 8080
+
+for more details, see: https://help.github.com/articles/using-jekyll-with-pages
+
+build boilerplate
+=================
+
+1. create basic layouts `default.html/post.html` in `_layouts` dir
+
+2. create helper snippets in `_includes` dir
+
+3. create `assets` dir for css/js/image files
+
