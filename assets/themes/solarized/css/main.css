@@ -99,3 +99,9 @@
 #colorswitcher #none {
   background-color: #fff;
 }
+/** post list **/
+ul.nav-list .date {
+   color: #aaa;
+   font-family: Monaco, "Courier New", monospace;
+   font-size: 80%;
+}
