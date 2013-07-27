@@ -4,8 +4,11 @@ title : Sitemap
 #
 #{% for page in site.pages %}
 #{{site.production_url}}{{ page.url }}{% endfor %}
+
+#reference: http://www.sitemaps.org/protocol.html
 ---
 <?xml version="1.0" encoding="UTF-8"?>
+{% include JB/setup %}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <!--
     <url>
@@ -13,12 +16,13 @@ title : Sitemap
         <lastmod>2009-09-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
+        <lastmod>{{post.date | date: "%Y-%m-%d" }}</lastmod>
     </url>
     -->
     {% for post in site.posts %}
     <url>
-        <loc>{{site.production_url}}{{ post.url }}</loc>
-        <lastmod>{{post.date | date: "%Y-%m-%d" }}</lastmod>
+        <loc>{{site.production_url}}{{BASE_PATH}}{{ post.url }}</loc>
+        <changefreq>weekly</changefreq>
     </url>
     {% endfor %}
 </urlset>

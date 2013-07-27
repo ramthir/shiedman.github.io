@@ -100,17 +100,27 @@
   background-color: #fff;
 }
 
+/** bootstrap style **/
+.page-header {
+    margin-bottom: 5px;
+}
+
+
 /** styles for shiedman/works.git **/
 ul.nav-list .date {
    color: #aaa;
    font-family: Monaco, "Courier New", monospace;
    font-size: 80%;
 }
-.footnote li p {
+.footnotes li p {
     font-size: 12px;
 }
 
 .content.lsize > p {
     font-size: 18px;
+    line-height: 26px;
 }
 
+.content.lsize abbr {
+    border-width: 0 0 4px;
+}
