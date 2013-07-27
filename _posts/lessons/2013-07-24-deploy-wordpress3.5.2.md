@@ -23,7 +23,7 @@ define('SAE_DIR','saestor://'.SAE_STORAGE.'/uploads');
 define('SAE_URL', 'http://' . $_SERVER['HTTP_APPNAME'] . '-'.SAE_STORAGE.'.stor.sinaapp.com/uploads');
 ```
 
-<!--excerpt:end-->
+<!--more-->
 #### disable chmod file
 wp-admin/includes/file.php(2)、wp-include/class-wp-image-editor-gd.php(1)
 
@@ -36,7 +36,7 @@ if(!defined('SAE')){
 {% endhighlight %}
 
 #### change the default upload directory and attachment download url
-wp-includes/functions.php 
+wp-includes/functions.php
 
 {% highlight php startinline %}
 function wp_upload_dir( $time = null ) {

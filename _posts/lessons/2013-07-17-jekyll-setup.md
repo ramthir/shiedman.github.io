@@ -17,11 +17,11 @@ tags: [jekyll, tutorial]
   {% endfor %}
   {% if match %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endif %}                       
+  {% endif %}
 {% endfor %}
 ```
 <!--{% endraw %}-->
-<!--excerpt:end-->
+<!--more-->
 
 since `site.related_posts` limited by 10, using `site.posts` instead of `site.related_posts` as you wishes
 @see: [filter site related posts in jekyll](http://stackoverflow.com/questions/10906574/filter-site-related-posts-in-jekyll)
