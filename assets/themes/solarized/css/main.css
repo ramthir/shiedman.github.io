@@ -99,9 +99,18 @@
 #colorswitcher #none {
   background-color: #fff;
 }
-/** post list **/
+
+/** styles for shiedman/works.git **/
 ul.nav-list .date {
    color: #aaa;
    font-family: Monaco, "Courier New", monospace;
    font-size: 80%;
 }
+.footnote li p {
+    font-size: 12px;
+}
+
+.content.lsize > p {
+    font-size: 18px;
+}
+
