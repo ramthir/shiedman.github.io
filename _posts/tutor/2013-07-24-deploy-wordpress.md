@@ -1,9 +1,12 @@
 ---
 layout: post
 category: tutor
-tagline: on SAE(sina app engine)
+title: Deploy wordpress on SAE 
+#tagline: on SAE(sina app engine)
 tags: [wordpress,tutorial]
 ---
+
+**NOTE**: This tutor work on wordpress 3.5.x to 3.8.x
 
 #### wp-config.php
 
@@ -56,6 +59,31 @@ function wp_mkdir_p( $target ) {
    }
     //more codes here ...
 }
+{% endhighlight %}
+
+#### [optional]add memcache support
+download [Memcached Object Cache](http://wordpress.org/plugins/memcached/), change source as the following, put `object-cache.php` to dir `wp-content` 
+
+{% highlight php startinline %}
+function WP_Object_Cache() {
+    //codes here ...
+    foreach ( $buckets as $bucket => $servers) {
+        $this->mc[$bucket] = memcache_init();//SAE memcache
+        /*
+        $this->mc[$bucket] = new Memcache();
+        foreach ( $servers as $server  ) {
+            list ( $node, $port ) = explode(':', $server);
+            if ( !$port )
+                $port = ini_get('memcache.default_port');
+            $port = intval($port);
+            if ( !$port )
+                $port = 11211;
+            $this->mc[$bucket]->addServer($node, $port, true, 1, 1, 15, true, array($this, 'failure_callback'));
+            $this->mc[$bucket]->setCompressThreshold(20000, 0.2);
+        }
+        */
+    }
+
 {% endhighlight %}
 
 #### [optional]disable auto update
