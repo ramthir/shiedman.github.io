@@ -1,0 +1,21 @@
+---
+title: The View of Others
+book:
+    title: A Guide to Philosophy
+    author: Witold Gombrowicz
+category: philosophy
+permalink: /books/a_guide_to_philosophy/10_The_View_of_Others.html
+date: 2014-04-13 01:21:00 +0800
+layout: book_page 
+---
+
+
+*Wednesday, May 7,1969*
+{: .text-right}
+
+The View of Others
+======================
+
+####We are subject to other people’s point of view. Naturally it is necessary to recognize the existence of others. It is an *obvious fact.* Sartre does not find any philosophical reasons to justify it. This view of others takes away our freedom, defines us. For the other, we are a thing, an object, we have a character, etc. This view of others is contrary to our freedom, but it is only in recognizing the other’s freedom that I free myself from his gaze. All of Sartrean morality consists *of recognizing and of affirming freedom.*####
+
+Consequently, Sartre naturally insists that every writer be engaged, that he belong to the left, and that he be subject to its rigorous rules! In other, less successful works, Sartre tries above all (in *The Critique of Dialectical Reason)* to reconcile existentialism with Marxism, which naturally is nonsense.

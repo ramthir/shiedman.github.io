@@ -1,0 +1,178 @@
+---
+title: Existentialism
+book:
+    title: A Guide to Philosophy
+    author: Witold Gombrowicz
+category: philosophy
+permalink: /books/a_guide_to_philosophy/07_Existentialism.html
+date: 2014-04-13 01:13:00 +0800
+layout: book_page 
+---
+
+*Sunday, May 4, 1969*
+{: .text-right}####
+
+Existentialism
+==============
+
+####Existentialism was born directly from Kierkegaard’s attack on Hegel.####
+
+####In fact, there is not just one existentialist school but several, among others, those of Jaspers, Gabriel Marcel (that sad fool), Sartre . . . But in fact, existentialism is an attitude that comes from Parmenides, Plato, Jesus Christ, Saint Augustine, up to our time.####
+
+####I shall try to tell you how existential philosophy differs from classical philosophy.####
+
+####In the first place, as has already been said with respect to Kierkegaard, it is the *opposition between the concrete and the abstract.*####
+
+It is an extremely serious and even tragic thing for the mind, as we reason with *concepts,* thus with abstractions.
+
+Tragic because reasoning can be done only through concepts and logic, and general laws cannot be formed without concepts and without logic. On the other hand, *concepts do not exist in reality* (very important).
+
+But there still is an objection which Kierkegaard formulated against Hegel: “Hegelian truth is conceived in advance.” The choice of our ideas is not formed as a consequence of an argument, but they are chosen in advance. Reasoning serves only to justify a previous choice. (It is impossible to fight with what the soul has chosen—Zeromski.6)
+
+*Hegel conceived his world in advance,* in his reason, etc. Therefore, premeditated. Another flaw in abstract reasoning, and it is dramatic for the mind. Because of this, reasoning is not possible.
+
+Under these conditions, how can existentialist reasoning, or a philosophical system like that of Heidegger or Sartre, be possible?
+
+*Husserl's phenomenological method* came to the aid of the existentialists.
+
+Heidegger was Husserl’s favorite pupil. Husserl never forgave Heidegger for having profited from phenomenology for totally different ends, thereby creating the first existentialist system. Why the phenomenological method?
+
+It is a new reduction of the thinking that had already been reduced by Descartes, Feuerbach, and others.
+
+This reduction consists in the following: Husserl says: because we can say nothing about the *noumenon* (thing in itself), we put the *noumenon* in parentheses; that is, that the only thing one can speak of are *the phenomena.*
+
+The *noumenon,* for example, is this chair such as it really is, and the phenomenon is the chair as we see it, or seen by an ant, conditioned by our capacity to see. That concerns not only our physical faculties of perception but also our mental faculties, as Kant showed (namely that time and space derive from us and not from the object in itself).
+
+Husserl says: since we cannot know anything about the *noumenon,* I am putting it in parentheses. About the existence of God, for example, we know nothing.
+
+####And, returning to Descartes’ famous “cogito ergo sum” (I think, therefore I am), Husserl brackets the *world* and *all the sciences concerning the world *(biology, physics, history). Only the sciences involving our faculties remain, like mathematics, logic, geometry, etc.####
+
+####He bracketed God and the sciences.####
+
+####You really see the tremendous repercussions of seeing according to the phenomenological method.####
+
+####Alas, I do not know whether Isa exists, I have an idea of Isa in my head!* Likewise, I was never born. I was never born in 1904.####
+
+####I only know that I have the idea of my birth in 1904 in my consciousness, and that I have the idea of 1904, that is to say, of all the past years.####
+
+####Everything changed in a diabolical way. That changes the universe. There is nothing more than a definitive center which is consciousness and that which passes into consciousness. Consciousness is evidently alone. The possibility of other consciousnesses does not exist.####
+
+####Life is nothing more than a fact of consciousness. Likewise, logic, history, my future are nothing more than facts of my consciousness which I cannot even call “my” consciousness, since “my” consciousness is only a fact of “the” definitive consciousness.####
+
+####Everything reduces to phenomena in my consciousness. How, in this state of things, can one do philosophy?####
+
+####For this definitive consciousness, nothing else remains than for it to “judge” itself. As consciousness is conscious of something, so, it is conscious of itself. Consciousness separates itself so to speak into several parts, which can be described as follows: first, second, third consciousness. But this second consciousness can be described by a third consciousness, and this is precisely what I do in speaking of the third consciousness.####
+
+####Please do not forget that this is an extremely rudimentary manner of presenting phenomenology to you.####
+
+####There is still one law of consciousness formulated by Husserl, called *“the intentionality” of consciousness,* that is, that consciousness consists in being conscious. But in order to be conscious, one must always be conscious of something. And that means that consciousness can never be empty, separated from the object. This leads directly to Sartre’s notion####
+
+####of man, which says that *man is not a being in himself *as objects are, but is a being *“for himself,”* that he is conscious of himself. This leads to a notion of man divided in two, with an empty space. It is for this reason that Sartre’s book is called *Nothingness.* This nothingness is a kind of *water spray* or *Niagara Falls *which always goes from the interior to the exterior.####
+
+####For example, I am conscious of this painting, my consciousness is not only within me, it is in the painting (object of the consciousness). Consciousness is, so to speak, *outside of me.*####
+
+####When I read that in *Being and Nothingness,* I shouted with enthusiasm, since it is precisely the notion of man which creates form and which cannot really be authentic.####
+
+####*Ferdydurke* fortunately appeared in 1937 and *Being and Nothingness* in 1943. And this is why someone kindly credits me with anticipating existentialism. Let us return to our task.####
+
+####I spoke of Husserl’s phenomenological method because it made existential philosophy possible. In truth, existentialism cannot produce any philosophy.####
+
+####Me, I am alone, concrete, independent of any logic, of any concept.####
+
+####What to do in this situation?####
+
+Be crucified like Jesus Christ?
+
+Be lost in one’s pain?
+
+One lives alone, one dies alone.
+
+Impenetrable.
+
+But with the phenomenological method, one can organize the facts of our consciousness concerning our existence. And that is the only thing we are left with.
+
+Husserl’s method has been compared to the way to eat an artichoke, that is, that I observe a notion in my consciousness.
+
+Example: the color yellow. I try to reduce it to its purest state, like the artichoke, leaf after leaf. And when we finally reach the heart, we throw ourselves upon it and devour it.
+
+Phenomenology is a descent to the most profound notion, the *last* notion of a phenomenon, and when it is purified, we throw ourselves upon it and swallow it by direct intuition.
+
+I remind you that intuition is direct knowledge without reasoning.
+
+Thus existentialism is the profound and most definitive description of our facts concerning existence.
+
+####Sartre appropriated a lot from Heidegger. Heidegger is more creative than Sartre, but Sartre is clearer.####
+
+####Sartre offered this description of existence. I must speak again of a very profound difference between existentialism and the previous philosophy.####
+
+####Classical philosophy was rather a philosophy of *things* where even man was treated somewhat like a thing, while existentialism is supposed to be a philosophy of being.####
+
+####Every object is both *object plus being.*####
+
+####It is true that this difference almost always existed in philosophy, even in Hegel’s philosophy of becoming.####
+
+####But existentialism focused on this and on a single type of being, which is precisely existence.####
+
+####Three different kinds of being:####
+
+####1. The being in itself (being of things).####
+
+####2. The being for itself (being of dead consciousness. Being independent of that).####
+
+####3. Living beings or existing beings.####
+
+####The word “existence” means only conscious human existence, only inasmuch as one is conscious of existence. Men who live in an unconscious manner have no existence.####
+
+####Animals have no consciousness.####
+
+####This is practically Sartre’s classification. This is precisely the theme of *Being and Nothingness.*####
+
+####How can one define the characteristics of “the Being in itself,” that is, the being of objects?####
+
+####i. We have to say that only phenomena exist (Husserl). Everything manifests itself as a phenomenon. One cannot say, according to Sartre, that people are intelligent if they express themselves only in stupid deeds. Man is nothing more than what one sees.####
+
+####Notice that each thing has no limit.####
+
+####Lamp, etc., are arbitrary definitions sanctified by our language.####
+
+####One can see that existentialism moves into structuralism.####
+
+####The Being in itself can be neither created by someone, nor active or passive (since these are human ideas).####
+
+####The Being in itself is *opaque.*####
+
+####*He is as he is,* that is all one can say, he is *immobile.* He is not subject to creation and temporality, and cannot be inferred from something (like created by God).####
+
+####The Being in itself is a being about which nothing can be asserted, except that it is in itself such as it is (a little like God).####
+
+Curious thing, the *Being for itself,* human existence, is somehow inferior to the Being in itself. It is in itself the *void, nothingness,* formed so to speak in two parts. As if it were cut in two, and it is this which permits it to be conscious of itself.
+
+So it is a secondary being, compared to the Being in itself.
+
+Curious thing: this rudimentary comparison that I have managed to do can seem naive. Yet it leads to real concepts, for example, that the human being is empty because of the well-known intentionality of consciousness. If a chair is a chair, then consciousness is never identical to itself because one must always be conscious of something. One cannot imagine empty consciousness. The well-known identity principle, A equals A (chair is chair), is not carried out here. The Being of consciousness is, in this sense, an imperfect being. But let us go further.
+
+The Being in itself cannot disappear. It is independent of time and space. It is as it is, nothing more. While *existence, the Being for itself* is a limited being, with an end, which dies. (This is at least how our existence appears to our consciousness. Existence must be sustained like a flame.)
+
+For Einstein, an object is nothing more than a “curvature of space.” A chair stands for an amount of energy, and this energy can transform itself into another object, or remain unchanged energy, while human existence begins and ends (birth and death).
+
+But then, what is man, as *Being for itself* or existence?
+
+1. Man is a thing because he has a body, which is the only way, as body, that he can be in the world. Here Sartre launches into some very subjective reactions: he says that man as body is *excessive.* It provokes nausea, thus the title: *Nausea.*
+
+2. Man is a thing because he is a *fact* (facticity). For example: I have my past, I am already made, defined, achieved. But when I head toward the future, I leave the world of things in order to enter into the fulfillment of myself.
+
+3. Man is a thing by his *situation,* which takes away his freedom.
+
+Here is the well-known question of freedom which makes us responsible for ourselves. Evidently, we have two perfectly contradictory feelings. On the one hand, we are merely the effect of a cause. Example: if I drink, it is because I am thirsty. If, according to Freudianism, I have a complex, it is the result of a shock. On the other hand, we are absolutely sure of being free. No one can take away from me the feeling that it is I myself who decides whether I have to move my hand or not. Indeed, when we contemplate other people, they appear to us as the consequence of a cause.
+
+For a physician, there is no doubt that a patient’s illnesses obey causes. This feeling of freedom, which is so strong within us, concerns only ourselves, while we see others as mechanisms. Therefore the *Being in itself *always has its cause as it appears, it has neither beginning nor end. Freedom is uniquely the particularity of the *Being in itself.* There is a rupture here of course between the feelings of universal causality and our feeling of freedom, which is due to the essential difference between scientific knowledge and existential knowledge. This is very important because it defines the limits of science, which can never be the foundation for philosophy, because only consciousness can be conscious of science, whereas science can never be based on consciousness. Moreover, science sees man from the outside, as one object among others.
+
+The difference between the appendix operation from the point of view of the physician, who treats the patient as a mechanism, and the point of view of the patient. For the patient, this operation is *lived.* It is *subjective,* and it must be undergone by him and by no one else. There is another thing: in the past, we felt subject to causality while the future seemed to depend on ourselves. This is why Heidegger said that existential time is the future. Everything that man does may be considered from the point of view of the past. I move my hand because I feel like smoking. Or of the future: I move my hand in order to pick up the pipe.
+
+Therefore we can assert that freedom is a feature only of existence while causality is the feature of the *Being in itself*
+
+Existentialism is not a science.
+
+In existentialism, the whole is not a mechanism, the sum of the components always means something more than the sum total. Let us imagine that the words which form a sentence are not just a quantity of words but also a meaning. Between the way of seeing man as object, from the outside, characteristic of medicine, of psychology, of history, etc., and that of existentialism, which is to feel, so to speak, *from the inside,* within his being, there is an abyss.
+
+

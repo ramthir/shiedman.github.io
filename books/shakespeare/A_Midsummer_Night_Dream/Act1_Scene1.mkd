@@ -1,0 +1,618 @@
+---
+title: A Midsummer Night's Dream
+tagline: Act I - Scene I
+category: play
+author: shakespeare
+date: 2014-05-25 14:45:46 +0800
+permalink: /books/shakespeare/A_Midsummer_Night_Dream_act1_scene1.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Theseus, Hippolyta, Philostrate and Attendants_
+
+**THESEUS**
+
+Now, fair Hippolyta, our nuptial hour
+Draws on [apace][1]. Four happy days bring in
+Another moon – but O, [methinks][2] how slow
+This old moon wanes! She [linger][3]s my desires,
+Like to a [stepdame][4] or a dowager
+Long [wither][6]ing out a young man's [revenue][5].
+
+[1]: {{page.q}}=139 "apace (adv.):  quickly, speedily, at a great rate"
+[2]: {{page.q}}=10439 "methinks(t), methought(s) (v.):  it seems /seemed to me"
+[3]: {{page.q}}=19335 "linger (v.) 1:  delay, put off, keep waiting"
+[4]: {{page.q}}=14682 "stepdame, step-dame (n.):  stepmother"
+[5]: {{page.q}}=16626 "revenue (n.) 1:  income, yield, profit"
+[6]: {{page.q}}=7797 "wither out (v.):  cause to dwindle, make less"
+
+
+**HIPPOLYTA**
+
+Four days will quickly steep themselves in night;
+Four nights will quickly dream away the time:
+And then the moon – like to a silver bow
+New-bent in heaven – shall behold the night
+Of our solemnities.
+
+
+
+**THESEUS**
+
+Go, Philostrate,
+Stir up the Athenian youth to merriments.
+Awake the [pert][7] and nimble spirit of mirth.
+Turn melancholy forth to funerals:
+The pale [companion][8] is not for our [pomp][9].
+_Exit Philostrate_
+Hippolyta, I wooed thee with my sword,
+And won thy love doing thee injuries;
+But I will wed thee in another key:
+With pomp, with [triumph][10], and with revelling.
+_Enter Egeus and his daughter Hermia, and Lysander, and Demetrius_
+
+[7]: {{page.q}}=12760 "pert (adj.):  lively, brisk, sprightly"
+[8]: {{page.q}}=3043 "companion (n.) 1:  rogue, rascal, fellow"
+[9]: {{page.q}}=12761 "pomp (n.) 1:  pageant, ceremony, procession"
+[10]: {{page.q}}=5609 "triumph (n.) 1:  public festivity, pageant, display of celebration, tournament"
+
+
+**EGEUS**
+
+Happy be Theseus, our renowned Duke.
+
+
+
+**THESEUS**
+
+Thanks, good Egeus. What's the news with thee?
+
+
+
+**EGEUS**
+
+Full of vexation come I, with complaint
+Against my child, my daughter Hermia.
+Stand forth, Demetrius! My noble lord,
+This man hath my consent to marry her.
+Stand forth, Lysander! – And, my gracious Duke,
+This man hath bewitched the bosom of my child.
+Thou, thou, Lysander, thou hast given her rhymes,
+And interchanged love-tokens with my child.
+Thou hast by moonlight at her window sung
+With feigning voice verses of feigning love,
+And stolen the impression of her [fantasy][11].
+With bracelets of thy hair, rings, [gaud][13]s, [conceit][12]s,
+[Knack][14]s, trifles, nosegays, sweetmeats – messengers
+Of strong [prevailment][15] in unhardened youth –
+With cunning hast thou filched my daughter's heart,
+Turned her obedience which is due to me
+To stubborn harshness. And, my gracious Duke,
+Be it so she will not here before your grace
+Consent to marry with Demetrius,
+I beg the ancient privilege of Athens:
+As she is mine, I may dispose of her;
+Which shall be either to this gentleman
+Or to her death, according to our law
+[Immediately][16] provided in that case.
+
+[11]: {{page.q}}=19788 "fantasy (n.) 5:  ardent desire, amorous fancy"
+[12]: {{page.q}}=1141 "conceit (n.) 7:  trinket, fancy article, bauble"
+[13]: {{page.q}}=17583 "gaud (n.):  gaudy toy, showy plaything, trinket"
+[14]: {{page.q}}=18998 "knack (n.):  trifle, knick-knack, ornament"
+[15]: {{page.q}}=12762 "prevailment (n.):  prevailing action, power, influence"
+[16]: {{page.q}}=5047 "immediately (adv.):  directly, instantly, without delay"
+
+
+**THESEUS**
+
+What say you, Hermia? Be advised, fair maid:
+To you your father should be as a god;
+One that [compose][17]d your beauties – yea, and one
+To whom you are but as a form in wax
+By him imprinted, and within his power
+To leave the figure or disfigure it.
+Demetrius is a worthy gentleman.
+
+[17]: {{page.q}}=4747 "compose (v.) 1:  make up, produce, fashion"
+
+
+**HERMIA**
+
+So is Lysander.
+
+
+
+**THESEUS**
+
+&nbsp;                         In himself he is;
+But in this [kind][18], [wanting][20] your father's [voice][19],
+The other must be held the worthier.
+
+[18]: {{page.q}}=18984 "kind (n.) 7:  respect, regard, particular"
+[19]: {{page.q}}=7229 "voice (n.) 2:  support, approval, good word"
+[20]: {{page.q}}=7539 "want (v.) 1:  lack, need, be without"
+
+
+**HERMIA**
+
+I would my father looked but with my eyes.
+
+
+
+**THESEUS**
+
+Rather your eyes must with his judgement look.
+
+
+
+**HERMIA**
+
+I do entreat your grace to pardon me.
+I know not by what [power][21] I am made bold,
+Nor how it may [concern][22] my modesty
+In such a presence here to plead my thoughts;
+But I beseech your grace that I may know
+The worst that may [befall][23] me in this case
+If I refuse to wed Demetrius.
+
+[21]: {{page.q}}=13466 "power (n.) 4:  force, strength, might"
+[22]: {{page.q}}=1142 "concern (v.) 3:  befit, suit with, accord with"
+[23]: {{page.q}}=1555 "befall (v.), past forms befallen, befell 2:  happen to, come to"
+
+
+**THESEUS**
+
+Either to die the death, or to abjure
+For ever the society of men.
+Therefore, fair Hermia, question your desires,
+[Know][25] of your youth, examine well your [blood][24],
+Whether, if you yield not to your father's choice,
+You can endure the [livery][27] of a nun,
+For [aye][26] to be in shady cloister [mew][28]ed,
+To live a barren sister all your life,
+Chanting faint hymns to the [cold][29] fruitless moon.
+Thrice blessed they that master so their [blood][30]
+To undergo such maiden pilgrimage;
+But earthlier happy is the rose distilled,
+Than that which, withering on the virgin thorn,
+Grows, lives, and dies in single blessedness.
+
+[24]: {{page.q}}=2296 "blood (n.) 1:  passion, feeling, strong emotion [especially sexual]"
+[25]: {{page.q}}=18999 "know (v.) 1:  acknowledge, remember, think [of]"
+[26]: {{page.q}}=90 "aye (adv.):  always, ever, for eternity"
+[27]: {{page.q}}=19153 "livery (n.) 1:  uniform, costume, special clothing"
+[28]: {{page.q}}=10743 "mew (v.):  coop up, confine, shut up"
+[29]: {{page.q}}=2656 "cold (adj.) 1:  chaste, modest, lacking sensual passion"
+[30]: {{page.q}}=2296 "blood (n.) 1:  passion, feeling, strong emotion [especially sexual]"
+
+
+**HERMIA**
+
+So will I grow, so live, so die, my lord,
+Ere I will my virgin [patent][31] up
+Unto his lordship whose unwished yoke
+My soul consents not to give sovereignty.
+
+[31]: {{page.q}}=12763 "patent (n.) 1:  privilege, right, title"
+
+
+**THESEUS**
+
+Take time to pause, and by the next new moon –
+The [sealing][32] day betwixt my love and me
+For everlasting bond of fellowship –
+Upon that day either prepare to die
+For disobedience to your father's will,
+Or else to wed Demetrius, as he would,
+Or on Diana's altar to protest
+For [aye][33] austerity and single life.
+
+[32]: {{page.q}}=16394 "sealing day (n.):  day for confirming a contract, wedding-day"
+[33]: {{page.q}}=90 "aye (adv.):  always, ever, for eternity"
+
+
+**DEMETRIUS**
+
+Relent, sweet Hermia; and, Lysander, yield
+Thy [crazed][34] [title][35] to my certain right.
+
+[34]: {{page.q}}=1143 "crazed (adj.):  flawed, unsound, impaired"
+[35]: {{page.q}}=6308 "title (n.) 1:  [legal] right, claim, entitlement"
+
+
+**LYSANDER**
+
+You have her father's love, Demetrius –
+Let me have Hermia's. Do you marry him.
+
+
+
+**EGEUS**
+
+Scornful Lysander – true, he hath my love;
+And what is mine my love shall render him;
+And she is mine, and all my right of her
+I do [estate][36] unto Demetrius.
+
+[36]: {{page.q}}=9656 "estate (v.):  endow, settle upon, bestow (up)on"
+
+
+**LYSANDER**
+
+I am, my lord, as well [derived][37] as he,
+As well [possessed][38]. My love is more than his,
+My fortunes every way as fairly ranked –
+If not with [vantage][39] – as Demetrius'.
+And – which is more than all these boasts can be –
+I am beloved of beauteous Hermia.
+Why should not I then prosecute my right?
+Demetrius – I'll [avouch][40] it to his [head][41] –
+Made love to Nedar's daughter, Helena,
+And won her soul; and she, sweet lady, dotes,
+Devoutly dotes, dotes in idolatry
+Upon this [spotted][42] and inconstant man.
+
+[37]: {{page.q}}=8838 "derived (adj.):  descended, in lineage"
+[38]: {{page.q}}=12764 "possessed (adj.) 2:  propertied, affluent, provided for"
+[39]: {{page.q}}=7313 "vantage (n.) 2:  advantageous position, place of vantage, superiority"
+[40]: {{page.q}}=320 "avouch (v.) 1:  declare, assert, affirm"
+[41]: {{page.q}}=18396 "head, to one's:  to one's face, frankly, openly"
+[42]: {{page.q}}=14625 "spotted (adj.) 1:  stained, blemished"
+
+
+**THESEUS**
+
+I must confess that I have heard so much,
+And with Demetrius thought to have spoke thereof;
+But, being overfull of self affairs,
+My mind did [lose][43] it. But Demetrius, come;
+And come, Egeus. You shall go with me.
+I have some private [schooling][44] for you both.
+For you, fair Hermia, look you [arm][45] yourself
+To fit your fancies to your father's will;
+Or else the law of Athens yields you up –
+Which by no means we may [extenuate][46] –
+To death or to a vow of single life.
+Come, my Hippolyta. What cheer, my love?
+Demetrius and Egeus, [go][47] along;
+I must employ you in some business
+Against our nuptial, and confer with you
+Of something [nearly][49] that [concern][48]s yourselves.
+
+[43]: {{page.q}}=19342 "lose (v.) 3:  lose sight of, forget"
+[44]: {{page.q}}=16383 "schooling (n.):  admonition, reproof, counsel"
+[45]: {{page.q}}=47 "arm (v.) 1:  prepare, get ready"
+[46]: {{page.q}}=9906 "extenuate (v.):  mitigate, lessen, tone down"
+[47]: {{page.q}}=17742 "go along:  come along, come with me"
+[48]: {{page.q}}=2821 "concern (v.) 1:  be important to, be the concern of"
+[49]: {{page.q}}=11385 "nearly (adv.):  closely, particularly, especially"
+
+
+**EGEUS**
+
+With duty and desire we follow you.
+_Exeunt all but Lysander and Hermia_
+
+
+
+**LYSANDER**
+
+How now, my love? Why is your cheek so pale?
+How chance the roses there do fade so fast?
+
+
+
+**HERMIA**
+
+[Belike][50] for [want][51] of rain, which I could well
+[Beteem][52] them from the tempest of my eyes.
+
+[50]: {{page.q}}=1442 "belike (adv.):  probably, presumably, perhaps, so it seems"
+[51]: {{page.q}}=7663 "want (n.) 1:  lack, shortage, dearth"
+[52]: {{page.q}}=1454 "beteem, beteene (v.):  allow, permit, let, grant"
+
+
+**LYSANDER**
+
+Ay me! For [aught][53] that I could ever read,
+Could ever hear by tale or history,
+The course of true love never did run smooth;
+But either it was different in [blood][54] –
+
+[53]: {{page.q}}=84 "aught (n.):  anything, [with negative word] nothing"
+[54]: {{page.q}}=1913 "blood (n.) 7:  nobility, breeding, gentility, good parentage"
+
+
+**HERMIA**
+
+O cross! – too high to be enthralled to low.
+
+
+
+**LYSANDER**
+
+Or else [misgraffed][55] in respect of years –
+
+[55]: {{page.q}}=10744 "misgraffed (adj.):  badly grafted, ill-matched, unsuited"
+
+
+**HERMIA**
+
+O spite! – too old to be engaged to young.
+
+
+
+**LYSANDER**
+
+Or else it [stood upon][56] the choice of friends –
+
+[56]: {{page.q}}=14696 "stand upon (v.) 4:  depend on, rely upon, hinge on"
+
+
+**HERMIA**
+
+O hell! – to choose love by another's eyes.
+
+
+
+**LYSANDER**
+
+Or if there were a [sympathy][57] in choice,
+War, death, or sickness did lay siege to it,
+Making it [momentany][58] as a sound,
+Swift as a shadow, short as any dream,
+Brief as the lightning in the [collied][59] night,
+That in a [[spleen][61]][60] [unfold][62]s both heaven and earth,
+And – ere a man hath power to say ‘ Behold!’ –
+The jaws of darkness do devour it up.
+So [quick][63] bright things come to confusion.
+
+[57]: {{page.q}}=14697 "sympathy (n.) 1:  accord, agreement, harmony"
+[58]: {{page.q}}=10745 "momentany (adj.):  momentary, transitory, fleeting"
+[59]: {{page.q}}=1144 "collied (adj.) 2:  blackened, darkened, murky"
+[60]: {{page.q}}=14042 "spleen (n.) 5:  impulse, caprice, whim"
+[61]: {{page.q}}=14266 "spleen (n.) 1:  temper, spirit, passion [part of the body seen as the source of both gloomy and mirthful emotions]"
+[62]: {{page.q}}=6886 "unfold (v.) 1:  display, reveal, show"
+[63]: {{page.q}}=13792 "quick (adj.) 1:  living, vital, full of life"
+
+
+**HERMIA**
+
+If then true lovers have been ever [cross][64]ed
+It stands as an edict in destiny.
+Then let us teach our trial patience,
+Because it is a customary cross,
+As due to love as thoughts, and dreams, and sighs,
+Wishes, and tears – poor [fancy][65]'s followers.
+
+[64]: {{page.q}}=2829 "cross (v.) 1:  prevent, thwart, forestall"
+[65]: {{page.q}}=20677 "fancy (n.) 1:  love, amorousness, infatuation"
+
+
+**LYSANDER**
+
+A good [persuasion][66]. Therefore hear me, Hermia:
+I have a widow aunt, a dowager,
+Of great revenue; and she hath no child.
+From Athens is her house remote seven leagues;
+And she respects me as her only son.
+There, [gentle][67] Hermia, may I marry thee;
+And to that place the sharp Athenian law
+Cannot pursue us. If thou lovest me, then
+Steal forth thy father's house tomorrow night,
+And in the wood, a league without the town –
+Where I did meet thee once with Helena
+To do observance to a [morn][68] of May –
+There will I stay for thee.
+
+[66]: {{page.q}}=12765 "persuasion (n.) 1:  conviction, principle, opinion"
+[67]: {{page.q}}=21269 "gentle (adj.) 6:  soft, tender, kind"
+[68]: {{page.q}}=10474 "morn (n.):  morning, dawn"
+
+
+**HERMIA**
+
+&nbsp;                         My good Lysander,
+I swear to thee by Cupid's strongest bow,
+By his best arrow with the golden head,
+By the [simplicity][69] of Venus' doves,
+By that which knitteth souls and prospers loves,
+And by that fire which burned the Carthage queen
+When the [false][70] Trojan under sail was seen,
+By all the vows that ever men have broke –
+In number more than ever women spoke, –
+In that same place thou hast appointed me
+Tomorrow truly will I meet with thee.
+
+[69]: {{page.q}}=14683 "simplicity (n.) 2:  innocence, harmlessness, guilelessness"
+[70]: {{page.q}}=19969 "false (adj.) 2:  disloyal, faithless, inconstant, unfaithful"
+
+
+**LYSANDER**
+
+Keep promise, love. Look – here comes Helena.
+_Enter Helena_
+
+
+
+**HERMIA**
+
+God speed, fair Helena! Whither away?
+
+
+
+**HELENA**
+
+Call you me fair? that ‘ fair ’ again unsay.
+Demetrius loves your [fair][71]. O happy [fair][71]!
+Your eyes are [lodestar][73]s, and your tongue's sweet [air][72]
+More [tuneable][74] than lark to shepherd's ear
+When wheat is green, when hawthorn buds appear.
+Sickness is catching. O, were [favour][75] so,
+Yours would I catch, fair Hermia, ere I go.
+My ear should catch your voice, my eye your eye,
+My tongue should catch your tongue's sweet melody.
+Were the world mine, Demetrius being [bate][76]d,
+The rest I'd give to be to you [translate][77]d.
+O, teach me how you look, and with what art
+You sway the motion of Demetrius' heart.
+
+[71]: {{page.q}}=19976 "fair (n.) 1:  fair face, beauty"
+[72]: {{page.q}}=99 "air (n.) 1:  melody, tune, strain"
+[73]: {{page.q}}=19336 "lodestar (n.):  guiding star, beacon"
+[74]: {{page.q}}=5974 "tuneable (adj.):  tuneful, musical, melodious"
+[75]: {{page.q}}=20678 "favour (n.) 1:  [facial] appearance, countenance, features, looks"
+[76]: {{page.q}}=1705 "bate (v.) 3:  except, omit, leave out of consideration"
+[77]: {{page.q}}=5485 "translate (v.) 1:  transform, change, alter"
+
+
+**HERMIA**
+
+I frown upon him, yet he loves me still.
+
+
+
+**HELENA**
+
+O that your frowns would teach my smiles such skill!
+
+
+
+**HERMIA**
+
+I give him curses, yet he gives me love.
+
+
+
+**HELENA**
+
+O that my prayers could such affection move!
+
+
+
+**HERMIA**
+
+The more I hate, the more he follows me.
+
+
+
+**HELENA**
+
+The more I love, the more he hateth me.
+
+
+
+**HERMIA**
+
+His folly, Helena, is no fault of mine.
+
+
+
+**HELENA**
+
+None but your beauty. Would that fault were mine!
+
+
+
+**HERMIA**
+
+Take comfort. He no more shall see my face.
+Lysander and myself will fly this place.
+Before the time I did Lysander see
+Seemed Athens as a paradise to me.
+O then, what graces in my love do dwell
+That he hath turned a heaven unto a hell?
+
+
+
+**LYSANDER**
+
+Helen, to you our minds we will unfold.
+Tomorrow night, when Phoebe doth behold
+Her silver [visage][79] in the watery [glass][78],
+Decking with liquid pearl the [bladed][80] grass –
+A time that lovers' flights doth [still][81] conceal –
+Through Athens gates have we devised to steal.
+
+[78]: {{page.q}}=17507 "glass (n.) 1:  mirror, looking-glass"
+[79]: {{page.q}}=7226 "visage (n.) 1:  face, countenance"
+[80]: {{page.q}}=2045 "bladed (adj.):  many-bladed, abounding in shoots"
+[81]: {{page.q}}=14077 "still (adv.) 1:  constantly, always, continually"
+
+
+**HERMIA**
+
+And in the wood, where often you and I
+Upon [faint][82] primrose beds were [wont][83] to lie,
+Emptying our bosoms of their counsel sweet,
+There my Lysander and myself shall meet,
+And thence from Athens turn away our eyes
+To seek new friends and [stranger][85] [companies][84].
+Farewell, sweet playfellow. Pray thou for us;
+And good luck grant thee thy Demetrius.
+Keep word, Lysander. We must [starve][86] our sight
+From lovers' food till [morrow][87] deep midnight.
+
+[82]: {{page.q}}=20220 "faint (adj.) 5:  pale, lightly coloured"
+[83]: {{page.q}}=7592 "wont (v.):  be accustomed, used [to], be in the habit of"
+[84]: {{page.q}}=3642 "company (n.) 3:  companion, associate, comrade"
+[85]: {{page.q}}=5899 "stranger (n.):  foreigner, alien, outsider"
+[86]: {{page.q}}=16112 "starve (v.) 3:  withhold [from], diet, be sparing with"
+[87]: {{page.q}}=10890 "morrow (n.):  morning"
+
+
+**LYSANDER**
+
+I will, my Hermia.
+_Exit Hermia_
+                         Helena, adieu!
+As you on him, Demetrius dote on you.
+_Exit Lysander_
+
+
+
+**HELENA**
+
+How happy some o'er other some can be!
+Through Athens I am thought as fair as she.
+But what of that? Demetrius thinks not so;
+He will not know what all but he do know.
+And as he errs, doting on Hermia's eyes,
+So I, admiring of his qualities.
+Things [base][88] and vile, holding no [quantity][89],
+Love can [transpose][90] to form and dignity.
+Love looks not with the eyes, but with the mind,
+And therefore is winged Cupid painted blind.
+Nor hath Love's mind of any judgement taste;
+Wings and no eyes [figure][91] [unheedy][92] haste.
+And therefore is love said to be a child
+Because in choice he is so [oft][93] beguiled.
+As [waggish][95] boys in game themselves [forswear][94],
+So the boy love is perjured everywhere;
+For ere Demetrius looked on Hermia's [eyne][96]
+He hailed down oaths that he was only mine,
+And when this hail some heat from Hermia felt,
+So he [dissolve][97]d, and showers of oaths did melt.
+I will go tell him of fair Hermia's flight.
+Then to the wood will he tomorrow night
+Pursue her; and for this [intelligence][98]
+If I have thanks it is a dear expense.
+But herein mean I to enrich my pain,
+To have his sight thither, and back again.
+_Exit_
+
+[88]: {{page.q}}=1475 "base (adj.) 3:  poor, wretched, of low quality"
+[89]: {{page.q}}=13730 "quantity (n.) 2:  equal amount, same proportion"
+[90]: {{page.q}}=6056 "transpose (v.):  change, alter, transform"
+[91]: {{page.q}}=20216 "figure (v.) 1:  symbolize, represent, portray"
+[92]: {{page.q}}=6820 "unheedy (adj.):  unheedful, headstrong, reckless"
+[93]: {{page.q}}=11606 "oft (adv.):  often"
+[94]: {{page.q}}=19872 "forswear (v), past forms forsworn, forswore 1:  swear falsely, perjure [oneself], break one's word"
+[95]: {{page.q}}=7798 "waggish (adj.):  playful, mischievous, impish"
+[96]: {{page.q}}=9686 "eyne (n.):  [archaism] eyes"
+[97]: {{page.q}}=9573 "dissolve (v.) 3:  melt, liquefy"
+[98]: {{page.q}}=5037 "intelligence (n.) 1:  information, news, communication"

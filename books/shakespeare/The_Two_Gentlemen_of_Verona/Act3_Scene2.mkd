@@ -1,0 +1,301 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act III - Scene II
+category: play
+author: shakespeare
+source: http://www.shakespeareswords.com/Plays.aspx?Ac=3&SC=2&IdPlay=5
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act3_scene2.html
+layout: book_page
+tag: [ shakespeare  ]
+creation: 1589-1593
+date: 2014-03-30 15:44:00 +0800
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+Enter the Duke of Milan and Thurio
+
+
+**DUKE**
+
+Sir Thurio, fear not but that she will love you
+Now Valentine is banished from her sight.
+
+
+**THURIO**
+
+Since his exile she hath despised me most,
+[Forsworn][1] my company, and [rail][2]ed at me,
+That I am [desperate][3] of obtaining her.
+
+[1]: {{page.q}}=19977  "forswear (v), past forms forsworn, forswore 2: abandon, renounce, reject, give up"
+[2]: {{page.q}}=17089  "rail (v.): rant, rave, be abusive [about]"
+[3]: {{page.q}}=8398  "desperate (adj.) 1: despairing, hopeless, without hope"
+
+**DUKE**
+
+This weak [impress][5] of love is as a [figure][4]
+[Trenched][6] in ice, which with an hour's heat
+[Dissolve][7]s to water, and doth lose his [form][8].
+A little time will melt her frozen thoughts,
+And worthless Valentine shall be forgot.
+Enter Proteus
+How now, Sir Proteus? Is your countryman,
+According to our proclamation, gone?
+
+[4]: {{page.q}}=19923  "figure (n.) 3: copy, image, likeness"
+[5]: {{page.q}}=5176  "impress (n.) 2: impression, stamp, sense"
+[6]: {{page.q}}=6252  "trenched (adj.) 2: cut, carved, engraved"
+[7]: {{page.q}}=9573  "dissolve (v.) 3: melt, liquefy"
+[8]: {{page.q}}=19870  "form (n.) 1: image, likeness, shape"
+
+**PROTEUS**
+
+Gone, my good lord.
+
+
+**DUKE**
+
+My daughter takes his going [grievously][9].
+
+[9]: {{page.q}}=17926  "grievously (adv.) 1: sorrowfully, deeply, with great grief"
+
+**PROTEUS**
+
+A little time, my lord, will kill that grief.
+
+
+**DUKE**
+
+So I believe; but Thurio thinks not so.
+Proteus, the good [conceit][10] I hold of thee –
+For thou hast shown some sign of good [desert][11] –
+Makes me the [better][12] to confer with thee.
+
+[10]: {{page.q}}=2907  "conceit (n.) 4: view, opinion, judgement"
+[11]: {{page.q}}=9234  "desert, desart (n.) 2: worth, merit, deserving"
+[12]: {{page.q}}=1693  "better (n.): readier, more willing"
+
+**PROTEUS**
+
+Longer than I prove loyal to your grace
+Let me not live to look upon your grace.
+
+
+**DUKE**
+
+Thou knowest how willingly I would effect
+The match between Sir Thurio and my daughter?
+
+
+**PROTEUS**
+
+I do, my lord.
+
+
+**DUKE**
+
+And also, I think, thou art not ignorant
+How she opposes her against my will?
+
+
+**PROTEUS**
+
+She did, my lord, when Valentine was here.
+
+
+**DUKE**
+
+Ay, and perversely she [persever][13]s so.
+What might we do to make the girl forget
+The love of Valentine, and love Sir Thurio?
+
+[13]: {{page.q}}=12181  "persever (v.) 1: persevere, persist, keep at it"
+
+**PROTEUS**
+
+The best way is to slander Valentine,
+With falsehood, cowardice, and poor descent –
+Three things that women highly hold in hate.
+
+
+**DUKE**
+
+Ay, but she'll think that it is spoke in hate.
+
+
+**PROTEUS**
+
+Ay, if his enemy [deliver][14] it;
+Therefore it must with [circumstance][15] be spoken
+By one whom she esteemeth as his friend.
+
+[14]: {{page.q}}=9212  "deliver (v.) 1: report [to], communicate [to], tell, describe"
+[15]: {{page.q}}=3116  "circumstance (n.) 3: special argument, detailed explanation"
+
+**DUKE**
+
+Then you must undertake to slander him.
+
+
+**PROTEUS**
+
+And that, my lord, I shall be loath to do:
+'Tis an [ill][16] [office][17] for a gentleman,
+Especially against his [very][18] friend.
+
+[16]: {{page.q}}=4905  "ill (adj.) 3: poor, inadequate, miserable"
+[17]: {{page.q}}=11936  "office (n.) 1: task, service, duty, responsibility"
+[18]: {{page.q}}=7346  "very (adj.) 2: true, real, genuine"
+
+**DUKE**
+
+Where your good word cannot [advantage][19] him,
+Your slander never can [endamage][20] him;
+Therefore the [office][22] is [indifferent][21],
+Being entreated to it by your friend.
+
+[19]: {{page.q}}=449  "advantage (v.) 1: benefit, help, aid"
+[20]: {{page.q}}=9771  "endamage (v.): damage, injure, harm"
+[21]: {{page.q}}=5033  "indifferent (adj.) 1: impartial, unbiased, neutral"
+[22]: {{page.q}}=11936  "office (n.) 1: task, service, duty, responsibility"
+
+**PROTEUS**
+
+You have prevailed, my lord; if I can do it
+By [aught][23] that I can speak in his [dispraise][24],
+She shall not long continue love to him.
+But say this [weed][25] her love from Valentine,
+It follows not that she will love Sir Thurio.
+
+[23]: {{page.q}}=84  "aught (n.): anything, [with negative word] nothing"
+[24]: {{page.q}}=9154  "dispraise (n.): disparagement, censure, reproach"
+[25]: {{page.q}}=8015  "weed (v.): [debated usage] weed out, root out"
+
+**THURIO**
+
+Therefore, as you unwind her love from him,
+Lest it should [ravel][26], and be good to none,
+You must provide to [bottom][27] it on me;
+Which must be done by praising me as much
+As you in worth [dispraise][28] Sir Valentine.
+
+[26]: {{page.q}}=17174  "ravel (v.): become entangled, get confused"
+[27]: {{page.q}}=2252  "bottom (v.) 2: [of wool] wind into a ball; focus, concentrate"
+[28]: {{page.q}}=8758  "dispraise (v.): disparage, belittle, denigrate"
+
+**DUKE**
+
+And, Proteus, we dare trust you in this [kind][29],
+Because we know, on Valentine's report,
+You are already Love's firm [votary][30],
+And cannot soon revolt and change your mind.
+Upon this [warrant][31] shall you have access
+Where you with Silvia may confer [at][32] large –
+For she is [lumpish][34], [heavy][33], melancholy,
+And, for your friend's sake, will be glad of you –
+Where you may [temper][35] her, by your persuasion,
+To hate young Valentine and love my friend.
+
+[29]: {{page.q}}=19047  "kind (n.) 4: mode of action, business, matter"
+[30]: {{page.q}}=7405  "votary (n.) 1: devotee, disciple, worshipper [of]"
+[31]: {{page.q}}=7712  "warrant (n.) 2: licence, sanction, authorization"
+[32]: {{page.q}}=19241  "large, at 1: at length, in full, thoroughly"
+[33]: {{page.q}}=18220  "heavy (adj.) 1: sorrowful, sad, gloomy"
+[34]: {{page.q}}=19554  "lumpish (adj.): despondent, dejected, in low spirits"
+[35]: {{page.q}}=6206  "temper (v.) 2: mould, shape, work, bring [to a particular character]"
+
+**PROTEUS**
+
+As much as I can do I will effect.
+But you, Sir Thurio, are not [sharp][36] enough;
+You must lay [lime][37] to [tangle][38] her desires
+By [wailful][40] sonnets, whose [composed][39] rhymes
+Should be [full-fraught][41] with [serviceable][42] vows.
+
+[36]: {{page.q}}=15598  "sharp (adj.) 5: ardent, keen, fervent"
+[37]: {{page.q}}=19395  "lime (n.) 1: birdlime"
+[38]: {{page.q}}=5427  "tangle (v.): trap, snare, enmesh, hold fast"
+[39]: {{page.q}}=3545  "composed (adj.): elaborately constructed, well put together"
+[40]: {{page.q}}=8016  "wailful (adj.): plaintive, disconsolate, wistful"
+[41]: {{page.q}}=20545  "full-fraught (adj.): filled to the brim, jam-packed"
+[42]: {{page.q}}=14299  "serviceable (adj.) 1: faithful, loyal, devoted, ready to serve"
+
+**DUKE**
+
+Ay,
+Much is the force of heaven-bred [poesy][43].
+
+[43]: {{page.q}}=13207  "poesy (n.): poetry"
+
+**PROTEUS**
+
+Say that upon the altar of her beauty
+You sacrifice your tears, your sighs, your heart;
+Write till your ink be dry, and with your tears
+Moist it again, and [frame][44] some feeling line
+That may [discover][45] such [integrity][46];
+For Orpheus' lute was strung with poets' [sinew][47]s,
+Whose golden [touch][48] could soften steel and stones,
+Make tigers tame, and huge [leviathan][49]s
+Forsake [unsounded][50] deeps to dance on sands.
+After your [dire-lamenting][51] [elegies][52],
+Visit by night your lady's chamber-window
+With some sweet [consort][53]; to their instruments
+[Tune][56] a [deploring][54] [dump][55] – the night's dead silence
+Will well [become][57] such sweet complaining [grievance][58].
+This, or else nothing, will [inherit][59] her.
+
+[44]: {{page.q}}=20278  "frame (v.) 1: fashion, make, form, create"
+[45]: {{page.q}}=8538  "discover (v.) 1: reveal, show, make known"
+[46]: {{page.q}}=5177  "integrity (n.) 2: undivided devotion, wholehearted sincerity"
+[47]: {{page.q}}=14781  "sinew (n.) 2: nerve"
+[48]: {{page.q}}=5723  "touch (n.) 7: fingering, handling, skill in playing"
+[49]: {{page.q}}=19303  "leviathan (n.): sea-monster, whale"
+[50]: {{page.q}}=5748  "unsounded (adj.): unfathomed, unexplored, with unrevealed depths"
+[51]: {{page.q}}=9178  "dire-lamenting (adj.): deeply sorrowing, dreadfully lamenting"
+[52]: {{page.q}}=10091  "elegy (n.): love-poem, song of lamentation"
+[53]: {{page.q}}=1179  "consort (n.) 3: company of musicians, ensemble"
+[54]: {{page.q}}=9179  "deploring (adj.): mournful, doleful, bewailing"
+[55]: {{page.q}}=9155  "dump (n.) 1: plaintive melody, mournful song"
+[56]: {{page.q}}=6272  "tune (v.) 1: play"
+[57]: {{page.q}}=1432  "become (v.) 1: be fitting, befit, be appropriate to"
+[58]: {{page.q}}=17944  "grievance (n.) 1: distress, suffering, pain"
+[59]: {{page.q}}=5178  "inherit (v.) 2: secure, win, gain possession of"
+
+**DUKE**
+
+This [discipline][60] shows thou hast been in love.
+
+[60]: {{page.q}}=9180  "discipline (n.) 2: learning, schooling, course of instruction"
+
+**THURIO**
+
+And thy advice this night I'll put in practice;
+Therefore, sweet Proteus, my direction-giver,
+Let us into the city [presently][61]
+To [sort][62] some gentlemen well skilled in music.
+I have a sonnet that will serve the turn
+To [give][63] the onset to thy good advice.
+
+[61]: {{page.q}}=12248  "presently (adv.) 1: immediately, instantly, at once"
+[62]: {{page.q}}=14326  "sort (v.) 2: choose, find, arrange"
+[63]: {{page.q}}=11918  "onset, give the: make a beginning with, start acting on"
+
+**DUKE**
+
+About it, gentlemen!
+
+
+**PROTEUS**
+
+We'll wait upon your grace till after supper,
+And [afterward][64] determine our proceedings.
+
+[64]: {{page.q}}=605  "afterward (adv.): afterwards"
+
+**DUKE**
+
+Even now about it! I will [pardon][65] you.
+Exeunt
+
+[65]: {{page.q}}=13181  "pardon (v.): excuse, give permission to"

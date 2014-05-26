@@ -1,0 +1,132 @@
+---
+title: Romeo and Juliet
+tagline: Act II - Scene I
+category: play
+author: shakespeare
+date: 2014-05-26 13:54:34 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act2_scene1.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Romeo alone_
+
+**ROMEO**
+
+Can I go forward when my heart is here?
+Turn back, dull earth, and find thy [centre][1] out.
+_Enter Benvolio with Mercutio. Romeo withdraws_
+
+[1]: {{page.q}}=4192 "centre (n.) 3: core of being, heart, soul"
+
+
+**BENVOLIO**
+
+Romeo! My cousin Romeo! Romeo!
+
+
+
+**MERCUTIO**
+
+He is wise,
+And, on my life, hath stolen him home to bed.
+
+
+
+**BENVOLIO**
+
+He ran this way and leapt this [orchard][2] wall.
+Call, good Mercutio.
+
+[2]: {{page.q}}=11618 "orchard (n.): garden"
+
+
+**MERCUTIO**
+
+Nay, I'll [conjure][3] too.
+Romeo! [Humour][4]s! Madman! Passion! Lover!
+Appear thou in the likeness of a sigh.
+Speak but one rhyme, and I am satisfied.
+Cry but ‘ Ay me!’ Pronounce but ‘ love ’ and ‘ dove.’
+Speak to my [gossip][5] Venus one fair word,
+One nickname for her [purblind][6] son and heir,
+Young Abraham Cupid, he that shot so [trim][7]
+When King Cophetua loved the beggar maid.
+He heareth not, he stirreth not, he moveth not.
+The ape is dead, and I must conjure him.
+I conjure thee by Rosaline's bright eyes,
+By her high forehead and her scarlet lip,
+By her fine foot, straight leg, and quivering thigh,
+And the [demesne][8]s that there adjacent lie,
+That in thy likeness thou appear to us!
+
+[3]: {{page.q}}=2996 "conjure (v.) 4: engage in magic, cast spells, invoke supernatural aid"
+[4]: {{page.q}}=18215 "humour (n.) 2: fancy, whim, inclination, caprice"
+[5]: {{page.q}}=17737 "gossip (n.) 2: friend, neighbour"
+[6]: {{page.q}}=12936 "purblind (adj.) 2: blind"
+[7]: {{page.q}}=6441 "trim (adv.): well, effectively, finely"
+[8]: {{page.q}}=8918 "demesne (n.): (plural) territories, lands, dominions"
+
+
+**BENVOLIO**
+
+An if he hear thee, thou wilt anger him.
+
+
+
+**MERCUTIO**
+
+This cannot anger him. 'Twould anger him
+To raise a spirit in his mistress' [circle][9]
+Of some [strange][10] nature, letting it there stand
+Till she had [laid][12] it and [conjure][11]d it down.
+That were some [spite][13]. My invocation
+Is fair and honest. In his mistress' name
+I conjure only but to raise up him.
+
+[9]: {{page.q}}=3776 "circle (n.) 2: magical circle"
+[10]: {{page.q}}=15975 "strange (adj.) 6: of another person, not one's own"
+[11]: {{page.q}}=2938 "conjure (v.) 3: control, constrain [by invoking divine powers]"
+[12]: {{page.q}}=19631 "lay (v.) 10: appease, prevent from walking"
+[13]: {{page.q}}=14578 "spite (n.) 1: annoyance, vexation, irritation"
+
+
+**BENVOLIO**
+
+Come, he hath hid himself among these trees
+To be [consort][14]ed with the [humorous][15] night.
+Blind is his love and best befits the dark.
+
+[14]: {{page.q}}=2986 "consort (v.): accompany, attend, go with"
+[15]: {{page.q}}=18710 "humorous (adj.) 2: humid, damp, moist"
+
+
+**MERCUTIO**
+
+If love be blind, love cannot hit the mark.
+Now will he sit under a [medlar][16] tree
+And wish his mistress were that kind of fruit
+As maids call medlars when they laugh alone.
+O, Romeo, that she were, O that she were
+An [open-arse][17] and thou a [poppering][18] pear!
+Romeo, good night. I'll to my [truckle-bed][19].
+This [field-bed][20] is too cold for me to sleep.
+Come, shall we go?
+
+[16]: {{page.q}}=11105 "medlar (adj.): variety of tree [whose fruit were thought to resemble female genitalia]"
+[17]: {{page.q}}=12012 "open-arse (n.): [rustic bawdy, from the shape of the fruit] medlar fruit"
+[18]: {{page.q}}=13427 "poppering / poperin (adj.): variety of pear [from Poperinghe, Belgium]"
+[19]: {{page.q}}=5964 "truckle-bed (n.): low-lying bed on castors, trundle-bed"
+[20]: {{page.q}}=20596 "field-bed (n.): bed out in the open, bed on the ground"
+
+
+**BENVOLIO**
+
+Go then, for 'tis in vain
+To seek him here that means not to be found.
+_Exeunt Benvolio and Mercutio_
+
+
+

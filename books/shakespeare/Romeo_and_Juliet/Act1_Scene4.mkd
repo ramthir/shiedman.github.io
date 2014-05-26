@@ -1,0 +1,344 @@
+---
+title: Romeo and Juliet
+tagline: Act I - Scene IV
+category: play
+author: shakespeare
+date: 2014-05-26 13:46:38 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act1_scene4.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Romeo, Mercutio, Benvolio, with five or six_
+
+_other maskers, and torchbearers_
+
+**ROMEO**
+
+What, shall this speech be spoke for our excuse?
+Or shall we on without apology?
+
+
+
+**BENVOLIO**
+
+The [date][1] is [out][2] of such [prolixity][3].
+We'll have no Cupid [hoodwink][4]ed with a scarf,
+Bearing a Tartar's painted bow of [lath][5],
+Scaring the ladies like a [crowkeeper][6];
+Nor no without-book prologue, [faintly][7] spoke
+After the prompter, for our entrance.
+But, let them measure us by what they will,
+We'll [measure][9] them a measure and be gone.
+
+[1]: {{page.q}}=9304 "date (n.) 2: time, season, fashion"
+[2]: {{page.q}}=12011 "out (adv.) 10: out-of-date, not in vogue [for]"
+[3]: {{page.q}}=13392 "prolixity (n.): long-windedness, tedious exposition"
+[4]: {{page.q}}=18646 "hoodwink (v.) 1: blindfold, cover one's eyes"
+[5]: {{page.q}}=19287 "lath (n.) 1: thin wood"
+[6]: {{page.q}}=3772 "crowkeeper, crow-keeper (n.): scarecrow, farmer's boy, person who keeps crows away"
+[7]: {{page.q}}=20018 "faintly (adv.) 3: weakly, feebly, faintheartedly"
+[8]: {{page.q}}=11029 "measure (n.) 8: slow stately dance, graceful movement"
+[9]: {{page.q}}=11102 "measure (v.) 2: apportion, dispense, give out"
+
+
+**ROMEO**
+
+Give me a torch. I am not for this [ambling][10].
+Being but [heavy][11], I will bear the light.
+
+[10]: {{page.q}}=891 "ambling (n.): affected way of walking, tripping along"
+[11]: {{page.q}}=18220 "heavy (adj.) 1: sorrowful, sad, gloomy"
+
+
+**MERCUTIO**
+
+Nay, [gentle][12] Romeo, we must have you dance.
+
+[12]: {{page.q}}=17495 "gentle (adj.) 1: well-born, honourable, noble"
+
+
+**ROMEO**
+
+Not I, believe me. You have dancing shoes
+With nimble soles. I have a soul of lead
+So stakes me to the ground I cannot move.
+
+
+
+**MERCUTIO**
+
+You are a lover. Borrow Cupid's wings
+And soar with them above a common bound.
+
+
+
+**ROMEO**
+
+I am too [sore][15] [empierce][13]d with his [shaft][14]
+To soar with his light feathers; and so bound
+I cannot bound a [pitch][17] above [dull][16] woe.
+Under love's heavy burden do I sink.
+
+[13]: {{page.q}}=10221 "empierce (v.): pierce through, transfix, impale"
+[14]: {{page.q}}=14661 "shaft (n.): [long and slender] arrow"
+[15]: {{page.q}}=14925 "sore (adv.) 1: seriously, greatly, very much"
+[16]: {{page.q}}=8928 "dull (adj.) 3: gloomy, melancholic, sullen"
+[17]: {{page.q}}=13103 "pitch (n.) 1: height [to which a bird of prey soars before swooping]"
+
+
+**MERCUTIO**
+
+And, to sink in it, should you burden love –
+Too great oppression for a tender thing.
+
+
+
+**ROMEO**
+
+Is love a tender thing? It is too rough,
+Too rude, too [boisterous][18], and it pricks like thorn.
+
+[18]: {{page.q}}=2412 "boisterous (adj.) 4: painful, hurtful, rough on the feelings"
+
+
+**MERCUTIO**
+
+If love be rough with you, be rough with love.
+[Prick][19] love for pricking, and you beat love down.
+Give me a [case][20] to put my [visage][21] in.
+A [visor][22] for a visor! What care I
+What [curious][23] eye doth [quote][24] deformities?
+Here are the [beetle][25] [brow][26]s shall blush for me.
+
+[19]: {{page.q}}=13424 "prick (v.) 4: torment, vex, grieve"
+[20]: {{page.q}}=4243 "case (n.) 8: mask, disguise, covering"
+[21]: {{page.q}}=7226 "visage (n.) 1: face, countenance"
+[22]: {{page.q}}=7384 "visor (n.): mask"
+[23]: {{page.q}}=3620 "curious (adj.) 4: careful, fastidious, attentive"
+[24]: {{page.q}}=13749 "quote (v.) 1: closely observe, note, examine"
+[25]: {{page.q}}=1756 "beetle (adj.): overhanging, prominent, bushy"
+[26]: {{page.q}}=1915 "brow (n.) 3: eyebrow"
+
+
+**BENVOLIO**
+
+Come, knock and enter; and no sooner in
+But every man [betake][27] him to his legs.
+
+[27]: {{page.q}}=1713 "betake (v.) 2: resort, have recourse, commit oneself"
+
+
+**ROMEO**
+
+A torch for me! Let [wanton][28]s light of heart
+Tickle the [senseless][29] rushes with their heels.
+For I am [proverb][31]ed with a [grandsire][30] phrase –
+I'll be a candle-holder and look on;
+The game was ne'er so fair, and I am done.
+
+[28]: {{page.q}}=7648 "wanton (n.) 1: libertine, seducer"
+[29]: {{page.q}}=13958 "senseless (adj.) 1: lacking human sensation, incapable of feeling"
+[30]: {{page.q}}=18044 "grandsire (adj.): long-established, old-fashioned"
+[31]: {{page.q}}=13425 "proverb (v.): provide with worldly wisdom [by]"
+
+
+**MERCUTIO**
+
+Tut, [dun's][32] the mouse, the constable's own word!
+If thou art [Dun][33], we'll draw thee from the mire
+Of – save your [reverence][34] – love, wherein thou stickest
+Up to the ears. Come, we [burn][35] daylight, ho!
+
+[32]: {{page.q}}=9305 "dun's the mouse: [proverbial] keep quiet, be still"
+[33]: {{page.q}}=9600 "Dun (n.): horse's name [involving the lifting of a log ‘horse’ in a Christmas game called ‘drawing dun out of the mire’]"
+[34]: {{page.q}}=14428 "sir-reverence (n.): save your reverence"
+[35]: {{page.q}}=2023 "burn (v.) 4: waste, fritter away"
+
+
+**ROMEO**
+
+Nay, that's not so.
+
+
+
+**MERCUTIO**
+
+I mean, sir, in delay
+We waste our lights in vain, like lamps by day.
+Take our [good][36] meaning, for our judgement sits
+Five times in that ere once in our five [wits][37].
+
+[36]: {{page.q}}=18045 "good (adj.) 8: intended, right, proper"
+[37]: {{page.q}}=8049 "wits, also five wits: faculties of the mind (common wit, imagination, fantasy, estimation, memory) or body (the five senses)"
+
+
+**ROMEO**
+
+And we mean well in going to this masque,
+But 'tis no [wit][38] to go.
+
+[38]: {{page.q}}=7583 "wit (n.) 1: intelligence, wisdom, good sense, mental ability"
+
+
+**MERCUTIO**
+
+Why, may one ask?
+
+
+
+**ROMEO**
+
+I dreamt a dream [tonight][39].
+
+[39]: {{page.q}}=5571 "tonight (adv.): last night, this past night"
+
+
+**MERCUTIO**
+
+And so did I.
+
+
+
+**ROMEO**
+
+Well, what was yours?
+
+
+
+**MERCUTIO**
+
+That dreamers often lie.
+
+
+
+**ROMEO**
+
+In bed asleep, while they do dream things true.
+
+
+
+**MERCUTIO**
+
+O, then I see Queen Mab hath been with you.
+She is the fairies' midwife, and she comes
+In shape no bigger than an agate stone
+On the forefinger of an alderman,
+Drawn with a team of little [atomies][40]
+Over men's noses as they lie asleep.
+Her chariot is an empty hazelnut
+Made by the joiner squirrel or old grub,
+Time out o' mind the fairies' coachmakers.
+Her wagon spokes made of long [spinner][41]s' legs;
+The cover, of the wings of grasshoppers;
+Her traces, of the smallest spider web;
+Her collars, of the moonshine's watery beams;
+Her whip, of cricket's bone; the lash, of [film][42];
+Her [wagoner][43], a small grey-coated gnat,
+Not half so big as a round little worm
+Pricked from the lazy finger of a maid.
+And in this [state][44] she gallops night by night
+Through lovers' brains, and then they dream of love;
+O'er courtiers' knees, that dream on [curtsies][45] [straight][46];
+O'er lawyers' fingers, who straight dream on fees;
+O'er ladies' lips, who straight on kisses dream,
+Which [oft][47] the angry Mab with blisters plagues,
+Because their breaths with sweetmeats tainted are.
+Sometime she gallops o'er a courtier's nose,
+And then dreams he of smelling out a [suit][48].
+And sometime comes she with a [tithe-pig][49]'s tail
+Tickling a parson's nose as 'a lies asleep;
+Then he dreams of another [benefice][50].
+Sometime she driveth o'er a soldier's neck;
+And then dreams he of cutting foreign throats,
+Of breaches, [ambuscado][51]s, Spanish blades,
+Of [health][53]s five fathom deep; and then [anon][52]
+Drums in his ear, at which he [start][54]s and wakes,
+And being thus [fright][55]ed, swears a prayer or two
+And sleeps again. This is that very Mab
+That plaits the manes of horses in the night
+And [bake][56]s the [elf-lock][57]s in foul sluttish hairs,
+Which once untangled much misfortune bodes.
+This is the [hag][58], when maids lie on their backs,
+That presses them and [learn][59]s them first to bear,
+Making them women of good carriage.
+This is she –
+
+[40]: {{page.q}}=1273 "atomy (n.) 2: mite, tiny being"
+[41]: {{page.q}}=15974 "spinner (n.): spider, cranefly, daddy-longlegs"
+[42]: {{page.q}}=20595 "film (n.): gossamer, fine thread"
+[43]: {{page.q}}=5802 "waggoner, wagoner (n.): driver, charioteer"
+[44]: {{page.q}}=14626 "state (n.) 4: splendour, magnificence, stateliness, dignity"
+[45]: {{page.q}}=3767 "courtesy, cur'sy, curtsy (n.) 2: curtsy, bow, gesture of respect"
+[46]: {{page.q}}=14086 "straight (adv.): straightaway, immediately, at once"
+[47]: {{page.q}}=11606 "oft (adv.): often"
+[48]: {{page.q}}=14102 "suit (n.) 1: formal request, entreaty, petition"
+[49]: {{page.q}}=6425 "tithe-pig (n.): pig given as part of a tithe"
+[50]: {{page.q}}=1739 "benefice (n.): ecclesiastical living, church appointment"
+[51]: {{page.q}}=883 "ambuscado (n.): ambush, ambuscade"
+[52]: {{page.q}}=30 "anon (adv.) 1: soon, shortly, presently"
+[53]: {{page.q}}=18554 "health (n.) 1: toast, salutation in drink"
+[54]: {{page.q}}=15753 "start (v.) 1: jump, recoil, flinch"
+[55]: {{page.q}}=19973 "fright (v.), past form frighted: frighten, scare, terrify"
+[56]: {{page.q}}=1335 "bake (v.): harden, make solid"
+[57]: {{page.q}}=10222 "elf-lock (n.): hair treated by elves; matted locks"
+[58]: {{page.q}}=18708 "hag (n.) 2: malicious sprite, wicked fairy"
+[59]: {{page.q}}=19111 "learn (v.) 1: teach, instruct [not a regional dialect usage as in modern English]"
+
+
+**ROMEO**
+
+Peace, peace, Mercutio, peace!
+Thou talkest of nothing.
+
+
+
+**MERCUTIO**
+
+True. I talk of dreams;
+Which are the children of an [idle][60] brain,
+[Begot][61] of nothing but vain fantasy;
+Which is as thin of substance as the air,
+And more inconstant than the wind, who woos
+Even now the frozen bosom of the North,
+And, being angered, puffs away from thence,
+Turning his side to the dew-dropping South.
+
+[60]: {{page.q}}=5296 "idle (adj.) 4: foolish, superstitious, fanciful"
+[61]: {{page.q}}=1602 "beget (v.), past form begot 2: produce, engender, give rise to"
+
+
+**BENVOLIO**
+
+This wind you talk of blows us from ourselves.
+Supper is done, and we shall come too late.
+
+
+
+**ROMEO**
+
+I fear, too early. For my mind [misgive][62]s
+Some consequence, yet hanging in the stars,
+Shall bitterly begin his [fearful][64] [date][63]
+With this night's revels and [expire][65] the term
+Of a despised life, closed in my breast,
+By some vile forfeit of [untimely][66] death.
+But He that hath the steerage of my course
+Direct my sail! On, [lusty][67] gentlemen!
+
+[62]: {{page.q}}=20994 "misgive (v.) 3: be uneasy about, feel apprehension about"
+[63]: {{page.q}}=8807 "date (n.) 1: duration, period of existence"
+[64]: {{page.q}}=19970 "fearful (adj.) 1: timid, timorous, frightened, full of fear"
+[65]: {{page.q}}=10223 "expire (v.): end, conclude, terminate"
+[66]: {{page.q}}=6719 "untimely (adv.) 1: prematurely, too soon, before due time"
+[67]: {{page.q}}=19182 "lusty (adj.) 2: merry, cheerful, lively"
+
+
+**BENVOLIO**
+
+Strike, drum.
+
+
+

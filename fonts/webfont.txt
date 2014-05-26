@@ -1,0 +1,5 @@
+http://themes.googleusercontent.com/static/fonts/inconsolata/v7/BjAYBlHtW3CJxDcjzrnZCIbN6UDyHWBl620a-IRfuBk.woff
+http://themes.googleusercontent.com/static/fonts/lato/v7/9k-RPmcnxYEPm8CNFsH2gg.woff
+http://themes.googleusercontent.com/static/fonts/lato/v7/wkfQbvfT_02e2IWO3yYueQ.woff
+http://themes.googleusercontent.com/static/fonts/lato/v7/oUan5VrEkpzIazlUe5ieaA.woff
+http://themes.googleusercontent.com/static/fonts/merriweather/v6/RFda8w1V0eDZheqfcyQ4EHhCUOGz7vYGh680lGh-uXM.woff

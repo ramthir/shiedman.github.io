@@ -1,0 +1,533 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act IV - Scene IV
+category: play
+author: shakespeare
+date: 2014-05-25 14:10:56 +0800
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act4_scene4.html
+layout: book_page
+creation: 1589-1593
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Launce, with his dog_
+
+**LAUNCE**
+
+When a man's servant shall play the cur with
+him, look you, it goes hard – one that I brought up of a
+puppy; one that I saved from drowning, when three or
+four of his blind brothers and sisters went [to][1] it. I have
+taught him, even as one would say precisely, ‘ Thus I
+would teach a dog.’ I was sent to deliver him as a present
+to Mistress Silvia from my master; and I came no sooner
+into the dining-chamber, but he steps me to her
+[trencher][3] and steals her [capon][2]'s leg. O, 'tis a foul thing
+when a cur cannot [keep][4] himself in all companies! I
+would have, as one should say, one that takes upon him
+to be a [dog][5] indeed, to be, as it were, a [dog][5] at all things.
+If I had not had more [wit][7] than he, to take a [fault][6] upon
+me that he did, I think [verily][8] he had been hanged for't;
+sure as I live, he had suffered for't. You shall judge. He
+thrusts me himself into the company of three or four
+gentlemanlike dogs under the Duke's table; he had not
+been there, bless the mark, a [pissing][9] while but all the
+chamber smelt him. ‘ Out with the dog!’ says one;
+‘ What cur is that?’ says another; ‘ Whip him out,’ says
+the third; ‘ Hang him up,’ says the Duke. I, having been
+acquainted with the smell before, knew it was Crab, and
+goes me to the fellow that whips the dogs. ‘ Friend,’
+[quoth][10] I, ‘ you mean to whip the dog?’ ‘ Ay, marry, do I,’
+quoth he. ‘ You do him the more wrong,’ quoth I,
+‘ 'twas I did the thing you [wot][11] of.’ He makes me no
+more ado, but whips me out of the chamber. How many
+masters would do this for his servant? Nay, I'll be
+sworn, I have sat in the stocks for [pudding][12]s he hath
+stolen, otherwise he had been executed; I have stood on
+the pillory for geese he hath killed, otherwise he had
+suffered for't. Thou thinkest not of this now. Nay, I
+remember the trick you served me when I took my leave
+of Madam Silvia. Did not I bid thee [still][14] [mark][13] me and
+do as I do? When didst thou see me heave up my leg
+and make water against a gentlewoman's [farthingale][15]?
+Didst thou ever see me do such a trick?
+_Enter Proteus, and Julia in a page's costume_
+
+[1]: {{page.q}}=5629 "to it, to't:  to the test, to death"
+[2]: {{page.q}}=3933 "capon (n.) 1:  chicken, castrated cockerel [bred for eating]"
+[3]: {{page.q}}=5660 "trencher (n.):  plate, platter, serving dish"
+[4]: {{page.q}}=19048 "keep (v.) 11:  restrain, control, discipline"
+[5]: {{page.q}}=9156 "dog at, be a:  be adept at, be experienced in"
+[6]: {{page.q}}=20392 "fault (n.) 2:  mistake, error, blunder"
+[7]: {{page.q}}=7583 "wit (n.) 1:  intelligence, wisdom, good sense, mental ability"
+[8]: {{page.q}}=7247 "verily (adv.):  in truth, truly, indeed"
+[9]: {{page.q}}=13208 "pissing while:  a very short time; also: with enough time to urinate"
+[10]: {{page.q}}=13725 "quoth (v.):  said"
+[11]: {{page.q}}=7655 "wot (v.) 1:  learn, know, be told"
+[12]: {{page.q}}=13212 "pudding (n.) 1:  type of large savoury dish; dumpling, pasty"
+[13]: {{page.q}}=10405 "mark (v.) 1:  note, pay attention [to], take notice [of]"
+[14]: {{page.q}}=14077 "still (adv.) 1:  constantly, always, continually"
+[15]: {{page.q}}=20205 "farthingale (n.):  long skirt extended at the back by a framework of hoops"
+
+
+**PROTEUS**
+
+Sebastian is thy name? I like thee well,
+And will employ thee in some service [presently][16].
+
+[16]: {{page.q}}=12248 "presently (adv.) 1:  immediately, instantly, at once"
+
+
+**JULIA**
+
+In what you please; I will do what I can.
+
+
+
+**PROTEUS**
+
+I hope thou wilt. (To Launce) How now, you whoreson peasant!
+Where have you been these two days loitering?
+
+
+
+**LAUNCE**
+
+Marry, sir, I carried Mistress Silvia the dog you
+bade me.
+
+
+
+**PROTEUS**
+
+And what says she to my little jewel?
+
+
+
+**LAUNCE**
+
+Marry, she says your dog was a cur, and tells you
+[currish][17] thanks is good enough for such a present.
+
+[17]: {{page.q}}=3499 "currish (adj.):  mean-spirited, snarling, quarrelsome"
+
+
+**PROTEUS**
+
+But she received my dog?
+
+
+
+**LAUNCE**
+
+No, indeed, did she not; here have I brought
+him back again.
+
+
+
+**PROTEUS**
+
+What, didst thou offer her this from me?
+
+
+
+**LAUNCE**
+
+Ay, sir; the other squirrel was stolen from me by
+the [hangman][18] boys in the market-place; and then I
+offered her mine own, who is a dog as big as ten of
+yours, and therefore the gift the greater.
+
+[18]: {{page.q}}=18601 "hangman (adj.):  fit for the hangman, infernal, diabolical"
+
+
+**PROTEUS**
+
+Go get thee hence and find my dog again,
+Or ne'er return again into my sight.
+Away, I say! Stayest thou to vex me here?
+_Exit Launce_
+A slave that [[still][20]][19] an end [turn][21]s me to shame!
+Sebastian, I have [entertain][22]ed thee,
+Partly that I have need of such a youth
+That can with some discretion do my business,
+For 'tis no trusting to yond foolish lout;
+But chiefly for thy face and thy behaviour,
+Which, if my [augury][23] deceive me not,
+Witness good bringing up, fortune, and truth;
+Therefore, know thou, for this I [entertain][24] thee.
+Go [presently][25], and take this ring with thee,
+Deliver it to Madam Silvia –
+She loved me well [deliver][26]ed it to me.
+
+[19]: {{page.q}}=14077 "still (adv.) 1:  constantly, always, continually"
+[20]: {{page.q}}=15602 "still an end:  repeatedly, time and again, over and over"
+[21]: {{page.q}}=5972 "turn (v.) 10:  bring, put"
+[22]: {{page.q}}=9927 "entertain (v.) 5:  hire, employ, maintain, take into service"
+[23]: {{page.q}}=563 "augury (n.) 2:  discernment, prescience, prophetic skill"
+[24]: {{page.q}}=9927 "entertain (v.) 5:  hire, employ, maintain, take into service"
+[25]: {{page.q}}=12248 "presently (adv.) 1:  immediately, instantly, at once"
+[26]: {{page.q}}=8651 "deliver (v.) 4:  hand over, convey, commit to the keeping [of someone]"
+
+
+**JULIA**
+
+It seems you loved not her, to [leave][27] her token.
+She is dead, [belike][28]?
+
+[27]: {{page.q}}=19271 "leave (v.) 2:  abandon, forsake, relinquish"
+[28]: {{page.q}}=1442 "belike (adv.):  probably, presumably, perhaps, so it seems"
+
+
+**PROTEUS**
+
+Not so; I think she lives.
+
+
+
+**JULIA**
+
+Alas!
+
+
+
+**PROTEUS**
+
+Why dost thou cry ‘ Alas ’?
+
+
+
+**JULIA**
+
+I cannot choose
+But pity her.
+
+
+
+**PROTEUS**
+
+Wherefore shouldst thou pity her?
+
+
+
+**JULIA**
+
+Because [methinks][29] that she loved you as well
+As you do love your lady Silvia.
+She dreams on him that has forgot her love;
+You [dote][30] on her that cares not for your love;
+'Tis pity love should be so contrary;
+And thinking on it makes me cry ‘ Alas!’
+
+[29]: {{page.q}}=10439 "methinks(t), methought(s) (v.):  it seems /seemed to me"
+[30]: {{page.q}}=8462 "dote on / upon (v.) 1:  be infatuated with, idolize"
+
+
+**PROTEUS**
+
+Well, give her that ring, and therewithal
+This letter. That's her chamber. Tell my lady
+I claim the promise for her heavenly picture.
+Your message done, [hie][31] home unto my chamber,
+Where thou shalt find me [sad][32] and solitary.
+_Exit_
+
+[31]: {{page.q}}=18172 "hie (v.):  hasten, hurry, speed"
+[32]: {{page.q}}=15557 "sad (adj.) 3:  downcast, distressed, mournful, gloomy"
+
+
+**JULIA**
+
+How many women would do such a message?
+Alas, poor Proteus, thou hast [entertain][33]ed
+A fox to be the shepherd of thy lambs.
+Alas, poor fool, why do I pity him
+That with his very heart despiseth me?
+Because he loves her, he despiseth me;
+Because I love him, I must pity him.
+This ring I gave him, when he parted from me,
+To bind him to remember my good will;
+And now am I, unhappy messenger,
+To plead for that which I would not obtain,
+To carry that which I would have refused,
+To praise his faith, which I would have dispraised.
+I am my master's true-confirmed love,
+But cannot be true servant to my master,
+Unless I prove [false][34] traitor to myself.
+Yet will I woo for him, but yet so coldly
+As, heaven it knows, I would not have him [speed][35].
+_Enter Silvia with Attendants_
+Gentlewoman, good day! I pray you, be my mean
+To bring me where to speak with Madam Silvia.
+
+[33]: {{page.q}}=9927 "entertain (v.) 5:  hire, employ, maintain, take into service"
+[34]: {{page.q}}=19780 "false (adj.) 1:  treacherous, traitorous, perfidious"
+[35]: {{page.q}}=14731 "speed (v.) 1:  meet with success, prosper, flourish"
+
+
+**SILVIA**
+
+What would you with her, if that I be she?
+
+
+
+**JULIA**
+
+If you be she, I do entreat your patience
+To hear me speak the message I am sent on.
+
+
+
+**SILVIA**
+
+From whom?
+
+
+
+**JULIA**
+
+From my master, Sir Proteus, madam.
+
+
+
+**SILVIA**
+
+O, he sends you for a picture.
+
+
+
+**JULIA**
+
+Ay, madam.
+
+
+
+**SILVIA**
+
+Ursula, bring my picture there.
+_Exit one of the Attendants. She returns with a portrait_
+_of Silvia_
+Go, give your master this. Tell him from me,
+One Julia, that his changing thoughts forget,
+Would better fit his chamber than this [shadow][36].
+
+[36]: {{page.q}}=14327 "shadow (n.) 1:  image, likeness, portrait, semblance"
+
+
+**JULIA**
+
+Madam, please you peruse this letter –
+Pardon me, madam; I have [unadvised][37]
+Delivered you a paper that I should not.
+_Julia takes back the letter she offers and gives Silvia_
+_another one_
+This is the letter to your ladyship.
+
+[37]: {{page.q}}=6980 "unadvised (adv.) 1:  accidentally, inadvertently, thoughtlessly"
+
+
+**SILVIA**
+
+I pray thee let me look on that again.
+
+
+
+**JULIA**
+
+It may not be; good madam, pardon me.
+
+
+
+**SILVIA**
+
+There, hold!
+_She tears the letter_
+I will not look upon your master's lines.
+I know they are stuffed with protestations,
+And full of [new-found][38] oaths, which he will break
+As easily as I do tear his paper.
+
+[38]: {{page.q}}=11473 "new-found (adj.):  recently invented, freshly created"
+
+
+**JULIA**
+
+Madam, he sends your ladyship this ring.
+
+
+
+**SILVIA**
+
+The more shame for him that he sends it me;
+For I have heard him say a thousand times
+His Julia gave it him, at his departure.
+Though his [false][39] finger have profaned the ring,
+Mine shall not do his Julia so much wrong.
+
+[39]: {{page.q}}=19969 "false (adj.) 2:  disloyal, faithless, inconstant, unfaithful"
+
+
+**JULIA**
+
+She thanks you.
+
+
+
+**SILVIA**
+
+What sayest thou?
+
+
+
+**JULIA**
+
+I thank you, madam, that you [tender][40] her.
+Poor gentlewoman! My master wrongs her much.
+
+[40]: {{page.q}}=5443 "tender (v.) 2:  feel concern for, hold dear, care for"
+
+
+**SILVIA**
+
+Dost thou know her?
+
+
+
+**JULIA**
+
+Almost as well as I do know myself.
+To think upon her woes, I do protest
+That I have wept a hundred [several][41] times.
+
+[41]: {{page.q}}=13898 "several (adj.) 1:  separate, different, distinct"
+
+
+**SILVIA**
+
+[Belike][42] she thinks that Proteus hath forsook her.
+
+[42]: {{page.q}}=1442 "belike (adv.):  probably, presumably, perhaps, so it seems"
+
+
+**JULIA**
+
+I think she doth, and that's her cause of sorrow.
+
+
+
+**SILVIA**
+
+Is she not [passing][43] fair?
+
+[43]: {{page.q}}=12159 "passing (adv.):  very, exceedingly, extremely"
+
+
+**JULIA**
+
+She hath been fairer, madam, than she is.
+When she did think my master loved her well,
+She, in my [judgement][44], was as fair as you;
+But since she did neglect her looking-glass
+And threw her [sun-expelling][45] mask away,
+The air hath [starve][46]d the roses in her cheeks
+And [pinch][48]ed the [lily-tincture][47] of her face,
+That now she is become as [black][49] as I.
+
+[44]: {{page.q}}=18946 "judgement (n.) 1:  opinion, estimation, assessment"
+[45]: {{page.q}}=15603 "sun-expelling (adj.):  protecting against the sun [to preserve facial beauty]"
+[46]: {{page.q}}=16052 "starve (v.) 5:  destroy, wither, waste away"
+[47]: {{page.q}}=19556 "lily-tincture (n.):  lily-white colouring"
+[48]: {{page.q}}=13235 "pinch (v.) 4:  wear away, eat into, corrode"
+[49]: {{page.q}}=2163 "black (adj.) 1:  dark-complexioned, swarthy"
+
+
+**SILVIA**
+
+How tall was she?
+
+
+
+**JULIA**
+
+About my stature; for, at Pentecost,
+When all our pageants of delight were played,
+Our youth got me to play the woman's part
+And I was [trim][50]med in Madam Julia's gown,
+Which [serve][51]d me as fit, by all men's judgements,
+As if the garment had been made for me;
+Therefore I know she is about my height.
+And at that time I made her weep [agood][52],
+For I did play a lamentable part.
+Madam, 'twas Ariadne [passion][53]ing
+For Theseus' perjury and [unjust][54] flight;
+Which I so lively acted with my tears
+That my poor mistress, moved therewithal,
+Wept bitterly; and would I might be dead
+If I in thought felt not her very sorrow.
+
+[50]: {{page.q}}=6256 "trim (v.) 1:  dress, attire, make [oneself] ready"
+[51]: {{page.q}}=13966 "serve (v.) 4:  be of use, render service, be an advantage [to]"
+[52]: {{page.q}}=564 "agood (adv.):  in earnest, in a heartfelt way"
+[53]: {{page.q}}=5878 "passion (v.):  experience deep feeling, be profoundly moved, grieve"
+[54]: {{page.q}}=6713 "unjust (adj.) 2:  unfaithful, false [to honour]"
+
+
+**SILVIA**
+
+She is [beholding][55] to thee, [gentle][56] youth.
+Alas, poor lady, desolate and left!
+I weep myself, to think upon thy words.
+Here, youth; there is my purse; I give thee this
+For thy sweet mistress' sake, because thou lovest her.
+Farewell.
+_Exeunt Silvia and attendants_
+
+[55]: {{page.q}}=1588 "beholding (adj.):  beholden, obliged, indebted"
+[56]: {{page.q}}=17496 "gentle (adj.) 2:  courteous, friendly, kind"
+
+
+**JULIA**
+
+And she shall thank you for't, if e'er you know her.
+A virtuous gentlewoman, mild, and beautiful!
+I hope my master's [suit][58] will be but [cold][57],
+Since she respects my mistress' love so much.
+Alas, how love can trifle with itself!
+Here is her picture; let me see. I think
+If I had such a [tire][59] this face of mine
+Were full as lovely as is this of hers;
+And yet the painter flattered her a little,
+Unless I flatter with myself too much.
+Her hair is [auburn][60], mine is perfect yellow;
+If that be all the difference in his love,
+I'll get me such a coloured [periwig][61].
+Her eyes are [grey][62] as glass, and so are mine;
+Ay, but her forehead's low, and mine's as high.
+What should it be that he [respect][63]s in her
+But I can make [respective][64] in myself,
+If this [fond][65] Love were not a blinded god?
+Come, [shadow][66], come, and take this [shadow][67] up,
+For 'tis thy rival. O, thou [senseless][68] form,
+Thou shalt be worshipped, kissed, loved, and adored!
+And were there sense in his idolatry,
+My [substance][69] should be statue in thy stead.
+I'll [use][70] thee kindly for thy mistress' sake,
+That used me so; or else, by Jove I vow,
+I should have scratched out your unseeing eyes,
+To make my master out of love with thee!
+_Exit_
+
+[57]: {{page.q}}=3510 "cold (adj.) 5:  ineffective, unattended to, coldly received"
+[58]: {{page.q}}=14962 "suit (n.) 2:  wooing, courtship"
+[59]: {{page.q}}=5954 "tire (n.) 1:  head-dress, ornament for the head, raiment"
+[60]: {{page.q}}=124 "auburn (adj.):  yellow-brown, light brown"
+[61]: {{page.q}}=12533 "periwig (n.):  wig"
+[62]: {{page.q}}=17927 "grey (adj.) 3:  [of eyes] grey-blue, blue-tinged"
+[63]: {{page.q}}=17170 "respect (v.) 3:  value, have regard for, prize"
+[64]: {{page.q}}=17177 "respective (adj.) 2:  worthy of respect, estimable, inspiring admiration"
+[65]: {{page.q}}=19981 "fond (adj.) 4:  infatuated, doting, passionate"
+[66]: {{page.q}}=14327 "shadow (n.) 1:  image, likeness, portrait, semblance"
+[67]: {{page.q}}=15593 "shadow (n.) 4:  illusion, unreal image, delusion"
+[68]: {{page.q}}=13958 "senseless (adj.) 1:  lacking human sensation, incapable of feeling"
+[69]: {{page.q}}=14328 "substance (n.) 1:  real thing, genuine article"
+[70]: {{page.q}}=7006 "use (v.) 2:  treat, deal with, manage"

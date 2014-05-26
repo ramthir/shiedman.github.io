@@ -1,0 +1,737 @@
+---
+title: Twelfth Night
+tagline: Act II - Scene V
+category: play
+author: shakespeare
+date: 2014-05-25 21:00:58 +0800
+permalink: /books/shakespeare/Twelfth_Night_act2_scene5.html
+layout: book_page
+creation: 1601-1602
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Sir Toby, Sir Andrew, and Fabian_
+
+**SIR TOBY**
+
+Come thy ways, Signor Fabian.
+
+
+
+**FABIAN**
+
+Nay, I'll come. If I lose a [scruple][1] of this [sport][2],
+let me be boiled to death with melancholy.
+
+[1]: {{page.q}}=15643 "scruple (n.) 1:  tiny amount, last ounce"
+[2]: {{page.q}}=14044 "sport (n.) 1:  recreation, amusement, entertainment"
+
+
+**SIR TOBY**
+
+Wouldst thou not be glad to have the [niggardly][3],
+rascally [sheep-biter][4] come by some notable
+shame?
+
+[3]: {{page.q}}=11506 "niggardly (adj.):  mean-minded, tight-fisted, miserly"
+[4]: {{page.q}}=15667 "sheep-biter (n.):  thievish fellow, shifty individual"
+
+
+**FABIAN**
+
+I would exult, man. You know he brought me
+out o' favour with my lady about a bear-baiting here.
+
+
+
+**SIR TOBY**
+
+To anger him, we'll have the bear again, and
+we will fool him black and blue – shall we not, Sir
+Andrew?
+
+
+
+**SIR ANDREW**
+
+An we do not, it is pity of our lives.
+_Enter Maria_
+
+
+
+**SIR TOBY**
+
+Here comes the little villain. How now, my
+[metal][5] of India?
+
+[5]: {{page.q}}=11005 "metal of India:  pure gold"
+
+
+**MARIA**
+
+Get ye all three into the [box-tree][6]. Malvolio's
+coming down this walk, he has been yonder i'the sun
+practising behaviour to his own shadow this half-hour.
+Observe him, for the love of mockery, for I know this
+letter will make a [contemplative][8] idiot of him. [Close][7], in
+the name of jesting!
+_The men hide. Maria throws down a letter_
+Lie thou there – for here comes the trout that must be
+caught with [tickling][9].
+_Exit_
+_Enter Malvolio_
+
+[6]: {{page.q}}=2278 "box-tree:  type of ornamental thick shrub"
+[7]: {{page.q}}=3088 "close (adv.) 6:  safely, secretly, out of sight"
+[8]: {{page.q}}=3562 "contemplative (adj.):  vacant, vacuous, mindlessly gazing"
+[9]: {{page.q}}=6282 "tickling (n.):  flattery, gratifying, pleasing"
+
+
+**MALVOLIO**
+
+'Tis but fortune, all is fortune. Maria once
+told me she did [affect][10] me; and I have heard herself
+come thus near, that should she [fancy][11], it should be one
+of my [complexion][12]. Besides, she [use][13]s me with a more
+exalted respect than anyone else that follows her. What
+should I think on't?
+
+[10]: {{page.q}}=197 "affect (v.) 1:  incline to, like, favour, be drawn to"
+[11]: {{page.q}}=20476 "fancy (v.):  like, love, admire"
+[12]: {{page.q}}=2687 "complexion (n.) 1:  appearance, look, colouring"
+[13]: {{page.q}}=7006 "use (v.) 2:  treat, deal with, manage"
+
+
+**SIR TOBY**
+
+Here's an [overweening][14] rogue!
+
+[14]: {{page.q}}=11674 "overweening (adj.):  arrogant, overambitious, high and mighty"
+
+
+**FABIAN**
+
+O, peace! Contemplation makes a rare turkey-cock
+of him; how he [jet][16]s under his [advanced][15] plumes!
+
+[15]: {{page.q}}=216 "advanced (adj.):  raised up, held high, uplifted"
+[16]: {{page.q}}=18917 "jet (v.):  strut, swagger, parade"
+
+
+**SIR ANDREW**
+
+'Slight, I could so beat the rogue!
+
+
+
+**SIR TOBY**
+
+Peace, I say!
+
+
+
+**MALVOLIO**
+
+To be Count Malvolio . . .
+
+
+
+**SIR TOBY**
+
+Ah, rogue!
+
+
+
+**SIR ANDREW**
+
+[Pistol][17] him, pistol him!
+
+[17]: {{page.q}}=13255 "pistol (v.):  shoot with a pistol"
+
+
+**SIR TOBY**
+
+Peace, peace!
+
+
+
+**MALVOLIO**
+
+There is [example][18] for't. The lady of the
+Strachy married the [yeoman][19] of the wardrobe.
+
+[18]: {{page.q}}=10177 "example (n.):  precedent, parallel case"
+[19]: {{page.q}}=8356 "yeoman (n.) 2:  keeper of the wardrobe"
+
+
+**SIR ANDREW**
+
+Fie on him! Jezebel!
+
+
+
+**FABIAN**
+
+O, peace! Now he's [deeply][20] in. Look how
+imagination [blow][21]s him.
+
+[20]: {{page.q}}=9278 "deeply (adv.) 1:  profoundly, thoroughly, sincerely"
+[21]: {{page.q}}=2279 "blow (v.) 4:  puff up, swell, inflate"
+
+
+**MALVOLIO**
+
+Having been three months married to her,
+sitting in my [state][22] . . .
+
+[22]: {{page.q}}=14548 "state (n.) 8:  throne, chair of state"
+
+
+**SIR TOBY**
+
+O for a [stone-bow][23] to hit him in the eye!
+
+[23]: {{page.q}}=15668 "stone-bow (n.):  type of cross-bow which shoots stones, catapult"
+
+
+**MALVOLIO**
+
+Calling my officers about me, in my [branched][24]
+velvet gown, having come from a [day-bed][25], where I have
+left Olivia sleeping . . .
+
+[24]: {{page.q}}=2280 "branched:  embroidered, brocaded"
+[25]: {{page.q}}=9254 "day-bed (n.):  couch, sofa, divan"
+
+
+**SIR TOBY**
+
+Fire and brimstone!
+
+
+
+**FABIAN**
+
+O, peace, peace!
+
+
+
+**MALVOLIO**
+
+And then to have the [humour][26] of [state][27]; and
+after a [demure][28] [travel][30] of [regard][29] – telling them I know my
+place, as I would they should do theirs – to ask for my
+kinsman Toby.
+
+[26]: {{page.q}}=18379 "humour (n.) 3:  style, method, way, fashion"
+[27]: {{page.q}}=13887 "state (n.) 2:  status, rank, position"
+[28]: {{page.q}}=9193 "demure (adj.):  grave, serious, sober, solemn"
+[29]: {{page.q}}=17052 "regard (n.) 4:  look, glance, gaze"
+[30]: {{page.q}}=6283 "travail, travel (n.) 3:  movement, motion, passage"
+
+
+**SIR TOBY**
+
+Bolts and shackles!
+
+
+
+**FABIAN**
+
+O, peace, peace, peace! Now, now!
+
+
+
+**MALVOLIO**
+
+Seven of my people, with an obedient [start][31],
+[make][32] out for him. I frown the while, and [perchance][33]
+wind up my watch, or play with my (fingering his
+steward's chain of office) – some rich jewel. Toby
+approaches, [curtsies][34] there to me . . .
+
+[31]: {{page.q}}=15846 "start (n.) 1:  starting up, immediate reaction, sudden movement"
+[32]: {{page.q}}=11006 "make out (v.):  go, go out"
+[33]: {{page.q}}=12175 "perchance (adv.) 1:  perhaps, maybe"
+[34]: {{page.q}}=3563 "curtsy, curtsey (v.):  bow low, do reverence, pay respect"
+
+
+**SIR TOBY**
+
+Shall this fellow live?
+
+
+
+**FABIAN**
+
+Though our silence be drawn from us with [car][35]s,
+yet peace!
+
+[35]: {{page.q}}=3953 "car (n.):  carriage, cart, chariot [often of the sun god]"
+
+
+**MALVOLIO**
+
+I extend my hand to him thus – quenching
+my familiar smile with an austere [regard][36] of control . . .
+
+[36]: {{page.q}}=17052 "regard (n.) 4:  look, glance, gaze"
+
+
+**SIR TOBY**
+
+And does not Toby take you a blow o'the lips
+then?
+
+
+
+**MALVOLIO**
+
+Saying, Cousin Toby, my fortunes having
+cast me on your niece give me this prerogative of
+speech . . .
+
+
+
+**SIR TOBY**
+
+What, what!
+
+
+
+**MALVOLIO**
+
+You must amend your drunkenness.
+
+
+
+**SIR TOBY**
+
+Out, [scab][37]!
+
+[37]: {{page.q}}=15669 "scab (n.):  scurvy fellow, scoundrel, villain"
+
+
+**FABIAN**
+
+Nay, patience, or we break the [sinew][38]s of our plot.
+
+[38]: {{page.q}}=15509 "sinew (n.) 4:  mainstay, support, main strength"
+
+
+**MALVOLIO**
+
+Besides, you waste the treasure of your time
+with a foolish knight . . .
+
+
+
+**SIR ANDREW**
+
+That's me, I [warrant][39] you.
+
+[39]: {{page.q}}=7550 "warrant (v.) 1:  assure, promise, guarantee, confirm"
+
+
+**MALVOLIO**
+
+One Sir Andrew.
+
+
+
+**SIR ANDREW**
+
+I knew 'twas I, for many do call me fool.
+
+
+
+**MALVOLIO**
+
+_picks up the letter_
+What employment have
+we here?
+
+
+
+**FABIAN**
+
+Now is the [woodcock][41] near the [gin][40].
+
+[40]: {{page.q}}=17627 "gin (n.):  snare, trap"
+[41]: {{page.q}}=8010 "woodcock (n.):  type of game bird, thought to be easily tricked or snared; simpleton"
+
+
+**SIR TOBY**
+
+O, peace, and the spirit of [humour][42]s intimate
+reading aloud to him!
+
+[42]: {{page.q}}=18215 "humour (n.) 2:  fancy, whim, inclination, caprice"
+
+
+**MALVOLIO**
+
+By my life, this is my lady's hand. These be
+her very C's, her U's and her T's; and thus makes she
+her great P's. It is, in contempt of [question][43], her hand.
+
+[43]: {{page.q}}=13851 "question, in contempt of:  without the shadow of a doubt"
+
+
+**SIR ANDREW**
+
+Her C's, her U's and her T's? Why that?
+
+
+
+**MALVOLIO**
+
+_reads_
+_To the unknown beloved this, and my good wishes._
+Her very phrases! By your leave, wax. Soft! and the
+[impressure][44] her Lucrece, with which she uses to [seal][45].
+'Tis my lady! To whom should this be?
+
+[44]: {{page.q}}=4840 "impressure (n.):  imprint, impression, indentation, stamp"
+[45]: {{page.q}}=15166 "seal (v.) 4:  mark by seal, put one's name to, agree"
+
+
+**FABIAN**
+
+This wins him, liver and all.
+
+
+
+**MALVOLIO**
+
+_reads_
+_Jove knows I love;_
+_But who?_
+_Lips, do not move;_
+_No man must know._
+‘ No man must know ’! What follows? The [number][46]s
+altered! ‘ No man must know ’! If this should be thee,
+Malvolio!
+
+[46]: {{page.q}}=11488 "number (n.) 2:  (plural) metre, versification"
+
+
+**SIR TOBY**
+
+Marry, hang thee, [brock][47]!
+
+[47]: {{page.q}}=2290 "brock (n.):  badger; [contemptuous] stinker, dirty rat"
+
+
+**MALVOLIO**
+
+_reads_
+_I may command where I adore;_
+_But silence, like a Lucrece' knife,_
+_With bloodless stroke my heart doth gore;_
+_M.O.A.I. doth sway my life._
+
+
+
+**FABIAN**
+
+A [fustian][48] riddle!
+
+[48]: {{page.q}}=20668 "fustian (adj.) 1:  high-flown, made up in a ridiculous way"
+
+
+**SIR TOBY**
+
+Excellent [wench][49], say I!
+
+[49]: {{page.q}}=7615 "wench (n.):  girl, lass"
+
+
+**MALVOLIO**
+
+‘ M.O.A.I. doth sway my life.’ Nay, but first
+let me see, let me see, let me see. . . .
+
+
+
+**FABIAN**
+
+What dish o' poison has she dressed him!
+
+
+
+**SIR TOBY**
+
+And with what wing the [staniel][51] [check][50]s at it!
+
+[50]: {{page.q}}=4485 "check at (v.) 2:  [falconry] swerve to pounce on, turn towards, swoop at"
+[51]: {{page.q}}=15705 "staniel (n.):  inferior kind of hawk; kestrel"
+
+
+**MALVOLIO**
+
+‘ I may command where I adore.’ Why, she
+may command me. I serve her, she is my lady. Why,
+this is evident to any [formal][53] [capacity][52]. There is no
+[obstruction][54] in this. And the end: what should that alphabetical
+[position][56] [portend][55]? If I could make that resemble
+something in me. . . . [Softly][57], ‘ M.O.A.I.’ . . .
+
+[52]: {{page.q}}=3945 "capacity (n.):  intelligence, understanding, capability"
+[53]: {{page.q}}=20167 "formal (adj.) 1:  normal, sane, rational"
+[54]: {{page.q}}=11930 "obstruction (n.) 1:  obstacle, difficulty, hindrance"
+[55]: {{page.q}}=12916 "portend (v.):  mean, signify, import"
+[56]: {{page.q}}=13274 "position (n.) 3:  arrangement, ordering, sequence"
+[57]: {{page.q}}=14020 "softly (adv.):  slowly, gently"
+
+
+**SIR TOBY**
+
+O, ay, make up that. He is now at a cold scent.
+
+
+
+**FABIAN**
+
+[Sowter][59] will [cry][58] upon't for all this, though it be as
+[rank][60] as a fox.
+
+[58]: {{page.q}}=3724 "cry (v.) 2:  give tongue, cry out"
+[59]: {{page.q}}=15706 "Sowter (n.):  [shoemaker, cobbler] name of a stupid hound"
+[60]: {{page.q}}=16564 "rank (adj.) 2:  foul-smelling, stinking"
+
+
+**MALVOLIO**
+
+M . . . Malvolio! M! Why, that begins my
+name!
+
+
+
+**FABIAN**
+
+Did not I say he would work it out? The cur is
+excellent at [fault][61]s.
+
+[61]: {{page.q}}=20669 "fault (n.) 5:  [hunting] break in a line of scent, loss of scent"
+
+
+**MALVOLIO**
+
+M! But then there is no [consonancy][62] in the
+sequel that [suffer][64]s under [probation][63]. A should follow,
+but O does.
+
+[62]: {{page.q}}=3587 "consonancy (n.) 2:  consistency, correspondance, accord"
+[63]: {{page.q}}=13275 "probation (n.) 2:  investigation, examination, testing"
+[64]: {{page.q}}=15707 "suffer (v.) 5:  hold up, stand up, remain valid"
+
+
+**FABIAN**
+
+And O shall end, I hope.
+
+
+
+**SIR TOBY**
+
+Ay, or I'll cudgel him and make him cry O.
+
+
+
+**MALVOLIO**
+
+And then I comes behind.
+
+
+
+**FABIAN**
+
+Ay, an you had any eye behind you, you might
+see more [detraction][65] at your heels than fortunes before
+you.
+
+[65]: {{page.q}}=8756 "detraction (n.):  slander, calumny, defamation, disparagement"
+
+
+**MALVOLIO**
+
+M.O.A.I. This [simulation][66] is not as the
+former. And yet, to [crush][67] this a little, it would bow to
+me, for every one of these letters are in my name. Soft!
+Here follows prose.
+_He reads_
+_If this fall into thy hand, revolve. In my stars I am above_
+_thee, but be not afraid of greatness. Some are born great,_
+_some achieve greatness, and some have greatness thrust_
+_upon 'em. Thy fates open their hands, let thy blood and_
+_spirit embrace them; and to inure thyself to what thou art_
+_like to be, cast thy humble slough and appear fresh. Be_
+_opposite with a kinsman, surly with servants. Let thy_
+_tongue tang arguments of state. Put thyself into the trick of_
+_singularity. She thus advises thee that sighs for thee._
+_Remember who commended thy yellow stockings and wished_
+_to see thee ever cross-gartered. I say, remember. Go to, thou_
+_art made if thou desirest to be so. If not, let me see thee a_
+_steward still, the fellow of servants, and not worthy to_
+_touch Fortune's fingers. Farewell. She that would alter_
+_services with thee, The Fortunate Unhappy._
+Daylight and [champain][68] [discover][69]s not more! This is
+open. I will be proud, I will read [politic][70] authors, I will
+[baffle][71] Sir Toby, I will wash off [gross][72] acquaintance, I
+will be [point-devise][73] the very man. I do not now fool
+myself, to let imagination [jade][74] me; for every reason
+[excite][76]s to this, that my lady loves me. She did [commend][75]
+my yellow stockings of late, she did praise my leg being
+cross-gartered; and in this she manifests herself to my
+love and with a kind of injunction drives me to these
+[habit][77]s of her liking. I thank my stars, I am happy! I
+will be [strange][79], [stout][78], in yellow stockings and cross-gartered,
+even with the swiftness of putting on. Jove and
+my stars be praised! Here is yet a postscript.
+_He reads_
+_Thou canst not choose but know who I am. If thou entertainest_
+_my love, let it appear in thy smiling, thy smiles_
+_become thee well. Therefore in my presence still smile, dear_
+_my sweet, I prithee._
+Jove, I thank thee! I will smile. I will do everything that
+thou wilt have me!
+_Exit_
+
+[66]: {{page.q}}=15708 "simulation (n.):  dissimulation, concealment, disguised meaning"
+[67]: {{page.q}}=4799 "crush (v.) 2:  force the sense of, strain a meaning from"
+[68]: {{page.q}}=4394 "champain, champaign (n./adj.):  expanse of open countryside"
+[69]: {{page.q}}=8538 "discover (v.) 1:  reveal, show, make known"
+[70]: {{page.q}}=12473 "politic (adj.) 1:  prudent, cautious, discreet, shrewd"
+[71]: {{page.q}}=1330 "baffle (v.) 1:  [of a knight] publicly disgrace, treat with infamy"
+[72]: {{page.q}}=17624 "gross (adj.) 9:  dull, obtuse, ignorant"
+[73]: {{page.q}}=13327 "point-device, point-devise (adv.):  to the last detail, to the point of perfection"
+[74]: {{page.q}}=18948 "jade (v.) 2:  deceive, dupe, make a fool of"
+[75]: {{page.q}}=2872 "commend (v.) 4:  praise, admire, extol"
+[76]: {{page.q}}=9961 "excite (v.):  incite, stir up, move"
+[77]: {{page.q}}=15263 "habit (n.) 1:  dress, clothing, costume"
+[78]: {{page.q}}=14464 "stout (adj.) 2:  proud, haughty, arrogant"
+[79]: {{page.q}}=15811 "strange (adj.) 7:  aloof, distant, reserved"
+
+
+**FABIAN**
+
+I will not give my part of this [sport][80] for a pension
+of thousands to be paid from the Sophy.
+
+[80]: {{page.q}}=14044 "sport (n.) 1:  recreation, amusement, entertainment"
+
+
+**SIR TOBY**
+
+I could marry this [wench][81] for this device.
+
+[81]: {{page.q}}=7615 "wench (n.):  girl, lass"
+
+
+**SIR ANDREW**
+
+So could I too.
+
+
+
+**SIR TOBY**
+
+And ask no other dowry with her but such another
+jest.
+
+
+
+**SIR ANDREW**
+
+Nor I neither.
+_Enter Maria_
+
+
+
+**FABIAN**
+
+Here comes my noble gull-catcher.
+
+
+
+**SIR TOBY**
+
+Wilt thou set thy foot o' my neck?
+
+
+
+**SIR ANDREW**
+
+Or o' mine either?
+
+
+
+**SIR TOBY**
+
+Shall I [play][82] my freedom at [tray-trip][83] and become
+thy [bondslave][84]?
+
+[82]: {{page.q}}=13379 "play (v.) 3:  play for, make bets about"
+[83]: {{page.q}}=6339 "tray-trip (n.):  type of dicing game [depending on the throw of a three]"
+[84]: {{page.q}}=2007 "bondslave (n.):  slave, bondsman, person in a condition of servitude"
+
+
+**SIR ANDREW**
+
+I'faith, or I either?
+
+
+
+**SIR TOBY**
+
+Why, thou hast put him in such a dream, that
+when the image of it leaves him, he must run mad.
+
+
+
+**MARIA**
+
+Nay, but say true: does it work upon him?
+
+
+
+**SIR TOBY**
+
+Like [aqua-vitae][85] with a midwife.
+
+[85]: {{page.q}}=273 "aqua-vitae (n.):  spirits, alcohol, strong drink, brandy"
+
+
+**MARIA**
+
+If you will then see the fruits of the [sport][86], [mark][87]
+his first approach before my lady. He will come to her in
+yellow stockings, and 'tis a colour she [abhor][88]s; and cross-gartered,
+a fashion she detests; and he will smile upon
+her, which will now be so unsuitable to her disposition –
+being addicted to a melancholy as she is – that it cannot
+but turn him into a [notable][90] [contempt][89]. If you will see it,
+follow me.
+
+[86]: {{page.q}}=14044 "sport (n.) 1:  recreation, amusement, entertainment"
+[87]: {{page.q}}=10405 "mark (v.) 1:  note, pay attention [to], take notice [of]"
+[88]: {{page.q}}=654 "abhor (v.) 1:  loathe, abominate, regard with disgust"
+[89]: {{page.q}}=3653 "contempt (n.) 2:  disgrace, dishonour, scandal"
+[90]: {{page.q}}=11464 "notable (adj.) 1:  noted, notorious, conspicuous, infamous"
+
+
+**SIR TOBY**
+
+To the gates of Tartar, thou most excellent
+devil of [wit][91]!
+
+[91]: {{page.q}}=7645 "wit (n.) 2:  mental sharpness, acumen, quickness, ingenuity"
+
+
+**SIR ANDREW**
+
+I'll make one too.
+_Exeunt_
+

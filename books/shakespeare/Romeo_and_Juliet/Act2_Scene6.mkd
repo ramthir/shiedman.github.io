@@ -1,0 +1,118 @@
+---
+title: Romeo and Juliet
+tagline: Act II - Scene VI
+category: play
+author: shakespeare
+date: 2014-05-26 14:13:04 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act2_scene6.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Friar Laurence and Romeo_
+
+**FRIAR**
+
+So smile the heavens upon this holy act,
+That [after-hours][1] with sorrow [chide][2] us not!
+
+[1]: {{page.q}}=528 "after-hours (n.): subsequent time, later moments"
+[2]: {{page.q}}=4299 "chide (v.), past form chid 1: scold, rebuke, reprove"
+
+
+**ROMEO**
+
+Amen, amen! But come what sorrow can,
+It cannot [countervail][3] the exchange of joy
+That one short minute gives me in her sight.
+Do thou but [close][4] our hands with holy words,
+Then love-devouring death do what he dare –
+It is enough I may but call her mine.
+
+[3]: {{page.q}}=3518 "countervail (v.): counterbalance, match, be equal to"
+[4]: {{page.q}}=4716 "close (v.) 6: join, clasp"
+
+
+**FRIAR**
+
+These violent delights have violent ends
+And in their [triumph][6] die, like fire and [powder][5],
+Which as they kiss consume. The sweetest honey
+Is loathsome in his own deliciousness
+And in the taste [confound][7]s the appetite.
+Therefore love moderately. Long love doth so.
+Too swift arrives as tardy as too slow.
+_Enter Juliet somewhat fast. She embraces Romeo_
+Here comes the lady. O, so light a foot
+Will ne'er wear out the everlasting flint.
+A lover may bestride the [gossamer][8]s
+That idles in the [wanton][9] summer air,
+And yet not fall. So [light][10] is [vanity][11].
+
+[5]: {{page.q}}=13447 "powder (n.): gunpowder"
+[6]: {{page.q}}=6442 "triumph (n.) 4: high point, joy of the moment"
+[7]: {{page.q}}=2854 "confound (v.) 1: destroy, overthrow, ruin"
+[8]: {{page.q}}=18047 "gossamer (n.): fine thread of a spider's web"
+[9]: {{page.q}}=8273 "wanton (adj.) 2: casual, gentle"
+[10]: {{page.q}}=19410 "light (adj.) 5: [of counterfeit coins] of less weight, worthless, cheap"
+[11]: {{page.q}}=7447 "vanity (n.) 1: worthlessness, futility, unprofitable way of life"
+
+
+**JULIET**
+
+Good [even][12] to my [ghostly][13] confessor.
+
+[12]: {{page.q}}=10092 "even (n.) 1: evening"
+[13]: {{page.q}}=17917 "ghostly (adj.): spiritual, holy"
+
+
+**FRIAR**
+
+Romeo shall thank thee, daughter, for us both.
+
+
+
+**JULIET**
+
+As much to him, else is his thanks too much.
+
+
+
+**ROMEO**
+
+Ah, Juliet, if the measure of thy joy
+Be heaped like mine, and that thy skill be more
+To [blazon][14] it, then sweeten with thy [breath][15]
+This neighbour air, and let rich music's tongue
+Unfold the imagined happiness that both
+Receive in either by this dear encounter.
+
+[14]: {{page.q}}=2111 "blazon (v.): proclaim, display [as in a coat of arms]"
+[15]: {{page.q}}=1064 "breath (n.) 1: utterance, speech, voice"
+
+
+**JULIET**
+
+[Conceit][16], more rich in [matter][17] than in words,
+Brags of his substance, not of ornament.
+They are but beggars that can count their [worth][18].
+But my true love is grown to such excess
+I cannot sum up sum of half my wealth.
+
+[16]: {{page.q}}=2694 "conceit (n.) 1: imagination, fancy, wit"
+[17]: {{page.q}}=10417 "matter (n.) 1: subject-matter, content, substance"
+[18]: {{page.q}}=8087 "worth (n.) 2: means, resources, wherewithal"
+
+
+**FRIAR**
+
+Come, come with me, and we will make short work.
+For, by your leaves, you shall not stay alone
+Till Holy Church [incorporate][19] two in one.
+_Exeunt_
+
+[19]: {{page.q}}=5354 "incorporate (v.): make one body [of], unite"
+
+

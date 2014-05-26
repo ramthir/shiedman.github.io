@@ -1,0 +1,297 @@
+---
+title: Romeo and Juliet
+tagline: Act I - Scene II
+category: play
+author: shakespeare
+date: 2014-05-26 13:42:07 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act1_scene2.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Capulet, County Paris, and the Clown, a_
+
+_Servant_
+
+**CAPULET**
+
+But Montague is [bound][1] as well as I,
+In penalty alike; and 'tis not hard, I think,
+For men so old as we to keep the peace.
+
+[1]: {{page.q}}=2191 "bound (adj.) 2: obliged, required, forced"
+
+
+**PARIS**
+
+Of honourable [reckoning][2] are you both,
+And pity 'tis you lived at odds so long.
+But now, my lord, what say you to my [suit][3]?
+
+[2]: {{page.q}}=17310 "reckoning (n.) 5: esteem, estimation, distinction"
+[3]: {{page.q}}=14102 "suit (n.) 1: formal request, entreaty, petition"
+
+
+**CAPULET**
+
+But saying o'er what I have said before:
+My child is yet a stranger in the world;
+She hath not seen the change of fourteen years,
+Let two more summers wither in their pride,
+Ere we may think her ripe to be a bride.
+
+
+
+**PARIS**
+
+Younger than she are happy mothers made.
+
+
+
+**CAPULET**
+
+And too soon marred are those so early made.
+Earth hath swallowed all my hopes but she;
+She's the [hopeful][4] lady of my earth.
+But woo her, [gentle][5] Paris, get her heart.
+My will to her consent is but a part,
+And, she agreed, within her scope of choice
+Lies my consent and fair [according][6] [voice][7].
+This night I hold an old accustomed feast,
+Whereto I have invited many a guest,
+Such as I love; and you among the [store][8],
+One more, most welcome, makes my number more.
+At my poor house look to behold this night
+Earth-treading stars that make dark heaven light.
+Such comfort as do [lusty][9] young men feel
+When [well-apparelled][10] April on the heel
+Of limping winter treads, even such delight
+Among fresh female buds shall you this night
+[Inherit][11] at my house. Hear all; all see;
+And like her most whose merit most shall be;
+Which, on more view of many, mine, being one,
+May stand in number, though in [reckoning][12] none.
+_Come, go with me. (To Servant) Go, sirrah, trudge about_
+Through fair Verona; find those persons out
+Whose names are written there, and to them say,
+My house and welcome on their pleasure stay.
+_Exeunt Capulet and Paris_
+
+[4]: {{page.q}}=18832 "hopeful (adj.) 1: promising, giving hope of success"
+[5]: {{page.q}}=17495 "gentle (adj.) 1: well-born, honourable, noble"
+[6]: {{page.q}}=882 "according (adj.): agreeing, assenting"
+[7]: {{page.q}}=7229 "voice (n.) 2: support, approval, good word"
+[8]: {{page.q}}=15970 "store (n.) 4: group, company, assembly"
+[9]: {{page.q}}=19165 "lusty (adj.) 5: lustful, sensual, sexful"
+[10]: {{page.q}}=5797 "well-apparelled (adj.): well-dressed, nicely adorned"
+[11]: {{page.q}}=5030 "inherit (v.) 1: receive, obtain, come into possession [of]"
+[12]: {{page.q}}=17261 "reckoning (n.) 1: counting up, enumeration, calculation"
+
+
+**SERVANT**
+
+Find them out whose names are written here! It
+is written that the shoemaker should [meddle][13] with his
+[yard][17] and the tailor with his [last][15], the [fisher][14] with his [pencil][16]
+and the painter with his nets. But I am sent to find those
+persons whose names are here writ, and can never find
+what names the writing person hath here writ. I must
+to the learned. In good [time][18]!
+_Enter Benvolio and Romeo_
+
+[13]: {{page.q}}=11099 "meddle (v.) 2: busy oneself, concern oneself"
+[14]: {{page.q}}=20071 "fisher (n.): fisherman"
+[15]: {{page.q}}=19630 "last (n.) 5: wooden model of the foot, for shaping shoes"
+[16]: {{page.q}}=13422 "pencil (n.): finely-pointed paint-brush"
+[17]: {{page.q}}=8340 "yard (n.) 1: yard measure"
+[18]: {{page.q}}=6271 "time, in good 1: at the right moment"
+
+
+**BENVOLIO**
+
+Tut, man, one fire burns out another's burning.
+One pain is lessened by another's anguish.
+Turn giddy, and be holp by backward turning.
+One desperate grief cures with another's languish.
+Take thou some new infection to thy eye,
+And the [rank][19] poison of the old will die.
+
+[19]: {{page.q}}=17311 "rank (adj.) 3: foul, festering, diseased"
+
+
+**ROMEO**
+
+Your [plantain][20] leaf is excellent for that.
+
+[20]: {{page.q}}=13423 "plantain (n.): variety of medicinal herb"
+
+
+**BENVOLIO**
+
+For what, I pray thee?
+
+
+
+**ROMEO**
+
+For your broken shin.
+
+
+
+**BENVOLIO**
+
+Why, Romeo, art thou mad?
+
+
+
+**ROMEO**
+
+Not mad, but bound more than a madman is;
+Shut up in prison, kept without my food,
+Whipped and tormented and – Good-e'en, good fellow.
+
+
+
+**SERVANT**
+
+God gi' good-e'en. I pray, sir, can you read?
+
+
+
+**ROMEO**
+
+Ay, mine own fortune in my misery.
+
+
+
+**SERVANT**
+
+Perhaps you have learned it without [book][21]. But
+I pray, can you read anything you see?
+
+[21]: {{page.q}}=2276 "book, without: off by heart, by rote"
+
+
+**ROMEO**
+
+Ay, if I know the letters and the language.
+
+
+
+**SERVANT**
+
+Ye say honestly. Rest you merry.
+
+
+
+**ROMEO**
+
+Stay, fellow. I can read.
+_He reads the letter_
+_Signor Martino and his wife and daughters. County Anselm_
+_and his beauteous sisters. The lady widow of Utruvio._
+_Signor Placentio and his lovely nieces. Mercutio and his_
+_brother Valentine. Mine uncle Capulet, his wife and daughters._
+_My fair niece Rosaline and Livia. Signor Valentio and_
+_his cousin Tybalt. Lucio and the lively Helena._
+A fair assembly. Whither should they come?
+
+
+
+**SERVANT**
+
+Up.
+
+
+
+**ROMEO**
+
+Whither? To supper?
+
+
+
+**SERVANT**
+
+To our house.
+
+
+
+**ROMEO**
+
+Whose house?
+
+
+
+**SERVANT**
+
+My master's.
+
+
+
+**ROMEO**
+
+Indeed I should have asked thee that before.
+
+
+
+**SERVANT**
+
+Now I'll tell you without asking. My master is
+the great rich Capulet; and if you be not of the house of
+Montagues, I pray come and [crush][22] a cup of wine. Rest
+you merry.
+_Exit Servant_
+
+[22]: {{page.q}}=3771 "crush (v.) 1: drink down, quaff, knock back"
+
+
+**BENVOLIO**
+
+At this same [ancient][23] feast of Capulet's
+[Sup][24]s the fair Rosaline whom thou so loves,
+With all the [admired][25] beauties of Verona.
+Go thither, and, with [unattainted][26] eye
+Compare her face with some that I shall show,
+And I will make thee think thy swan a crow.
+
+[23]: {{page.q}}=225 "ancient, aunchient (adj.) 1: long-established, long-standing"
+[24]: {{page.q}}=14508 "sup (v.) 1: have supper"
+[25]: {{page.q}}=876 "admired (adj.) 2: regarded with admiration, wondered at"
+[26]: {{page.q}}=7069 "unattainted (adj.): dispassionate, detached, unprejudiced"
+
+
+**ROMEO**
+
+When the devout [religion][27] of mine eye
+Maintains such falsehood, then turn tears to fires;
+And these, who often drowned, could never die,
+Transparent heretics, be burnt for liars!
+One fairer than my love? The all-seeing sun
+Ne'er saw her match since first the world begun.
+
+[27]: {{page.q}}=17134 "religion (n.) 1: religious observance, spiritual duty, obligation"
+
+
+**BENVOLIO**
+
+Tut, you saw her fair, none else being by,
+Herself [poise][28]d with herself in either eye.
+But in that crystal scales let there be weighed
+Your lady's love against some other maid
+That I will show you shining at this feast,
+And she shall [scant][29] show well that now seems best.
+
+[28]: {{page.q}}=12317 "poise (v.): balance, weigh, make even"
+[29]: {{page.q}}=15971 "scant (adv.): scarcely, barely, hardly"
+
+
+**ROMEO**
+
+I'll go along, no such sight to be shown,
+But to rejoice in splendour of mine own.
+_Exeunt_
+
+
+

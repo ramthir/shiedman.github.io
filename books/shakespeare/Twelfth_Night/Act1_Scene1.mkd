@@ -1,0 +1,129 @@
+---
+title: Twelfth Night
+tagline: Act I - Scene I
+category: play
+author: shakespeare
+date: 2014-05-25 18:27:34 +0800
+permalink: /books/shakespeare/Twelfth_Night_act1_scene1.html
+layout: book_page
+creation: 1601-1602
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Music. Enter Orsino Duke of Illyria, Curio, and other lords_
+
+**ORSINO**
+
+If music be the food of love, play on,
+Give me excess[^1] of it, that, [surfeit][1]ing,
+The appetite may sicken, and so die.
+That strain[^2] again! It had a [dying][3] [fall][4].
+O, it came o'er my ear like the sweet[^3] sound
+That breathes upon a bank[^4] of violets,
+Stealing and giving odour[^5]. Enough, no more!
+'Tis not so sweet now as it was before.
+O spirit of love, how [quick][6] and [fresh][5] art thou,
+That, notwithstanding thy capacity
+Receiveth as the sea, naught enters there,
+Of what [validity][8] and [pitch][7] soe'er,
+But falls into [abatement][9] and low price
+Even in a minute. So full of shapes is [fancy][10]
+That it alone is [high][12] [fantastical][11].
+
+[^1]: An excess of something is a larger amount than is needed, allowed, or usual.
+[^2]: If you hear the strains of music, you hear music being played.(LITERARY)
+[^3]: If you describe something such as air or water as sweet, you mean that it smells or tastes pleasantly fresh and clean. 
+[^4]: The banks of a river, canal, or lake are the raised areas of ground along its edge.
+[^5]: ˈəudə(r) An odour is a particular and distinctive smell.
+
+[1]: {{page.q}}=14430 "surfeit (v.) 1:  feed to excess, overindulge, glut"
+[2]: {{page.q}}=482 "appetite (n.) 1:  desire, longing, inclination, fancy"
+[3]: {{page.q}}=9247 "dying (adj.):  fading, dying away"
+[4]: {{page.q}}=20566 "fall (n.) 3:  cadence, lowering of tune"
+[5]: {{page.q}}=20567 "fresh (adj.) 4:  ready, eager, hungry"
+[6]: {{page.q}}=13810 "quick (adj.) 4:  sharp, keen, alert"
+[7]: {{page.q}}=12199 "pitch (n.) 2:  height, elevation, high aspiration"
+[8]: {{page.q}}=7315 "validity (n.) 1:  value, worth, estimation"
+[9]: {{page.q}}=644 "abatement (n.) 1:  lessening, decrease, diminution"
+[10]: {{page.q}}=20677 "fancy (n.) 1:  love, amorousness, infatuation"
+[11]: {{page.q}}=19954 "fantastical (adj.) 1:  fanciful, imaginative, full of wild ideas"
+[12]: {{page.q}}=18537 "high (adv.):  fully, altogether"
+
+
+**CURIO**
+
+Will you go hunt, my lord?
+
+
+
+**ORSINO**
+
+What, Curio?
+
+
+
+**CURIO**
+
+The hart.
+
+
+
+**ORSINO**
+
+Why, so I do, the noblest that I have.
+O, when mine eyes did see Olivia first,
+[Methought][13] she [purge][14]d the air of pestilence.
+That instant was I turned into a hart,
+And my desires, like [fell][15] and cruel hounds,
+E'er since pursue me.
+_Enter Valentine_
+How now! What news from her?
+
+[13]: {{page.q}}=10439 "methinks(t), methought(s) (v.):  it seems /seemed to me"
+[14]: {{page.q}}=12523 "purge (v.) 1:  cleanse, purify, get rid of impurities [in]"
+[15]: {{page.q}}=19813 "fell (adj.) 1:  cruel, fierce, savage"
+
+
+**VALENTINE**
+
+So please my lord, I might not be admitted,
+But from her handmaid do return this answer:
+The [element][16] itself, till seven years' heat,
+Shall not behold her face at ample view,
+But like a [cloistress][17] she will veiled walk,
+And water once a day her chamber round
+With [eye-offending][19] [brine][18]; all this to [season][20]
+A brother's dead love, which she would keep fresh
+And lasting, in her [sad][22] [remembrance][21].
+
+[16]: {{page.q}}=10110 "element (n.) 5:  air, sky, heavens"
+[17]: {{page.q}}=3550 "cloistress (n.):  cloistered nun, member of an enclosed order"
+[18]: {{page.q}}=1858 "brine (n.) 1:  salt water [i.e. tears]"
+[19]: {{page.q}}=10111 "eye-offending (adj.):  which hurts the eyes"
+[20]: {{page.q}}=15757 "season (v.) 8:  preserve, keep"
+[21]: {{page.q}}=17226 "remembrance (n.) 1:  memory, bringing to mind, recollection"
+[22]: {{page.q}}=15557 "sad (adj.) 3:  downcast, distressed, mournful, gloomy"
+
+
+**ORSINO**
+
+O, she that hath a heart of that fine [frame][23]
+To pay this debt of love but to a brother –
+How will she love, when the rich golden [shaft][24]
+Hath killed the flock of all [affection][25]s else
+That live in her; when [liver][26], brain, and heart,
+These sovereign thrones, are all supplied and filled –
+Her [sweet][29] perfections – with one [self][27] king!
+Away before me to sweet beds of flowers!
+Love thoughts lie rich when [canopied][28] with bowers.
+
+_Exeunt_
+
+[23]: {{page.q}}=19880 "frame (n.) 1:  framework, structure, construction"
+[24]: {{page.q}}=14661 "shaft (n.):  [long and slender] arrow"
+[25]: {{page.q}}=11 "affection (n.) 2:  emotion, feeling"
+[26]: {{page.q}}=19152 "liver (n.) 1:  part of the body thought to be at the seat of the passions [especially sexual desire]"
+[27]: {{page.q}}=15655 "self, one:  a sole, one and the same, a single"
+[28]: {{page.q}}=4003 "canopy (v.):  curtain, veil, cover [as if by a canopy]"
+[29]: {{page.q}}=15000 "sweet (adj.) 1:  perfumed, scented, fragrant"

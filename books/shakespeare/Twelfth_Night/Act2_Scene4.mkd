@@ -1,0 +1,408 @@
+---
+title: Twelfth Night
+tagline: Act II - Scene IV
+category: play
+author: shakespeare
+date: 2014-05-25 20:54:13 +0800
+permalink: /books/shakespeare/Twelfth_Night_act2_scene4.html
+layout: book_page
+creation: 1601-1602
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Orsino, Viola, Curio, and others_
+
+**ORSINO**
+
+Give me some music! Now, good morrow, friends!
+Now, good Cesario, but that piece of song,
+That old and [antique][1] song we heard last night.
+[Methought][2] it did relieve my [passion][3] much,
+More than light airs and [recollected][4] [term][5]s
+Of these most brisk and [giddy-paced][6] times.
+Come, but one verse.
+
+[1]: {{page.q}}=297 "antic, antick(e), antique (adj.) 3:  old-fashioned, old-world, antiquated"
+[2]: {{page.q}}=10439 "methinks(t), methought(s) (v.):  it seems /seemed to me"
+[3]: {{page.q}}=12162 "passion (n.) 3:  suffering, torment, deep grief"
+[4]: {{page.q}}=17205 "recollected (adj.):  studied, artificial, refined"
+[5]: {{page.q}}=6232 "term (n.) 1:  word, expression, utterance"
+[6]: {{page.q}}=17954 "giddy-paced:  whirling, moving at a bewildering pace"
+
+
+**CURIO**
+
+He is not here, so please your lordship, that should
+sing it.
+
+
+
+**ORSINO**
+
+Who was it?
+
+
+
+**CURIO**
+
+Feste the jester, my lord, a fool that the Lady
+Olivia's father took much delight in. He is about the
+house.
+
+
+
+**ORSINO**
+
+Seek him out, and play the tune the while.
+_Exit Curio_
+_Music plays_
+Come hither, boy. If ever thou shalt love,
+In the sweet pangs of it, remember me.
+For such as I am, all true lovers are:
+[Unstaid][9] and [skittish][8] in all [motion][7]s else,
+Save in the constant image of the creature
+That is beloved. How dost thou like this tune?
+
+[7]: {{page.q}}=11003 "motion (n.) 2:  emotion, inclination, desire, impulse"
+[8]: {{page.q}}=15841 "skittish (adj.):  changeable, fickle, inconstant"
+[9]: {{page.q}}=6995 "unstaid (adj.) 1:  unsteady, unsettled, vacillating"
+
+
+**VIOLA**
+
+It gives a very echo to the seat
+Where love is throned.
+
+
+
+**ORSINO**
+
+Thou dost speak [masterly][10].
+My life upon't, young though thou art, thine eye
+Hath stayed upon some [favour][11] that it loves.
+Hath it not, boy?
+
+[10]: {{page.q}}=11004 "masterly (adv.):  from experience, in a masterly way"
+[11]: {{page.q}}=20678 "favour (n.) 1:  [facial] appearance, countenance, features, looks"
+
+
+**VIOLA**
+
+A little, by your favour.
+
+
+
+**ORSINO**
+
+What kind of woman is't?
+
+
+
+**VIOLA**
+
+Of your complexion.
+
+
+
+**ORSINO**
+
+She is not worth thee, then. What years, i'faith?
+
+
+
+**VIOLA**
+
+About your years, my lord.
+
+
+
+**ORSINO**
+
+Too old, by heaven. Let [still][12] the woman take
+An elder than herself; so [wear][13]s she to him;
+So [sway][15]s she [level][14] in her husband's heart.
+For, boy, however we do praise ourselves,
+Our [fancies][16] are more [giddy][17] and [unfirm][18],
+More longing, wavering, sooner lost and [worn][19],
+Than women's are.
+
+[12]: {{page.q}}=14077 "still (adv.) 1:  constantly, always, continually"
+[13]: {{page.q}}=8037 "wear (v.) 3:  fashion, adapt, conform"
+[14]: {{page.q}}=15352 "level (adj.) 1:  steady, steadfast, constant"
+[15]: {{page.q}}=15842 "sway (v.) 3:  move, proceed, progress"
+[16]: {{page.q}}=20677 "fancy (n.) 1:  love, amorousness, infatuation"
+[17]: {{page.q}}=17604 "giddy (adj.) 1:  frivolous, flighty, fickle, irresponsible"
+[18]: {{page.q}}=7083 "unfirm (adj.) 2:  unsteady, flighty, capricious"
+[19]: {{page.q}}=7710 "worn (adj.):  worn out, exhausted, spent"
+
+
+**VIOLA**
+
+I think it well, my lord.
+
+
+
+**ORSINO**
+
+Then let thy love be younger than thyself,
+Or thy [affection][20] cannot hold the [bent][21].
+For women are as roses whose fair flower,
+Being once [displayed][22], doth fall that very hour.
+
+[20]: {{page.q}}=115 "affection (n.) 4:  love, devotion"
+[21]: {{page.q}}=1446 "bent (n.) 3:  degree, capacity, extent [to which a bow can be bent]"
+[22]: {{page.q}}=9190 "displayed (adj.) 1:  unfolded, opened, in full bloom"
+
+
+**VIOLA**
+
+And so they are. Alas, that they are so,
+To die, even when they to perfection grow.
+_Enter Curio and Feste_
+
+
+
+**ORSINO**
+
+O, fellow, come, the song we had last night.
+[Mark][23] it, Cesario; it is [old][24] and plain.
+The [spinster][25]s, and the knitters in the sun,
+And the [free][27] maids that weave their thread with [bone][26]s,
+Do use to chant it. It is [silly][28] [sooth][29],
+And [dallies][30] with the innocence of love
+Like the [old][31] age.
+
+[23]: {{page.q}}=10405 "mark (v.) 1:  note, pay attention [to], take notice [of]"
+[24]: {{page.q}}=11926 "old (adj.) 1:  olden, ancient, bygone"
+[25]: {{page.q}}=5906 "spinster (n.):  domestic woman, one who stays at home spinning"
+[26]: {{page.q}}=1084 "bone (n.) 2:  [weaving] bobbin made of bone"
+[27]: {{page.q}}=20260 "free (adj.) 4:  free of worry, untroubled, carefree"
+[28]: {{page.q}}=14945 "silly (adj.) 4:  simple, lowly, humble"
+[29]: {{page.q}}=14813 "sooth (n.) 1:  truth"
+[30]: {{page.q}}=9191 "dally (v.) 1:  deal lightly, play about, tease"
+[31]: {{page.q}}=11926 "old (adj.) 1:  olden, ancient, bygone"
+
+
+**FESTE**
+
+Are you ready, sir?
+
+
+
+**ORSINO**
+
+Ay, prithee sing.
+_Music plays_
+
+
+
+**FESTE**
+
+_sings_
+Come away, come away, death,
+And in [sad][32] cypress let me be laid.
+[Fie][33] away, fie away, breath!
+I am slain by a fair cruel maid.
+My shroud of white, stuck all with yew,
+O, prepare it!
+My part of death, no one so [true][34]
+Did share it.
+Not a flower, not a flower sweet
+On my black coffin let there be strewn.
+Not a friend, not a friend [greet][35]
+My poor corpse, where my bones shall be thrown.
+A thousand thousand sighs to save,
+Lay me, O, where
+Sad true lover never find my grave
+To weep there.
+
+[32]: {{page.q}}=15557 "sad (adj.) 3:  downcast, distressed, mournful, gloomy"
+[33]: {{page.q}}=20573 "fie away (v.):  be off, begone"
+[34]: {{page.q}}=5599 "true (adj.) 1:  loyal, firm, faithful in allegiance"
+[35]: {{page.q}}=17955 "greet (v.) 3:  bewail, lament, weep for"
+
+
+**ORSINO**
+
+There's for thy pains.
+_He gives Feste money_
+
+
+
+**FESTE**
+
+No pains, sir. I take pleasure in singing, sir.
+
+
+
+**ORSINO**
+
+I'll pay thy pleasure, then.
+
+
+
+**FESTE**
+
+Truly, sir, and pleasure will be paid, one time or
+another.
+
+
+
+**ORSINO**
+
+Give me now leave, to leave thee.
+
+
+
+**FESTE**
+
+Now the melancholy god protect thee, and the
+tailor make thy doublet of [changeable][36] taffeta, for thy
+mind is a very opal. I would have men of such constancy
+put to sea, that their business might be everything,
+and their [intent][37] everywhere; for that's it that
+always makes a good voyage of nothing. Farewell.
+_Exit Feste_
+
+[36]: {{page.q}}=4483 "changeable (adj.):  of varying colour [when viewed from different angles], shot"
+[37]: {{page.q}}=5207 "intent (n.):  intention, purpose, aim"
+
+
+**ORSINO**
+
+Let all the rest give place.
+_Curio and attendants withdraw_
+Once more, Cesario,
+Get thee to yond same sovereign cruelty.
+Tell her my love, more noble than the [world][38],
+Prizes not quantity of dirty lands.
+The [part][39]s that fortune hath bestowed upon her
+Tell her I hold as [giddily][40] as fortune.
+But 'tis that miracle and queen of gems
+That nature [prank][41]s her in, attracts my soul.
+
+[38]: {{page.q}}=8038 "world (n.) 1:  whole of mankind, human race, mass of society"
+[39]: {{page.q}}=12150 "part (n.) 1:  quality, attribute, gift, accomplishment [of mind or body]"
+[40]: {{page.q}}=17956 "giddily (adv.) 1:  lightly, carelessly, inconsequentially"
+[41]: {{page.q}}=12580 "prank (v.):  dress up, deck out, adorn"
+
+
+**VIOLA**
+
+But if she cannot love you, sir?
+
+
+
+**ORSINO**
+
+It cannot be so answered.
+
+
+
+**VIOLA**
+
+Sooth, but you must.
+Say that some lady, as perhaps there is,
+Hath for your love as great a pang of heart
+As you have for Olivia. You cannot love her.
+You tell her so. Must she not then be answered?
+
+
+
+**ORSINO**
+
+There is no woman's sides
+Can [bide][42] the beating of so strong a passion
+As love doth give my heart; no woman's heart
+So big to hold so much, they lack [retention][43].
+Alas, their love may be called [appetite][44],
+No [motion][46] of the [liver][45], but the palate,
+That [suffer][48] [surfeit][49], [cloyment][47], and revolt.
+But mine is all as hungry as the sea,
+And can digest as much. Make no [compare][50]
+Between that love a woman can bear me
+And that I owe Olivia.
+
+[42]: {{page.q}}=2064 "bide (v.) 1:  endure, suffer, undergo"
+[43]: {{page.q}}=17206 "retention (n.) 3:  [medicine] power to retain emotion"
+[44]: {{page.q}}=482 "appetite (n.) 1:  desire, longing, inclination, fancy"
+[45]: {{page.q}}=19152 "liver (n.) 1:  part of the body thought to be at the seat of the passions [especially sexual desire]"
+[46]: {{page.q}}=11003 "motion (n.) 2:  emotion, inclination, desire, impulse"
+[47]: {{page.q}}=3561 "cloyment (n.):  excessive gratification, gorging, satiety"
+[48]: {{page.q}}=14101 "suffer (v.) 3:  undergo, sustain, endure"
+[49]: {{page.q}}=5895 "surfeit (n.) 2:  sickness brought on by excess"
+[50]: {{page.q}}=2889 "compare (n.):  comparison, simile, analogy"
+
+
+**VIOLA**
+
+Ay, but I know –
+
+
+
+**ORSINO**
+
+What dost thou know?
+
+
+
+**VIOLA**
+
+Too well what love women to men may owe.
+In faith, they are as true of heart as we.
+My father had a daughter loved a man –
+As it might be perhaps, were I a woman,
+I should your lordship.
+
+
+
+**ORSINO**
+
+And what's her history?
+
+
+
+**VIOLA**
+
+A blank, my lord. She never told her love,
+But let concealment, like a [worm][51] i'the bud,
+Feed on her [damask][52] cheek. She pined in [thought][53],
+And with a green and yellow melancholy,
+She sat like Patience on a monument,
+Smiling at grief. Was not this love indeed?
+We men may say more, swear more, but indeed
+Our [show][54]s are more than [will][56]; for [still][55] we prove
+Much in our vows, but little in our love.
+
+[51]: {{page.q}}=8043 "worm (n.) 2:  germ, microbe, bug"
+[52]: {{page.q}}=8540 "damask (adj./n.):  light-red, pink [colour of the damask rose]"
+[53]: {{page.q}}=5453 "thought (n.) 2:  melancholic reflection, anxiety, sorrow, worry"
+[54]: {{page.q}}=15093 "show (n.) 1:  appearance, exhibition, display"
+[55]: {{page.q}}=14077 "still (adv.) 1:  constantly, always, continually"
+[56]: {{page.q}}=7725 "will (n.) 1:  desire, wish, liking, inclination"
+
+
+**ORSINO**
+
+But died thy sister of her love, my boy?
+
+
+
+**VIOLA**
+
+I am all the daughters of my father's house,
+And all the brothers too; and yet, I know not. . . .
+Sir, shall I to this lady?
+
+
+
+**ORSINO**
+
+Ay, that's the theme.
+To her in haste; give her this jewel; say
+My love can give no place, [bide][57] no [denay][58].
+_Exeunt_
+
+[57]: {{page.q}}=2064 "bide (v.) 1:  endure, suffer, undergo"
+[58]: {{page.q}}=9192 "denay (n.):  denial, refusal, rejection"

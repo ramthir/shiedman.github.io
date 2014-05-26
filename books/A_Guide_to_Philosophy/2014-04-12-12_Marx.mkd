@@ -1,0 +1,322 @@
+---
+title: Marx
+book:
+    title: A Guide to Philosophy
+    author: Witold Gombrowicz
+category: philosophy
+permalink: /books/a_guide_to_philosophy/12_Marx.html
+date: 2014-04-13 01:28:00 +0800
+layout: book_page 
+---
+
+*Monday, May 12*
+{: .text-right}
+
+Marx 1818 -1883
+===============
+
+Marx knew Hegel in his youth, but at age nineteen, he indicated in a letter to his father that Hegel did not satisfy him.
+
+And why?
+
+It was the abstract element, the abstract logic, which distanced Marx from Hegel.
+
+It is true that he appropriated a lot from Hegel, but he revolutionized the very meaning of philosophy.
+
+He said that the problem of philosophy is not to understand the world but to change it.
+
+####Man is in relation to the external world. He needs to dominate nature, and there lies his real problem, all the rest is *frippery.*####
+
+####Marx said that philosophy must not be aristocratic, that is, done by men outside of communal life, but must be done on the scale of the average man, of the man who has needs and lives in society.####
+
+####One can, Marx said, conduct a revision of thinking and values from top to bottom. What comes from on top is inevitably a luxury, an ornament. But what comes from below is reality. One must therefore go from a lower to a higher consciousness.####
+
+####From Hegel, he took the idea of becoming in a dialectical process (thesis, antithesis, synthesis).####
+
+####According to Hegel: the idea of history which is achieved precisely by antinomies and which is proper to man, as I remind you that for Hegel, nature is always the same, it repeats itself. The planets always run in the same way, and the evolution of the lower species, insects, animals, is extremely slow and invisible.####
+
+####How does the world appear, according to Marx?####
+
+The first aspect is its *materialism.* Marxism is the negation of religion. He considered religion as a product of men to run from danger. And this is an instrument of the higher class to dominate the lower class.
+{: .text-right}
+
+Materialism constitutes the negation of idealism, of all metaphysics, of all recourse to ideas. For Marxism, there is only the *brutal, concrete reality of life.*
+
+Second aspect: Marxism defines itself by the well-known formula, *consciousness depends on being.*
+{: .text-right}
+
+For a classical philosopher, consciousness was a primary, elementary thing. Everything was for consciousness, and nothing could determine it.
+
+Marx proceeds to a new reduction of human reason. It is a sociological reduction of thought.
+
+The reductions in succession being:
+
+1. *[word missing]* reduction
+
+2. anthropological reduction
+
+3. phenomenological reduction (Husserl)
+
+4. sociological reduction (Marx)
+
+5. Nietzsche, who reduces philosophy to life.
+
+In order to understand the evolution of thinking, one must know these reductions.
+
+Sociological reduction means that consciousness is determined by existence. This means making consciousness an instrument of life, which gradually developed, beginning with the lowest species by a process of adaptation, of dialectical development, finally by a natural process as with everything.
+
+This means that consciousness is a function of our necessities, of our relationship with nature. But since man does not depend only on nature but also and above all on society, on historic conditions produced by that society, consciousness is formed by that society. Consciousness is therefore above all a function of human history.
+
+The third aspect: need creates value. If you are, for example, in the Sahara Desert, a glass of water can signify an enormous thing for you, while if you are in Vence with the water of the Foux, then it loses its value.
+
+This thesis seems absolutely correct to me. Observe that, for example, it is at the basis of my critique of painting and contrary also to all forms of anarchy, all nihilism, and finally, to arbitrary, existentialist theories, according to which it is not the cause incarnated in a necessity which creates value, but the goals that man proposes in complete freedom.
+
+For example, according to Sartre, a man needs water in the desert because he chooses life and not death. For Marxism, a living being is obliged to choose life and one cannot speak here of free choice.
+
+history according to the Marxist interpretation.
+
+The history of humanity comes from the necessity to technically dominate nature.
+
+Now, the growing consciousness of humanity lets him organize a society and a state which are above all a system for the production of goods.
+
+In this organization, one man must be subject to another, such that it is through the exploitation of one man by another that one arrives at the accumulation of goods. The man who forms a group is subject to the laws of the group, which wants to be strong, and this strength is the consequence of the exploitation of man by man. For example, the army which obeys a single man through generals, etc., or slaves or finally castes, different stages of the feudal systems, classes.
+
+It is man who obliges man to work.
+
+We thus reach the basic notion, so dear to Marxists.
+
+This basis is the mass of the exploited. The dominant class forms the superstructure which creates philosophy, religion, law, which in a word, *organizes consciousness.* All of this actually serves secretly to maintain the exploitation.
+
+Religion, for example, establishes that authority comes from God and the unfortunate of this world will find Paradise. The profound and unique meaning of religion is quite simply to transfer justice to another world.
+
+Christianity, which began as a revolution of slaves in Rome, nevertheless had a metaphysical component: God. But through the church He became an instrument of exploitation.
+
+When we look at prevailing morality, we see that it is mainly concerned with maintaining the right of ownership and imposing bourgeois morality on the proletariat.
+
+The essence of philosophy resides in a contemplative attitude. It does not want to change the world. It escapes into metaphysics. In short, it is reason separated from its foundation, a superstructure which seeks to hide its dependency. It seeks absolute values and it is not concerned with necessities. Our law is a system which seeks to consolidate the right of ownership and exploitation. You see here that Marxism reveals myth, just like Freudianism or Nietzsche. It consists in showing that behind our so-called “noble” feelings hide complexes, cowardice, and finally, the filth of life. One of the great merits of Nietzsche, who effectuated an extremely perspicacious critique of pure attitudes, is to have shown that our mind is made of the same material as everything else.
+
+All this leads us to discover, so to speak, man’s first nature. The second is a nature deformed by men, by the necessities of this system of exploitation that they call society, whose purpose is to produce goods by using other men. We are in an economic system which deforms our consciousness.
+
+You have seen how religion, morality, philosophy, law are made in order to mystify and to keep the slave in his bondage.
+
+Here we move on to the well-known theory of *surplus value.*
+
+Capitalists, that is to say, members of the upper class, buy labor as if it were merchandise, thus at the best possible price. This better price represents the bare minimum that the worker needs to eat and to father children.
+
+*Surplus value* is formed this way because the worker produces much more than what he is paid; the rest goes to capitalism.
+
+The worker always produces more than what he is paid.
+
+Such is *surplus value.* The worker’s labor is subject, like all merchandise, to Adam Smith’s famous economic law, according to which if supply is greater than demand, the value of the merchandise decreases.
+
+It is this law which explains the process of devaluation. To curb devaluation, supply, that is, production, must be increased.
+
+If the currency is devalued, we need more francs each time. As the surplus value goes into the capitalist’s pocket, then the workers, being poor, must offer their labor each time at lower prices. This is how the devaluation of labor and the increase of capital are produced, an anonymous force, outside the human element: that which produces the famous *alienation.*
+
+Alienated man, that is, he who cannot be himself, is obliged to serve as a machine instead of having his normal life.
+
+This theory is fine, but in my view, it does not apply to capitalism.
+
+Capital is used to create other wealth, but this exploitation of man by man is not done so much for the happiness of the individual. Capitalism is not exclusively beneficial to the capitalist, since if the capitalist is able to consume his money, he cannot buy more than one hundred hats or a yacht, etc., each year. Where does the rest of his money go? To other factories, other industries, etc., and this is the way that humanity’s technical power becomes greater each time. This exploitation of man by man is a fundamental necessity for human progress, which is extremely difficult for the individual.
+
+####And now we move on to the “sweets,” that is, to####
+
+*Revolution*
+================
+
+####Capitalism has this particularity: large capital consumes the smaller, and is concentrated in a very small group of men. Marx anticipated that because of this evolution of capital, on the one hand a small group of multimillionaires would form, and on the other, an enormous crowd of proletarians which *[sentence incomplete*].####
+
+####And this is how the proletarian revolution is going to happen, which is an inevitable necessity. Where in this regard is Marxism in i969?####
+
+####The big crisis in Marxism stems quite simply from the fact that—as shown by the situation in the####
+
+East—one works badly and produces very little. And why? Life is hard; if you do not force men to work, naturally they will not work.
+
+The paradox requires, and it is such an obvious paradox, all the bad faith of a certain left-wing faction not to recognize it: the only country in the world which has more or less liquidated the proletariat, except among the Blacks, is the glorious United States, that is, the capitalists. The Socialists, on the other hand, are going bankrupt everywhere for the simple reason that no one is interested either to produce, nor to force others to do so, because there is no interest at stake.
+
+Today the only hope for communists is for communism to work better in highly developed countries, which is sheer nonsense, since I only need to talk to my masseur five minutes to see that this is absolutely impossible, since man becomes even more egoistical in a rich society than in a poor society.
+
+*The Chinese.* This is pure Stalinism! Each Chinese person, in news reports on China, shouts like a soldier. It is a terror.
+
+Chinese production evidently increased, but it has not at all increased as one would believe! These last years were a great disillusionment.
+
+Marxism gives hope to the dispossessed.
+
+Marxist thought has served overall to unmask *[sentence incomplete*], but all philosophical thought is generally utopian and leads nowhere.
+
+For me, the Marxist question was absolutely badly put because they asked it from the moral point of view of “justice.” But the real problem is not moral, it is economic. To increase wealth is the priority, the distribution of wealth is a secondary thing.
+
+They ask the question from the moral point of view because it is easier, naturally, and permits making lovely sentences.
+
+We see, for example, that in the West the capitalist system succeeded in increasing production enormously, thanks above all to technology, so that the standard of living increased for everyone, whereas they get nowhere with the loveliest sentences. Production drops. Everything stays at the same level, everything slacks off in bureaucracy and anonymity.
+
+There is an elementary thing: if you allow men to deploy all their energy and their intelligence, inevitably one will dominate the other, one will be superior to the other. But in this case, you obtain a huge amount of energy, whereas if you want equality  between men, then naturally you must curb this possibility of superiority.
+
+####The future of Marxism?####
+
+####I imagine that in twenty or thirty years, they will discard Marxism.####
+
+####If the upper class remains as stupid and blind as it is now, and if it relinquishes power to the masses, then we must prepare for a period of regression which will last until the production of a new, strong upper class. But if the right stands firm and does not allow that “guilty conscience,” which is actually typical of Marxists, to be imposed on it, then the matter can be resolved by huge galloping advancements in technology, which, according to my rough calculations, can radically change the world in twenty or thirty years. We shall have little wings to fly . . .####
+
+####Fascism is a revolution backwards.####
+
+####The big defect in the upper class is that it is essentially a class of consumption. Consequently, it is accustomed to conveniences, becomes lazy, delicate, and degenerate. But now the upper class is increasingly composed of engineers, producers, scientists, intellectuals, lastly, some working people.####
+
+####I notice a misuse of language by the left which made fascism a terrifying thing. So, the word “worker” does not mean a physician who works hard from morning to night, but rather it means a street sweeper who works for five minutes and then looks at the wall, etc. You see that even language has been falsified.####
+
+Leftists are imperialists. They do not understand that they are aristocrats and the first thing that a revolution will do will be to liquidate them, as they did in Poland.
+
+According to Marxism, we are faced with a distorted humanity. It is exploitation which is the source of power. It is our consciousness which is distorted, because it adapted to a system of exploitation it does not want to admit to.
+
+Marxism is an attempt at demystification.
+
+In a philosophical sense, Marxism does not posit an exact idea of the world, but only a liberation of consciousness so that it may react in an authentic and not deformed way to the world and man.
+
+Realization of Marxism
+======================
+
+1. Marx’s thesis is that Marxism is an absolute historical necessity which occurs due to inexorable economic laws, by the concentration of capital in a little group that will be annihilated by the huge mass of the destitute. Marxists want to introduce the dictatorship of the proletariat, not democracy but dictatorship.
+
+What they call “popular democracy” is a camouflage. This dictatorship of the proletariat must definitively destroy the bourgeoisie and nationalize the means of production (mines, farmland, factories, industries, all forms of exploitation of the worker by the employer).
+
+In this first phase, that of dictatorship, it is the State which must dominate everything, to limit individual freedom and to introduce revolution into the world. In this first phase, each person will be paid according to his services.
+
+2. The second phase is the “celestial” phase of Marxism.
+
+It is a question of the gradual liquidation of the State. When human nature is changed, when we arrive at the standardization of consciousness, then, instead of a State, we shall have small “cooperative” organisms in which each person will freely adapt to a universal order based on justice: this is the dream of noble souls! In this idiotic phase, each person will be paid not according to his merits or services but according to his necessities. This is the postulate of justice, since every man has the right to live.
+
+Marxism
+========
+
+####This “radiant” phase will occur in a distant future, in an indeterminate time.####
+
+####Here is where the dialectic of Hegelian history enters, which is gradually going to achieve this transformation, as Marxism has quite a strong notion of imperfection. It knows that things can evolve only slowly and must pass through intermediary phases far from perfection.####
+
+####In this Marxist thought, the proletariat is a kind of saint, as well as being an elementary force.####
+
+1. The proletariat has nothing to lose nor to keep. Everything to destroy.
+
+2. It has only necessities. It is not corrupted by values.
+
+3. It is a class with a universal character, at the very root of all social structure.
+
+4. It is a victim of economic production.
+
+The liberation of the proletariat by revolution
+
+is a fundamental condition of all social order. And it is the liberation of need as a source of values.
+
+A second time. We see here that Marxism is not an ideology or a truth, it is just simply the freedom from human needs as a source of values.
+
+The revolution, therefore, is going to free *all *men from natural needs, and on the basis of this freedom, the values will be created by themselves. It must be clearly understood that Marxism is not a revolution of ideas but rather a revolution between concrete men. It is a liberation of man.
+
+The new ideas: future thought is unpredictable and will be created by itself in this new human order.
+
+The politics: organization of action in order to reach a goal.
+
+Praxis is conscious, practical action. According
+
+to Marx, thought must materialize in action. The idea must change itself into an historical force. Contemplation goes to hell.
+
+Marxism declares the impossibility of all nonmaterialized theory.
+
+Nietzsche
+=============
+
+Nietzsche, like Kant and Schopenhauer, was Polish!7
+
+1844 -1900
+
+Nietzsche: the nerves of Shelley, the stomach of Carlyle, and the soul of a young lady.
+
+Nietzsche’s immediate genealogy:
+
+Darwin (theory of evolution by struggle)
+
+####Spencer (English philosopher, theory of evolution from simple to compound, multiple)####
+
+####Bismarck####
+
+####Schopenhauer.####
+
+####Nietzsche was not a philosopher in the strict sense: he wrote aphorisms, some notes.####
+
+####In order to understand Nietzsche, it is necessary to understand an idea as simple as that of raising cows.####
+
+####A cattleman is going to try to improve the species in such a way that he will let the weakest cows die and will keep the strongest cows and bulls for breeding.####
+
+####All of Nietzschean morality finds its basis here.####
+
+####The human race is like all the others; it is improved by a struggle and a natural selection done by life itself.####
+
+####Here we see the most sensational and the most provocative aspect of this philosophy: it is the opposition to Christianity, which, according to Nietzsche, was a morality of the weak imposed on the strong, harmful to the human race and, therefore, immoral.####
+
+####Of course, this attitude was revolutionary and turned all the value systems upside down.####
+
+####Nietzsche—and this is his major distinction from Schopenhauer—*is on the side of life.*####
+
+####I point out to you that human thinking, beginning with Kant, increasingly looks for life, evolution, or existence. There is a deep concern of the mind which begins to distrust abstract systems and feels life itself is increasingly threatened.####
+
+####Now, Nietzsche, already in his first work on the source of Greek tragedy, set Dionysus (god of wine, of orgies, and of vital ecstasy) against Apollo (god of tranquillity, of esthetics, and of contemplation). In Greek tragedy, it is the chorus who represented Dionysus, while Apollo expressed himself through dialogue.####
+
+####Dionysus is the strength of the human race, of life, while Apollo is the individual, weak and mortal.####
+
+####This opposition between Apollo and Dionysus still appears today. Example: Beethoven. Nietzsche considers pessimism to be a weakness, condemned by life and optimism, a superficial (Canadian!) thing.*####
+
+####What remains?####
+
+####A leap into the depths: it is tragic optimism which remains for man, adoration of life and of its cruel laws, despite all the weakness of the individual.####
+
+In Greece, it is Socrates, Plato, and Aristotle who represent the equilibrium condemned by Nietzsche, while Euripides and Aristophanes proclaim vital law.
+
+Here it is necessary to provide a secondary clarification: why is Greece so important for us? Because in Greece, for the first time, rational man comes to fruition, man formed by Reason. So that is why Greek philosophy and art become so important for us, because all of Europe and modern humanity come from Greece.
+
+Nietzsche’s strength consisted of an extremely perspicacious and cruel critique of all our ideas, of the human soul, of morality and of philosophy. He demonstrated that philosophical thought does not come to fruition outside of life, as if philosophers looked at the world and its evolution from a distance, but this thought is bathed in life and always expresses life when it is not falsified.
+
+Nietzsche was a great forerunner in this sense, although he appropriated much from Schopenhauer, especially that which concerns freedom of instinct, even if in a completely opposite sense.
+
+For Nietzsche, life is not good, but we are condemned to life. This leads to paradoxes, such as his admiration for cruelty, harshness (without mercy), and for the whip, weapons. A “military” philosophy.
+
+In Nietzsche, we find three dominant concepts.
+
+In *Zarathustra* (of which he sold only forty copies and gave seven of them as gifts):
+
+1. God is dead. This means that humanity has reached its maturity. Faith in God is already anachronistic. Man ends up all alone in the cosmos. Nothing but life.
+
+2. (Stupid idea.) The ideal of the superman. Man is a transient phenomenon that must be overtaken. Man is thus problematic. He is a bridge and not an end in himself.
+
+His notion of man: we are nothing more than a means to reach a higher being. Now, love and devotion for this future man, the superman, are more important than love of others.
+
+3. The Eternal Return.
+
+This is originally an idea of scientific origin, born on the one hand from the notion of infinite time, and on the other, from the idea of causality.
+
+Entropy. Loss of energy through radiation.
+
+Nietzsche starts from an original cause which produces all the other causes, cause-effects, etc.
+
+Automatic process from cause to effect, thanks to which we arrive at the present moment.
+
+This will be exceeded by other cause-effects and finally will vanish, and again the first cause will return, etc., and we shall arrive again at the same situation.
+
+As time is infinite, this will repeat itself eternally.
+
+This is a naive and outmoded idea, because the idea of causality works only in the phenomenological world; it can be useful for science and can be verified through experimentation, but it is limited by our means of perception.
+
+We cannot therefore speak of the thing in itself, of God, of eternity.
+
+Nietzsche starts from a scientific idea of causality and constructs a metaphysical system of life.
+
+He was seduced by the supreme affirmation of
+
+life.
+
+Without God, there are no external laws.
+
+—The only law for Nietzsche is the affirmation of life.
+
+—It is an anti-Christian and atheistic philosophy.
+
+—It is not so easy to be an atheist.
+
+

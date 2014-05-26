@@ -1,0 +1,125 @@
+---
+title: Second Lesson
+book:
+    title: A Guide to Philosophy
+    author: Witold Gombrowicz
+category: philosophy
+permalink: /books/a_guide_to_philosophy/02_second_lesson.html
+date: 2014-04-12 22:16:00 +0800
+layout: book_page 
+---
+
+Second Lesson
+=============
+
+*Monday, April 28,1969*
+{: .text-right .small}
+
+###Kant: The Categories###
+
+Two elements do not belong to external reality, but are injected by us into the object: space and time.
+
+Space is not an object, but the condition for every possible object.
+
+The reasoning is the same for time.
+
+*Time* is not a thing that can be tested, but all things are *in* time.
+
+One can very well imagine time without phenomena, but it is impossible to imagine a phenomenon without time.
+
+Same argument for space.
+
+One cannot imagine different time (like objects: table, chair). Time is always the same. It does not derive from our observation of the external world but is a direct intuition, an intuitive knowledge, that is, an immediate knowledge.
+
+We need to add that time permits *a priori* synthetic judgments in arithmetic. The impressions that we have of the external world follow each other in succession; this is what arithmetic is about: 1-2-3-4. It is a sequence.
+
+*A priori* synthetic judgments are confirmed in experience because they are carried out in time. In the same way, all judgments related to mathematics are *a priori* synthetic judgments, confirmed by experience.
+
+*Transcendental Analysis*
+=============================
+
+Transcendental analysis takes the physical sciences as its object, since physics unites everything that we know about the world.
+
+I repeat: Kant does not speak much about consciousness, but rather about pure reason.
+
+Why?
+
+Because it involves an organized, rational knowledge, which appears in science. Here we arrive at a very beautiful Kantian inspiration which resembles the Copernican revolution. Just as Copernicus immobilized the sun and made the earth move, Kant demonstrates that *only the co-relativity of subject and object can form a reality.* The object must be seized by consciousness in order to form reality in time and space. In physics (Newton), we have direct knowledge about *a priori* things.
+
+Example, we can affirm forever (absolute) that all phenomena are subject to the law of causality and Newton’s famous law that action equals reaction, for instance *[sentence incomplete*].
+
+Once again: how can *a priori* synthetic judgments be possible in physics?
+
+Kant’s great coup: our knowledge pertaining to such things is expressed *by judgments.*
+
+Kant took up the classification of judgments according to Aristotelian logic (which was valid in Kant’s day).
+
+Aristotle’s judgments can be classified by the following criteria:
+
+1. *Quantity.* Example: individual judgments which relate to a single phenomenon. But if you make a judgment like: certain men are white, then you express a particular judgment.
+
+    One can also express as judgment that all men are mortal.
+
+2. *Quality*. Affirmative judgments A.
+
+#####negative ones B. infinitive ones C.#####
+
+(which lead to an infinite judgment: example, fish are not birds).
+
+Kant’s discovery consists in deducing—in eliciting*—a category* from each of these judgments.
+
+Example: A. affirmative judgment: “You are French.”
+
+(category: unity).
+
+B. particular judgment: “Certain men are mortal.”
+
+(category of multiple)
+
+C. universal judgment: “All men are mortal.”
+
+(category of the set: totality).
+
+Consciousness is the fundamental thing.
+
+Object-subject: nothing more.
+
+1. consciousness cannot be a mechanism, nor broken up into parts, because it has no parts. It is a whole.
+
+2. consciousness cannot be conditioned by science. It is what permits science, but science cannot explain something to us about consciousness.
+
+Consciousness is not the brain, nor the body, because I am conscious of my brain, but the brain cannot be conscious.
+
+take care not to imagine consciousness as an organism or an animal.
+
+There is an important boundary between science and philosophy. Science establishes its methods, its laws by experience. But it is valid only in the world of phenomena. Science can give us the connection between things, but not direct knowledge about the essence of things.
+
+In appearance, there is a contradiction, because if consciousness is the basic element, how can it have categories? How can one divide it like a scientifically analyzed mechanism?
+
+Categories, judgments, cannot belong to consciousness.
+
+In the Kantian corpus, consciousness judges itself. Kant’s fundamental problem is: *How is our knowledge of the world possible?* It is precisely our consciousness that realizes the limits of our consciousness. Here one could imagine that one takes a step back to form another consciousness, which judges the first. In that case a third consciousness must judge the second one, etc. (Husserl).
+
+But consciousness cannot be a judge. Consciousness (following Alain’s definition) means *knowing what one knows,* and nothing more. Even this definition is bad, because it divides consciousness. Consciousness is indivisible and unconditional. To tell the truth, in philosophy, one cannot say anything.
+
+What are Kant’s categories?
+
+Are these the conditions that make consciousness possible?
+
+In Kant (as I see it) there is this process: consciousness is judged from a distance by another consciousness. It is merely a question of establishing what the conditions of this first consciousness are for the second.
+
+It is only a matter of knowing what the indispensable conditions for this second consciousness are, in order that the first consciousness may be thought about without its elements. Consciousness is impossible for us to imagine.
+
+Kantian categories are the condition for a subject to be conscious of an object. But these conditions cannot have an absolute sense. Categories seem to us like the condition for every judgment about reality.
+
+It must be said (as with time) that the categories are within us. It is we who can capture reality by injecting categories.
+
+Nothing has remained of Kant’s fine theories, not even the most important category which comes from conditional judgment (hypothetical), for example:
+
+if I . . .
+
+therefore I . . .
+
+did not stay.
+
+But now philosophy deals with other things. These were formal discoveries, but significant ones, because they absolutely revolutionized the notion of consciousness, of the subject-object connection, thus of man and the universe.

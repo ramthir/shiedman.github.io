@@ -1,0 +1,329 @@
+---
+title: Romeo and Juliet
+tagline: Act III - Scene II
+category: play
+author: shakespeare
+date: 2014-05-26 17:35:26 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act3_scene2.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Juliet alone_
+
+**JULIET**
+
+Gallop apace, you fiery-footed steeds,
+Towards Phoebus' lodging! Such a [waggoner][1]
+As Phaëton would whip you to the West
+And bring in cloudy night immediately.
+Spread thy close curtain, love-performing night,
+That runaway's eyes may [wink][2], and Romeo
+Leap to these arms untalked of and unseen.
+Lovers can see to do their amorous rites
+By their own beauties; or, if love be blind,
+It best agrees with night. Come, [civil][3] night,
+Thou [sober-suited][4] matron, all in black,
+And [learn][5] me how to lose a winning match,
+Played for a pair of stainless maidenhoods.
+Hood my [unmanned][7] blood, [bating][6] in my cheeks,
+With thy black mantle till [strange][8] love grow bold,
+Think true love [act][9]ed simple modesty.
+Come, night. Come, Romeo. Come, thou day in night;
+For thou wilt lie upon the wings of night
+Whiter than new snow upon a raven's back.
+Come, [gentle][10] night. Come, loving, black-browed night.
+Give me my Romeo. And when I shall die,
+Take him and cut him out in little stars,
+And he will make the face of heaven so fine
+That all the world will be in love with night
+And pay no worship to the garish sun.
+O I have bought the mansion of a love,
+But not possessed it; and though I am sold,
+Not yet enjoyed. So tedious is this day
+As is the night before some festival
+To an impatient child that hath new robes
+And may not wear them.
+_Enter Nurse, wringing her hands, with the ladder of cords_
+O here comes my Nurse,
+And she brings news; and every tongue that speaks
+But Romeo's name speaks heavenly eloquence.
+Now, Nurse, what news? What, hast thou there the cords
+That Romeo bid thee fetch?
+
+[1]: {{page.q}}=5802 "waggoner, wagoner (n.): driver, charioteer"
+[2]: {{page.q}}=5803 "wink (v.) 2: [of the eyes] close, shut"
+[3]: {{page.q}}=3584 "civil (adj.) 2: seemly, decent, well-behaved"
+[4]: {{page.q}}=16460 "sober-suited (adj.): sedately dressed"
+[5]: {{page.q}}=19111 "learn (v.) 1: teach, instruct [not a regional dialect usage as in modern English]"
+[6]: {{page.q}}=1571 "bate (v.) 6: [falconry] beat the wings, flutter"
+[7]: {{page.q}}=7074 "unmanned (adj.): [falconry] untrained; also: without a husband"
+[8]: {{page.q}}=15986 "strange (adj.) 5: unfamiliar, unknown, not previously experienced"
+[9]: {{page.q}}=881 "act (v.) 2: enact, enforce, bring about"
+[10]: {{page.q}}=21269 "gentle (adj.) 6: soft, tender, kind"
+
+
+**NURSE**
+
+Ay, ay, the cords.
+_She throws them down_
+
+
+
+**JULIET**
+
+Ay me! what news? Why dost thou wring thy hands?
+
+
+
+**NURSE**
+
+Ah, weraday! He's dead, he's dead, he's dead!
+We are [undone][11], lady, we are undone!
+Alack the day! he's gone, he's killed, he's dead!
+
+[11]: {{page.q}}=7007 "undone (adj.): ruined, destroyed, brought down"
+
+
+**JULIET**
+
+Can heaven be so [envious][12]?
+
+[12]: {{page.q}}=9645 "envious (adj.): malicious, spiteful, vindictive, full of enmity"
+
+
+**NURSE**
+
+Romeo can,
+Though heaven cannot. O Romeo, Romeo!
+Who ever would have thought it? Romeo!
+
+
+
+**JULIET**
+
+What devil art thou that dost torment me thus?
+This torture should be roared in dismal hell.
+Hath Romeo slain himself? Say thou but ‘ Ay,’
+And that bare vowel ‘ I ’ shall poison more
+Than the death-darting eye of [cockatrice][13].
+I am not I, if there be such an ‘ I ’
+Or those eyes shut that makes thee answer ‘ I.’
+If he be slain, say ‘ Ay ’; or if not, ‘ No.’
+Brief sounds [determine][14] of my [weal][15] or woe.
+
+[13]: {{page.q}}=3443 "cockatrice (n.): murderous serpent, basilisk"
+[14]: {{page.q}}=8702 "determine (v.) 1: make a decision [about], reach a conclusion [about]"
+[15]: {{page.q}}=7562 "weal 2: welfare, well-being, prosperity"
+
+
+**NURSE**
+
+I saw the wound. I saw it with mine eyes –
+God save the mark! – here on his manly breast.
+A piteous [corse][16], a bloody piteous corse;
+Pale, pale as ashes, all bedaubed in blood,
+All in [gore-blood][17]. I [swound][18]ed at the sight.
+
+[16]: {{page.q}}=2740 "corse (n.): corpse, dead body"
+[17]: {{page.q}}=18048 "gore-blood (n.): gory blood, clotted blood"
+[18]: {{page.q}}=14123 "swound (v.): faint, swoon"
+
+
+**JULIET**
+
+O, [break][20], my heart! Poor [bankrupt][19], break at once!
+To prison, eyes; ne'er look on liberty!
+Vile earth, to earth resign; end motion here,
+And thou and Romeo press one [heavy][21] bier!
+
+[19]: {{page.q}}=1333 "bancrout, bankrout, bankerout (n./adj./v.): bankrupt"
+[20]: {{page.q}}=2403 "break (v.) 18: go bankrupt, become insolvent"
+[21]: {{page.q}}=18220 "heavy (adj.) 1: sorrowful, sad, gloomy"
+
+
+**NURSE**
+
+O Tybalt, Tybalt, the best friend I had!
+O courteous Tybalt, [honest][22] gentleman!
+That ever I should live to see thee dead!
+
+[22]: {{page.q}}=18190 "honest (adj.) 2: honourable, respectable, upright"
+
+
+**JULIET**
+
+What storm is this that blows so contrary?
+Is Romeo slaughtered, and is Tybalt dead,
+My dearest cousin and my dearer lord?
+Then, dreadful trumpet, sound the General [Doom][23]!
+For who is living, if those two are gone?
+
+[23]: {{page.q}}=8460 "doom (n.) 3: doomsday, day of judgement"
+
+
+**NURSE**
+
+Tybalt is gone, and Romeo banished;
+Romeo that killed him, he is banished.
+
+
+
+**JULIET**
+
+O God! Did Romeo's hand shed Tybalt's blood?
+
+
+
+**NURSE**
+
+It did, it did! Alas the day, it did!
+
+
+
+**JULIET**
+
+O serpent heart, hid with a flowering face!
+Did ever dragon keep so fair a cave?
+Beautiful [tyrant][24]! fiend angelical!
+Dove-feathered raven! [Wolvish-ravening][25] lamb!
+Despised substance of divinest show!
+Just opposite to what thou [justly][26] seemest –
+A damned saint, an honourable villain!
+O nature, what hadst thou to do in hell
+When thou didst [bower][27] the spirit of a fiend
+In [mortal][28] paradise of such sweet flesh?
+Was ever book containing such vile [matter][29]
+So fairly bound? O, that deceit should dwell
+In such a gorgeous palace!
+
+[24]: {{page.q}}=6207 "tyrant (n.) 1: pitiless ruffian, cruel villain"
+[25]: {{page.q}}=5804 "wolvish-ravening (adj.): devouring like a wolf"
+[26]: {{page.q}}=18842 "justly (adv.): exactly, precisely, closely"
+[27]: {{page.q}}=1746 "bower (v.): enclose, fence in"
+[28]: {{page.q}}=10701 "mortal (adj.) 2: human, subject to death, characterized by mortality"
+[29]: {{page.q}}=10417 "matter (n.) 1: subject-matter, content, substance"
+
+
+**NURSE**
+
+There's no trust,
+No faith, no honesty in men; all perjured,
+All [forsworn][31], all [naught][32], all [dissembler][30]s.
+Ah, where's my man? Give me some [aqua vitae][33].
+These griefs, these woes, these sorrows make me old.
+Shame come to Romeo!
+
+[30]: {{page.q}}=9100 "dissembler (n.): hypocrite, deceiver, charlatan"
+[31]: {{page.q}}=19872 "forswear (v), past forms forsworn, forswore 1: swear falsely, perjure [oneself], break one's word"
+[32]: {{page.q}}=11422 "naught, nought (adj.) 3: bad, wicked, sinful"
+[33]: {{page.q}}=273 "aqua-vitae (n.): spirits, alcohol, strong drink, brandy"
+
+
+**JULIET**
+
+Blistered be thy tongue
+For such a wish! He was not born to shame.
+Upon his [brow][34] shame is ashamed to sit.
+For 'tis a throne where honour may be crowned
+Sole monarch of the universal earth.
+O, what a beast was I to [chide][35] at him!
+
+[34]: {{page.q}}=2299 "brow (n.) 4: forehead [often plural, referring to the two prominences of the forehead]"
+[35]: {{page.q}}=4299 "chide (v.), past form chid 1: scold, rebuke, reprove"
+
+
+**NURSE**
+
+Will you speak well of him that killed your cousin?
+
+
+
+**JULIET**
+
+Shall I speak ill of him that is my husband?
+Ah, poor my lord, what tongue shall [smooth][36] thy name
+When I, thy three-hours wife, have mangled it?
+But wherefore, villain, didst thou kill my cousin?
+That villain cousin would have killed my husband.
+Back, foolish tears, back to your native spring!
+Your [tributary][37] drops belong to woe,
+Which you, mistaking, offer up to joy.
+My husband lives, that Tybalt would have slain;
+And Tybalt's dead, that would have slain my husband.
+All this is comfort. Wherefore weep I then?
+Some word there was, worser than Tybalt's death,
+That murdered me. I would forget it [fain][38].
+But O, it presses to my memory
+Like damned guilty deeds to sinners' minds!
+‘ Tybalt is dead, and Romeo – banished.’
+That ‘ banished,’ that one word ‘ banished,’
+Hath slain ten thousand Tybalts. Tybalt's death
+Was woe enough, if it had ended there;
+Or, if sour woe delights in fellowship
+And [needly][39] will be [rank][40]ed with other griefs,
+Why followed not, when she said ‘ Tybalt's dead,’
+Thy father, or thy mother, nay, or both,
+Which [modern][41] lamentation might have moved?
+But with a [rearward][42] following Tybalt's death,
+‘ Romeo is banished ’ – to speak that word
+Is father, mother, Tybalt, Romeo, Juliet,
+All slain, all dead. ‘ Romeo is banished ’ –
+There is no end, no limit, measure, bound,
+In that word's death. No words can that woe [sound][43].
+Where is my father and my mother, Nurse?
+
+[36]: {{page.q}}=15987 "smooth (v.) 4: defend, gild, speak well of"
+[37]: {{page.q}}=6432 "tributary (adj.): paying a tribute, contributory"
+[38]: {{page.q}}=19773 "fain (adv.): gladly, willingly"
+[39]: {{page.q}}=11532 "needly (adv.): of necessity, unavoidably"
+[40]: {{page.q}}=17320 "rank (v.) 3: find, accompany [by]"
+[41]: {{page.q}}=10459 "modern (adj.): ordinary, trite, commonplace, everyday"
+[42]: {{page.q}}=17315 "rearward (n.) 2: rearguard action"
+[43]: {{page.q}}=15614 "sound (v.) 3: cry out, declare, proclaim"
+
+
+**NURSE**
+
+Weeping and wailing over Tybalt's [corse][44].
+Will you go to them? I will bring you thither.
+
+[44]: {{page.q}}=2740 "corse (n.): corpse, dead body"
+
+
+**JULIET**
+
+Wash they his wounds with tears. Mine shall be [spent][45],
+When theirs are dry, for Romeo's banishment.
+Take up those cords. Poor ropes, you are [beguile][46]d,
+Both you and I, for Romeo is exiled.
+He made you for a highway to my bed,
+But I, a maid, die maiden-widowed.
+Come, cords. Come, Nurse. I'll to my wedding bed,
+And death, not Romeo, take my maidenhead!
+
+[45]: {{page.q}}=14944 "spend (v.) 1: use up, wear out, exhaust, bring to an end"
+[46]: {{page.q}}=1438 "beguile (v.) 1: cheat, deceive, trick"
+
+
+**NURSE**
+
+[Hie][47] to your chamber. I'll find Romeo
+To comfort you. I [wot][48] well where he is.
+Hark ye, your Romeo will be here at night.
+I'll to him. He is hid at Laurence' cell.
+
+[47]: {{page.q}}=18172 "hie (v.): hasten, hurry, speed"
+[48]: {{page.q}}=7655 "wot (v.) 1: learn, know, be told"
+
+
+**JULIET**
+
+O, find him! Give this ring to my true knight
+And bid him come to take his last farewell.
+_Exit Juliet with Nurse_
+
+
+

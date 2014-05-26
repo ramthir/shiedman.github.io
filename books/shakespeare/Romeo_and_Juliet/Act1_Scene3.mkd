@@ -1,0 +1,303 @@
+---
+title: Romeo and Juliet
+tagline: Act I - Scene III
+category: play
+author: shakespeare
+date: 2014-05-26 13:43:18 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act1_scene3.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Lady Capulet and Nurse_
+
+**LADY CAPULET**
+
+Nurse, where's my daughter? Call her forth to me.
+
+
+
+**NURSE**
+
+Now, by my [maidenhead][1] at twelve year old,
+I bade her come. What, lamb! What, ladybird! –
+God forbid! – Where's this girl? What, Juliet!
+_Enter Juliet_
+
+[1]: {{page.q}}=10517 "maidenhead (n.) 1: virginity"
+
+
+**JULIET**
+
+How now? who calls?
+
+
+
+**NURSE**
+
+Your mother.
+
+
+
+**JULIET**
+
+Madam, I am here. What is your will?
+
+
+
+**LADY CAPULET**
+
+This is the [matter][2] – Nurse, give leave awhile.
+We must talk in secret. – Nurse, come back again.
+I have [remember][3]ed me, [thou's][4] hear our counsel.
+Thou knowest my daughter's of a pretty age.
+
+[2]: {{page.q}}=10513 "matter (n.) 4: affair(s), business, real issue"
+[3]: {{page.q}}=16705 "remember (v.) 2: recollect, recall, call to mind"
+[4]: {{page.q}}=16420 "'s (pron.) 2: contracted form of ‘shall’"
+
+
+**NURSE**
+
+Faith, I can tell her age unto an hour.
+
+
+
+**LADY CAPULET**
+
+She's not fourteen.
+
+
+
+**NURSE**
+
+I'll lay fourteen of my teeth –
+And yet, to my [teen][5] be it spoken, I have but four –
+She is not fourteen. How long is it now
+To Lammastide?
+
+[5]: {{page.q}}=5981 "teen (n.): trouble, grief, suffering"
+
+
+**LADY CAPULET**
+
+A fortnight and odd days.
+
+
+
+**NURSE**
+
+Even or odd, of all days in the year,
+Come Lammas Eve at night shall she be fourteen.
+Susan and she – God rest all Christian souls! –
+Were of an age. Well, Susan is with God.
+She was too good for me. But, as I said,
+On Lammas Eve at night shall she be fourteen.
+That shall she, marry! I remember it well.
+'Tis since the earthquake now eleven years;
+And she was weaned – I never shall forget it –
+Of all the days of the year, upon that day.
+For I had then laid [wormwood][7] to my [dug][6],
+Sitting in the sun under the dovehouse wall.
+My lord and you were then at Mantua.
+Nay, I do bear a brain. But, as I said,
+When it did taste the wormwood on the nipple
+Of my dug and felt it bitter, pretty fool,
+To see it [tetchy][8] and fall out wi' th' dug!
+Shake, [quoth][9] the dovehouse! 'Twas no need, I trow,
+To bid me [trudge][10].
+And since that time it is eleven years.
+For then she could stand [high-lone][11]. Nay, by th' rood,
+She could have run and waddled all about.
+For even the day before she [broke][12] her [brow][13].
+And then my husband – God be with his soul!
+'A was a merry man – took up the child.
+‘ Yea,’ quoth he, ‘ dost thou fall upon thy face?
+Thou wilt fall backward when thou hast more [wit][14].
+Wilt thou not, Jule?’ And, by my holidam,
+The pretty wretch left crying and said ‘ Ay.’
+To see now how a jest shall [come][15] about!
+I [warrant][16], an I should live a thousand years,
+I never should forget it. ‘ Wilt thou not, Jule?’ quoth he,
+And, pretty fool, it [stint][17]ed and said ‘ Ay.’
+
+[6]: {{page.q}}=8577 "dug (n.): nipple, teat, breast"
+[7]: {{page.q}}=7603 "wormwood (n.) 1: absinthe plant, known for its bitter taste"
+[8]: {{page.q}}=6213 "tetchy, teachy (adj.): irritable, peevish, fretful"
+[9]: {{page.q}}=13725 "quoth (v.): said"
+[10]: {{page.q}}=5573 "trudge (v.): go away, depart, leave"
+[11]: {{page.q}}=18707 "high-lone (adv.): upright by oneself, without support"
+[12]: {{page.q}}=1903 "break (v.) 11: graze, bruise, cut open"
+[13]: {{page.q}}=2299 "brow (n.) 4: forehead [often plural, referring to the two prominences of the forehead]"
+[14]: {{page.q}}=7583 "wit (n.) 1: intelligence, wisdom, good sense, mental ability"
+[15]: {{page.q}}=4728 "come about (v.) 1: turn out to be true, be fulfilled"
+[16]: {{page.q}}=7550 "warrant (v.) 1: assure, promise, guarantee, confirm"
+[17]: {{page.q}}=15972 "stint (v.) 1: cease, stop short"
+
+
+**LADY CAPULET**
+
+Enough of this. I pray thee hold thy peace.
+
+
+
+**NURSE**
+
+Yes, madam. Yet I cannot choose but laugh
+To think it should leave crying and say ‘ Ay.’
+And yet, I warrant, it had upon it [brow][18]
+A bump as big as a young cockerel's [stone][19],
+A perilous knock. And it cried bitterly.
+‘ Yea,’ quoth my husband, ‘ fallest upon thy face?
+Thou wilt fall backward when thou comest to age.
+Wilt thou not, Jule?’ It stinted, and said ‘ Ay.’
+
+[18]: {{page.q}}=2299 "brow (n.) 4: forehead [often plural, referring to the two prominences of the forehead]"
+[19]: {{page.q}}=15973 "stone (n.) 4: testicle"
+
+
+**JULIET**
+
+And [stint][20] thou too, I pray thee, Nurse, say I.
+
+[20]: {{page.q}}=15972 "stint (v.) 1: cease, stop short"
+
+
+**NURSE**
+
+Peace, I have done. God mark thee to his grace!
+Thou wast the prettiest babe that e'er I nursed.
+An I might live to see thee married [once][21],
+I have my wish.
+
+[21]: {{page.q}}=11969 "once (adv.) 3: one day, some time"
+
+
+**LADY CAPULET**
+
+Marry, that ‘ marry ’ is the very theme
+I came to talk of. Tell me, daughter Juliet,
+How stands your [disposition][22]s to be married?
+
+[22]: {{page.q}}=8440 "disposition (n.) 3: inclination, mood, frame of mind"
+
+
+**JULIET**
+
+It is an honour that I dream not of.
+
+
+
+**NURSE**
+
+An honour! Were not I thine only nurse,
+I would say thou hadst sucked wisdom from thy teat.
+
+
+
+**LADY CAPULET**
+
+Well, think of marriage now. Younger than you,
+Here in Verona, ladies of esteem
+Are made already mothers. By my count,
+I was your mother much upon these years
+That you are now a maid. Thus then in brief:
+The valiant Paris seeks you for his love.
+
+
+
+**NURSE**
+
+A man, young lady! Lady, such a man
+As all the world – why, he's a [man][23] of wax.
+
+[23]: {{page.q}}=11100 "man of wax: faultless, perfect [as of a wax model]"
+
+
+**LADY CAPULET**
+
+Verona's summer hath not such a flower.
+
+
+
+**NURSE**
+
+Nay, he's a flower; in faith, a very flower.
+
+
+
+**LADY CAPULET**
+
+What say you? Can you love the gentleman?
+This night you shall behold him at our feast.
+Read o'er the volume of young Paris' face,
+And find delight writ there with beauty's pen.
+Examine every [married][25] [lineament][24],
+And see how one another lends [content][26].
+And what obscured in this fair volume lies
+Find written in the [margent][27] of his eyes.
+This precious book of love, this unbound lover,
+To beautify him only lacks a cover.
+The fish lives in the sea, and 'tis much pride
+For fair without the fair within to hide.
+That book in many's eyes doth share the glory,
+That in gold clasps locks in the golden story.
+So shall you share all that he doth possess,
+By having him making yourself no less.
+
+[24]: {{page.q}}=15354 "lineament (n.) 1: line, feature, characteristic, attribute"
+[25]: {{page.q}}=11101 "married (adj.): joined in harmony, well-proportioned"
+[26]: {{page.q}}=2803 "content (n.) 1: pleasure, satisfaction, happiness"
+[27]: {{page.q}}=10404 "margent (n.) 1: margin [of a page, where an explanatory note would be found]"
+
+
+**NURSE**
+
+No less? Nay, bigger! Women grow by men.
+
+
+
+**LADY CAPULET**
+
+Speak briefly, can you like of Paris' love?
+
+
+
+**JULIET**
+
+I'll look to like, if looking liking move.
+But no more deep will I [endart][28] mine eye
+Than your consent gives strength to make it fly.
+_Enter Servingman_
+
+[28]: {{page.q}}=10220 "endart (v.): embed, bury, send in [as an arrow]"
+
+
+**SERVANT**
+
+Madam, the guests are come, supper served
+up, you called, my young lady asked for, the Nurse
+cursed in the pantry, and everything in extremity. I
+must hence to [wait][30]. I beseech you follow [straight][29].
+
+[29]: {{page.q}}=14086 "straight (adv.): straightaway, immediately, at once"
+[30]: {{page.q}}=8131 "wait (v.): be in attendance, do service"
+
+
+**LADY CAPULET**
+
+We follow thee.
+_Exit Servingman_
+Juliet, the County stays.
+
+
+
+**NURSE**
+
+Go, girl, seek happy nights to happy days.
+_Exeunt_
+
+
+

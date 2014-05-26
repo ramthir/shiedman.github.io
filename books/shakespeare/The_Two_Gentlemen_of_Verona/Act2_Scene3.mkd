@@ -1,0 +1,143 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act II - Scene III
+category: play
+author: shakespeare
+source: http://www.shakespeareswords.com/Plays.aspx?Ac=2&SC=3&IdPlay=5
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act2_scene3.html
+layout: book_page
+tag: [ shakespeare  ]
+creation: 1589-1593
+date: 2014-03-28 08:58:00 +0800
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+Enter Launce with his dog, Crab
+
+**LAUNCE**
+
+Nay, 'twill be this hour ere I have done weeping;
+all the [kind][1] of the Launces have this very fault. I have
+received my [proportion][3], like the [prodigious][2] son, and am
+going with Sir Proteus to the [Imperial][4]'s court. I think
+Crab my dog be the sourest-natured dog that lives. My
+mother weeping, my father wailing, my sister crying,
+our maid howling, our cat wringing her hands, and all
+our house in a great perplexity; yet did not this cruel-hearted
+cur shed one tear. He is a stone, a very pebble-stone,
+and has no more pity in him than a dog. A Jew
+would have wept to have seen our [parting][5]. Why, my
+grandam, having no eyes, look you, wept herself blind
+at my parting. Nay, I'll show you the manner of it.
+This shoe is my father. No, this left shoe is my father.
+No, no, this left shoe is my mother. Nay, that cannot be
+so neither. Yes, it is so, it is so; it hath the worser sole.
+This shoe with the hole in it is my mother, and this my
+father. A vengeance on't, there 'tis. Now, sir, this staff
+is my sister; for, look you, she is as white as a lily, and
+as [small][6] as a wand. This hat is Nan our maid. I am the
+dog. No, the dog is himself, and I am the dog. O, the
+dog is me, and I am myself. Ay, so, so. Now come I to
+my father: ‘ Father, your blessing.’ Now should not the
+shoe speak a word for weeping. Now should I kiss my
+father; well, he weeps on. Now come I to my mother.
+O, that she could speak now like an old woman! Well,
+I kiss her. Why, there 'tis; here's my mother's breath [up][7]
+and down. Now come I to my sister. [Mark][8] the moan she
+makes. Now the dog all this while sheds not a tear, nor
+speaks a word; but see how I [lay][9] the dust with my tears.
+Enter Panthino
+
+[1]: {{page.q}}=15287  "kind (n.) 5: breed, lineage, stock, family"
+[2]: {{page.q}}=13201  "prodigious (adj.) 3: malapropism for ‘prodigal’"
+[3]: {{page.q}}=13200  "proportion (n.) 11: malapropism for ‘portion’ [= share of the estate]"
+[4]: {{page.q}}=5173  "imperial (n.): emperor, imperial personage"
+[5]: {{page.q}}=13202  "parting (n.): departure, leave-taking, setting-out"
+[6]: {{page.q}}=15636  "small (adj.) 1: slender, slim"
+[7]: {{page.q}}=6977  "up and down (adv.): exactly, completely, in every respect"
+[8]: {{page.q}}=10405  "mark (v.) 1: note, pay attention [to], take notice [of]"
+[9]: {{page.q}}=19550  "lay (v.) 7: keep down, make subside"
+
+**PANTHINO**
+
+Launce, away, away! Aboard! Thy master is
+shipped, and thou art to [post][10] after with oars. What's the
+matter? Why weepest thou, man? Away, ass, you'll lose
+the tide, if you [tarry][11] any longer.
+
+[10]: {{page.q}}=12224  "post (v.) 1: hasten, speed, ride fast"
+[11]: {{page.q}}=5567  "tarry (v.) 1: stay, remain, linger"
+
+**LAUNCE**
+
+It is no matter if the tied were lost, for it is the
+unkindest tied that ever any man tied.
+
+
+**PANTHINO**
+
+What's the unkindest tide?
+
+
+**LAUNCE**
+
+Why, he that's tied here, Crab, my dog.
+
+
+**PANTHINO**
+
+Tut, man, I mean thou'lt lose the flood; and,
+in losing the flood, lose thy voyage; and, in losing thy
+voyage, lose thy master; and, in losing thy master, lose
+thy service; and, in losing thy service – Why dost thou
+stop my mouth?
+
+
+**LAUNCE**
+
+For fear thou shouldst lose thy tongue.
+
+
+**PANTHINO**
+
+Where should I lose my tongue?
+
+
+**LAUNCE**
+
+In thy tale.
+
+
+**PANTHINO**
+
+In my tail!
+
+
+**LAUNCE**
+
+Lose the tide, and the voyage, and the master,
+and the service, and the tied. Why, man, if the river
+were dry, I am able to fill it with my tears. If the wind
+were down, I could drive the boat with my sighs.
+
+
+**PANTHINO**
+
+Come, come away, man. I was sent to call
+thee.
+
+
+**LAUNCE**
+
+Sir, call me what thou darest.
+
+
+**PANTHINO**
+
+Wilt thou go?
+
+
+**LAUNCE**
+
+Well, I will go.
+Exeunt

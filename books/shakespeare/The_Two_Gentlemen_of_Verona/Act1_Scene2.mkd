@@ -1,0 +1,528 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act I - Scene II
+category: play
+author: shakespeare
+source: http://www.shakespeareswords.com/Plays.aspx?Ac=1&SC=2&IdPlay=5
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act1_scene2.html
+layout: book_page
+tag: [ shakespeare ]
+creation: 1589-1593
+date: 2014-03-28 04:39:00 +0800
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+Enter Julia and Lucetta
+
+
+**JULIA**
+
+But say, Lucetta, now we are alone,
+Wouldst thou then counsel me to fall in love?
+
+
+**LUCETTA**
+
+Ay, madam, so you stumble not [unheedfully][1].
+
+[1]: {{page.q}}=6976  "unheedfully (adv.): heedlessly, carelessly, inattentively"
+
+**JULIA**
+
+Of all the fair [resort][2] of gentlemen
+That every day with [parle][3] encounter me,
+In thy opinion which is worthiest love?
+
+[2]: {{page.q}}=17169  "resort (n.) 3: crowd, gathering, company"
+[3]: {{page.q}}=13195  "parle, parley (n.) 3: talk, conversation, discourse"
+
+**LUCETTA**
+
+Please you repeat their names, I'll show my mind
+According to my shallow simple skill.
+
+
+**JULIA**
+
+What thinkest thou of the fair Sir Eglamour?
+
+
+**LUCETTA**
+
+As of a knight well-spoken, [neat][4], and fine;
+But, were I you, he never should be mine.
+
+[4]: {{page.q}}=11391  "neat (adj.) 1: posh, elegant, trim, refined"
+
+**JULIA**
+
+What thinkest thou of the rich Mercatio?
+
+
+**LUCETTA**
+
+Well of his wealth; but of himself, so so.
+
+
+**JULIA**
+
+What thinkest thou of the [gentle][5] Proteus?
+
+[5]: {{page.q}}=17495  "gentle (adj.) 1: well-born, honourable, noble"
+
+**LUCETTA**
+
+Lord, lord, to see what folly reigns in us!
+
+
+**JULIA**
+
+How now, what means this [passion][6] at his name?
+
+[6]: {{page.q}}=12161  "passion (n.) 5: passionate outburst, emotional passage"
+
+**LUCETTA**
+
+Pardon, dear madam; 'tis a [passing][7] shame
+That I, unworthy body as I am,
+Should [censure][8] thus on [lovely][9] gentlemen.
+
+[7]: {{page.q}}=13188  "passing (adj.) 1: unsurpassed, extreme, pre-eminent"
+[8]: {{page.q}}=4181  "censure (v.) 3: pass judgement on, condemn, pronounce sentence on"
+[9]: {{page.q}}=15345  "lovely (adj.): loving, amorous"
+
+**JULIA**
+
+Why not on Proteus, as of all the rest?
+
+
+**LUCETTA**
+
+Then thus: of many good, I think him best.
+
+
+**JULIA**
+
+Your reason?
+
+
+**LUCETTA**
+
+I have no other but a woman's reason:
+I think him so, because I think him so.
+
+
+**JULIA**
+
+And wouldst thou have me cast my love on him?
+
+
+**LUCETTA**
+
+Ay, if you thought your love not cast away.
+
+
+**JULIA**
+
+Why, he, of all the rest, hath never [move][10]d me.
+
+[10]: {{page.q}}=10983  "move (v.) 9: woo, make a proposal to, make a move towards"
+
+**LUCETTA**
+
+Yet he, of all the rest, I think best loves ye.
+
+
+**JULIA**
+
+His little speaking shows his love but small.
+
+
+**LUCETTA**
+
+Fire that's closest kept burns most of all.
+
+
+**JULIA**
+
+They do not love that do not show their love.
+
+
+**LUCETTA**
+
+O, they love least that let men know their love.
+
+
+**JULIA**
+
+I would I knew his mind.
+
+
+**LUCETTA**
+
+Peruse this paper, madam.
+
+
+**JULIA**
+
+(reads)
+To Julia. – Say, from whom?
+
+
+**LUCETTA**
+
+That the contents will show.
+
+
+**JULIA**
+
+Say, say, who gave it thee?
+
+
+**LUCETTA**
+
+Sir Valentine's page; and sent, I think, from Proteus.
+He would have given it you; but I, being in the way,
+Did in your name receive it; pardon the fault, I pray.
+
+
+**JULIA**
+
+Now, by my modesty, a goodly [broker][11]!
+Dare you presume to harbour [wanton][12] lines?
+To whisper and [conspire][13] against my youth?
+Now, [trust][15] me, 'tis an [office][14] of great worth,
+And you an officer fit for the [place][16].
+There take the paper. See it be returned,
+Or else return no more into my sight.
+
+[11]: {{page.q}}=1817  "broker, broker-between (n.): go-between, intermediary, agent"
+[12]: {{page.q}}=8273  "wanton (adj.) 2: casual, gentle"
+[13]: {{page.q}}=1172  "conspire (v.): practise, contrive, plot"
+[14]: {{page.q}}=11646  "office (n.) 2: role, position, place, function"
+[15]: {{page.q}}=5736  "trust me: believe me"
+[16]: {{page.q}}=13296  "place (n.) 1: position, post, office, rank"
+
+**LUCETTA**
+
+To plead for love deserves more fee than hate.
+
+
+**JULIA**
+
+Will ye be gone?
+
+
+**LUCETTA**
+
+              That you may ruminate.
+
+Exit
+
+
+**JULIA**
+
+And yet I would I had [o'erlooked][17] the letter.
+It were a shame to call her back again,
+And pray her to a fault for which I [chid][18] her.
+What ' fool is she, that knows I am a maid,
+And would not force the letter to my view,
+Since maids, in modesty, say no to that
+Which they would have the profferer [construe][19] ay.
+Fie, fie! How [wayward][20] is this foolish love,
+That, like a [testy][21] babe, will scratch the nurse,
+And [presently][22], all humbled, kiss the rod.
+How churlishly I [chid][23] Lucetta hence,
+When willingly I would have had her here.
+How [angerly][24] I taught my [brow][25] to frown,
+When inward joy enforced my heart to smile.
+My penance is to call Lucetta back
+And ask [remission][26] for my folly past.
+What ho! Lucetta!
+Enter Lucetta
+
+[17]: {{page.q}}=11632  "overlook (v.) 1: look over, peruse, read through"
+[18]: {{page.q}}=4299  "chide (v.), past form chid 1: scold, rebuke, reprove"
+[19]: {{page.q}}=3501  "construe (v.) 2: take as, interpret as"
+[20]: {{page.q}}=7756  "wayward (adj.) 1: perverse, unreasonable, awkward"
+[21]: {{page.q}}=6250  "testy (adj.): irritable, peevish, short-tempered"
+[22]: {{page.q}}=12248  "presently (adv.) 1: immediately, instantly, at once"
+[23]: {{page.q}}=4464  "chide (v.), past form chid 4: brusquely command, drive [away] with harsh words"
+[24]: {{page.q}}=403  "angerly (adv.): angrily, grouchily, testily"
+[25]: {{page.q}}=1820  "brow (n.) 1: appearance, aspect, countenance"
+[26]: {{page.q}}=17195  "remission (n.) 1: pardon, forgiveness"
+
+**LUCETTA**
+
+                 What would your ladyship?
+
+
+**JULIA**
+
+Is't near dinner-time?
+
+
+**LUCETTA**
+
+                  I would it were,
+That you might [kill][27] your [[stomach][29]][28] on your meat,
+And not upon your maid.
+She drops and picks up the letter
+
+[27]: {{page.q}}=19045  "kill (v.) 1: satisfy, allay, subdue, put an end to"
+[28]: {{page.q}}=14147  "stomach (n.) 5: anger, resentment, vexation"
+[29]: {{page.q}}=14150  "stomach (n.) 1: appetite, desire [for food]"
+
+**JULIA**
+
+What is't that you took up so gingerly?
+
+
+**LUCETTA**
+
+Nothing.
+
+
+**JULIA**
+
+Why didst thou stoop then?
+
+
+**LUCETTA**
+
+To take a paper up that I let fall.
+
+
+**JULIA**
+
+And is that paper nothing?
+
+
+**LUCETTA**
+
+Nothing concerning me.
+
+
+**JULIA**
+
+Then let it lie for those that it concerns.
+
+
+**LUCETTA**
+
+Madam, it will not lie where it [concern][30]s,
+Unless it have a [false][31] interpreter.
+
+[30]: {{page.q}}=3502  "concern (v.) 2: be of importance, be of concern"
+[31]: {{page.q}}=20346  "false (adj.) 5: defective, weak, inadequate"
+
+**JULIA**
+
+Some love of yours hath writ to you in rhyme.
+
+
+**LUCETTA**
+
+That I might sing it, madam, to a tune.
+Give me a [note][32]; your ladyship can [set][33].
+
+[32]: {{page.q}}=11302  "note (n.) 11: melody, tune, music, song"
+[33]: {{page.q}}=15584  "set (v.) 8: compose a tune, write the music"
+
+**JULIA**
+
+As little by such [toy][34]s as may be possible.
+Best sing it to the tune of ‘ Light o' love.’
+
+[34]: {{page.q}}=5477  "toy (n.) 1: whim, caprice, trifling matter"
+
+**LUCETTA**
+
+It is too [[heavy][36]][35] for so light a tune.
+
+[35]: {{page.q}}=18156  "heavy (adj.) 2: grave, serious, weighty"
+[36]: {{page.q}}=18220  "heavy (adj.) 1: sorrowful, sad, gloomy"
+
+**JULIA**
+
+Heavy? [Belike][37] it hath some [burden][38] then?
+
+[37]: {{page.q}}=1442  "belike (adv.): probably, presumably, perhaps, so it seems"
+[38]: {{page.q}}=1826  "burden, burthen (n.) 1: refrain, chorus"
+
+**LUCETTA**
+
+Ay, and melodious were it, would you sing it.
+
+
+**JULIA**
+
+And why not you?
+
+
+**LUCETTA**
+
+                  I cannot reach so high.
+
+
+**JULIA**
+
+Let's see your song. How now, [minion][39]!
+Julia snatches at the letter which Lucetta retains
+
+[39]: {{page.q}}=10629  "minion (n.) 2: hussy, jade, minx"
+
+**LUCETTA**
+
+Keep [tune][40] there still, so you will sing it out;
+And yet [methinks][41] I do not like this tune.
+Julia seizes the letter
+
+[40]: {{page.q}}=6020  "tune (n.) 1: state of mind, mood"
+[41]: {{page.q}}=10439  "methinks(t), methought(s) (v.): it seems /seemed to me"
+
+**JULIA**
+
+You do not?
+
+
+**LUCETTA**
+
+                  No, madam; it is too [sharp][42].
+
+[42]: {{page.q}}=16423  "sharp (adj.) 3: high-pitched, shrill, out-of-tune"
+
+
+**JULIA**
+
+You, minion, are too saucy.
+
+
+**LUCETTA**
+
+Nay, now you are too flat;
+And mar the concord with too harsh a [descant][43].
+There [want][45]eth but a [mean][44] to fill your song.
+
+[43]: {{page.q}}=8570  "descant (n.): melodious accompaniment, tuneful variation"
+[44]: {{page.q}}=10851  "mean (n.) 11: middle-part singer, tenor, alto"
+[45]: {{page.q}}=7539  "want (v.) 1: lack, need, be without"
+
+**JULIA**
+
+The mean is drowned with your unruly bass.
+
+
+**LUCETTA**
+
+Indeed, I [bid][46] the bass for Proteus.
+
+[46]: {{page.q}}=2249  "bid the base / bass: challenge someone to a chase [from ‘prisoner's base’, a boy's chasing game]"
+
+**JULIA**
+
+This babble shall not henceforth trouble me.
+Here is a [coil][47] with [protestation][48].
+She tears the letter
+Go, get you gone, and let the papers lie.
+You would be fingering them, to anger me.
+
+[47]: {{page.q}}=3613  "coil (n.): turmoil, disturbance, fuss"
+[48]: {{page.q}}=13196  "protestation (n.): solemn declaration, affirmation"
+
+**LUCETTA**
+
+(aside)
+She makes it [strange][49], but she would be best pleased
+To be so angered with another letter.
+
+Exit
+
+[49]: {{page.q}}=15585  "strange, make it: affect indifference, pretend to be unwilling"
+
+**JULIA**
+
+Nay, would I were so angered with the same!
+O, hateful hands, to tear such loving words.
+[Injurious][50] wasps, to feed on such sweet honey,
+And kill the bees that yield it with your stings.
+I'll kiss each [several][51] paper for amends.
+Look, here is writ, kind Julia. Unkind Julia,
+As in revenge of thy ingratitude,
+I throw thy name against the bruising stones,
+Trampling contemptuously on thy disdain.
+And here is writ, love-wounded Proteus.
+Poor wounded name, my [bosom][52], as a bed,
+Shall lodge thee till thy wound be [throughly][53] healed;
+And thus I [search][54] it with a sovereign kiss.
+But twice or thrice was Proteus written down.
+Be calm, good wind, blow not a word away
+Till I have found each letter in the letter,
+Except mine own name. That some whirlwind bear
+Unto a [ragged][55], fearful, hanging rock,
+And throw it thence into the raging sea.
+Lo, here in one line is his name twice writ:
+Poor, forlorn Proteus, passionate Proteus,
+To the sweet Julia. That I'll tear away;
+And yet I will not, sith so prettily
+He couples it to his complaining names.
+Thus will I fold them one upon another.
+Now kiss, embrace, contend, do what you will.
+Enter Lucetta
+
+[50]: {{page.q}}=5091  "injurious (adj.) 1: causing injury, harmful, offending, unjust"
+[51]: {{page.q}}=13898  "several (adj.) 1: separate, different, distinct"
+[52]: {{page.q}}=2598  "bosom (n.) 8: pocket on the front of a woman's dress"
+[53]: {{page.q}}=5460  "throughly (adv.): thoroughly, fully, completely"
+[54]: {{page.q}}=14221  "search (v.) 1: probe, explore, examine"
+[55]: {{page.q}}=16707  "ragged (adj.) 3: rough-hewn, dilapidated, rugged"
+
+**LUCETTA**
+
+Madam,
+Dinner is ready, and your father stays.
+
+
+**JULIA**
+
+Well, let us go.
+
+
+**LUCETTA**
+
+What, shall these papers lie like tell-tales here?
+
+
+**JULIA**
+
+If you [respect][56] them, best to take them up.
+
+[56]: {{page.q}}=17170  "respect (v.) 3: value, have regard for, prize"
+
+**LUCETTA**
+
+Nay, I was [take][57]n up for laying them down.
+Yet here they shall not lie for catching cold.
+She picks up the pieces of the letter
+
+[57]: {{page.q}}=6030  "take up (v.) 9: rebuke, scold, reprimand"
+
+**JULIA**
+
+I see you have a month's [mind][58] to them.
+
+[58]: {{page.q}}=10826  "mind (n.) 1: inclination, desire, wish"
+
+
+**LUCETTA**
+
+Ay, madam, you may say what sights you see;
+I see things too, although you [judge][59] I [wink][60].
+
+[59]: {{page.q}}=18929  "judge (v.) 1: suppose, consider, think"
+[60]: {{page.q}}=7633  "wink (v.) 1: shut one's eyes"
+
+**JULIA**
+
+Come, come, will't please you go?
+Exeunt

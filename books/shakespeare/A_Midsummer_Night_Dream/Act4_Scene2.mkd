@@ -1,0 +1,142 @@
+---
+title: A Midsummer Night's Dream
+tagline: Act IV - Scene II
+category: play
+author: shakespeare
+date: 2014-05-25 16:30:33 +0800
+permalink: /books/shakespeare/A_Midsummer_Night_Dream_act4_scene2.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Quince, Flute, Snout, and Starveling_
+
+**QUINCE**
+
+Have you sent to Bottom's house? Is he come
+home yet?
+
+
+
+**STARVELING**
+
+He cannot be heard of. Out of doubt he is
+[transported][1].
+
+[1]: {{page.q}}=5729 "transported (adj.):  carried off, taken away"
+
+
+**FLUTE**
+
+If he come not, then the play is marred. It goes not
+forward. Doth it?
+
+
+
+**QUINCE**
+
+It is not possible. You have not a man in all
+Athens able to [discharge][2] Pyramus but he.
+
+[2]: {{page.q}}=8712 "discharge (v.) 2:  play, perform, execute"
+
+
+**FLUTE**
+
+No, he hath simply the best [wit][3] of any handicraft
+man in Athens.
+
+[3]: {{page.q}}=7583 "wit (n.) 1:  intelligence, wisdom, good sense, mental ability"
+
+
+**QUINCE**
+
+Yea and the best [person][4], too; and he is a very
+[paramour][5] for a sweet voice.
+
+[4]: {{page.q}}=12552 "person (n.) 1:  fine figure, personality"
+[5]: {{page.q}}=12714 "paramour (n.) 2:  malapropism for ‘paragon’"
+
+
+**FLUTE**
+
+You must say ‘ paragon.’ A paramour is – God bless
+us – a thing of [naught][6].
+_Enter Snug the joiner_
+
+[6]: {{page.q}}=11460 "naught, nought (n.) 2:  wickedness, immorality, sinfulness"
+
+
+**SNUG**
+
+Masters, the Duke is coming from the temple, and
+there is two or three lords and ladies more married. If
+our [sport][8] had gone forward, we had all been [made][7] men.
+
+[7]: {{page.q}}=10718 "made (adj.) 2:  with success assured, with fortune made"
+[8]: {{page.q}}=14044 "sport (n.) 1:  recreation, amusement, entertainment"
+
+
+**FLUTE**
+
+O, sweet [Bully][9] Bottom! Thus hath he lost sixpence
+a day during his life. He could not have [scape][10]d sixpence
+a day. An the Duke had not given him sixpence a day for
+playing Pyramus, I'll be hanged. He would have deserved
+it. Sixpence a day in Pyramus, or nothing.
+_Enter Bottom_
+
+[9]: {{page.q}}=2016 "bully (n./adj.):  [especially as a warm form of address] fine fellow, good friend"
+[10]: {{page.q}}=14263 "scape, 'scape (v.):  escape, avoid"
+
+
+**BOTTOM**
+
+Where are these lads? Where are these hearts?
+
+
+
+**QUINCE**
+
+Bottom! O most courageous day! O most happy
+hour!
+
+
+
+**BOTTOM**
+
+Masters, I am to [discourse][11] wonders – but ask
+me not what; for if I tell you, I am not true Athenian. – I
+will tell you everything, [right][12] as it fell out!
+
+[11]: {{page.q}}=8780 "discourse (v.) 2:  relate, talk about, recount"
+[12]: {{page.q}}=17088 "right (adv.) 2:  just, precisely"
+
+
+**QUINCE**
+
+Let us hear, sweet Bottom!
+
+
+
+**BOTTOM**
+
+Not a word of me! All that I will tell you is – that
+the Duke hath dined. Get your [apparel][13] together, good
+strings to your beards, new ribbons to your pumps.
+Meet [presently][14] at the palace. Every man look o'er his
+part. For the short and the long is, our play is [prefer][15]red.
+In any case, let Thisbe have clean linen; and let not him
+that plays the lion pare his nails, for they shall hang out
+for the lion's claws. And, most dear actors, eat no onions
+nor garlic; for we are to [utter][16] sweet breath, and I do
+not doubt but to hear them say it is a sweet comedy. No
+more words. Away – go, away!
+_Exeunt Bottom and his fellows_
+
+[13]: {{page.q}}=37 "apparel (n.):  clothes, clothing, dress"
+[14]: {{page.q}}=12248 "presently (adv.) 1:  immediately, instantly, at once"
+[15]: {{page.q}}=12338 "prefer (v.) 1:  promote, advance, recommend"
+[16]: {{page.q}}=7166 "utter (v.) 1:  emit, exhale, discharge"

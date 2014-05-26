@@ -1,0 +1,94 @@
+---
+title: Third Lesson
+book:
+    title: A Guide to Philosophy
+    author: Witold Gombrowicz
+category: philosophy
+permalink: /books/a_guide_to_philosophy/03_third_lesson.html
+date: 2014-04-12 23:11:00 +0800
+layout: book_page 
+---
+
+Third Lesson
+============
+
+*April 30, 1969*
+{: .text-right .small}
+
+###Kant###
+
+Third part of the *Critique of Pure Reason.*
+
+Possibility of synthetic judgments.........
+
+####metaphysical####
+{: .text-right .small}
+
+Metaphysical: everything which is not physical, like the soul, the world, and God.
+
+These three components are not direct perceptions (like a chair) but syntheses. Yet the soul is the synthesis of all impressions, because it is man’s self (the soul) which assimilates all impressions. The soul is that which receives the perceptions.
+
+The second synthesis, that is, that of the world, is the synthesis of everything. Yet the critique of the idea of the soul consists in demonstrating that all our perceptions are in time, while the soul is not in time. The soul is immortal.
+
+Then Kant moves to the idea of the Cosmos, that is, of the world. He shows that there are four antinomies of pure reason, which exclude each other.
+
+*First antinomy.* The world has a beginning in time and limits in space. This has no meaning, because when the collective world (of things) finishes, we still have space and time. But as the world is the synthesis of everything, it cannot be limited to a limited whole. One must see here a certain philosophical idea which consists of reducing things to obvious facts.
+
+*Second antinomy.* The cosmos is made up simultaneously of divisible and indivisible elements. One can reduce this antinomy to what could be called the limitation of the thing. The thing (or object) must inevitably be limited in order for it to be a thing. That is why time and space cannot be considered things. Yet the concept of thing, in order to reach fullness, must inevitably insert time and space, since the Cosmos signifies absolutely everything that exists. We see a contradiction here, since the Cosmos must be unlimited in time and space in order to include absolutely everything. It is this way when you take an object; you can divide it endlessly. There are no limits for it. The idea of an object therefore contains a contradiction because it must be limited and unlimited at the same time.
+
+*Third antinomy* of the idea of the Cosmos. For us, the Cosmos must have a cause because [*sentence incomplete*] internally contradictory idea.
+
+*Fourth antinomy.* God must exist for *us,* and at the same time he *cannot exist.* Kant lists three theological arguments here to demonstrate the existence of God. Now, *[sentence incomplete].*
+
+*First argument: ontological.* Ontological means everything that concerns the being. We have an idea of God as a perfect being. But a perfect being, to have perfection, must also have the quality of *existing.* This argument seems too sophisticated to me. Kant says that the category of existence is a perception. Yet God cannot be perceived.
+
+*Second argument: cosmological.* The world must have a cause since, according to the category of causality, each thing must have a cause. If this is so, God must also have a cause.
+
+*Third argument: teleological. Telos* means *purpose.* Everything that is in the world must have a purpose, must be the work of God. But if God is teleological, then he himself should be created for an end.
+
+Kant emphasizes that the errors of metaphysics originate in what it implements beyond the limits of experience and its use of categories.
+
+We arrive at the last thesis of the *Critique of Pure Reason.* Kant demonstrates that our reason is not sufficient to discover what he calls the *noumenon*.[^4] For example, if you see an object, you have the impression that it is a white object made in a certain way, etc. But if you just put on yellow-tinted glasses, everything changes. Imagine an ant that looks at the same object and sees it only in two dimensions and not three. Now, whether for an ant or for a person donning yellow-tinted glasses, the object will change.
+
+[^4]: Gombrowicz uses the term *numen,* hereafter translated as *noumenon*, —a. [Translator’s note.]
+
+Kant wonders whether pure reason can discover the *object in itself*, objectively, independently of our ways of perceiving it. He notices that this is impossible, and we can never know what the *noumenon, the absolute,* is in itself, independent of our own perceptions. We are limited to the phenomenological world. This is important, because you will find this problem in Husserl, Hegel, etc. Our reason must be limited to the phenomenological world.
+
+The *phenomenon* is what I see according to my faculties, and my way of seeing things: Psina,^ for
+
+me, is white, in time and space. That is the phenomenon. The *noumenon* (the absolute) consists in asking oneself, “How is Psina, not for me, but *in itself ?*” The Kantian critique is a *limitation of thought.* Human thinking would consider itself capable of understanding everything. But since Kant, not to mention Descartes, thinking has undergone a reduction and this reduction is extremely important. It demonstrates that thinking reaches a certain maturity, it begins to know its limits, and you will find in all later philosophy, for example, in Feuerbach, in Husserl, in Marx, etc., the same tendency to reduce thought. Today philosophy does not consist of seeking an absolute truth, like the existence of God, but is more limited, limiting itself only to the phenomenological world, where it replaces the question, “What is the world?” with “How to change the world?” (Marx) and it finds the purest expression in the phenomenological method of Husserl, who is not at all interested in the *noumena*, but in phenomena.
+
+*Critique of Practical Reason,* Kant’s second great work.
+
+Today this work is outdated, although it has very authentic passages. Kant wanted to make of it something akin to the *Critique of Pure Reason.* But if the *Critique of Pure Reason* speaks about judgments by which one can know the world, the *Critique of Practical Reason* deals with judgments which *qualify things* (the quality of things). Example: this man pleases me, this bread is good.
+
+Here we perceive judgments as imperative judgments.
+
+*Critique of Pure Reason:* it is about understanding, about knowing.
+
+*Critique of Practical Reason:* it is about what I must do, to act (morals).
+
+Now, imperatives can be hypothetical or categorical.
+
+*Imperatives* when the will is autonomous, conditioned by nothing. Example: “One must be moral” is categorical. It does not depend on any condition. If I say that I must be moral in order to go to heaven or to have people’s respect, this is already a hypothetical imperative. This is important because, in our era, we confuse these things.
+
+For Kant, the moral imperative must be disinterested.
+
+Now morality depends entirely on will. Be careful: these are Kantian laws which are interpreted
+
+in a confused way. Example: if my mother is ill and I, with the best intentions of curing her, by mistake give her medicine which kills her, from the moral point of view, I am in order.
+
+That is why one must judge all of history’s greatest monsters by their *intentions:* Hitler, Stalin.
+
+If Hitler believed that the Jews were the malady of the world, he was in order from a moral point of view, even though he was wrong. But if he did so out of personal interest, then it is immoral. Morality, for him, is moral will, goodwill.
+
+#####Aristotle, this is classification, order, the objective world.#####
+
+####Man considered as object, animal.####
+{: .text-right}
+
+Marx. For Marx, man is object.
+
+[Witold disagrees]. The artist must be in the subjective.
+
+Read Kant’s biography by Thomas de Quincey.

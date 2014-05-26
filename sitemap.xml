@@ -1,9 +1,9 @@
 ---
 title : Sitemap
-# Remember to set production_url in your _config.yml file!
+# Remember to set site_url in your _config.yml file!
 #
 #{% for page in site.pages %}
-#{{site.production_url}}{{ page.url }}{% endfor %}
+#{{site.site_url}}{{ page.url }}{% endfor %}
 
 #reference: http://www.sitemaps.org/protocol.html
 ---
@@ -21,9 +21,11 @@ title : Sitemap
     -->
 {% endcomment %}
     {% for post in site.posts %}
+    {% if post.url contains '/blog/' %}
     <url>
-        <loc>{{site.production_url}}{{ post.url }}</loc>
+        <loc>{{site.site_url}}{{ post.url }}</loc>
         <changefreq>weekly</changefreq>
     </url>
+    {% endif %}
     {% endfor %}
 </urlset>

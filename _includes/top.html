@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 6]>      <html class="ie6-ruby no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="ie7-ruby no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="ie8-ruby no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="zh-CN" class="ruby no-js"> <!--<![endif]-->
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ page.title }}</title>
+  <link rel="alternate" type="application/rss+xml" title="Jekyll • 古籍注释,外文注释" href="/feed.xml" />
+  <link rel="icon" type="image/png" href="{{ site.url }}/favicon.png" />
+
+  <link rel="stylesheet" href="{{ site.url }}/css/default.css" />
+{% if site.GH_ENV %}
+  {% comment %}<link href='http://fonts.googleapis.com/css?family=Inconsolata|Lato:400,400italic,700|Merriweather:400' rel='stylesheet' type='text/css'>{% endcomment %}
+  <script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.0.min.js"></script>
+  <!--
+  <script src="//ajax.aspnetcdn.com/ajax/modernizr/modernizr-2.7.2.js"></script>
+  -->
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]> <script src="/js/vendor/respond-1.4.2.js"></script> <![endif]-->
+{% else %}
+  <link href="{{site.url}}/fonts/webfont.css" rel="stylesheet" type="text/css">
+  <script src="{{site.url}}/js/vendor/jquery-1.11.0.min.js"></script>
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]> <script src="/js/vendor/respond-1.4.2.js"></script> <![endif]-->
+{% endif %}
+  <script src="{{ site.url }}/js/main.js"></script>
+  <!--inline style-->
+  {% if page.style %}
+    <style> 
+    {{page.style}}
+    </style>
+  {% endif %}
+  <!--inline script-->
+  {% if page.script %}
+    <script> 
+      jQuery(document).ready(function($){
+          {{page.script}}
+      });
+    </script>
+  {% endif %}
+
+</head>

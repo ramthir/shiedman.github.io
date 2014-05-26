@@ -1,0 +1,140 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act IV - Scene III
+category: play
+author: shakespeare
+date: 2014-05-25 14:07:27 +0800
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act4_scene3.html
+layout: book_page
+creation: 1589-1593
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Eglamour_
+
+**EGLAMOUR**
+
+This is the hour that Madam Silvia
+Entreated me to call and know her mind;
+There's some great matter she'd employ me in.
+Madam, madam!
+_Enter Silvia at an upstairs window_
+
+
+
+**SILVIA**
+
+Who calls?
+
+
+
+**EGLAMOUR**
+
+Your servant and your friend;
+One that [attend][1]s your ladyship's command.
+
+[1]: {{page.q}}=78 "attend (v.) 1:  await, wait for, expect"
+
+
+**SILVIA**
+
+Sir Eglamour, a thousand times good [morrow][2].
+
+[2]: {{page.q}}=10890 "morrow (n.):  morning"
+
+
+**EGLAMOUR**
+
+As many, worthy lady, to yourself!
+According to your ladyship's [impose][3],
+I am thus early come, to know what service
+It is your pleasure to command me in.
+
+[3]: {{page.q}}=5179 "impose (n.):  imposition, command, imposed duty"
+
+
+**SILVIA**
+
+O Eglamour, thou art a gentleman –
+Think not I flatter, for I swear I do not –
+Valiant, wise, [remorseful][4], well-accomplished.
+Thou art not ignorant what [dear][5] good will
+I bear unto the banished Valentine;
+Nor how my father would enforce me marry
+[Vain][6] Thurio, whom my very soul abhors.
+Thyself hast loved, and I have heard thee say
+No grief did ever come so near thy heart
+As when thy lady and thy true love died,
+Upon whose grave thou vowedst pure chastity.
+Sir Eglamour, I would to Valentine,
+To Mantua, where I hear he makes [abode][7];
+And, for the ways are dangerous to pass,
+I do desire thy worthy company,
+Upon whose faith and honour I [repose][8].
+[Urge][9] not my father's anger, Eglamour,
+But think upon my grief, a lady's grief,
+And on the justice of my flying hence,
+To keep me from a most unholy match,
+Which heaven and fortune [still][10] rewards with plagues.
+I do desire thee, even from a heart
+As full of sorrows as the sea of sands,
+To bear me company and go with me;
+If not, to hide what I have said to thee,
+That I may venture to depart alone.
+
+[4]: {{page.q}}=17176 "remorseful (adj.) 2:  compassionate, caring, full of pity"
+[5]: {{page.q}}=8759 "dear (adj.) 6:  heartfelt, earnest, zealous"
+[6]: {{page.q}}=7274 "vain (adj.) 1:  foolish, silly, stupid"
+[7]: {{page.q}}=664 "abode (n.) 3:  dwelling-place, lodging, residence"
+[8]: {{page.q}}=17162 "repose (v.):  confidently settle, happily rely"
+[9]: {{page.q}}=6763 "urge (v.) 6:  provoke, incite, impel"
+[10]: {{page.q}}=14077 "still (adv.) 1:  constantly, always, continually"
+
+
+**EGLAMOUR**
+
+Madam, I pity much your [grievance][11]s;
+Which since I know they virtuously are placed,
+I give consent to go along with you,
+[Reck][13]ing as little what [betide][12]th me
+As much I wish all good [befortune][14] you.
+When will you go?
+
+[11]: {{page.q}}=17944 "grievance (n.) 1:  distress, suffering, pain"
+[12]: {{page.q}}=1582 "betide (v.) 1:  happen (to), befall, come (to)"
+[13]: {{page.q}}=16581 "reck (v.):  regard, heed, care [for]"
+[14]: {{page.q}}=1682 "befortune (v.):  befall, happen, come upon"
+
+
+**SILVIA**
+
+This evening coming.
+
+
+
+**EGLAMOUR**
+
+Where shall I meet you?
+
+
+
+**SILVIA**
+
+At Friar Patrick's cell,
+Where I intend holy confession.
+
+
+
+**EGLAMOUR**
+
+I will not fail your ladyship. Good morrow,
+[gentle][15] lady.
+
+[15]: {{page.q}}=17495 "gentle (adj.) 1:  well-born, honourable, noble"
+
+
+**SILVIA**
+
+Good morrow, kind Sir Eglamour.
+_Exeunt_
+

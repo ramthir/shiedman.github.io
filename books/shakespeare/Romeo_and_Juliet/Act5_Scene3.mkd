@@ -1,0 +1,819 @@
+---
+title: Romeo and Juliet
+tagline: Act V - Scene III
+category: play
+author: shakespeare
+date: 2014-05-26 18:06:27 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act5_scene3.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Paris and his Page, with flowers and sweet water_
+
+**PARIS**
+
+Give me thy torch, boy. Hence, and stand aloof.
+Yet put it out, for I would not be seen.
+Under yond yew trees lay thee all [along][1],
+Holding thy ear close to the hollow ground.
+So shall no foot upon the churchyard tread,
+Being loose, [unfirm][2], with digging up of graves,
+But thou shalt hear it. Whistle then to me,
+As signal that thou hearest something approach.
+Give me those flowers. Do as I bid thee, go.
+
+[1]: {{page.q}}=985 "along (adv.): at full length, stretched out, prostrate"
+[2]: {{page.q}}=7079 "unfirm (adj.) 3: unstable, not compact, of loose consistency"
+
+
+**PAGE**
+
+_(aside)_
+I am almost afraid to stand alone
+Here in the churchyard. Yet I will [adventure][3].
+_Page [retires][4]_
+
+[3]: {{page.q}}=873 "adventure (v.): venture, dare, chance, risk"
+[4]: {{page.q}}=17318 "retire (v.) 1: withdraw, take oneself away"
+
+
+**PARIS**
+
+Sweet flower, with flowers thy bridal bed I strew –
+O woe! thy [canopy][5] is dust and stones –
+Which with [sweet][7] water nightly I will [dew][6];
+Or, [want][9]ing that, with tears [distil][8]led by moans.
+The [obsequies][11] that I for thee will [keep][10]
+Nightly shall be to strew thy grave and weep.
+_Page whistles_
+The boy gives warning something doth approach.
+What cursed foot wanders this way tonight
+To [cross][12] my [obsequies][13] and true love's rite?
+What, with a torch! Muffle me, night, awhile.
+_Paris retires_
+_Enter Romeo and Balthasar, with a torch, a mattock,_
+_and a [crow][15] of iron_
+
+[5]: {{page.q}}=4073 "canopy (n.) 2: covering above a bed"
+[6]: {{page.q}}=8960 "dew (v.): bedew, moisten, water"
+[7]: {{page.q}}=15000 "sweet (adj.) 1: perfumed, scented, fragrant"
+[8]: {{page.q}}=9415 "distil (v.) 2: trickle down, fall in tiny drops"
+[9]: {{page.q}}=7539 "want (v.) 1: lack, need, be without"
+[10]: {{page.q}}=19037 "keep (v.) 4: keep up, maintain, carry on"
+[11]: {{page.q}}=11822 "obsequy (n.): funeral rite, burial ceremony"
+[12]: {{page.q}}=2829 "cross (v.) 1: prevent, thwart, forestall"
+[13]: {{page.q}}=11822 "obsequy (n.): funeral rite, burial ceremony"
+[14]: {{page.q}}=17318 "retire (v.) 1: withdraw, take oneself away"
+[15]: {{page.q}}=2997 "crow (n.) 1: crowbar"
+
+
+**ROMEO**
+
+Give me that [mattock][17] and the wrenching iron.
+Hold, take this letter. Early in the morning
+See thou deliver it to my lord and father.
+Give me the light. Upon thy life I charge thee,
+Whate'er thou hearest or seest, stand all [aloof][18]
+And do not interrupt me in my [course][19].
+Why I descend into this bed of death
+Is partly to behold my lady's face,
+But chiefly to take thence from her dead finger
+A precious ring, a ring that I must use
+In [dear][20] employment. Therefore hence, be gone.
+But if thou, [jealous][21], dost return to pry
+In what I farther shall intend to do,
+By heaven, I will tear thee joint by joint
+And strew this hungry churchyard with thy limbs.
+The time and my [intent][22]s are savage-wild,
+More fierce and more inexorable far
+Than empty tigers or the roaring sea.
+
+[16]: {{page.q}}=11116 "mattock (n.): tool for loosening hard ground"
+[17]: {{page.q}}=11116 "mattock (n.): tool for loosening hard ground"
+[18]: {{page.q}}=131 "aloof (adv.): a short distance away, to one side"
+[19]: {{page.q}}=3134 "course (n.) 1: course of action, way of proceeding"
+[20]: {{page.q}}=8884 "dear (adj.) 2: important, major, significant"
+[21]: {{page.q}}=18903 "jealous (adj.) 1: suspicious, mistrustful, wary, watchful"
+[22]: {{page.q}}=5207 "intent (n.): intention, purpose, aim"
+
+
+**BALTHASAR**
+
+I will be gone, sir, and not trouble ye.
+
+
+
+**ROMEO**
+
+So shalt thou show me friendship. Take thou that.
+Live, and be prosperous; and farewell, good fellow.
+
+
+
+**BALTHASAR**
+
+_(aside)_
+For all this same, I'll hide me hereabout.
+His looks I fear, and his [intent][24]s I [doubt][23].
+_Balthasar retires_
+
+[23]: {{page.q}}=8465 "doubt (v.) 2: suspect, have suspicions about, fear"
+[24]: {{page.q}}=5207 "intent (n.): intention, purpose, aim"
+
+
+**ROMEO**
+
+Thou detestable [maw][25], thou [womb][26] of death,
+Gorged with the dearest morsel of the earth,
+Thus I enforce thy rotten jaws to open,
+And in [despite][27] I'll cram thee with more food.
+_Romeo begins to open the tomb_
+
+[25]: {{page.q}}=10624 "maw (n.): belly, stomach; throat, gullet"
+[26]: {{page.q}}=8109 "womb (n.): belly, paunch"
+[27]: {{page.q}}=8628 "despite (n.) 2: malice, spite, hatred"
+
+
+**PARIS**
+
+This is that banished haughty Montague
+That murdered my love's cousin – with which grief
+It is supposed the fair creature died –
+And here is come to do some villainous shame
+To the dead bodies. I will [apprehend][28] him.
+_Comes forward_
+Stop thy unhallowed toil, vile Montague!
+Can vengeance be pursued further than death?
+Condemned villain, I do apprehend thee.
+Obey, and go with me. For thou must die.
+
+[28]: {{page.q}}=332 "apprehend (v.) 1: seize, arrest, lay hold of"
+
+
+**ROMEO**
+
+I must indeed; and therefore came I hither.
+Good [gentle][29] youth, tempt not a desperate man.
+Fly hence and leave me. Think upon these gone.
+Let them [affright][30] thee. I beseech thee, youth,
+Put not another sin upon my head
+By urging me to fury. O, be gone!
+By heaven, I love thee better than myself,
+For I come hither armed against myself.
+Stay not, be gone. Live, and hereafter say
+A madman's mercy bid thee run away.
+
+[29]: {{page.q}}=17496 "gentle (adj.) 2: courteous, friendly, kind"
+[30]: {{page.q}}=158 "affright (v.): frighten, terrify, scare"
+
+
+**PARIS**
+
+I do defy thy [conjuration][31]
+And apprehend thee for a felon here.
+
+[31]: {{page.q}}=2713 "conjuration (n.) 1: entreaty, injunction, solemn appeal"
+
+
+**ROMEO**
+
+Wilt thou provoke me? Then have at thee, boy!
+_They fight_
+
+
+
+**PAGE**
+
+O Lord, they fight! I will go call the Watch.
+_Exit Page_
+_Paris falls_
+
+
+
+**PARIS**
+
+O, I am slain! If thou be merciful,
+Open the tomb, lay me with Juliet.
+_Paris dies_
+
+
+
+**ROMEO**
+
+In faith, I will. Let me peruse this face.
+Mercutio's kinsman, noble County Paris!
+What said my man when my [betossed][32] soul
+Did not [attend][33] him as we rode? I think
+He told me Paris should have married Juliet.
+Said he not so? Or did I dream it so?
+Or am I mad, hearing him talk of Juliet,
+To think it was so? O, give me thy hand,
+One writ with me in sour misfortune's book.
+I'll bury thee in a [triumphant][34] grave.
+A grave? O, no, a [lantern][35], slaughtered youth.
+_He opens the tomb_
+For here lies Juliet, and her beauty makes
+This vault a [feasting][36] [presence][37] full of light.
+Death, lie thou there, by a dead man interred.
+_He lays him in the tomb_
+How oft when men are at the point of death
+Have they been merry! which their [keeper][38]s call
+A lightning before death. O, how may I
+Call this a lightning? O my love, my wife!
+Death, that hath sucked the honey of thy breath,
+Hath had no [power][39] yet upon thy beauty.
+Thou art not conquered. Beauty's [ensign][40] yet
+Is crimson in thy lips and in thy cheeks,
+And death's pale flag is not [advance][41]d there.
+Tybalt, liest thou there in thy bloody sheet?
+O, what more favour can I do to thee
+Than with that hand that cut thy youth in twain
+To [sunder][42] his that was thine enemy?
+Forgive me, cousin! Ah, dear Juliet,
+Why art thou yet so fair? Shall I believe
+That unsubstantial death is amorous,
+And that the lean abhorred monster keeps
+Thee here in dark to be his [paramour][43]?
+For fear of that I [still][44] will stay with thee
+And never from this palace of dim night
+Depart again. Here, here will I remain
+With worms that are thy chambermaids. O here
+Will I [set][45] up my everlasting rest
+And shake the yoke of inauspicious stars
+From this world-wearied flesh. Eyes, look your last!
+Arms, take your last embrace! and, lips, O you
+The doors of breath, seal with a righteous kiss
+A [dateless][46] bargain to [engrossing][47] death!
+Come, bitter [conduct][48], come, unsavoury guide!
+Thou desperate pilot, now at once run on
+The dashing rocks thy [seasick][50] weary [bark][49]!
+_Here's to my love! (He drinks) O true Apothecary!_
+Thy drugs are quick. Thus with a kiss I die.
+_He falls_
+_Enter Frair Laurence, with lantern, crow, and spade_
+
+[32]: {{page.q}}=1755 "betossed (adj.): tossed about, shaken up"
+[33]: {{page.q}}=77 "attend (v.) 7: listen [to], pay attention [to]"
+[34]: {{page.q}}=6173 "triumphant (adj.): triumphal, glorious, celebrating a great victory"
+[35]: {{page.q}}=19637 "lantern (n.): light-filled arena, brilliantly lit place"
+[36]: {{page.q}}=20611 "feasting (adj.): jubilant, sumptuous, festive"
+[37]: {{page.q}}=12688 "presence (n.) 2: royal reception chamber"
+[38]: {{page.q}}=19067 "keeper (n.) 2: nurse, carer"
+[39]: {{page.q}}=12912 "power (n.) 7: control, influence, sway"
+[40]: {{page.q}}=9970 "ensign (n.) 1: standard, banner, flag"
+[41]: {{page.q}}=326 "advance (v.) 2: display, present, promote"
+[42]: {{page.q}}=16009 "sunder (v.) 2: cut, divide, put an end to"
+[43]: {{page.q}}=12488 "paramour (n.) 1: lover"
+[44]: {{page.q}}=14077 "still (adv.) 1: constantly, always, continually"
+[45]: {{page.q}}=14583 "set up one's rest (n.): [in primero] venture one's final stake, stake all"
+[46]: {{page.q}}=9321 "dateless (adj.): everlasting, eternal, endless"
+[47]: {{page.q}}=10227 "engrossing (adj.): all-absorbing, monopolizing"
+[48]: {{page.q}}=3367 "conduct (n.) 3: conductor, leader, director"
+[49]: {{page.q}}=1410 "bark, barque (n.): ship, vessel"
+[50]: {{page.q}}=16397 "seasick (adj.): weary of sea travel, tired of voyaging,"
+
+
+**FRIAR**
+
+Saint Francis be my [speed][51]! How [oft][52] tonight
+Have my old feet stumbled at graves! Who's there?
+
+[51]: {{page.q}}=16002 "speed (n.) 2: assistance, aid, protector"
+[52]: {{page.q}}=11606 "oft (adv.): often"
+
+
+**BALTHASAR**
+
+Here's one, a friend, and one that knows you well.
+
+
+
+**FRIAR**
+
+Bliss be upon you! Tell me, good my friend,
+What torch is yond that [vainly][53] lends his light
+To [grub][54]s and eyeless skulls? As I discern,
+It burneth in the Capel's monument.
+
+[53]: {{page.q}}=7461 "vainly (adv.) 1: uselessly, fruitlessly, ineffectively"
+[54]: {{page.q}}=18054 "grub (n.): maggot, worm"
+
+
+**BALTHASAR**
+
+It doth so, holy sir; and there's my master,
+One that you love.
+
+
+
+**FRIAR**
+
+Who is it?
+
+
+
+**BALTHASAR**
+
+Romeo.
+
+
+
+**FRIAR**
+
+How long hath he been there?
+
+
+
+**BALTHASAR**
+
+Full half an hour.
+
+
+
+**FRIAR**
+
+Go with me to the vault.
+
+
+
+**BALTHASAR**
+
+I dare not, sir.
+My master knows not but I am gone hence,
+And fearfully did menace me with death
+If I did stay to look on his [intent][55]s.
+
+[55]: {{page.q}}=5207 "intent (n.): intention, purpose, aim"
+
+
+**FRIAR**
+
+Stay then; I'll go alone. Fear comes upon me.
+O much I fear some ill [unthrifty][56] thing.
+
+[56]: {{page.q}}=7081 "unthrifty (adj.) 3: harmful, pernicious, unfortunate"
+
+
+**BALTHASAR**
+
+As I did sleep under this yew tree here,
+I dreamt my master and another fought,
+And that my master slew him.
+
+
+
+**FRIAR**
+
+Romeo!
+_He stoops and looks on the blood and weapons_
+Alack, alack, what blood is this which stains
+The stony entrance of this sepulchre?
+What mean these [masterless][57] and gory swords
+To lie discoloured by this place of peace?
+_He enters the tomb_
+Romeo! O, pale! Who else? What, Paris too?
+And steeped in blood? Ah, what an unkind hour
+Is guilty of this lamentable chance!
+The lady stirs.
+_Juliet rises_
+
+[57]: {{page.q}}=11117 "masterless (adj.): abandoned, lacking an owner"
+
+
+**JULIET**
+
+O comfortable Friar! Where is my lord?
+I do remember well where I should be,
+And there I am. Where is my Romeo?
+
+
+
+**FRIAR**
+
+I hear some noise. Lady, come from that nest
+Of death, [contagion][58], and [unnatural][59] sleep.
+A greater power than we can contradict
+Hath thwarted our [intent][60]s. Come, come away.
+Thy husband in thy bosom there lies dead;
+And Paris too. Come, I'll dispose of thee
+Among a sisterhood of holy nuns.
+Stay not to question, for the [Watch][61] is coming.
+Come, go, good Juliet. I dare no longer stay.
+
+[58]: {{page.q}}=4762 "contagion (n.) 2: poison"
+[59]: {{page.q}}=6834 "unnatural (adj.) 2: abnormal, monstrous, aberrant"
+[60]: {{page.q}}=5207 "intent (n.): intention, purpose, aim"
+[61]: {{page.q}}=7733 "watch (n.) 1: watchmen, officers, street patrol"
+
+
+**JULIET**
+
+Go, get thee hence, for I will not away.
+_Exit Friar_
+What's here? A cup, closed in my true love's hand?
+Poison, I see, hath been his [timeless][62] end.
+O [churl][63]! drunk all, and left no friendly drop
+To help me after? I will kiss thy lips.
+[Haply][64] some poison yet doth hang on them
+To make die with a restorative.
+_She kisses him_
+Thy lips are warm!
+
+[62]: {{page.q}}=5608 "timeless (adj.): untimely, premature, ill-timed"
+[63]: {{page.q}}=4637 "churl (n.) 3: [term of endearment] wretch, miser, villain"
+[64]: {{page.q}}=15270 "haply (adv.): perhaps, maybe, by chance, with luck"
+
+
+**WATCHMAN**
+
+_(within)_
+Lead, boy. Which way?
+
+
+
+**JULIET**
+
+Yea, noise? Then I'll be brief. O [happy][65] dagger!
+_She snatches Romeo's dagger_
+This is thy sheath; there rust, and let me die.
+_She stabs herself and falls_
+_Enter Paris's Page and the Watch_
+
+[65]: {{page.q}}=15273 "happy (adj.) 2: opportune, appropriate, propitious, favourable"
+
+
+**PAGE**
+
+This is the place. There, where the torch doth burn.
+
+
+
+**FIRST WATCHMAN**
+
+The ground is bloody. Search about the churchyard.
+Go, some of you. Whoe'er you find [attach][66].
+_Exeunt some of the Watch_
+Pitiful sight! Here lies the [County][67] slain!
+And Juliet bleeding, warm, and newly dead,
+Who here hath lain these two days buried.
+Go, tell the Prince. Run to the Capulets.
+Raise up the Montagues. Some others search.
+_Exeunt others of the Watch_
+We see the ground whereon these [woe][68]s do lie,
+But the true ground of all these piteous woes
+We cannot without [circumstance][69] [descry][70].
+_Enter some of the Watch, with Balthasar_
+
+[66]: {{page.q}}=233 "attach (v.) 1: arrest, seize, apprehend"
+[67]: {{page.q}}=3568 "county (n.) 1: [title of rank] count"
+[68]: {{page.q}}=8129 "woe (n.): pitiable creature, mournful sight"
+[69]: {{page.q}}=2638 "circumstance (n.) 1: detail(s), particular(s), specifics"
+[70]: {{page.q}}=9322 "descry (v.) 2: find out, detect, discover"
+
+
+**SECOND WATCHMAN**
+
+Here's Romeo's man. We found him in the churchyard.
+
+
+
+**FIRST WATCHMAN**
+
+Hold him in [safety][71] till the Prince come hither.
+_Enter Friar Laurence and another of the Watch_
+
+[71]: {{page.q}}=16087 "safety (n.) 2: safe keeping, custody"
+
+
+**THIRD WATCHMAN**
+
+Here is a Friar that trembles, sighs, and weeps.
+We took this [mattock][72] and this spade from him
+As he was coming from this churchyard's side.
+
+[72]: {{page.q}}=11116 "mattock (n.): tool for loosening hard ground"
+
+
+**FIRST WATCHMAN**
+
+A great suspicion! [Stay][73] the Friar too.
+_Enter the Prince and attendants_
+
+[73]: {{page.q}}=14066 "stay (v.) 7: detain, confine, keep"
+
+
+**PRINCE**
+
+What misadventure is so early up,
+That calls our person from our morning rest?
+_Enter Capulet and his wife with others_
+
+
+
+**CAPULET**
+
+What should it be, that is so shrieked abroad?
+
+
+
+**LADY CAPULET**
+
+O the people in the street cry ‘ Romeo,’
+Some ‘ Juliet,’ and some ‘ Paris ’; and all run
+With open outcry toward our monument.
+
+
+
+**PRINCE**
+
+What fear is this which startles in your ears?
+
+
+
+**FIRST WATCHMAN**
+
+Sovereign, here lies the County Paris slain;
+And Romeo dead; and Juliet, dead before,
+Warm and new killed.
+
+
+
+**PRINCE**
+
+Search, seek, and know, how this foul murder comes.
+
+
+
+**FIRST WATCHMAN**
+
+Here is a Friar, and slaughtered Romeo's man,
+With instruments upon them fit to open
+These dead men's tombs.
+
+
+
+**CAPULET**
+
+O heavens! O wife, look how our daughter bleeds!
+This dagger hath [mista'en][75], for, lo, his [house][74]
+Is empty on the back of Montague,
+And it [mis-sheathe][76]d in my daughter's bosom!
+
+[74]: {{page.q}}=18720 "house (n.) 6: housing, sheath, place of rest"
+[75]: {{page.q}}=11118 "mistake (v.) 2: act in error, perform the wrong action"
+[76]: {{page.q}}=11119 "mis-sheathe (v.): sheathe wrongly"
+
+
+**LADY CAPULET**
+
+O me! This sight of death is as a bell
+That warns my old age to a sepulchre.
+_Enter Montague and others_
+
+
+
+**PRINCE**
+
+Come, Montague. For thou art early up
+To see thy son and heir now early [down][77].
+
+[77]: {{page.q}}=9323 "down (adv.) 1: dead on the ground"
+
+
+**MONTAGUE**
+
+Alas, my liege, my wife is dead tonight!
+Grief of my son's exile hath stopped her breath.
+What further woe conspires against mine age?
+
+
+
+**PRINCE**
+
+Look, and thou shalt see.
+
+
+
+**MONTAGUE**
+
+O thou [untaught][78]! what manners is in this,
+To press before thy father to a grave?
+
+[78]: {{page.q}}=7084 "untaught (adj.) 1: uninstructed, uneducated, uncultivated"
+
+
+**PRINCE**
+
+Seal up the [mouth][79] of [outrage][80] for a while,
+Till we can clear these ambiguities
+And know their spring, their head, their true descent.
+And then will I be [general][81] of your woes
+And lead you, even to death. Meantime [forbear][82],
+And let [mischance][83] be slave to patience.
+Bring forth the parties of suspicion.
+
+[79]: {{page.q}}=11120 "mouth (n.) 1: utterance, expression, voice"
+[80]: {{page.q}}=11901 "outrage (n.) 2: passionate expression, emotional outcry"
+[81]: {{page.q}}=18051 "general (n.) 2: leader, chief"
+[82]: {{page.q}}=19856 "forbear (v.) 1: stop, cease, desist"
+[83]: {{page.q}}=10451 "mischance (n.): misfortune, calamity, mishap"
+
+
+**FRIAR**
+
+I am the greatest, able to do least,
+Yet most suspected, as the time and place
+Doth [make][85] against me, of this [direful][84] murder.
+And here I stand, both to [impeach][86] and [purge][87]
+Myself condemned and myself excused.
+
+[84]: {{page.q}}=8903 "direful (adj.): dreadful, terrible, frightful"
+[85]: {{page.q}}=10967 "make (v.) 4: prove effective, be of avail"
+[86]: {{page.q}}=5021 "impeach (v.) 1: accuse, charge, challenge"
+[87]: {{page.q}}=13444 "purge (v.) 3: clear, excuse, exonerate"
+
+
+**PRINCE**
+
+Then say at once what thou dost know in this.
+
+
+
+**FRIAR**
+
+I will be brief, for my short [date][89] of [breath][88]
+Is not so long as is a tedious tale.
+Romeo, there dead, was husband to that Juliet;
+And she, there dead, that Romeo's faithful wife.
+I married them; and their [stolen][90] marriage day
+Was Tybalt's [doomsday][91], whose [untimely][92] death
+Banished the new-made bridegroom from this city;
+For whom, and not for Tybalt, Juliet pined.
+You, to remove that [siege][93] of grief from her,
+Betrothed and would have married her [perforce][94]
+To County Paris. Then comes she to me
+And with wild looks bid me devise some mean
+To rid her from this second marriage,
+Or in my [cell][95] there would she kill herself.
+Then gave I her – so tutored by my [art][96] –
+A sleeping potion; which so took effect
+As I intended, for it [wrought][97] on her
+The [form][98] of death. Meantime I writ to Romeo
+That he should hither come [as][99] this dire night
+To help to take her from her [borrowed][100] grave,
+Being the time the potion's force should cease.
+But he which bore my letter, Friar John,
+Was [stay][101]ed by accident and [yesternight][102]
+Returned my letter back. Then all alone
+At the [prefixed][103] hour of her waking
+Came I to take her from her kindred's vault;
+Meaning to keep her [closely][105] at my [cell][104]
+Till I conveniently could send to Romeo.
+But when I came, some minute ere the time
+Of her awakening, here [untimely][106] lay
+The noble Paris and [true][107] Romeo dead.
+She wakes; and I entreated her come forth
+And bear this work of heaven with patience.
+But then a noise did scare me from the tomb,
+And she, too desperate, would not go with me,
+But, as it seems, did violence on herself.
+All this I know; and to the marriage
+Her nurse is [privy][109]; and if [aught][108] in this
+[Miscarried][114] by my fault, let my old life
+Be sacrificed, some hour before his time,
+Unto the rigour of severest law.
+
+[88]: {{page.q}}=2255 "breath (n.) 4: life, spirit, living and breathing existence"
+[89]: {{page.q}}=8807 "date (n.) 1: duration, period of existence"
+[90]: {{page.q}}=16010 "stolen (adj.): secret, stealthy, clandestine"
+[91]: {{page.q}}=9114 "doomsday (n.): death-day, day of judgement"
+[92]: {{page.q}}=6742 "untimely (adj.): premature, coming before its time"
+[93]: {{page.q}}=16003 "siege (n.) 1: onslaught, storm, assail"
+[94]: {{page.q}}=12178 "perforce (adv.) 1: forcibly, by force, violently"
+[95]: {{page.q}}=4172 "cell (n.): small humble dwelling"
+[96]: {{page.q}}=610 "art (n.) 1: knowledge, learning, scholarship, science"
+[97]: {{page.q}}=7728 "work (v.), past form wrought 1: bring about, arrange, effect"
+[98]: {{page.q}}=19871 "form (n.) 8: physical appearance, outward appearance"
+[99]: {{page.q}}=893 "as (prep.): on"
+[100]: {{page.q}}=2265 "borrowed (adj.): assumed, pretended, feigned"
+[101]: {{page.q}}=15545 "stay (v.) 8: stop, prevent, end"
+[102]: {{page.q}}=8279 "yesternight (n.): last night"
+[103]: {{page.q}}=12822 "prefixed (adj.): fixed, settled, prearranged, decided in advance"
+[104]: {{page.q}}=4172 "cell (n.): small humble dwelling"
+[105]: {{page.q}}=2648 "closely (adv.) 1: secretly, covertly, privately"
+[106]: {{page.q}}=6719 "untimely (adv.) 1: prematurely, too soon, before due time"
+[107]: {{page.q}}=5497 "true (adj.) 2: constant, faithful in love"
+[108]: {{page.q}}=84 "aught (n.): anything, [with negative word] nothing"
+[109]: {{page.q}}=12256 "privy 1: privately aware [of], secretly knowledgeable [about]"
+[110]: {{page.q}}=10635 "miscarry (v.) 3: go wrong, fail, be unsuccessful"
+
+
+**PRINCE**
+
+We [still][111] have known thee for a holy man.
+Where's Romeo's man? What can he say to this?
+
+[111]: {{page.q}}=14077 "still (adv.) 1: constantly, always, continually"
+
+
+**BALTHASAR**
+
+I brought my master news of Juliet's death;
+And then in [post][112] he came from Mantua
+To this same place, to this same monument.
+This letter he early bid me give his father,
+And threatened me with death, going in the vault,
+I departed not and left him there.
+
+[112]: {{page.q}}=12529 "post, in: in haste, at top speed"
+
+
+**PRINCE**
+
+Give me the letter. I will look on it.
+Where is the [County][113]'s page that raised the Watch?
+Sirrah, what made your master in this place?
+
+[113]: {{page.q}}=3568 "county (n.) 1: [title of rank] count"
+[114]: {{page.q}}=10395 "make (v.) 1: do, have to do"
+
+
+**PAGE**
+
+He came with flowers to strew his lady's grave,
+And bid me stand [aloof][115], and so I did.
+[Anon][116] comes one with light to [ope][117] the tomb,
+And [by and by][118] my master drew on him.
+And then I ran away to call the Watch.
+
+[115]: {{page.q}}=131 "aloof (adv.): a short distance away, to one side"
+[116]: {{page.q}}=30 "anon (adv.) 1: soon, shortly, presently"
+[117]: {{page.q}}=11610 "ope (v.): open"
+[118]: {{page.q}}=1833 "by and by (adv.) 1: immediately, straightaway, directly"
+
+
+**PRINCE**
+
+This letter doth make good the Friar's words,
+Their course of love, the tidings of her death.
+And here he writes that he did buy a poison
+Of a poor [pothecary][119], and therewithal
+Came to this vault to die, and lie with Juliet.
+Where be these enemies? Capulet, Montague,
+See what a scourge is laid upon your hate,
+That heaven finds means to kill your joys with love.
+And I, for [wink][120]ing at your discords too,
+Have lost a [brace][121] of kinsmen. All are punished.
+
+[119]: {{page.q}}=363 "apothecary, pothecary  (n.): one who prepares and sells medicinal drugs"
+[120]: {{page.q}}=7633 "wink (v.) 1: shut one's eyes"
+[121]: {{page.q}}=1951 "brace (n.) 1: group of two, couple, pair"
+
+
+**CAPULET**
+
+O brother Montague, give me thy hand.
+This is my daughter's [jointure][122], for no more
+Can I demand.
+
+[122]: {{page.q}}=18852 "jointure (n.): marriage settlement, part of a husband's estate due to his widow"
+
+
+**MONTAGUE**
+
+But I can give thee more.
+For I will raise her statue in pure gold,
+That whiles Verona by that name is known,
+There shall no [figure][123] at such [rate][124] be [set][125]
+As that of [true][126] and faithful Juliet.
+
+[123]: {{page.q}}=20387 "figure (n.) 5: portrayal, rendering, presentation"
+[124]: {{page.q}}=17319 "rate (n.) 4: worth, value, merit"
+[125]: {{page.q}}=13970 "set (v.) 1: value, rate, esteem"
+[126]: {{page.q}}=5497 "true (adj.) 2: constant, faithful in love"
+
+
+**CAPULET**
+
+As rich shall Romeo's by his lady's lie,
+Poor sacrifices of our enmity!
+
+
+
+**PRINCE**
+
+A [glooming][127] peace this morning with it brings.
+The sun for sorrow will not show his head.
+Go hence, to have more talk of these [sad][128] things.
+Some shall be pardoned, and some punished:
+For never was a story of more woe
+Than this of Juliet and her Romeo.
+_Exeunt_
+
+[127]: {{page.q}}=18055 "glooming (adj.): gloomy, dark, dismal"
+[128]: {{page.q}}=15557 "sad (adj.) 3: downcast, distressed, mournful, gloomy"
+
+

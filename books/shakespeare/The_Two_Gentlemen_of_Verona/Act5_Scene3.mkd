@@ -1,0 +1,70 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act V - Scene III
+category: play
+author: shakespeare
+date: 2014-05-25 14:20:24 +0800
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act5_scene3.html
+layout: book_page
+creation: 1589-1593
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter the Outlaws with Silvia captive_
+
+**FIRST OUTLAW**
+
+Come, come,
+Be patient; we must bring you to our captain.
+
+
+
+**SILVIA**
+
+A thousand more [mischance][2]s than this one
+Have [learned][1] me how to [brook][3] this patiently.
+
+[1]: {{page.q}}=19111 "learn (v.) 1:  teach, instruct [not a regional dialect usage as in modern English]"
+[2]: {{page.q}}=10451 "mischance (n.):  misfortune, calamity, mishap"
+[3]: {{page.q}}=1819 "brook (v.) 1:  endure, tolerate, put up with"
+
+
+**SECOND OUTLAW**
+
+Come, bring her away.
+
+
+
+**FIRST OUTLAW**
+
+Where is the gentleman that was with her?
+
+
+
+**THIRD OUTLAW**
+
+Being nimble-footed, he hath outrun us,
+But Moyses and Valerius follow him.
+Go thou with her to the west end of the wood;
+There is our captain; we'll follow him that's fled.
+The [thicket][6] is [beset][4]; he cannot '[scape][5].
+
+[4]: {{page.q}}=1680 "beset (v.):  set upon, assail, besiege"
+[5]: {{page.q}}=14263 "scape, 'scape (v.):  escape, avoid"
+[6]: {{page.q}}=6244 "thicket (n.):  densely wooded area"
+
+
+**FIRST OUTLAW**
+
+Come, I must bring you to our captain's cave;
+Fear not; he bears an honourable [mind][7],
+And will not use a woman lawlessly.
+
+[7]: {{page.q}}=11037 "mind (n.) 3:  character, disposition, spirit"
+
+
+**SILVIA**
+
+O Valentine, this I endure for thee!
+_Exeunt_
+

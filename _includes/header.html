@@ -1,0 +1,47 @@
+<header>
+  <div class="row">
+    <figure class="vcenter">
+      <h1>
+        <a href="{{ site.url }}/">
+          <span>read and annotate</span>
+          读而注
+          {% comment %}
+          <img src="{{ site.url }}/img/logo-2x.png" width="249" height="115" alt="">
+          {% endcomment %}
+        </a>
+      </h1>
+    </figure><!--
+    {% comment %}
+    do not remove this comment why? see: 
+    http://stackoverflow.com/q/20005278/1209206
+    http://css-tricks.com/fighting-the-space-between-inline-block-elements/
+    {% endcomment %}
+    --><nav class="vcenter">
+          <ul>
+            <li class="{% if page.overview %}active{% endif %}">
+              <a href="{{ site.url }}/">Home</a>
+            </li>
+            <li class="{% if page.url contains '/blog/' %}active{% endif %}">
+              <a href="{{ site.url }}/blog/">Blog</a>
+            </li>
+            {% unless site.GH_ENV %}
+            <li class="{% if page.url contains '/docs/' %}active{% endif %}">
+              <a href="{{ site.url }}/docs/home/">Docs</a>
+            </li>
+            <li class="{% if page.author %}active{% endif %}">
+              <a href="{{ site.url }}/books/">Books</a>
+            </li>
+            {% endunless %}
+            <li>
+              <a href="#" data-toggle="collapse" data-target='#nav'>☰</a>
+            </li>
+          </ul>
+    </nav>
+  </div>
+</header>
+{% comment %}
+<header>
+  <div class="row">
+    <div class="col-sm-4 vcenter"><h1 style="font-size: 72px">古籍注</h1></div><div class="col-sm-8 vcenter"><p>leddasfsdfasdfsdfsadfasdfsd</p></div></div>
+</header>
+{% endcomment %}

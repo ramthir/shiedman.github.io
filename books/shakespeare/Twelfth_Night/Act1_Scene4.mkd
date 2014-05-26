@@ -1,0 +1,157 @@
+---
+title: Twelfth Night
+tagline: Act I - Scene IV
+category: play
+author: shakespeare
+date: 2014-05-25 18:40:22 +0800
+permalink: /books/shakespeare/Twelfth_Night_act1_scene4.html
+layout: book_page
+creation: 1601-1602
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Valentine, and Viola in man's attire_
+
+**VALENTINE**
+
+If the Duke continue these favours towards
+you, Cesario, you are [like][1] to be much advanced. He hath
+known you but three days, and already you are no
+stranger.
+
+[1]: {{page.q}}=19137 "like (adv.) 1:  likely, probable / probably"
+
+
+**VIOLA**
+
+You either fear his [humour][3] or my negligence, that
+you call in question the [continuance][4] of his love. Is he
+inconstant, sir, in his favours?
+
+[2]: {{page.q}}=18215 "humour (n.) 2:  fancy, whim, inclination, caprice"
+[3]: {{page.q}}=18247 "humour (n.) 1:  mood, disposition, frame of mind, temperament [as determined by bodily fluids]"
+[4]: {{page.q}}=3743 "continuance (n.) 3:  lasting nature, permanence, durability"
+
+
+**VALENTINE**
+
+No, believe me.
+_Enter Orsino, Curio, and attendants_
+
+
+
+**VIOLA**
+
+I thank you. Here comes the Count.
+
+
+
+**ORSINO**
+
+Who saw Cesario, ho?
+
+
+
+**VIOLA**
+
+On your attendance, my lord, here.
+
+
+
+**ORSINO**
+
+_to Curio and attendants_
+Stand you awhile aloof. (To Viola) Cesario,
+Thou knowest no less but all. I have [unclasp][5]ed
+To thee the book even of my secret soul.
+Therefore, good youth, [address][6] thy [gait][7] unto her.
+Be not denied access; stand at her doors,
+And tell them, there thy fixed foot shall grow
+Till thou have audience.
+
+[5]: {{page.q}}=6902 "unclasp (v.):  reveal, display, divulge"
+[6]: {{page.q}}=294 "address (v.) 3:  direct, apply, turn"
+[7]: {{page.q}}=17478 "gait (n.) 2:  proceedings, course, doings, steps"
+
+
+**VIOLA**
+
+Sure, my noble lord,
+If she be so abandoned to her sorrow
+As it is spoke, she never will admit me.
+
+
+
+**ORSINO**
+
+Be clamorous and leap all [civil][9] [bound][8]s
+Rather than make unprofited return.
+
+[8]: {{page.q}}=1850 "bound (n.) 1:  limit, boundary, confine, barrier"
+[9]: {{page.q}}=2642 "civil (adj.) 1:  civilized, cultured, refined"
+
+
+**VIOLA**
+
+Say I do speak with her, my lord, what then?
+
+
+
+**ORSINO**
+
+O, then unfold the passion of my love.
+[Surprise][11] her with [discourse][10] of my dear faith.
+It shall [become][12] thee well to act my woes;
+She will [attend][14] it better in thy youth
+Than in a [nuncio][16]'s of more grave [aspect][15].
+
+[10]: {{page.q}}=8673 "discourse (n.) 1:  conversation, talk, chat"
+[11]: {{page.q}}=15176 "surprise (v.) 2:  take prisoner, capture [especially: suddenly, unexpectedly]"
+[12]: {{page.q}}=1432 "become (v.) 1:  be fitting, befit, be appropriate to"
+[13]: {{page.q}}=77 "attend (v.) 7:  listen [to], pay attention [to]"
+[14]: {{page.q}}=324 "attend (v.) 6:  regard, consider"
+[15]: {{page.q}}=60 "aspect (n.) 1:  [of a human face] look, appearance, expression"
+[16]: {{page.q}}=11483 "nuncio (n.):  messenger, emissary"
+
+
+**VIOLA**
+
+I think not so, my lord.
+
+
+
+**ORSINO**
+
+Dear lad, believe it.
+For they shall yet [belie][17] thy happy years
+That say thou art a man. Diana's lip
+Is not more smooth and [rubious][19]. Thy small [pipe][18]
+Is as the maiden's organ, shrill and [sound][20],
+And all is [semblative][22] a woman's [part][21].
+I know thy [constellation][24] is right [apt][23]
+For this affair. Some four or five [attend][25] him –
+All, if you will; for I myself am best
+When least in company. Prosper well in this,
+And thou shalt live as freely as thy lord,
+To call his fortunes thine.
+
+[17]: {{page.q}}=1563 "belie (v.) 1:  slander, tell lies about"
+[18]: {{page.q}}=13247 "pipe (n.):  voice"
+[19]: {{page.q}}=17200 "rubious (adj.):  ruby-coloured, deep red"
+[20]: {{page.q}}=15658 "sound (adj.) 4:  unbroken"
+[21]: {{page.q}}=12150 "part (n.) 1:  quality, attribute, gift, accomplishment [of mind or body]"
+[22]: {{page.q}}=15659 "semblative (adj.):  resembling, looking like"
+[23]: {{page.q}}=43 "apt (adj.) 1:  fit, ready, prepared"
+[24]: {{page.q}}=3553 "constellation:  [the stars were thought to influence people and events] disposition, character, temperament"
+[25]: {{page.q}}=913 "attend (v.) 2:  serve, follow, wait [on/upon]"
+
+
+**VIOLA**
+
+I'll do my best
+To woo your lady. (Aside) Yet, a [barful][26] strife!
+Whoe'er I woo, myself would be his wife.
+_Exeunt_
+
+[26]: {{page.q}}=1697 "barful (adj.):  full of hindrances, with impediments"

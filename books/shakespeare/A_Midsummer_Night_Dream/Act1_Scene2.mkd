@@ -1,0 +1,358 @@
+---
+title: A Midsummer Night's Dream
+tagline: Act I - Scene II
+category: play
+author: shakespeare
+date: 2014-05-25 14:50:16 +0800
+permalink: /books/shakespeare/A_Midsummer_Night_Dream_act1_scene2.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Quince the carpenter, and Snug the joiner, and_
+
+_Bottom the weaver, and Flute the bellows-mender,_
+
+_and Snout the tinker, and Starveling the tailor_
+
+**QUINCE**
+
+Is all our company here?
+
+
+
+**BOTTOM**
+
+You were best to call them generally, man by
+man, according to the [scrip][1].
+
+[1]: {{page.q}}=14684 "scrip (n.) 2:  script, text"
+
+
+**QUINCE**
+
+Here is the scroll of every man's name which is
+thought fit through all Athens to play in our [interlude][2]
+before the Duke and the Duchess on his wedding day at
+night.
+
+[2]: {{page.q}}=5048 "interlude, enterlude (n.):  short play, theatrical performance [staged to fill an interval]"
+
+
+**BOTTOM**
+
+First, good Peter Quince, say what the play treats
+on; then read the names of the actors; and so grow to a
+point.
+
+
+
+**QUINCE**
+
+_The most lamentable comedy_
+_and most cruel death of Pyramus and Thisbe._
+
+
+
+**BOTTOM**
+
+A very good piece of work, I assure you, and a
+merry. Now, good Peter Quince, call forth your actors
+by the scroll. Masters, spread yourselves.
+
+
+
+**QUINCE**
+
+Answer as I call you. Nick Bottom, the weaver?
+
+
+
+**BOTTOM**
+
+Ready! – Name what part I am for, and
+proceed.
+
+
+
+**QUINCE**
+
+You, Nick Bottom, are set down for Pyramus.
+
+
+
+**BOTTOM**
+
+What is Pyramus? – a lover or a tyrant?
+
+
+
+**QUINCE**
+
+A lover that kills himself, most gallant, for love.
+
+
+
+**BOTTOM**
+
+That will ask some tears in the true performing
+of it. If I [do][3] it, let the audience look to their eyes! I will
+move storms. I will [condole][4], in some measure. To the
+rest. – Yet my chief [humour][5] is for a tyrant. I could play
+Ercles [rarely][6], or a part to tear a cat in, to make all split:
+The raging rocks
+And [shivering][7] shocks
+Shall break the locks
+Of prison gates,
+And Phibbus' [car][8]
+Shall shine from far
+And make and mar
+The foolish Fates.
+This was lofty! – Now name the rest of the players. –
+This is Ercles' [vein][9], a tyrant's [vein][9]. A lover is more
+[condoling][10].
+
+[3]: {{page.q}}=8522 "do (v.) 5:  perform, play one's part, act"
+[4]: {{page.q}}=1145 "condole (v.) 1:  lament, grieve, express great sorrow"
+[5]: {{page.q}}=18215 "humour (n.) 2:  fancy, whim, inclination, caprice"
+[6]: {{page.q}}=16672 "rarely (adv.) 1:  splendidly, beautifully, excellently"
+[7]: {{page.q}}=16428 "shivering (adj.):  shattering, splintering"
+[8]: {{page.q}}=3953 "car (n.):  carriage, cart, chariot [often of the sun god]"
+[9]: {{page.q}}=7526 "vein (n.) 2:  style, manner"
+[10]: {{page.q}}=1146 "condoling (adj.):  moving, affecting, poignant"
+
+
+**QUINCE**
+
+Francis Flute, the bellows-mender?
+
+
+
+**FLUTE**
+
+Here, Peter Quince.
+
+
+
+**QUINCE**
+
+Flute, you must take Thisbe on you.
+
+
+
+**FLUTE**
+
+What is Thisbe? – a wandering knight?
+
+
+
+**QUINCE**
+
+It is the lady that Pyramus must love.
+
+
+
+**FLUTE**
+
+Nay, faith, let not me play a woman – I have a
+beard coming.
+
+
+
+**QUINCE**
+
+That's all one: you shall play it in a mask, and
+you may speak as [small][11] as you will.
+
+[11]: {{page.q}}=14502 "small (adj.) 3:  high-pitched, fluting, thin"
+
+
+**BOTTOM**
+
+An I may hide my face, let me play Thisbe too.
+I'll speak in a [monstrous][12] little voice: ‘ Thisne, Thisne!’
+‘ Ah, Pyramus, my lover dear; thy Thisbe dear, and lady
+dear.’
+
+[12]: {{page.q}}=10752 "monstrous (adv.):  exceedingly, wonderfully, extraordinarily"
+
+
+**QUINCE**
+
+No, no; you must play Pyramus; and Flute, you
+Thisbe.
+
+
+
+**BOTTOM**
+
+Well, proceed.
+
+
+
+**QUINCE**
+
+Robin Starveling, the tailor?
+
+
+
+**STARVELING**
+
+Here, Peter Quince.
+
+
+
+**QUINCE**
+
+Robin Starveling, you must play Thisbe's
+mother. Tom Snout, the tinker?
+
+
+
+**SNOUT**
+
+Here, Peter Quince.
+
+
+
+**QUINCE**
+
+You, Pyramus' father; myself, Thisbe's father;
+Snug, the joiner, you the lion's part; and I hope here is
+a play fitted.
+
+
+
+**SNUG**
+
+Have you the lion's part written? Pray you, if it be,
+give it me; for I am slow of [study][13].
+
+[13]: {{page.q}}=14156 "study (n.) 5:  preparation, learning, memorizing [of a part]"
+
+
+**QUINCE**
+
+You may [do][14] it [extempore][15]; for it is nothing but
+roaring.
+
+[14]: {{page.q}}=8522 "do (v.) 5:  perform, play one's part, act"
+[15]: {{page.q}}=9994 "extempore (adj./adv.) 2:  spontaneously, involuntarily, without thinking"
+
+
+**BOTTOM**
+
+Let me play the lion too. I will roar that I will
+do any man's heart good to hear me. I will roar that I
+will make the Duke say ‘ Let him roar again; let him
+roar again!’
+
+
+
+**QUINCE**
+
+An you should do it too terribly you would [fright][16]
+the Duchess and the ladies that they would shriek; and
+that were enough to hang us all.
+
+[16]: {{page.q}}=19973 "fright (v.), past form frighted:  frighten, scare, terrify"
+
+
+**ALL Mechanicals**
+
+That would hang us, every mother's son.
+
+
+
+**BOTTOM**
+
+I grant you, friends, if that you should fright the
+ladies out of their wits they would have no more discretion
+but to hang us. But I will [aggravate][17] my voice so
+that I will roar you as gently as any [sucking][18] dove. I will
+roar you an 'twere any nightingale.
+
+[17]: {{page.q}}=321 "aggravate (v.) 3:  intensify; malapropism for ‘moderate’"
+[18]: {{page.q}}=14685 "sucking (adj.):  unweaned, suckling"
+
+
+**QUINCE**
+
+You can play no part but Pyramus; for Pyramus
+is a sweet-faced man; a [proper][19] man as one shall see in a
+summer's day; a most lovely, gentlemanlike man. Therefore
+you must needs play Pyramus.
+
+[19]: {{page.q}}=12275 "proper (adj.) 1:  good-looking, handsome, comely"
+
+
+**BOTTOM**
+
+Well, I will undertake it. What beard were I
+best to play it in?
+
+
+
+**QUINCE**
+
+Why, what you will.
+
+
+
+**BOTTOM**
+
+I will [discharge][20] it in either your straw-colour
+beard, your [orange-tawny][21] beard, your [purple-in-grain][22]
+beard, or your [French-crown-colour][23] beard, your perfect
+yellow.
+
+[20]: {{page.q}}=8712 "discharge (v.) 2:  play, perform, execute"
+[21]: {{page.q}}=11774 "orange-tawny (adj.):  dull yellowish brown"
+[22]: {{page.q}}=12766 "purple-in-grain (adj.):  dyed bright red"
+[23]: {{page.q}}=20217 "French-crown-colour (adj.):  light yellow coloured [as the French crown coin]"
+
+
+**QUINCE**
+
+Some of your French [crown][24]s have no hair at all;
+and then you will play bare-faced! But, masters, here
+are your parts, and I am to entreat you, request you, and
+desire you to [con][25] them by tomorrow night, and meet me
+in the palace wood a mile without the town by moonlight.
+There will we rehearse; for if we meet in the city
+we shall be dogged with company, and our [device][26]s
+known. In the meantime I will [draw][28] a [bill][27] of [properties][29]
+such as our play [want][30]s. I pray you, fail me not.
+
+[24]: {{page.q}}=1147 "crown (n.) 2:  head"
+[25]: {{page.q}}=2691 "con (v.) 1:  learn by heart, commit to memory"
+[26]: {{page.q}}=8401 "device (n.) 2:  plan, scheme, intention"
+[27]: {{page.q}}=1127 "bill (n.) 4:  inventory, list, catalogue"
+[28]: {{page.q}}=8648 "draw (v.) 3:  draw up, draft, frame"
+[29]: {{page.q}}=12767 "property (n.) 4:  (plural) stage requisites, accessories, props"
+[30]: {{page.q}}=7992 "want (v.) 4:  require, demand, need"
+
+
+**BOTTOM**
+
+We will meet, and there we may rehearse most
+[obscenely][31] and courageously. Take pains; be perfect.
+Adieu!
+
+[31]: {{page.q}}=11775 "obscenely (adv.):  malapropism possibly for ‘seemly’"
+
+
+**QUINCE**
+
+At the Duke's oak we meet.
+
+
+
+**BOTTOM**
+
+Enough; [hold][32], or cut bowstrings.
+Exeunt Bottom and his fellows
+
+[32]: {{page.q}}=18635 "hold (v.) 1:  keep, maintain, observe"

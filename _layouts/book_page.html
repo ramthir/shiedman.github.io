@@ -1,0 +1,55 @@
+---
+layout: book
+---
+<script>
+jQuery(document).ready(function($){
+    $('.titlebar .btn').on('click',function(){
+      $('main').toggleClass('full-width');
+    });
+    $(document).keydown(function(e){
+      var keycode = e.which || e.keyCode;
+      if(keycode===123){ // F12
+          $('main').toggleClass('full-width');
+      }
+    })
+});
+</script>
+<div class="titlebar">
+  <div class="btn-group">
+    <button class="btn"></button>
+  </div>
+</div>
+<!-- add classe -->
+{% if page.classes %}
+  {% assign classes = page.classes | join: ' ' %}
+{% else %}
+  {% assign classes = page.url | replace: '/', ' ' | replace: '.', ' '%}
+{% endif %}
+<article class="{{ classes }}">
+  <div class="page-header">
+    <h2>
+      {{ page.title }}
+      <a href="{{ page.url }}" class="permalink" title="Permalink">∞</a>
+    </h2>
+    {% if page.tagline %}
+      <small> {{page.tagline}} </small>
+    {% endif %}
+  </div>
+  {% if page.categories %}
+  <div class="post-category">
+    {{ page.categories | join: ","}}
+  </div>
+  {% elsif page.category %}
+  <div class="post-category">
+    {{ page.category }}
+  </div>
+  {% endif %}
+  <div class="post-meta">
+    <time> {{ page.date | date: "%Y-%m-%d" }} </time>
+  </div>
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
+
+

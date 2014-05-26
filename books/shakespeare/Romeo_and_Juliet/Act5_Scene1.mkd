@@ -1,0 +1,228 @@
+---
+title: Romeo and Juliet
+tagline: Act V - Scene I
+category: play
+author: shakespeare
+date: 2014-05-26 18:04:36 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act5_scene1.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Romeo_
+
+**ROMEO**
+
+If I may trust the flattering truth of sleep,
+My dreams [presage][1] some joyful news at hand.
+My [bosom][2]'s lord sits lightly in his throne,
+And all this day an [unaccustomed][3] spirit
+Lifts me above the ground with cheerful thoughts.
+I dreamt my lady came and found me dead –
+Strange dream that gives a dead man leave to think! –
+And breathed such life with kisses in my lips
+That I revived and was an emperor.
+Ah me! how sweet is love itself [possess][4]ed,
+When but love's [shadow][5]s are so rich in joy!
+_Enter Balthasar, Romeo's man, booted_
+News from Verona! How now, Balthasar?
+Dost thou not bring me letters from the Friar?
+How doth my lady? Is my father well?
+How [fare][6]s my Juliet? That I ask again,
+For nothing can be ill if she be well.
+
+[1]: {{page.q}}=13187 "presage (v.) 2: predict, forecast"
+[2]: {{page.q}}=2300 "bosom (n.) 1: heart, inner person"
+[3]: {{page.q}}=6747 "unaccustomed (adj.): unusual, strange, unfamiliar"
+[4]: {{page.q}}=12727 "possess (v.) 2: fill, imbue"
+[5]: {{page.q}}=15593 "shadow (n.) 4: illusion, unreal image, delusion"
+[6]: {{page.q}}=19984 "fare (v.) 1: get on, manage, do, cope"
+
+
+**BALTHASAR**
+
+Then she is well, and nothing can be ill.
+Her body sleeps in Capel's monument,
+And her immortal part with angels lives.
+I saw her laid low in her kindred's vault
+And [presently][9] took [post][8] to tell it you.
+O, pardon me for bringing these ill news,
+Since you did leave it for my [office][10], sir.
+
+[7]: {{page.q}}=12610 "post (n.) 1: express messenger, courier"
+[8]: {{page.q}}=13382 "post (n.) 2: post-horse"
+[9]: {{page.q}}=12248 "presently (adv.) 1: immediately, instantly, at once"
+[10]: {{page.q}}=11936 "office (n.) 1: task, service, duty, responsibility"
+
+
+**ROMEO**
+
+Is it e'en so? Then I defy you, stars!
+Thou knowest my lodging. Get me ink and paper,
+And hire [posthorses][11]. I will hence tonight.
+
+[11]: {{page.q}}=13443 "post-horse (n.) 1: fast horse"
+
+
+**BALTHASAR**
+
+I do beseech you, sir, have patience.
+Your looks are pale and wild and do [import][12]
+Some [misadventure][13].
+
+[12]: {{page.q}}=4927 "import (v.) 4: portend, signify, predict"
+[13]: {{page.q}}=11115 "misadventure (n.): misfortune, mishap, tragic accident"
+
+
+**ROMEO**
+
+Tush, thou art deceived.
+Leave me and do the thing I bid thee do.
+Hast thou no letters to me from the Friar?
+
+
+
+**BALTHASAR**
+
+No, my good lord.
+
+
+
+**ROMEO**
+
+No matter. Get thee gone
+And hire those horses. I'll be with thee [straight][14].
+_Exit Balthasar_
+Well, Juliet, I will lie with thee tonight.
+Let's [see][16] for means. O [mischief][15], thou art swift
+To enter in the thoughts of desperate men.
+I do remember an [apothecary][17],
+And hereabouts 'a dwells, which [late][18] I [note][19]d
+In tattered [weed][22]s, with [overwhelming][21] [brow][20]s,
+[Cull][23]ing of [simple][24]s. Meagre were his looks.
+Sharp misery had worn him to the bones.
+And in his needy shop a tortoise hung,
+An alligator stuffed, and other skins
+Of ill-shaped fishes; and about his shelves
+A [beggarly][26] [account][25] of empty boxes,
+Green earthen pots, [bladder][27]s, and musty seeds,
+Remnants of [packthread][29], and old [cake][28]s of roses
+Were thinly scattered, to make up a [show][30].
+Noting this penury, to myself I said,
+‘ An if a man did need a poison now
+Whose sale is present death in Mantua,
+Here lives a [caitiff][31] wretch would sell it him.’
+O, this same thought did but [forerun][32] my [need][33],
+And this same needy man must sell it me.
+As I remember, this should be the house.
+Being holiday, the beggar's shop is shut.
+What, ho! Apothecary!
+_Enter Apothecary_
+
+[14]: {{page.q}}=14086 "straight (adv.): straightaway, immediately, at once"
+[15]: {{page.q}}=10384 "mischief (n.) 2: wicked action, evil deed, harmful scheme"
+[16]: {{page.q}}=16404 "see for (v.): look out for"
+[17]: {{page.q}}=363 "apothecary, pothecary  (n.): one who prepares and sells medicinal drugs"
+[18]: {{page.q}}=15363 "late (adv.): recently, a little while ago / before"
+[19]: {{page.q}}=11320 "note (v.) 1: observe, pay attention [to], take special note [of]"
+[20]: {{page.q}}=1915 "brow (n.) 3: eyebrow"
+[21]: {{page.q}}=12016 "overwhelming (adj.): overhanging, bulging, protruding"
+[22]: {{page.q}}=7564 "weed (n.) 1: (plural) garments, dress, clothes"
+[23]: {{page.q}}=3492 "cull (v.): select, pick out, choose"
+[24]: {{page.q}}=13999 "simple (n.) 1: ingredient, element, constituent"
+[25]: {{page.q}}=890 "account, accompt (n.) 4: number, collection, assortment"
+[26]: {{page.q}}=1645 "beggarly (adj.) 1: destitute, impoverished, poverty-stricken"
+[27]: {{page.q}}=1753 "bladder (n.) 1: vessel derived from animals used for storing liquid"
+[28]: {{page.q}}=4072 "cake (n.): compressed pack, flattened bundle"
+[29]: {{page.q}}=13448 "packthread, pack-thread (n.): twine used for tying up bundles, string"
+[30]: {{page.q}}=15093 "show (n.) 1: appearance, exhibition, display"
+[31]: {{page.q}}=3986 "caitiff (adj.): wretched, miserable, worthless"
+[32]: {{page.q}}=20174 "forerun (v.): forecast, foreshadow, be the precursor of"
+[33]: {{page.q}}=11425 "need (n.): time of necessity, needy situation, emergency"
+
+
+**APOTHECARY**
+
+Who calls so loud?
+
+
+
+**ROMEO**
+
+Come hither, man. I see that thou art poor.
+Hold, there is forty ducats. Let me have
+A [dram][34] of poison, such [soon-speeding][36] [gear][35]
+As will disperse itself through all the veins,
+That the life-weary taker may fall dead
+And that the trunk may be discharged of breath
+As violently as hasty [powder][37] fired
+Doth hurry from the fatal cannon's womb.
+
+[34]: {{page.q}}=8471 "dram (n.) 1: tiny amount, small quantity"
+[35]: {{page.q}}=18053 "gear (n.) 3: stuff, substance"
+[36]: {{page.q}}=15999 "soon-speeding (adj.): quick-acting, rapidly working"
+[37]: {{page.q}}=13447 "powder (n.): gunpowder"
+
+
+**APOTHECARY**
+
+Such [mortal][38] drugs I have. But Mantua's law
+Is death to any [he][39] that [utter][40]s them.
+
+[38]: {{page.q}}=10654 "mortal (adj.) 1: fatal, deadly, lethal"
+[39]: {{page.q}}=18597 "he (n.): man, person"
+[40]: {{page.q}}=7078 "utter (v.) 2: offer for sale, dispense, make available"
+
+
+**ROMEO**
+
+Art thou so [bare][41] and full of wretchedness
+And fearest to die? Famine is in thy cheeks.
+Need and oppression [starve][42]th in thy eyes.
+Contempt and beggary hangs upon thy back.
+The world is not thy friend, nor the world's law.
+The world affords no law to make thee rich.
+Then be not poor, but break it and take this.
+
+[41]: {{page.q}}=2551 "bare (adj.) 4: gaunt, lean, needy"
+[42]: {{page.q}}=16000 "starve (v.) 4: show hunger, reflect starvation"
+
+
+**APOTHECARY**
+
+My poverty but not my will consents.
+
+
+
+**ROMEO**
+
+I pay thy poverty and not thy will.
+
+
+
+**APOTHECARY**
+
+Put this in any liquid thing you will
+And drink it off, and if you had the strength
+Of twenty men it would [dispatch][43] you [straight][44].
+
+[43]: {{page.q}}=8580 "dispatch, despatch (v.) 3: kill, put to death, make away with, finish off"
+[44]: {{page.q}}=14086 "straight (adv.): straightaway, immediately, at once"
+
+
+**ROMEO**
+
+There is thy gold – worse poison to men's souls,
+Doing more murder in this loathsome world,
+Than these poor compounds that thou mayst not sell.
+I sell thee poison. Thou hast sold me none.
+Farewell. Buy food and get thyself in flesh.
+Come, [cordial][45] and not poison, go with me
+To Juliet's grave. For there must I use thee.
+_Exeunt_
+
+[45]: {{page.q}}=3302 "cordial (n.): restorative, stimulant, tonic"
+
+

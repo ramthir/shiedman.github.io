@@ -1,0 +1,373 @@
+---
+title: A Midsummer Night's Dream
+tagline: Act II - Scene II
+category: play
+author: shakespeare
+date: 2014-05-25 15:56:18 +0800
+permalink: /books/shakespeare/A_Midsummer_Night_Dream_act2_scene2.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Titania, Queen of Fairies, with her train_
+
+**TITANIA**
+
+Come, now a roundel and a fairy song,
+Then for the third part of a minute hence:
+Some to kill [canker][1]s in the muskrose buds,
+Some war with [reremice][3] for their [leathern][2] wings
+To make my small elves coats, and some keep back
+The clamorous owl that nightly hoots and wonders
+[At][4] our [quaint][5] spirits. Sing me now asleep;
+Then to your [office][6]s, and let me rest.
+_Fairies sing_
+
+[1]: {{page.q}}=3924 "canker (n./adj.) 1:  grub that destroys plant buds and leaves, cankerworm, parasite"
+[2]: {{page.q}}=19094 "leathern (adj.) 1:  leather-like"
+[3]: {{page.q}}=16887 "reremouse (n.):  bat"
+[4]: {{page.q}}=21100 "a (prep.) 6:  variant form of ‘to’"
+[5]: {{page.q}}=13752 "quaint (adj.) 4:  pretty, attractive, lovely"
+[6]: {{page.q}}=11936 "office (n.) 1:  task, service, duty, responsibility"
+
+
+**FIRST FAIRY**
+
+You spotted snakes with double tongue,
+Thorny hedgehogs, be not seen;
+Newts and blindworms, do no wrong,
+Come not near our Fairy Queen.
+
+
+
+**CHORUS**
+
+Philomel with melody
+Sing in our sweet lullaby,
+Lulla, lulla, lullaby; lulla, lulla, lullaby.
+Never harm
+Nor spell nor charm
+Come our lovely lady nigh.
+So good night, with lullaby.
+
+
+
+**FIRST FAIRY**
+
+Weaving spiders, come not here;
+Hence, you longlegged [spinner][7]s, hence!
+Beetles black, approach not near,
+Worm nor snail, do no [offence][8].
+
+[7]: {{page.q}}=15974 "spinner (n.):  spider, cranefly, daddy-longlegs"
+[8]: {{page.q}}=11688 "offence (n.) 1:  damage, injury, harm"
+
+
+**CHORUS**
+
+Philomel with melody
+Sing in our sweet lullaby,
+Lulla, lulla, lullaby; lulla, lulla, lullaby.
+Never harm
+Nor spell nor charm
+Come our lovely lady nigh.
+So good night, with lullaby.
+_Titania sleeps_
+
+
+
+**SECOND FAIRY**
+
+Hence, away! Now all is well.
+One [aloof][9] stand sentinel!
+_Exeunt Fairies_
+_Enter Oberon_
+_He squeezes the flower on Titania's eyes_
+
+[9]: {{page.q}}=131 "aloof (adv.):  a short distance away, to one side"
+
+
+**OBERON**
+
+What thou seest when thou dost wake,
+Do it for thy true love take;
+Love and languish for his sake.
+Be it [ounce][10] or cat or bear,
+[Pard][11], or boar with bristled hair
+In thy eye that shall appear
+When thou wakest, it is thy dear.
+Wake when some vile thing is near!
+_Exit_
+_Enter Lysander and Hermia_
+
+[10]: {{page.q}}=11756 "ounce (n.):  lynx"
+[11]: {{page.q}}=12148 "pard (n.):  panther, leopard"
+
+
+**LYSANDER**
+
+Fair love, you faint with wandering in the wood;
+And – to speak [truth][12] – I have forgot our way.
+We'll rest us, Hermia, if you think it good,
+And tarry for the comfort of the day.
+
+[12]: {{page.q}}=5555 "troth (n.) 1:  truth, good faith"
+
+
+**HERMIA**
+
+Be it so, Lysander; find you out a bed,
+For I upon this bank will rest my head.
+
+
+
+**LYSANDER**
+
+One turf shall serve as pillow for us both;
+One heart, one bed, two bosoms, and one troth.
+
+
+
+**HERMIA**
+
+Nay, good Lysander, for my sake, my dear,
+Lie further off yet; do not lie so near.
+
+
+
+**LYSANDER**
+
+O, take the sense, sweet, of my innocence!
+Love takes the meaning in love's [conference][13] –
+I mean that my heart unto yours is knit,
+So that but one heart we can make of it.
+Two bosoms interchained with an oath –
+So then two bosoms and a single troth.
+Then by your side no bed-room me deny,
+For lying so, Hermia, I do not lie.
+
+[13]: {{page.q}}=2704 "conference (n.) 1:  conversation, talk, discourse"
+
+
+**HERMIA**
+
+Lysander riddles very [prettily][14].
+Now much [beshrew][15] my manners and my pride
+If Hermia meant to say Lysander lied.
+But, [gentle][16] friend, for love and courtesy
+Lie further off, in human modesty:
+Such separation as may well be said
+[Become][17]s a virtuous bachelor and a maid,
+So far be distant, and good night, sweet friend;
+Thy love ne'er alter till thy sweet life end.
+
+[14]: {{page.q}}=12365 "prettily (adv.):  cleverly, ingeniously; or: charmingly"
+[15]: {{page.q}}=1534 "beshrew, 'shrew (v.) 1:  curse, devil take, evil befall"
+[16]: {{page.q}}=21269 "gentle (adj.) 6:  soft, tender, kind"
+[17]: {{page.q}}=1432 "become (v.) 1:  be fitting, befit, be appropriate to"
+
+
+**LYSANDER**
+
+Amen, amen, to that fair prayer say I,
+And then end life when I end loyalty.
+Here is my bed: sleep give thee all his rest.
+
+
+
+**HERMIA**
+
+With half that wish the wisher's eyes be pressed.
+_They sleep_
+_Enter Puck_
+
+
+
+**PUCK**
+
+Through the forest have I gone,
+But Athenian found I none
+On whose eyes I might [approve][18]
+This flower's force in stirring love.
+Night and silence. – Who is here?
+[Weed][19]s of Athens he doth wear.
+This is he my master said
+Despised the Athenian maid;
+And here the maiden, sleeping sound
+On the dank and dirty ground.
+Pretty soul, she durst not lie
+Near this lack-love, this kill-courtesy.
+Churl, upon thy eyes I throw
+All the p[owe][20]r this charm doth [owe][20].
+_He squeezes the flower on Lysander's eyes_
+When thou wakest let love forbid
+Sleep his seat on thy eyelid.
+So awake when I am gone;
+For I must now to Oberon.
+_Exit_
+_Enter Demetrius and Helena, running_
+
+[18]: {{page.q}}=40 "approve (v.) 1:  prove, confirm, corroborate, substantiate"
+[19]: {{page.q}}=7564 "weed (n.) 1:  (plural) garments, dress, clothes"
+[20]: {{page.q}}=11935 "owe (v.) 1:  own, possess, have"
+
+
+**HELENA**
+
+Stay though thou kill me, sweet Demetrius!
+
+
+
+**DEMETRIUS**
+
+I charge thee hence; and do not haunt me thus.
+
+
+
+**HELENA**
+
+O, wilt thou [darkling][21] leave me? Do not so!
+
+[21]: {{page.q}}=8847 "darkling (adv.):  in the dark, in darkness"
+
+
+**DEMETRIUS**
+
+Stay, on thy peril. I alone will go.
+_Exit_
+
+
+
+**HELENA**
+
+O, I am out of breath in this [fond][23] [chase][22].
+The more my prayer, the lesser is my [grace][24].
+Happy is Hermia, wheresoe'er she lies,
+For she hath blessed and attractive eyes.
+How came her eyes so bright? Not with salt tears –
+If so, my eyes are oftener washed than hers.
+No, no – I am as ugly as a bear;
+For beasts that meet me run away for fear.
+Therefore no marvel though Demetrius
+Do as a monster fly my presence thus.
+What wicked and [dissembling][25] [glass][26] of mine
+Made me [compare][27] with Hermia's [sphery][29] [eyne][28]?
+But who is here? – Lysander on the ground?
+Dead? – or asleep? I see no blood, no wound.
+Lysander, if you live, good sir, awake!
+
+[22]: {{page.q}}=4294 "chase (n.) 1:  pursuit, sequence, hunt"
+[23]: {{page.q}}=19852 "fond (adj.) 1:  foolish, stupid, mad"
+[24]: {{page.q}}=17602 "grace (n.) 7:  success, favourable outcome, fortune"
+[25]: {{page.q}}=8491 "dissembling (adj.):  deceitful, hypocritical, false"
+[26]: {{page.q}}=17507 "glass (n.) 1:  mirror, looking-glass"
+[27]: {{page.q}}=2680 "compare (v.):  vie, rival, compete"
+[28]: {{page.q}}=9686 "eyne (n.):  [archaism] eyes"
+[29]: {{page.q}}=14603 "sphery (adj.):  star-like, heavenly, celestial"
+
+
+**LYSANDER**
+
+_wakes_
+And run through fire I will for thy sweet sake!
+Transparent Helena, nature shows [art][30]
+That through thy bosom makes me see thy heart.
+Where is Demetrius? O, how fit a word
+Is that vile name to perish on my sword!
+
+[30]: {{page.q}}=180 "art (n.) 6:  magic, enchantment, trickery"
+
+
+**HELENA**
+
+Do not say so, Lysander; say not so.
+What though he love your Hermia, lord, what though?
+Yet Hermia still loves you. Then be [content][31].
+
+[31]: {{page.q}}=3038 "content (adj.) 3:  satisfied, calm, easy in mind"
+
+
+**LYSANDER**
+
+Content with Hermia? No, I do repent
+The tedious minutes I with her have spent.
+Not Hermia but Helena I love.
+Who will not change a raven for a dove?
+The [will][32] of man is by his reason swayed,
+And reason says you are the worthier maid.
+Things growing are not ripe until their season;
+So I, being young, till now [ripe][33] not to reason.
+And [touch][36]ing now the [point][34] of human [skill][35],
+Reason becomes the marshal to my will
+And leads me to your eyes, where I [o'erlook][37]
+Love's stories written in love's richest book.
+
+[32]: {{page.q}}=7725 "will (n.) 1:  desire, wish, liking, inclination"
+[33]: {{page.q}}=16905 "ripe (v.):  ripen, mature"
+[34]: {{page.q}}=12704 "point (n.) 3:  summit, apex, highest point"
+[35]: {{page.q}}=14633 "skill (n.) 2:  discernment, discrimination, capacity to perceive"
+[36]: {{page.q}}=5473 "touch (v.) 4:  achieve, accomplish, attain"
+[37]: {{page.q}}=11632 "overlook (v.) 1:  look over, peruse, read through"
+
+
+**HELENA**
+
+Wherefore was I to this keen mockery born?
+When at your hands did I deserve this scorn?
+Is't not enough, is't not enough young man
+That I did never – no, nor never can –
+Deserve a sweet look from Demetrius' eye,
+But you must flout my insufficiency?
+Good troth, you do me wrong – good sooth, you do –
+In such disdainful manner me to woo.
+But [fare][38] you well. [Perforce][39] I must confess
+I thought you lord of more [true][41] [gentleness][40].
+O, that a lady of one man refused
+Should of another therefore be abused!
+_Exit_
+
+[38]: {{page.q}}=20910 "fare ... well: "
+[39]: {{page.q}}=12426 "perforce (adv.) 2:  of necessity, with no choice in the matter"
+[40]: {{page.q}}=17720 "gentleness (n.) 1:  nobility, good breeding, courtesy"
+[41]: {{page.q}}=5411 "true (adj.) 3:  honourable, virtuous, sincere"
+
+
+**LYSANDER**
+
+She sees not Hermia. Hermia, sleep thou there,
+And never mayst thou come Lysander near.
+For, as a surfeit of the sweetest things
+The deepest loathing to the stomach brings,
+Or as the heresies that men do leave
+Are hated most of those they did deceive,
+So thou, my surfeit and my heresy,
+Of all be hated, but the most of me!
+And, all my [power][43]s, [address][42] your love and might
+To honour Helen and to be her knight.
+_Exit_
+
+[42]: {{page.q}}=294 "address (v.) 3:  direct, apply, turn"
+[43]: {{page.q}}=13080 "power (n.) 8:  faculty, function, ability"
+
+
+**HERMIA**
+
+_wakes_
+Help me, Lysander, help me! Do thy best
+To pluck this crawling serpent from my breast!
+Ay me, for pity! – What a dream was here!
+Lysander, look how I do quake with fear!
+[Methought][44] a serpent ate my heart away,
+And you sat smiling at his cruel [prey][45].
+Lysander – what, removed? Lysander, lord!
+What, out of hearing? Gone? No sound, no word?
+Alack, where are you? Speak an if you hear.
+Speak, of all loves! I swoon almost with fear.
+No? Then I well perceive you are not nigh.
+Either death or you I'll find immediately.
+_Exit_
+
+[44]: {{page.q}}=10439 "methinks(t), methought(s) (v.):  it seems /seemed to me"
+[45]: {{page.q}}=12778 "prey (n.) 1:  preying, violence, devouring"

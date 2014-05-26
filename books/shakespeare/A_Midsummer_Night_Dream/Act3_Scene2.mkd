@@ -1,0 +1,1265 @@
+---
+title: A Midsummer Night's Dream
+tagline: Act III - Scene II
+category: play
+author: shakespeare
+date: 2014-05-25 16:15:44 +0800
+permalink: /books/shakespeare/A_Midsummer_Night_Dream_act3_scene2.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+# [16]  [173] not found
+---
+
+_Enter Oberon, King of Fairies_
+
+**OBERON**
+
+I wonder if Titania be awaked;
+Then what it was that next came in her eye,
+Which she must dote on, in extremity.
+Here comes my messenger.
+_Enter Puck_
+How now, mad spirit?
+What [night-rule][1] now about this haunted grove?
+
+[1]: {{page.q}}=11377 "night-rule (n.):  night-time activity, nocturnal diversion"
+
+
+**PUCK**
+
+My mistress with a monster is in love.
+Near to her [close][2] and consecrated bower,
+While she was in her dull and sleeping hour,
+A crew of [patch][4]es, [[rude][6]][5] [mechanical][3]s
+That work for bread upon Athenian stalls,
+Were met together to rehearse a play
+Intended for great Theseus' nuptial day.
+The shallowest [thickskin][9] of that [barren][7] [sort][8],
+Who Pyramus presented, in their [sport][10]
+Forsook his [scene][12] and entered in a [brake][11],
+When I did him at this advantage take.
+An ass's [nole][13] I fixed on his head.
+[Anon][14] his Thisbe must be answered,
+And forth my [mimic][15] comes. When they him spy –
+As wild geese that the creeping fowler eye,
+Or [russet-pated][18] [chough][17]s, many in [sort][19],
+Rising and cawing at the gun's report,
+Sever themselves and madly sweep the sky –
+So at his sight away his fellows fly,
+And at our stamp here o'er and o'er one falls.
+He ‘ Murder!’ cries, and help from Athens calls.
+Their sense thus weak, lost with their fears thus strong,
+Made senseless things begin to do them wrong.
+For briars and thorns at their [apparel][20] snatch,
+Some sleeves, some hats. From [yielder][22]s all things [catch][21].
+I led them on in this distracted fear,
+And left sweet Pyramus [translate][23]d there;
+When in that moment – so it came to pass –
+Titania waked, and straightway loved an ass.
+
+[2]: {{page.q}}=3143 "close (adj.) 2:  private, secluded, sequestered"
+[3]: {{page.q}}=10713 "mechanical (n.):  manual worker, craftsman, menial"
+[4]: {{page.q}}=12537 "patch (n.):  fool, clown; rogue, knave"
+[5]: {{page.q}}=16762 "rude (adj.) 6:  ignorant, unlearned, uneducated"
+[6]: {{page.q}}=16902 "rude (adj.) 4:  uncivilized, uncultivated, unrefined"
+[7]: {{page.q}}=1584 "barren (adj.) 2:  stupid, empty-headed, dull"
+[8]: {{page.q}}=5925 "sort (n.) 2:  pack, crowd, gang"
+[9]: {{page.q}}=5979 "thickskin, thick-skin (n.):  brutishly built, dullard, blockhead"
+[10]: {{page.q}}=14044 "sport (n.) 1:  recreation, amusement, entertainment"
+[11]: {{page.q}}=1872 "brake (n.) 1:  bush, thicket"
+[12]: {{page.q}}=14634 "scene (n.) 2:  stage, performing area"
+[13]: {{page.q}}=11378 "nole (n.):  noddle, head"
+[14]: {{page.q}}=30 "anon (adv.) 1:  soon, shortly, presently"
+[15]: {{page.q}}=10714 "mimic (n.):  burlesque actor, performer, thespian"
+[16]: {{page.q}}=4299 "chide (v.), past form chid 1:  scold, rebuke, reprove"
+[17]: {{page.q}}=4313 "chough (n.) 1:  jackdaw"
+[18]: {{page.q}}=16906 "russet-pated (adj.):  with reddish-brown head; or: grey-headed"
+[19]: {{page.q}}=5925 "sort (n.) 2:  pack, crowd, gang"
+[20]: {{page.q}}=37 "apparel (n.):  clothes, clothing, dress"
+[21]: {{page.q}}=4161 "catch (v.) 1:  seize, get hold of, capture"
+[22]: {{page.q}}=8301 "yielder (n.):  one who gives up, conceder"
+[23]: {{page.q}}=5485 "translate (v.) 1:  transform, change, alter"
+
+
+**OBERON**
+
+This falls out better than I could devise!
+But hast thou yet [latch][24]ed the Athenian's eyes
+With the love juice, as I did bid thee do?
+
+[24]: {{page.q}}=19319 "latch (v.) 3:  fasten, secure; or: moisten [leach]"
+
+
+**PUCK**
+
+I took him sleeping – that is finished too;
+And the Athenian woman by his side,
+That when he waked of force she must be eyed.
+_Enter Demetrius and Hermia_
+
+
+
+**OBERON**
+
+Stand close. This is the same Athenian.
+
+
+
+**PUCK**
+
+This is the woman, but not this the man.
+
+
+
+**DEMETRIUS**
+
+O, why [rebuke][25] you him that loves you so?
+Lay [breath][26] so bitter on your bitter foe.
+
+[25]: {{page.q}}=17343 "rebuke (v.):  repress, put down, check"
+[26]: {{page.q}}=1064 "breath (n.) 1:  utterance, speech, voice"
+
+
+**HERMIA**
+
+Now I but [chide][27]; but I should use thee worse,
+For thou, I fear, hast given me cause to curse.
+If thou hast slain Lysander in his sleep,
+Being o'er shoes in blood, plunge in the deep,
+And kill me too.
+The sun was not so true unto the day
+As he to me. Would he have stolen away
+From sleeping Hermia? I'll believe as soon
+This [whole][28] earth may be bored, and that the moon
+May through the [centre][29] creep, and so displease
+Her brother's noontide with the Antipodes.
+It cannot be but thou hast murdered him.
+So should a murderer look; so [dead][30], so grim.
+
+[27]: {{page.q}}=4299 "chide (v.), past form chid 1:  scold, rebuke, reprove"
+[28]: {{page.q}}=7859 "whole (adj.) 2:  unbroken, sound, intact"
+[29]: {{page.q}}=4121 "centre (n.) 1:  centre of the Earth, axis"
+[30]: {{page.q}}=8842 "dead (adj.) 4:  deadly, death-dealing, murderous"
+
+
+**DEMETRIUS**
+
+So should the murdered look, and so should I,
+Pierced through the heart with your stern cruelty.
+Yet you, the murderer, look as bright, as [clear][31],
+As yonder Venus in her glimmering [sphere][32].
+
+[31]: {{page.q}}=4708 "clear (adj.) 3:  serene, cheerful, unclouded"
+[32]: {{page.q}}=15747 "sphere (n.) 1:  celestial globe in which a heavenly body was thought to move, orbit"
+
+
+**HERMIA**
+
+What's this to my Lysander? Where is he?
+Ah, good Demetrius, wilt thou give him me?
+
+
+
+**DEMETRIUS**
+
+I had rather give his carcass to my hounds.
+
+
+
+**HERMIA**
+
+Out, dog! Out, cur! Thou drivest me past the bounds
+Of maiden's patience. Hast thou slain him then?
+Henceforth be never numbered among men.
+O, once tell true – tell true, even for my sake.
+Durst thou have looked upon him being awake?
+And hast thou killed him sleeping? O, [brave][33] [touch][34]!
+Could not a [worm][35], an adder do so much?
+An adder did it; for with [double][36]r tongue
+Than thine, thou serpent, never adder stung.
+
+[33]: {{page.q}}=2438 "brave (adj.) 2:  noble, worthy, excellent"
+[34]: {{page.q}}=5726 "touch (n.) 4:  act, action, deed"
+[35]: {{page.q}}=7769 "worm (n.) 1:  serpent, snake"
+[36]: {{page.q}}=8799 "double (adj.) 2:  forked, divided"
+
+
+**DEMETRIUS**
+
+You [spend][40] your [passion][39] on a [misprised][37] [mood][38].
+I am not guilty of Lysander's blood.
+Nor is he dead, for [aught][41] that I can tell.
+
+[37]: {{page.q}}=10715 "misprised (adj.):  mistaken, misguided, erroneous"
+[38]: {{page.q}}=10637 "mood (n.) 1:  anger, fury, frenzy, fit of temper"
+[39]: {{page.q}}=12343 "passion (n.) 4:  fit of anger, feeling of rage"
+[40]: {{page.q}}=14307 "spend (v.) 2:  expend, express, give vent to"
+[41]: {{page.q}}=84 "aught (n.):  anything, [with negative word] nothing"
+
+
+**HERMIA**
+
+I pray thee, tell me then that he is well.
+
+
+
+**DEMETRIUS**
+
+An if I could, what should I get therefore?
+
+
+
+**HERMIA**
+
+A privilege never to see me more;
+And from thy hated presence part I so.
+See me no more, whether he be dead or no.
+_Exit_
+
+
+
+**DEMETRIUS**
+
+There is no following her in this fierce vein.
+Here therefore for a while I will remain.
+So sorrow's heaviness doth [heavier][42] grow
+For debt that bankrupt sleep doth sorrow owe,
+Which now in some slight measure it will pay,
+If for his [tender][43] here I make some stay.
+_He lies down and sleeps_
+
+[42]: {{page.q}}=18511 "heavy (adj.) 3:  pressing, weighty, overpowering"
+[43]: {{page.q}}=5441 "tender (n.) 1:  offer, offering"
+
+
+**OBERON**
+
+What hast thou done? Thou hast mistaken quite,
+And laid the love juice on some true love's sight.
+Of thy [misprision][44] must [perforce][45] ensue
+Some true love [turn][47]ed, and not a [false][46] turned true.
+
+[44]: {{page.q}}=10716 "misprision (n.) 1:  mistake, error, misunderstanding, misconception"
+[45]: {{page.q}}=12426 "perforce (adv.) 2:  of necessity, with no choice in the matter"
+[46]: {{page.q}}=19980 "false (adj.) 3:  sham, spurious, not genuine, artificial"
+[47]: {{page.q}}=6130 "turn (v.) 1:  change, transform, alter"
+
+
+**PUCK**
+
+Then fate o'errules, that, one man holding truth,
+A million fail, confounding oath on oath.
+
+
+
+**OBERON**
+
+About the wood go swifter than the wind,
+And Helena of Athens look thou find.
+All [fancy-sick][49] she is and pale of [cheer][48]
+With sighs of love, that costs the fresh blood dear.
+By some [illusion][50] see thou bring her here.
+I'll charm his eyes against she do appear.
+
+[48]: {{page.q}}=4316 "cheer (n.) 4:  face, look, expression"
+[49]: {{page.q}}=20179 "fancy-sick (adj.):  love-sick, infatuated, pining"
+[50]: {{page.q}}=21198 "illusion (n.):  deception, delusion, deceit"
+
+
+**PUCK**
+
+I go, I go – look how I go –
+Swifter than arrow from the Tartar's bow.
+_Exit_
+
+
+
+**OBERON**
+
+Flower of this purple dye,
+Hit with Cupid's archery,
+Sink in [apple][51] of his eye.
+_He squeezes the flower on Demetrius's eyes_
+When his love he doth espy,
+Let her shine as gloriously
+As the Venus of the sky.
+When thou wakest, if she be by,
+Beg of her for remedy.
+_Enter Puck_
+
+[51]: {{page.q}}=295 "apple (n.):  pupil, centre"
+
+
+**PUCK**
+
+Captain of our fairy band,
+Helena is here at hand,
+And the youth mistook by me,
+Pleading for a lover's [fee][52].
+Shall we their [fond][53] [pageant][54] see?
+Lord, what fools these mortals be!
+
+[52]: {{page.q}}=20180 "fee (n.) 2:  payment, reward, recompense"
+[53]: {{page.q}}=20679 "fond (adj.) 2:  foolish, trifling, frivolous"
+[54]: {{page.q}}=12134 "pageant (n.):  show, scene, spectacle, tableau"
+
+
+**OBERON**
+
+Stand aside. The noise they make
+Will cause Demetrius to awake.
+
+
+
+**PUCK**
+
+Then will two at once woo one –
+That must needs be [sport][55] alone;
+And those things do best please me
+That [befall][56] [preposterously][57].
+_Enter Lysander and Helena_
+
+[55]: {{page.q}}=14044 "sport (n.) 1:  recreation, amusement, entertainment"
+[56]: {{page.q}}=1435 "befall (v.), past forms befallen, befell 1:  happen, occur, take place, turn out"
+[57]: {{page.q}}=12779 "preposterously (adv.):  out of the normal course of events, unnaturally, perversely"
+
+
+**LYSANDER**
+
+Why should you think that I should woo in scorn?
+Scorn and derision never come in tears.
+[Look][58] when I vow, I weep; and vows so born,
+In their nativity all truth appears.
+How can these things in me seem scorn to you,
+Bearing the badge of faith to prove them true?
+
+[58]: {{page.q}}=19269 "look when (conj.):  whenever, as soon as"
+
+
+**HELENA**
+
+You do [advance][59] your cunning more and more.
+When truth kills truth, O devilish-holy fray!
+These vows are Hermia's. Will you [give][60] her o'er?
+Weigh oath with oath, and you will nothing weigh.
+Your vows to her and me, put in two scales,
+Will even weigh, and both as light as [tale][61]s.
+
+[59]: {{page.q}}=326 "advance (v.) 2:  display, present, promote"
+[60]: {{page.q}}=18034 "give over (v.) 1:  desert, leave, abandon"
+[61]: {{page.q}}=5539 "tale (n.) 3:  false rumour, story, tittle-tattle"
+
+
+**LYSANDER**
+
+I had no judgement when to her I swore.
+
+
+
+**HELENA**
+
+Nor none in my mind now you give her o'er.
+
+
+
+**LYSANDER**
+
+Demetrius loves her, and he loves not you.
+
+
+
+**DEMETRIUS**
+
+_wakes_
+O Helena, goddess, nymph, perfect, divine –
+To what, my love, shall I compare thine [eyne][62]?
+Crystal is muddy! O, how [ripe][63] in show
+Thy lips – those kissing cherries – tempting grow!
+That pure congealed white, high Taurus' snow,
+Fanned with the eastern wind, turns to a crow
+When thou holdest up thy hand. O, let me kiss
+This [princess][64] of pure white, this [seal][65] of bliss!
+
+[62]: {{page.q}}=9686 "eyne (n.):  [archaism] eyes"
+[63]: {{page.q}}=16968 "ripe (adj.) 6:  red and full like ripe fruit"
+[64]: {{page.q}}=12708 "princess (n.):  paragon, sovereign form, ideal"
+[65]: {{page.q}}=14635 "seal (n.) 2:  pledge, promise, token, sign"
+
+
+**HELENA**
+
+O spite! O hell! I see you all are [bent][66]
+To [set][67] against me for your merriment.
+If you were civil and knew [courtesy][68]
+You would not do me thus much [injury][69].
+Can you not hate me – as I know you do –
+But you must join in souls to mock me too?
+If you were men – as men you are in show –
+You would not use a [gentle][70] lady so,
+To vow, and swear, and superpraise my [part][71]s,
+When, I am sure, you hate me with your hearts.
+You both are rivals, and love Hermia;
+And now both rivals to mock Helena.
+A [trim][72] exploit, a manly enterprise –
+To [conjure][73] tears up in a poor maid's eyes
+With your derision. None of noble [sort][74]
+Would so offend a virgin, and [extort][75]
+A poor soul's patience, all to make you [sport][76].
+
+[66]: {{page.q}}=1026 "bent (adj.) 1:  determined, intent, resolved"
+[67]: {{page.q}}=14699 "set against (v.):  be hostile to, make an attack on"
+[68]: {{page.q}}=3633 "courtesy, cur'sy, curtsy (n.) 1:  courteous service, polite behaviour, good manners"
+[69]: {{page.q}}=5024 "injury (n.) 2:  insult, affront, slight"
+[70]: {{page.q}}=17495 "gentle (adj.) 1:  well-born, honourable, noble"
+[71]: {{page.q}}=12150 "part (n.) 1:  quality, attribute, gift, accomplishment [of mind or body]"
+[72]: {{page.q}}=5637 "trim (adj.) 1:  fine, excellent, smart"
+[73]: {{page.q}}=1156 "conjure up (v.):  bring about [as if by magic], cause to appear"
+[74]: {{page.q}}=14030 "sort (n.) 1:  class, level, social rank"
+[75]: {{page.q}}=9882 "extort (v.) 1:  torture, abuse, wring"
+[76]: {{page.q}}=14044 "sport (n.) 1:  recreation, amusement, entertainment"
+
+
+**LYSANDER**
+
+You are unkind, Demetrius. Be not so,
+For you love Hermia – this you know I know.
+And here: with all good will, with all my heart,
+In Hermia's love I yield you up my part.
+And yours of Helena to me bequeath,
+Whom I do love, and will do till my death.
+
+
+
+**HELENA**
+
+Never did mockers waste more idle breath.
+
+
+
+**DEMETRIUS**
+
+Lysander, keep thy Hermia. I will none.
+If e'er I loved her all that love is gone.
+My heart to her but as [guestwise][77] [sojourn][78]ed,
+And now to Helen is it home returned,
+There to remain.
+
+[77]: {{page.q}}=17723 "guestwise (adv.):  in the manner of a guest, as a visitor"
+[78]: {{page.q}}=14700 "sojourn (v.) 2:  travel, journey, go to stay"
+
+
+**LYSANDER**
+
+Helen, it is not so.
+
+
+
+**DEMETRIUS**
+
+Disparage not the faith thou dost not know,
+Lest to thy peril thou [aby][79] it dear.
+Look where thy love comes: yonder is thy dear.
+_Enter Hermia_
+
+[79]: {{page.q}}=724 "aby (v.):  suffer for, pay for, atone for"
+
+
+**HERMIA**
+
+Dark night that from the eye his function takes
+The ear more quick of [apprehension][80] makes.
+Wherein it doth impair the seeing sense
+It pays the hearing double recompense.
+Thou art not by mine eye, Lysander, found;
+Mine ear – I thank it – brought me to thy sound.
+But why unkindly didst thou leave me so?
+
+[80]: {{page.q}}=1262 "apprehension (n.) 4:  perception, auditory reception"
+
+
+**LYSANDER**
+
+Why should he stay whom love doth press to go?
+
+
+
+**HERMIA**
+
+What love could press Lysander from my side?
+
+
+
+**LYSANDER**
+
+Lysander's love, that would not let him bide:
+Fair Helena, who more [engild][81]s the night
+Than all y[o][82]u fiery oes and eyes of light,
+Why seekest thou me? Could not this make thee know
+The hate I bear thee made me leave thee so?
+
+[81]: {{page.q}}=9883 "engild (v.):  gild, brighten, illuminate"
+[82]: {{page.q}}=11894 "O (n.) 1:  circle, orb, sphere"
+
+
+**HERMIA**
+
+You speak not as you think. It cannot be.
+
+
+
+**HELENA**
+
+Lo, she is one of this confederacy.
+Now I perceive they have conjoined all three
+To [fashion][84] this [false][83] [sport][86] in [spite][85] of me.
+Injurious Hermia, most ungrateful maid,
+Have you conspired, have you with these contrived
+To [bait][87] me with this foul derision?
+Is all the counsel that we two have shared –
+The sisters' vows, the hours that we have spent
+When we have chid the hasty-footed time
+For parting us – O, is all forgot?
+All schooldays' friendship, childhood innocence?
+We, Hermia, like two [artificial][88] gods
+Have with our needles created both one flower,
+Both on one sampler, sitting on one cushion,
+Both warbling of one song, both in one [key][89],
+As if our hands, our sides, voices, and minds
+Had been [incorporate][90]. So we grew together
+Like to a double cherry, seeming parted
+But yet an union in partition,
+Two lovely berries moulded on one stem,
+So with two seeming bodies but one heart,
+Two of the [first][92], like [coat][91]s in heraldry,
+Due but to one, and crowned with one [crest][93].
+And will you [rent][94] our ancient love asunder,
+To join with men in scorning your poor friend?
+It is not friendly, 'tis not maidenly.
+Our sex as well as I may [chide][95] you for it,
+Though I alone do feel the injury.
+
+[83]: {{page.q}}=20561 "false (adj.) 7:  unfair, unjust, double-crossing"
+[84]: {{page.q}}=20665 "fashion (v.) 3:  arrange, contrive, manage"
+[85]: {{page.q}}=14578 "spite (n.) 1:  annoyance, vexation, irritation"
+[86]: {{page.q}}=14044 "sport (n.) 1:  recreation, amusement, entertainment"
+[87]: {{page.q}}=1317 "bait (v.) 1:  harass, persecute, torment"
+[88]: {{page.q}}=296 "artificial (adj.) 1:  showing creative artistry, artistically skilful"
+[89]: {{page.q}}=19024 "key (n.) 2:  accord, rapport, mind"
+[90]: {{page.q}}=4960 "incorporate (adj.):  united in one body, combined in one entity"
+[91]: {{page.q}}=2939 "coat (n.) 1:  coat-of-arms"
+[92]: {{page.q}}=20181 "first (n.) 2:  [heraldry] first tincture in a blazon"
+[93]: {{page.q}}=3432 "crest (n.) 3:  heraldic device placed above the shield and helmet in a coat-of-arms"
+[94]: {{page.q}}=16907 "rent (v.):  rend, tear, pull to pieces"
+[95]: {{page.q}}=4299 "chide (v.), past form chid 1:  scold, rebuke, reprove"
+
+
+**HERMIA**
+
+I am amazed at your passionate words.
+I scorn you not; it seems that you scorn me.
+
+
+
+**HELENA**
+
+Have you not set Lysander, as in scorn,
+To follow me and praise my eyes and face?
+And made your other love, Demetrius –
+Who even but now did [spurn][96] me with his foot –
+To call me goddess, nymph, divine and rare,
+Precious, celestial? Wherefore speaks he this
+To her he hates? And wherefore doth Lysander
+Deny your love, so rich within his soul,
+And tender me [forsooth][97] affection,
+But by your [set][98]ting on, by your consent?
+What though I be not so in grace as you,
+So hung upon with love, so fortunate,
+But miserable most, to love unloved:
+This you should pity rather than despise.
+
+[96]: {{page.q}}=14317 "spurn (v.) 2:  kick, strike, stamp [on], dash"
+[97]: {{page.q}}=20059 "forsooth (adv.):  in truth, certainly, truly, indeed"
+[98]: {{page.q}}=14365 "set on (v.) 1:  encourage, urge, incite"
+
+
+**HERMIA**
+
+I understand not what you mean by this.
+
+
+
+**HELENA**
+
+Ay, do! [Persever][100], [counterfeit][99] [sad][101] looks,
+Make mouths upon me when I turn my back,
+Wink each at other, [hold][102] the sweet jest up.
+This [sport][105] well [carried][103] shall be [chronicle][104]d.
+If you have any pity, grace, or manners,
+You would not make me such an [argument][106].
+But [fare][107] ye well. 'Tis partly my own fault,
+Which death or absence soon shall remedy.
+
+[99]: {{page.q}}=2883 "counterfeit (v.) 2:  pretend, feign, make believe"
+[100]: {{page.q}}=12181 "persever (v.) 1:  persevere, persist, keep at it"
+[101]: {{page.q}}=13906 "sad (adj.) 1:  serious, grave, solemn"
+[102]: {{page.q}}=18182 "hold up (v.) 1:  continue, keep going, carry on"
+[103]: {{page.q}}=4126 "carry (v.) 5:  carry out, manage, conduct"
+[104]: {{page.q}}=4393 "chronicle (v.) 2:  enter into a chronicle, record in history"
+[105]: {{page.q}}=14044 "sport (n.) 1:  recreation, amusement, entertainment"
+[106]: {{page.q}}=280 "argument (n.) 3:  subject, point, theme, target"
+[107]: {{page.q}}=20910 "fare ... well: "
+
+
+**LYSANDER**
+
+Stay, [gentle][108] Helena, hear my excuse,
+My love, my life, my soul, fair Helena!
+
+[108]: {{page.q}}=21269 "gentle (adj.) 6:  soft, tender, kind"
+
+
+**HELENA**
+
+O excellent!
+
+
+
+**HERMIA**
+
+_to Lysander_
+Sweet, do not scorn her so.
+
+
+
+**DEMETRIUS**
+
+If she cannot entreat, I can compel.
+
+
+
+**LYSANDER**
+
+Thou canst compel no more than she entreat.
+Thy threats have no more strength than her weak prayers.
+Helen, I love thee. By my life, I do.
+I swear by that which I will lose for thee
+To prove him [false][109] that says I love thee not.
+
+[109]: {{page.q}}=20466 "false (adj.) 4:  wrong, mistaken"
+
+
+**DEMETRIUS**
+
+I say I love thee more than he can do.
+
+
+
+**LYSANDER**
+
+If thou say so, withdraw, and prove it too.
+
+
+
+**DEMETRIUS**
+
+Quick, come.
+
+
+
+**HERMIA**
+
+Lysander, whereto tends all this?
+
+
+
+**LYSANDER**
+
+Away, you Ethiope!
+
+
+
+**DEMETRIUS**
+
+No, no. He'll
+Seem to break loose, [take][110] on as he would follow,
+But yet come not. (To Lysander) You are a tame man, go.
+
+[110]: {{page.q}}=5727 "take on (v.) 1:  behave, act; or: rage, rant"
+
+
+**LYSANDER**
+
+[Hang][112] off, thou cat, thou [bur][111]r! Vile thing, let loose,
+Or I will shake thee from me like a serpent.
+
+[111]: {{page.q}}=2017 "bur, burr (n.) 3:  clinger, person difficult to shake off"
+[112]: {{page.q}}=18401 "hang off (v.):  leave hold, stop clinging"
+
+
+**HERMIA**
+
+Why are you grown so rude? What change is this,
+Sweet love?
+
+
+
+**LYSANDER**
+
+Thy love? – out, tawny Tartar, out;
+Out, loathed medicine! O hated [potion][113], hence!
+
+[113]: {{page.q}}=12709 "potion (n.) 1:  poison, deadly drink"
+
+
+**HERMIA**
+
+Do you not jest?
+
+
+
+**HELENA**
+
+Yes, sooth, and so do you.
+
+
+
+**LYSANDER**
+
+Demetrius, I will keep my word with thee.
+
+
+
+**DEMETRIUS**
+
+I would I had your [bond][114]; for I perceive
+A weak [bond][115] holds you. I'll not trust your word.
+
+[114]: {{page.q}}=1995 "bond (n.) 1:  deed, contract, pledge"
+[115]: {{page.q}}=2047 "bond (n.) 4:  [physical] tie, restraint, constraint"
+
+
+**LYSANDER**
+
+What? Should I hurt her, strike her, kill her dead?
+Although I hate her, I'll not harm her so.
+
+
+
+**HERMIA**
+
+What? Can you do me greater harm than hate?
+Hate me? Wherefore? O me, what news, my love?
+Am not I Hermia? Are not you Lysander?
+I am as fair now as I was [erewhile][116].
+[Since][117] night you loved me; yet since night you left me.
+Why then, you left me – O, the gods forbid! –
+In earnest, shall I say?
+
+[116]: {{page.q}}=9603 "erewhile (adv.):  a short time ago, a while before"
+[117]: {{page.q}}=16441 "since (adv.) 2:  ago"
+
+
+**LYSANDER**
+
+Ay, by my life;
+And never did desire to see thee more.
+Therefore be out of hope, of question, of doubt,
+Be certain. Nothing truer – 'tis no jest
+That I do hate thee and love Helena.
+
+
+
+**HERMIA**
+
+O me, you [juggler][119], you [canker-blossom][118],
+You thief of love! What, have you come by night
+And stolen my love's heart from him?
+
+[118]: {{page.q}}=3990 "canker-blossom (n.):  grub that destroys the blossom [of love]"
+[119]: {{page.q}}=18901 "juggler (n.) 2:  trickster, deceiver, fraud"
+
+
+**HELENA**
+
+Fine, i'faith.
+Have you no modesty, no maiden shame,
+No touch of bashfulness? What, will you tear
+Impatient answers from my [gentle][120] tongue?
+Fie, fie, you [counterfeit][121], you puppet, you!
+
+[120]: {{page.q}}=18076 "gentle (adj.) 4:  peaceful, calm, free from violence"
+[121]: {{page.q}}=3405 "counterfeit (n.) 2:  impostor, pretender, sham"
+
+
+**HERMIA**
+
+Puppet? Why so? – Ay, that way goes the game.
+Now I perceive that she hath made [compare][122]
+Between our statures. She hath urged her height,
+And with her personage, her tall personage,
+Her height, [forsooth][123], she hath prevailed with him.
+And are you grown so high in his esteem
+Because I am so dwarfish and so low?
+How low am I, thou painted maypole? Speak!
+How low am I? – I am not yet so low
+But that my nails can reach unto thine eyes.
+
+[122]: {{page.q}}=2889 "compare (n.):  comparison, simile, analogy"
+[123]: {{page.q}}=20059 "forsooth (adv.):  in truth, certainly, truly, indeed"
+
+
+**HELENA**
+
+I pray you, though you mock me, gentlemen,
+Let her not hurt me. I was never [curst][124].
+I have no gift at all in shrewishness.
+I am a [right][125] maid for my cowardice!
+Let her not strike me. You perhaps may think
+Because she is [something][126] lower than myself
+That I can match her....
+
+[124]: {{page.q}}=3144 "curst (adj.) 1:  bad-tempered, quarrelsome, shrewish, cross"
+[125]: {{page.q}}=16683 "right (adj.) 1:  typical, true, classic"
+[126]: {{page.q}}=14025 "something (adv.) 1:  somewhat, rather"
+
+
+**HERMIA**
+
+Lower? Hark, again!
+
+
+
+**HELENA**
+
+Good Hermia, do not be so bitter with me.
+I evermore did love you, Hermia;
+Did ever keep your counsels, never wronged you,
+Save that in love unto Demetrius
+I told him of your [stealth][127] unto this wood.
+He followed you. For love I followed him.
+But he hath [chid][128] me hence, and threatened me
+To strike me, [spurn][129] me – nay, to kill me too.
+And now, so you will let me quiet go,
+To Athens will I bear my folly back
+And follow you no further. Let me go.
+You see how simple and how [fond][130] I am.
+
+[127]: {{page.q}}=14636 "stealth (n.) 1:  stealing away, furtive journey, clandestine act"
+[128]: {{page.q}}=4464 "chide (v.), past form chid 4:  brusquely command, drive [away] with harsh words"
+[129]: {{page.q}}=14317 "spurn (v.) 2:  kick, strike, stamp [on], dash"
+[130]: {{page.q}}=20679 "fond (adj.) 2:  foolish, trifling, frivolous"
+
+
+**HERMIA**
+
+Why, get you gone! Who is't that hinders you?
+
+
+
+**HELENA**
+
+A foolish heart that I leave here behind.
+
+
+
+**HERMIA**
+
+What, with Lysander?
+
+
+
+**HELENA**
+
+With Demetrius.
+
+
+
+**LYSANDER**
+
+Be not afraid; she shall not harm thee, Helena.
+
+
+
+**DEMETRIUS**
+
+No, sir, She shall not, though you take her part.
+
+
+
+**HELENA**
+
+O, when she is angry she is [keen][131] and [shrewd][132].
+She was a vixen when she went to school,
+And though she be but little, she is fierce.
+
+[131]: {{page.q}}=18979 "keen (adj.) 1:  sharp, cutting, severe"
+[132]: {{page.q}}=15923 "shrewd (adj.) 4:  shrewish, bad-tempered, difficult"
+
+
+**HERMIA**
+
+Little again? Nothing but low and little?
+Why will you suffer her to flout me thus?
+Let me come to her.
+
+
+
+**LYSANDER**
+
+Get you gone, you dwarf,
+You [minimus][134] of hindering [knot-grass][133] made,
+You [bead][135], you acorn.
+
+[133]: {{page.q}}=19025 "knot-grass (n.):  species of creeping weed"
+[134]: {{page.q}}=10717 "minimus (n.):  tiniest of creatures, insignificant being"
+[135]: {{page.q}}=2564 "bead (n.) 1:  tiny thing, smallest of objects"
+
+
+**DEMETRIUS**
+
+You are too officious
+In her behalf that scorns your services.
+Let her alone. Speak not of Helena,
+Take not her part; for if thou dost intend
+Never so little show of love to her,
+Thou shalt [aby][136] it.
+
+[136]: {{page.q}}=724 "aby (v.):  suffer for, pay for, atone for"
+
+
+**LYSANDER**
+
+Now she holds me not.
+Now follow – if thou darest – to try whose right
+Of thine or mine is most in Helena.
+
+
+
+**DEMETRIUS**
+
+Follow? Nay, I'll go with thee, cheek by jowl.
+_Exeunt Demetrius and Lysander_
+
+
+
+**HERMIA**
+
+You, mistress – all this [coil][137] is 'long of you.
+Nay – go not back.
+
+[137]: {{page.q}}=3613 "coil (n.):  turmoil, disturbance, fuss"
+
+
+**HELENA**
+
+I will not trust you, I,
+Nor longer stay in your [curst][138] company.
+Your hands than mine are quicker for a fray.
+My legs are longer, though, to run away!
+_Exit_
+
+[138]: {{page.q}}=3144 "curst (adj.) 1:  bad-tempered, quarrelsome, shrewish, cross"
+
+
+**HERMIA**
+
+I am amazed, and know not what to say!
+_Exit_
+_Oberon and Puck come forward_
+
+
+
+**OBERON**
+
+This is thy negligence. Still thou mistakest,
+Or else committest thy [knaveries][139] wilfully.
+
+[139]: {{page.q}}=19056 "knavery (n.) 1:  roguish trick, rouguery, trickery"
+
+
+**PUCK**
+
+Believe me, King of [shadow][140]s, I mistook.
+Did not you tell me I should know the man
+By the Athenian garments he had on?
+And so far blameless proves my enterprise
+That I have 'nointed an Athenian's eyes.
+And so far am I glad it so did [sort][141],
+As this their jangling I esteem a [sport][142].
+
+[140]: {{page.q}}=14715 "shadow (n.) 5:  spirit, phantom, spectre, ghost"
+[141]: {{page.q}}=14716 "sort (v.) 6:  turn out, fall out, come about"
+[142]: {{page.q}}=16124 "sport (n.) 4:  subject of sport"
+
+
+**OBERON**
+
+Thou seest these lovers seek a place to fight.
+[Hie][143] therefore, Robin, overcast the night.
+The starry [welkin][145] cover thou [anon][144]
+With drooping fog as black as Acheron,
+And lead these testy rivals so astray
+As one come not within another's way.
+Like to Lysander sometime frame thy tongue,
+Then stir Demetrius up with bitter [wrong][146],
+And [sometime][148] [rail][147] thou like Demetrius;
+And from each other look thou lead them thus
+Till o'er their [brow][149]s death-counterfeiting sleep
+With leaden legs and [batty][150] wings doth creep.
+Then crush this herb into Lysander's eye –
+Whose liquor hath this [virtuous][151] property,
+To take from thence all error with his might,
+And make his eyeballs roll with [wonted][152] sight.
+When they next wake, all this derision
+Shall seem a dream and fruitless vision,
+And back to Athens shall the lovers wend
+With league whose [date][153] till death shall never end.
+Whiles I in this affair do thee employ
+I'll to my Queen and beg her Indian boy,
+And then I will her [charmed][154] eye release
+From monster's view, and all things shall be peace.
+
+[143]: {{page.q}}=18172 "hie (v.):  hasten, hurry, speed"
+[144]: {{page.q}}=30 "anon (adv.) 1:  soon, shortly, presently"
+[145]: {{page.q}}=7770 "welkin (n.):  sky, firmament, heavens"
+[146]: {{page.q}}=7679 "wrong (n.) 2:  insult, offence, slight"
+[147]: {{page.q}}=17089 "rail (v.):  rant, rave, be abusive [about]"
+[148]: {{page.q}}=14078 "sometime (adv.) 2:  sometimes, now and then"
+[149]: {{page.q}}=2299 "brow (n.) 4:  forehead [often plural, referring to the two prominences of the forehead]"
+[150]: {{page.q}}=1585 "batty (adj.):  bat-like"
+[151]: {{page.q}}=7302 "virtuous (adj.) 1:  potent, powerful, efficacious"
+[152]: {{page.q}}=7593 "wonted (adj.):  accustomed, usual, customary"
+[153]: {{page.q}}=8807 "date (n.) 1:  duration, period of existence"
+[154]: {{page.q}}=4381 "charmed (adj.) 1:  bewitched, enchanted, placed under a spell"
+
+
+**PUCK**
+
+My fairy lord, this must be done with haste,
+For night's swift dragons cut the clouds full fast,
+And yonder shines Aurora's [harbinger][155],
+At whose approach ghosts wandering here and there
+Troop home to churchyards. Damned spirits all
+That in [crossway][156]s and floods have burial
+Already to their wormy beds are gone.
+For fear lest day should look their shames upon
+They wilfully themselves exile from light,
+And must for [aye][157] [consort][158] with black-browed night.
+
+[155]: {{page.q}}=15274 "harbinger (n.):  forerunner, herald, precursor"
+[156]: {{page.q}}=3145 "crossway (n.):  cross-road"
+[157]: {{page.q}}=90 "aye (adv.):  always, ever, for eternity"
+[158]: {{page.q}}=2986 "consort (v.):  accompany, attend, go with"
+
+
+**OBERON**
+
+But we are spirits of another [sort][159].
+I with the morning's love have [oft][160] made [sport][161],
+And like a forester the groves may tread
+Even till the eastern gate all fiery red
+Opening on Neptune with fair blessed beams
+Turns into yellow gold his salt green streams.
+But notwithstanding, haste, make no delay;
+We may effect this business yet ere day.
+_Exit_
+
+[159]: {{page.q}}=14030 "sort (n.) 1:  class, level, social rank"
+[160]: {{page.q}}=11606 "oft (adv.):  often"
+[161]: {{page.q}}=15152 "sport (n.) 3:  sexual recreation, intercourse, amorous dalliance"
+
+
+**PUCK**
+
+Up and down, up and down,
+I will lead them up and down.
+I am feared in field and town.
+Goblin, lead them up and down.
+Here comes one.
+_Enter Lysander_
+
+
+
+**LYSANDER**
+
+Where art thou, proud Demetrius? Speak thou now.
+
+
+
+**PUCK**
+
+_in Demetrius's voice_
+Here, villain, drawn and ready! Where art thou?
+
+
+
+**LYSANDER**
+
+I will be with thee straight.
+
+
+
+**PUCK**
+
+_in Demetrius's voice_
+Follow me then
+To plainer ground.
+_Exit Lysander_
+_Enter Demetrius_
+
+
+
+**DEMETRIUS**
+
+Lysander, speak again.
+Thou runaway, thou coward – art thou fled?
+Speak. In some bush? Where dost thou hide thy head?
+
+
+
+**PUCK**
+
+_in Lysander's voice_
+Thou coward, art thou bragging to the stars,
+Telling the bushes that thou lookest for wars,
+And wilt not come? Come, [recreant][162]. Come, thou child,
+I'll whip thee with a rod. He is defiled
+That draws a sword on thee.
+
+[162]: {{page.q}}=16741 "recreant (n.) 1:  coward, faint-hearted individual"
+
+
+**DEMETRIUS**
+
+Yea, art thou there?
+
+
+
+**PUCK**
+
+_in Lysander's voice_
+Follow my voice. We'll try no manhood here.
+_Exeunt Puck and Demetrius_
+_Enter Lysander_
+
+
+
+**LYSANDER**
+
+He goes before me, and still dares me on;
+When I come where he calls, then he is gone.
+The villain is much lighter-heeled than I.
+I followed fast, but faster he did fly,
+That fallen am I in dark uneven way,
+And here will rest me. (He lies down) Come, thou gentle day,
+For if but once thou show me thy grey light
+I'll find Demetrius and revenge this [spite][163].
+_He sleeps_
+_Enter Puck and Demetrius_
+
+[163]: {{page.q}}=14578 "spite (n.) 1:  annoyance, vexation, irritation"
+
+
+**PUCK**
+
+_in Lysander's voice_
+Ho, ho, ho, coward! Why comest thou not?
+
+
+
+**DEMETRIUS**
+
+[Abide][164] me if thou darest, for well I [wot][165]
+Thou runnest before me, shifting every place,
+And darest not [stand][166] nor look me in the face.
+Where art thou now?
+
+[164]: {{page.q}}=511 "abide (v.) 1:  endure, undergo, face"
+[165]: {{page.q}}=7655 "wot (v.) 1:  learn, know, be told"
+[166]: {{page.q}}=14056 "stand (v.) 4:  stand still, stop, cease moving"
+
+
+**PUCK**
+
+_in Lysander's voice_
+Come hither; I am here.
+
+
+
+**DEMETRIUS**
+
+Nay, then thou mockest me. Thou shalt [buy][167] this dear
+If ever I thy face by daylight see.
+Now, go thy way. Faintness constraineth me
+To measure out my length on this cold bed.
+By day's approach look to be visited.
+_He lies down and sleeps_
+_Enter Helena_
+
+[167]: {{page.q}}=2018 "buy (v.):  pay for, suffer the consequences of"
+
+
+**HELENA**
+
+O weary night! O long and tedious night,
+[Abate][168] thy hours, shine comforts from the East,
+That I may back to Athens by daylight
+From these that my poor company detest.
+And sleep, that sometimes shuts up sorrow's eye,
+Steal me awhile from mine own company.
+_She lies down and sleeps_
+
+[168]: {{page.q}}=661 "abate (v.) 2:  shorten, lessen, reduce"
+
+
+**PUCK**
+
+Yet but three? Come one more,
+Two of both kinds makes up four.
+Here she comes, [curst][169] and [sad][170].
+Cupid is a knavish lad
+Thus to make poor females mad.
+_Enter Hermia_
+
+[169]: {{page.q}}=3144 "curst (adj.) 1:  bad-tempered, quarrelsome, shrewish, cross"
+[170]: {{page.q}}=5936 "sad (adj.) 2:  dismal, morose, sullen"
+
+
+**HERMIA**
+
+Never so weary, never so in woe,
+Bedabbled with the dew, and torn with briars –
+I can no further crawl, no further go.
+My legs can keep no pace with my desires.
+Here will I rest me till the break of day.
+Heavens shield Lysander, if they mean a fray.
+_She lies down and sleeps_
+
+
+
+**PUCK**
+
+On the ground
+Sleep sound.
+I'll apply
+To your eye,
+[Gentle][171] lover, remedy.
+_He squeezes the juice on Lysander's eyes_
+When thou wakest,
+Thou takest
+True delight
+In the sight
+Of thy former lady's eye.
+And the country proverb known,
+That every man should take his own,
+In your waking shall be shown.
+Jack shall have Jill;
+Naught shall go [ill][172].
+The man shall have his mare again, and all shall be well.
+_Exit_
+
+[171]: {{page.q}}=21269 "gentle (adj.) 6:  soft, tender, kind"
+[172]: {{page.q}}=4953 "ill (adv.) 1:  badly, adversely, unfavourably"
+[173]: {{page.q}}=799 "act (n.) 6:  play interval, interlude"

@@ -1,0 +1,537 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act V - Scene IV
+category: play
+author: shakespeare
+date: 2014-05-25 14:25:38 +0800
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act5_scene4.html
+layout: book_page
+creation: 1589-1593
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Valentine_
+
+**VALENTINE**
+
+How use doth breed a habit in a man!
+This [shadowy][2] [desert][1], unfrequented woods,
+I better [brook][3] than flourishing peopled towns.
+Here can I sit alone, unseen of any,
+And to the nightingale's complaining notes
+[Tune][5] my distresses, and [record][4] my woes.
+O thou that dost [inhabit][6] in my breast,
+Leave not the mansion so long tenantless,
+Lest, growing [ruinous][7], the building fall
+And leave no memory of what it was!
+[Repair][8] me with thy presence, Silvia;
+Thou [gentle][10] nymph, [cherish][9] thy forlorn [swain][11].
+_Noises within_
+What halloing and what stir is this today?
+These are my [mate][12]s, that make their wills their law,
+Have some unhappy [passenger][14] in [chase][13].
+They love me well; yet I have much to do
+To keep them from [uncivil][15] outrages.
+Withdraw thee, Valentine. Who's this comes here?
+_He steps aside_
+_Enter Proteus, Silvia, and Julia in a page's costume_
+
+[1]: {{page.q}}=8563 "desert, desart (n.) 5:  desolate place, wilderness"
+[2]: {{page.q}}=14721 "shadowy (adj.):  shady, shaded"
+[3]: {{page.q}}=1819 "brook (v.) 1:  endure, tolerate, put up with"
+[4]: {{page.q}}=17185 "record (v.):  sing, warble, chant"
+[5]: {{page.q}}=6608 "tune (v.) 2:  sing, utter, sound out"
+[6]: {{page.q}}=5180 "inhabit (v.):  lodge, dwell, reside"
+[7]: {{page.q}}=17396 "ruinous (adj.):  ruined, decayed, ravaged"
+[8]: {{page.q}}=17227 "repair (v.) 2:  restore, renew, revive"
+[9]: {{page.q}}=4434 "cherish (v.) 1:  support, foster, sustain"
+[10]: {{page.q}}=21269 "gentle (adj.) 6:  soft, tender, kind"
+[11]: {{page.q}}=15605 "swain (n.) 4:  lover, wooer, sweetheart"
+[12]: {{page.q}}=10577 "mate (n.) 1:  companion, associate, comrade"
+[13]: {{page.q}}=4294 "chase (n.) 1:  pursuit, sequence, hunt"
+[14]: {{page.q}}=12622 "passenger (n.):  wayfarer, traveller, passer-by"
+[15]: {{page.q}}=6648 "uncivil (adj.):  uncivilized, barbarous, unrefined"
+
+
+**PROTEUS**
+
+Madam, this service I have done for you,
+Though you [respect][17] not [aught][16] your servant doth,
+To hazard life, and rescue you from him
+That would have forced your honour and your love.
+Vouchsafe me, for my [meed][18], but one fair look;
+A smaller [boon][19] than this I cannot beg,
+And less than this, I am sure, you cannot give.
+
+[16]: {{page.q}}=84 "aught (n.):  anything, [with negative word] nothing"
+[17]: {{page.q}}=17170 "respect (v.) 3:  value, have regard for, prize"
+[18]: {{page.q}}=10428 "meed (n.) 1:  reward, prize, recompense"
+[19]: {{page.q}}=2076 "boon (n.):  petition, entreaty, request"
+
+
+**VALENTINE**
+
+_aside_
+How like a dream is this I see and hear!
+Love, lend me patience to [forbear][20] awhile.
+
+[20]: {{page.q}}=20034 "forbear (v.) 3:  control oneself, have patience [for]"
+
+
+**SILVIA**
+
+O miserable, unhappy that I am!
+
+
+
+**PROTEUS**
+
+Unhappy were you, madam, ere I came;
+But by my coming I have made you happy.
+
+
+
+**SILVIA**
+
+By thy [approach][21] thou makest me most unhappy.
+
+[21]: {{page.q}}=565 "approach (n.) 2:  advances, amorous attention"
+
+
+**JULIA**
+
+_aside_
+And me, when he approacheth to your presence.
+
+
+
+**SILVIA**
+
+Had I been seized by a hungry lion,
+I would have been a breakfast to the beast,
+Rather than have [false][22] Proteus rescue me.
+O, heaven be judge how I love Valentine,
+Whose life's as tender to me as my soul!
+And full as much, for more there cannot be,
+I do detest false perjured Proteus.
+Therefore be gone; solicit me no more.
+
+[22]: {{page.q}}=19969 "false (adj.) 2:  disloyal, faithless, inconstant, unfaithful"
+
+
+**PROTEUS**
+
+What dangerous action, stood it next to death,
+Would I not undergo for one calm look?
+O, 'tis the curse in love, and [still][24] [approve][23]d,
+When women cannot love where they're beloved!
+
+[23]: {{page.q}}=40 "approve (v.) 1:  prove, confirm, corroborate, substantiate"
+[24]: {{page.q}}=14077 "still (adv.) 1:  constantly, always, continually"
+
+
+**SILVIA**
+
+When Proteus cannot love where he's beloved!
+Read over Julia's heart, thy first best love,
+For whose dear sake thou didst then rend thy faith
+Into a thousand oaths; and all those oaths
+Descended into perjury, to love me.
+Thou hast no faith left now, unless thou'dst two,
+And that's far worse than none; better have none
+Than plural faith, which is too much by one.
+Thou [counterfeit][25] to thy true friend!
+
+[25]: {{page.q}}=2914 "counterfeit (n.) 1:  false imitation, spurious image"
+
+
+**PROTEUS**
+
+In love,
+Who [respect][26]s friend?
+
+[26]: {{page.q}}=16897 "respect (v.) 4:  scruple about, have qualms about"
+
+
+**SILVIA**
+
+All men but Proteus.
+
+
+
+**PROTEUS**
+
+Nay, if the [gentle][27] spirit of moving words
+Can no way change you to a milder form,
+I'll woo you like a soldier, at [arms'][28] end,
+And love you 'gainst the nature of love – force ye.
+
+[27]: {{page.q}}=18076 "gentle (adj.) 4:  peaceful, calm, free from violence"
+[28]: {{page.q}}=579 "arms' end, at:  at the point of a sword"
+
+
+**SILVIA**
+
+O heaven!
+
+
+
+**PROTEUS**
+
+I'll force thee yield to my desire.
+_Valentine steps forward_
+
+
+
+**VALENTINE**
+
+Ruffian, let go that rude uncivil touch;
+Thou friend of an [ill][30] [fashion][29]!
+
+[29]: {{page.q}}=20341 "fashion (n.) 6:  kind, type, sort"
+[30]: {{page.q}}=4897 "ill (adj.) 2:  evil, wicked, immoral"
+
+
+**PROTEUS**
+
+Valentine!
+
+
+
+**VALENTINE**
+
+Thou [common][31] friend that's without faith or love –
+For such is a friend now; treacherous man,
+Thou hast [beguile][32]d my hopes; naught but mine eye
+Could have persuaded me. Now I dare not say
+I have one friend alive: thou wouldst disprove me.
+Who should be trusted now, when one's right hand
+Is perjured to the bosom? Proteus,
+I am sorry I must never trust thee more,
+But count the world a stranger for thy sake.
+The private wound is deepest. O time most accurst!
+'Mongst all foes that a friend should be the worst!
+
+[31]: {{page.q}}=2869 "common (adj.) 1:  average, usual, general, ordinary"
+[32]: {{page.q}}=1438 "beguile (v.) 1:  cheat, deceive, trick"
+
+
+**PROTEUS**
+
+My shame and guilt [confound][33]s me.
+Forgive me, Valentine; if hearty sorrow
+Be a sufficient ransom for offence,
+I [tender][34]'t here; I do as truly suffer
+As e'er I did [commit][35].
+
+[33]: {{page.q}}=2707 "confound (v.) 5:  discomfit, defeat, put to shame"
+[34]: {{page.q}}=6309 "tender (v.) 1:  offer, give, present"
+[35]: {{page.q}}=3511 "commit (v.) 1:  sin, transgress, do wrong"
+
+
+**VALENTINE**
+
+Then I am paid;
+And once again I do [receive][36] thee honest.
+Who by repentance is not satisfied
+Is nor of heaven nor earth, for these are pleased;
+By penitence th' Eternal's wrath's appeased.
+And, that my love may appear plain and free,
+All that was mine in Silvia I give thee.
+
+[36]: {{page.q}}=16580 "receive (v.) 1:  consider, believe, regard"
+
+
+**JULIA**
+
+O me unhappy!
+_She swoons_
+
+
+
+**PROTEUS**
+
+Look to the boy.
+
+
+
+**VALENTINE**
+
+Why, boy? Why, [wag][37], how now? What's the
+matter? Look up; speak.
+
+[37]: {{page.q}}=7736 "wag (n.):  fellow, lad, mischievous boy"
+
+
+**JULIA**
+
+O, good sir, my master charged me to deliver a ring
+to Madam Silvia, which, out of my neglect, was never
+done.
+
+
+
+**PROTEUS**
+
+Where is that ring, boy?
+
+
+
+**JULIA**
+
+Here 'tis; this is it.
+_She offers her own ring_
+
+
+
+**PROTEUS**
+
+How? Let me see. Why, this is the ring I gave
+to Julia.
+
+
+
+**JULIA**
+
+O, cry you mercy, sir, I have mistook;
+This is the ring you sent to Silvia.
+_She offers another ring_
+
+
+
+**PROTEUS**
+
+But how camest thou by this ring? At my
+[depart][38] I gave this unto Julia.
+
+[38]: {{page.q}}=8504 "depart (n.) 1:  departure, departing, leave-taking"
+
+
+**JULIA**
+
+And Julia herself did give it me;
+And Julia herself hath brought it hither.
+
+
+
+**PROTEUS**
+
+How? Julia?
+
+
+
+**JULIA**
+
+Behold her that gave [aim][39] to all thy oaths,
+And entertained 'em deeply in her heart.
+How [oft][40] hast thou with perjury cleft the [root][41]!
+O Proteus, let this [habit][42] make thee blush!
+Be thou ashamed that I have took upon me
+Such an immodest raiment, if shame live
+In a disguise of love.
+It is the lesser [blot][43], modesty finds,
+Women to change their [shape][44]s than men their minds.
+
+[39]: {{page.q}}=566 "aim (n.) 2:  target, object, goal"
+[40]: {{page.q}}=11606 "oft (adv.):  often"
+[41]: {{page.q}}=17179 "root (n.) 1:  bottom [of one's heart]"
+[42]: {{page.q}}=15263 "habit (n.) 1:  dress, clothing, costume"
+[43]: {{page.q}}=1071 "blot (n.):  stain, disgrace, blemish"
+[44]: {{page.q}}=15733 "shape (n.) 1:  appearance, aspect, visible form"
+
+
+**PROTEUS**
+
+Than men their minds? 'Tis true. O heaven, were man
+But [constant][45], he were perfect! That one error
+Fills him with faults; makes him run through all the sins:
+Inconstancy falls off ere it begins.
+What is in Silvia's face, but I may spy
+More fresh in Julia's with a constant eye?
+
+[45]: {{page.q}}=3010 "constant (adj.) 1:  faithful, steadfast, true"
+
+
+**VALENTINE**
+
+Come, come, a hand from either.
+Let me be blest to make this happy [close][46];
+'Twere pity two such friends should be long foes.
+
+[46]: {{page.q}}=3512 "close (n.) 1:  union, uniting"
+
+
+**PROTEUS**
+
+Bear witness, heaven, I have my wish for ever.
+
+
+
+**JULIA**
+
+And I mine.
+_Enter the Outlaws, with the Duke of Milan and_
+_Thurio captives_
+
+
+
+**OUTLAWS**
+
+A prize, a prize, a prize!
+
+
+
+**VALENTINE**
+
+Forbear,
+Forbear, I say! It is my lord the Duke.
+Your grace is welcome to a man disgraced,
+Banished Valentine.
+
+
+
+**DUKE**
+
+Sir Valentine?
+
+
+
+**THURIO**
+
+Yonder is Silvia; and Silvia's mine.
+
+
+
+**VALENTINE**
+
+Thurio, [give][47] back, or else embrace thy death;
+Come not within the [measure][48] of my wrath;
+Do not name Silvia thine; if once again,
+Verona shall not [hold][49] thee. Here she stands;
+Take but possession of her with a touch –
+I dare thee but to breathe upon my love.
+
+[47]: {{page.q}}=17928 "give back (v.):  retire, yield, back off"
+[48]: {{page.q}}=10985 "measure (n.) 4:  range, reach, scope"
+[49]: {{page.q}}=18551 "hold (v.) 2:  keep, preserve, conserve"
+
+
+**THURIO**
+
+Sir Valentine, I care not for her, I:
+I hold him but a fool that will endanger
+His body for a girl that loves him not.
+I claim her not and therefore she is thine.
+
+
+
+**DUKE**
+
+The more degenerate and [base][50] art thou
+To make such [means][51] for her as thou hast done,
+And leave her on such slight [condition][52]s.
+Now, by the honour of my ancestry,
+I do applaud thy spirit, Valentine,
+And think thee worthy of an empress' love.
+Know, then, I here forget all former [grief][53]s,
+Cancel all grudge, [repeal][54] thee home again,
+Plead a new [state][55] in thy unrivalled merit,
+To which I thus [subscribe][56]: Sir Valentine.
+Thou art a gentleman, and well [derived][57];
+Take thou thy Silvia, for thou hast deserved her.
+
+[50]: {{page.q}}=1412 "base (adj.) 1:  dishonourable, low, unworthy"
+[51]: {{page.q}}=10986 "means, make:  take pains, make efforts"
+[52]: {{page.q}}=3024 "condition (n.) 6:  settlement, terms, pact"
+[53]: {{page.q}}=17529 "grief (n.) 1:  grievance, complaint, hurt, injury"
+[54]: {{page.q}}=16845 "repeal (v.):  recall, call back [from exile]"
+[55]: {{page.q}}=5904 "state (n.) 1:  condition, circumstances, situation, state of affairs"
+[56]: {{page.q}}=16527 "subscribe to (v.) 2:  make acknowledgement of, admit to"
+[57]: {{page.q}}=8838 "derived (adj.):  descended, in lineage"
+
+
+**VALENTINE**
+
+I thank your grace; the gift hath made me happy.
+I now beseech you, for your daughter's sake,
+To grant one [boom][58] that I shall ask of you.
+
+[58]: {{page.q}}=2076 "boon (n.):  petition, entreaty, request"
+
+
+**DUKE**
+
+I grant it, for thine own, whate'er it be.
+
+
+
+**VALENTINE**
+
+These banished men, that I have [kept][59] withal,
+Are men endued with worthy qualities;
+Forgive them what they have committed here,
+And let them be recalled from their exile:
+They are reformed, [civil][60], full of good,
+And fit for great employment, worthy lord.
+
+[59]: {{page.q}}=18981 "keep (v.) 1:  lodge, live, dwell"
+[60]: {{page.q}}=2642 "civil (adj.) 1:  civilized, cultured, refined"
+
+
+**DUKE**
+
+Thou hast prevailed; I pardon them and thee;
+Dispose of them as thou knowest their [desert][61]s.
+Come, let us go; we will [include][62] all [jar][63]s
+With [triumph][66]s, mirth, and [rare][64] [solemnity][65].
+
+[61]: {{page.q}}=9234 "desert, desart (n.) 2:  worth, merit, deserving"
+[62]: {{page.q}}=5181 "include (v.):  conclude, settle, bring to a close"
+[63]: {{page.q}}=18841 "jar (n.) 2:  discord, disharmony, disagreement"
+[64]: {{page.q}}=16677 "rare (adj.) 1:  marvellous, splendid, excellent"
+[65]: {{page.q}}=14718 "solemnity (n.) 1:  celebration, jubilation, festivity"
+[66]: {{page.q}}=5609 "triumph (n.) 1:  public festivity, pageant, display of celebration, tournament"
+
+
+**VALENTINE**
+
+And, as we walk along, I dare be [bold][67]
+With our [discourse][68] to make your grace to smile.
+What think you of this page, my lord?
+
+[67]: {{page.q}}=1901 "bold (adj.) 2:  overconfident, presumptuous, audacious, impudent"
+[68]: {{page.q}}=8673 "discourse (n.) 1:  conversation, talk, chat"
+
+
+**DUKE**
+
+I think the boy hath grace in him; he blushes.
+
+
+
+**VALENTINE**
+
+I [warrant][69] you, my lord – more grace than boy.
+
+[69]: {{page.q}}=7550 "warrant (v.) 1:  assure, promise, guarantee, confirm"
+
+
+**DUKE**
+
+What mean you by that saying?
+
+
+
+**VALENTINE**
+
+Please you, I'll tell you as we pass along,
+That you will [wonder][71] what hath [fortune][70]d.
+Come, Proteus, 'tis your penance but to hear
+The story of your loves [discover][72]ed.
+That done, our day of marriage shall be yours:
+One feast, one house, one mutual happiness.
+_Exeunt_
+
+[70]: {{page.q}}=20547 "fortune (v.):  happen, chance, occur"
+[71]: {{page.q}}=8009 "wonder (v.) 1:  marvel [at], be astonished [at]"
+[72]: {{page.q}}=8538 "discover (v.) 1:  reveal, show, make known"

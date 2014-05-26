@@ -1,0 +1,101 @@
+---
+title: Romeo and Juliet
+tagline: Act V - Scene II
+category: play
+author: shakespeare
+date: 2014-05-26 18:05:58 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act5_scene2.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Friar John_
+
+**FRIAR JOHN**
+
+Holy Franciscan Friar, brother, ho!
+_Enter Friar Laurence_
+
+
+
+**FRIAR**
+
+This same should be the voice of Friar John.
+Welcome from Mantua. What says Romeo?
+Or, if his [mind][1] be writ, give me his letter.
+
+[1]: {{page.q}}=10588 "mind (n.) 2: intention, purpose, intent"
+
+
+**JOHN**
+
+Going to find a bare-foot brother out,
+One of our order, to [associate][2] me
+Here in this city visiting the sick,
+And finding him, the [searcher][3]s of the town,
+Suspecting that we both were in a house
+Where the infectious pestilence did reign,
+Sealed up the doors, and would not let us forth,
+So that my speed to Mantua there was [stay][4]ed.
+
+[2]: {{page.q}}=892 "associate (v.): accompany, escort, join with"
+[3]: {{page.q}}=16001 "searcher (n.): official appointed to view and report on corpses"
+[4]: {{page.q}}=15545 "stay (v.) 8: stop, prevent, end"
+
+
+**LAURENCE**
+
+Who bare my letter, then, to Romeo?
+
+
+
+**JOHN**
+
+I could not send it – here it is again –
+Nor get a messenger to bring it thee,
+So fearful were they of infection.
+
+
+
+**LAURENCE**
+
+Unhappy fortune! By my brotherhood,
+The letter was not [nice][6], but full of [charge][5],
+Of [dear][7] [import][8]; and the neglecting it
+May do much danger. Friar John, go hence.
+Get me an iron [crow][9] and bring it [straight][10]
+Unto my cell.
+
+[5]: {{page.q}}=4290 "charge (n.) 9: weight, import, moment"
+[6]: {{page.q}}=11439 "nice (adj.) 5: trivial, unimportant, slight"
+[7]: {{page.q}}=8884 "dear (adj.) 2: important, major, significant"
+[8]: {{page.q}}=4929 "import (n.): importance, significance, consequence"
+[9]: {{page.q}}=2997 "crow (n.) 1: crowbar"
+[10]: {{page.q}}=14086 "straight (adv.): straightaway, immediately, at once"
+
+
+**JOHN**
+
+Brother, I'll go and bring it thee.
+_Exit Friar John_
+
+
+
+**LAURENCE**
+
+Now must I to the monument alone.
+Within this three hours will fair Juliet wake.
+She will [beshrew][11] me much that Romeo
+Hath had no notice of these [accident][12]s.
+But I will write again to Mantua,
+And keep her at my cell till Romeo come.
+Poor living [corse][13], closed in a dead man's tomb!
+_Exit_
+
+[11]: {{page.q}}=1754 "beshrew, 'shrew (v.) 2: blame, censure, take to task, wish mischief on"
+[12]: {{page.q}}=710 "accident (n.) 1: occurrence, event, happening"
+[13]: {{page.q}}=2740 "corse (n.): corpse, dead body"
+
+

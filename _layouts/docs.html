@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<main class="docs">
+  <div class="row">
+    <section id="main">
+      <article>
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+        {% include section_nav.html %}
+      </article>
+    </section>
+    <aside id="nav" rol="navigation">
+    {% include docs_contents.html %}
+    </aside>
+
+  </div>
+</main>

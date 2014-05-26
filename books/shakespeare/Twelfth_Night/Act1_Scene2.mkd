@@ -1,0 +1,213 @@
+---
+title: Twelfth Night
+tagline: Act I - Scene II
+category: play
+author: shakespeare
+date: 2014-05-25 18:31:14 +0800
+permalink: /books/shakespeare/Twelfth_Night_act1_scene2.html
+layout: book_page
+creation: 1601-1602
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Viola, a Captain, and sailors_
+
+**VIOLA**
+
+What country, friends, is this?
+
+
+
+**CAPTAIN**
+
+This is Illyria, lady.
+
+
+
+**VIOLA**
+
+And what should I do in Illyria?
+My brother, he is in Elysium.
+[Perchance][1] he is not drowned. What think you, sailors?
+
+[1]: {{page.q}}=12175 "perchance (adv.) 1:  perhaps, maybe"
+
+
+**CAPTAIN**
+
+It is [perchance][2] that you yourself were saved.
+
+[2]: {{page.q}}=13244 "perchance (adv.) 2:  by good fortune, by chance"
+
+
+**VIOLA**
+
+O, my poor brother! and so perchance may he be.
+
+
+
+**CAPTAIN**
+
+True, madam, and to comfort you with [chance][3],
+Assure yourself, after our ship did [split][4],
+When you and those poor number saved with you
+Hung on our [driving][5] boat, I saw your brother,
+Most provident in peril, bind himself –
+Courage and hope both teaching him the practice –
+To a strong mast, that [live][6]d upon the sea;
+Where, like Arion on the dolphin's back,
+I saw him hold acquaintance with the waves
+So long as I could see.
+
+[3]: {{page.q}}=4501 "chance (n.) 7:  what may have happened, conceivability, possibility"
+[4]: {{page.q}}=14268 "split (v.):  break up, split in two"
+[5]: {{page.q}}=9183 "driving (adj.):  drifting, driven by the storm"
+[6]: {{page.q}}=15349 "live (v.) 2:  stay afloat, avoid destruction"
+
+
+**VIOLA**
+
+For saying so, there's gold.
+Mine own escape unfoldeth to my hope,
+Whereto thy speech serves for authority,
+The [like][7] of him. Knowest thou this country?
+
+[7]: {{page.q}}=21272 "like, the:  the same"
+
+
+**CAPTAIN**
+
+Ay, madam, well, for I was bred and born
+Not three hours' travel from this very place.
+
+
+
+**VIOLA**
+
+Who governs here?
+
+
+
+**CAPTAIN**
+
+A noble Duke, in nature as in name.
+
+
+
+**VIOLA**
+
+What is his name?
+
+
+
+**CAPTAIN**
+
+Orsino.
+
+
+
+**VIOLA**
+
+Orsino . . . I have heard my father name him.
+He was a bachelor then.
+
+
+
+**CAPTAIN**
+
+And so is now, or was so, very late;
+For but a month ago I went from hence,
+And then 'twas fresh in [murmur][8] – as you know,
+What great ones do, the less will prattle of –
+That he did seek the love of fair Olivia.
+
+[8]: {{page.q}}=10996 "murmur (n.):  rumour, hearsay, gossip"
+
+
+**VIOLA**
+
+What's she?
+
+
+
+**CAPTAIN**
+
+A virtuous maid, the daughter of a count
+That died some twelvemonth since, then leaving her
+In the protection of his son, her brother,
+Who shortly also died; for whose dear love,
+They say, she hath [abjure][9]d the sight
+And company of men.
+
+[9]: {{page.q}}=662 "abjure (v.):  swear to abandon, solemnly reject"
+
+
+**VIOLA**
+
+O, that I served that lady,
+And might not be [deliver][10]ed to the world –
+Till I had made mine own [occasion][11] mellow –
+What my [estate][13] is.
+
+[10]: {{page.q}}=8723 "deliver (v.) 5:  present, show, display"
+[11]: {{page.q}}=11600 "occasion (n.) 1:  circumstance, opportunity"
+[13]: {{page.q}}=9655 "estate (n.) 1:  state, situation, circumstances"
+
+
+**CAPTAIN**
+
+That were hard to [compass][12],
+Because she will [admit][14] no kind of [suit][15],
+No, not the Duke's.
+
+[12]: {{page.q}}=2920 "compass (v.) 1:  accomplish, fulfil, achieve, bring about"
+[14]: {{page.q}}=6 "admit (v.) 1:  permit, allow, grant"
+[15]: {{page.q}}=14962 "suit (n.) 2:  wooing, courtship"
+
+
+**VIOLA**
+
+There is a fair behaviour in thee, Captain,
+And though that nature with a beauteous wall
+Doth [oft][16] close in pollution, yet of thee
+I will believe thou hast a mind that [suit][17]s
+With this thy fair and outward [character][18].
+I prithee – and I'll pay thee [bounteously][19] –
+Conceal me what I am, and be my aid
+For such disguise as [haply][21] shall [become][20]
+The [form][22] of my [intent][23]. I'll serve this Duke.
+Thou shalt present me as an eunuch to him.
+It may be worth thy pains, for I can sing
+And speak to him in many sorts of music
+That will [allow][24] me very worth his service.
+What else may [hap][25] to time I will commit.
+Only shape thou thy silence to my [wit][26].
+
+[16]: {{page.q}}=11606 "oft (adv.):  often"
+[17]: {{page.q}}=15697 "suit (v.) 2:  match, compare, equate"
+[18]: {{page.q}}=4480 "character (n.) 8:  personal appearance, demeanour"
+[19]: {{page.q}}=2603 "bounteously (adv.):  very well, liberally, generously"
+[20]: {{page.q}}=1432 "become (v.) 1:  be fitting, befit, be appropriate to"
+[21]: {{page.q}}=15270 "haply (adv.):  perhaps, maybe, by chance, with luck"
+[22]: {{page.q}}=19871 "form (n.) 8:  physical appearance, outward appearance"
+[23]: {{page.q}}=5207 "intent (n.):  intention, purpose, aim"
+[24]: {{page.q}}=582 "allow (v.) 3:  acknowledge, grant, admit"
+[25]: {{page.q}}=15269 "hap (v.):  happen, take place, come to pass"
+[26]: {{page.q}}=8091 "wit (n.) 4:  cunning plan, ingenious design"
+
+
+**CAPTAIN**
+
+Be you his eunuch, and your [mute][27] I'll be.
+When my tongue [blab][28]s, then let mine eyes not see.
+
+[27]: {{page.q}}=5846 "mute (n.) 2:  dumb servant [as in a Turkish court]"
+[28]: {{page.q}}=2524 "blab (v.) 2:  talk indiscreetly, betray secrets"
+
+
+**VIOLA**
+
+I thank thee. Lead me on.
+_Exeunt_
+

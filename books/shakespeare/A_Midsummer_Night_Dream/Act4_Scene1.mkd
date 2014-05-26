@@ -1,0 +1,594 @@
+---
+title: A Midsummer Night's Dream
+tagline: Act IV - Scene I
+category: play
+author: shakespeare
+date: 2014-05-25 16:28:10 +0800
+permalink: /books/shakespeare/A_Midsummer_Night_Dream_act4_scene1.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Titania, and Bottom, and Fairies; and Oberon_
+
+_behind them_
+
+**TITANIA**
+
+Come, sit thee down upon this flowery bed
+While I thy [amiable][1] cheeks do [coy][2],
+And stick muskroses in thy sleek, smooth head,
+And kiss thy fair large ears, my [gentle][3] joy.
+
+[1]: {{page.q}}=485 "amiable (adj.) 2:  beloved, desirable, lovable"
+[2]: {{page.q}}=3146 "coy (v.) 1:  caress, stroke, pet"
+[3]: {{page.q}}=21269 "gentle (adj.) 6:  soft, tender, kind"
+
+
+**BOTTOM**
+
+Where's Peaseblossom?
+
+
+
+**PEASEBLOSSOM**
+
+Ready.
+
+
+
+**BOTTOM**
+
+Scratch my head, Peaseblossom. Where's
+Monsieur Cobweb?
+
+
+
+**COBWEB**
+
+Ready.
+
+
+
+**BOTTOM**
+
+Monsieur Cobweb, good Monsieur, get you your
+weapons in your hand and kill me a red-hipped humble
+bee on the top of a thistle; and, good mounsieur, bring
+me the honey bag. Do not fret yourself too much in the
+action, Monsieur; and, good Monsieur, have a care the
+honey bag break not, I would be loath to have you overflown
+with a honey bag, signor. Where's Monsieur
+Mustardseed?
+
+
+
+**MUSTARDSEED**
+
+Ready.
+
+
+
+**BOTTOM**
+
+Give me your [neaf][4], Monsieur Mustardseed.
+Pray you, leave your [courtesy][5], good Monsieur.
+
+[4]: {{page.q}}=11379 "neaf (n.):  fist, clenched hand"
+[5]: {{page.q}}=3633 "courtesy, cur'sy, curtsy (n.) 1:  courteous service, polite behaviour, good manners"
+
+
+**MUSTARDSEED**
+
+What's your will?
+
+
+
+**BOTTOM**
+
+Nothing, good Monsieur, but to help [Cavalery][6]
+Cobweb to scratch. I must to the barber's, Monsieur,
+for [methinks][8] I am [marvellous][7] hairy about the face. And
+I am such a tender ass, if my hair do but tickle me, I
+must scratch.
+
+[6]: {{page.q}}=4162 "Cavalery (n.):  cavalier, courtly gentleman"
+[7]: {{page.q}}=10411 "marvellous (adv.):  very, extremely, exceedingly"
+[8]: {{page.q}}=10439 "methinks(t), methought(s) (v.):  it seems /seemed to me"
+
+
+**TITANIA**
+
+What, wilt thou hear some music, my sweet love?
+
+
+
+**BOTTOM**
+
+I have a reasonable good ear in music. Let's have
+the [tongs][10] and the [bone][9]s.
+
+[9]: {{page.q}}=1880 "bone (n.) 4:  (plural) pieces of bone [used as a musical instrument]"
+[10]: {{page.q}}=5728 "tongs (n.):  type of simple metal musical instrument"
+
+
+**TITANIA**
+
+Or say, sweet love, what thou desirest to eat.
+
+
+
+**BOTTOM**
+
+Truly, a [peck][11] of provender. I could munch your
+good dry oats. [Methinks][13] I have a great desire to a [bottle][12]
+of hay. Good hay, sweet hay, hath no fellow.
+
+[11]: {{page.q}}=12710 "peck (n.) 1:  heap, quantity, measure [a quarter of a bushel]"
+[12]: {{page.q}}=1899 "bottle (n.) 1:  bundle, truss [of hay]"
+[13]: {{page.q}}=10439 "methinks(t), methought(s) (v.):  it seems /seemed to me"
+
+
+**TITANIA**
+
+I have a venturous fairy that shall seek
+The squirrel's hoard, and fetch thee new nuts.
+
+
+
+**BOTTOM**
+
+I had rather have a handful or two of dried [pease][14].
+But, I pray you, let none of your people stir me. I have
+an [exposition][15] of sleep come upon me.
+
+[14]: {{page.q}}=12711 "pease (n.):  peas"
+[15]: {{page.q}}=9884 "exposition (n.):  malapropism for ‘disposition’ [= inclination]"
+
+
+**TITANIA**
+
+Sleep thou, and I will wind thee in my arms.
+Fairies be gone, and be all ways away.
+_Exeunt Fairies_
+So doth the [woodbine][16] the sweet honeysuckle
+Gently [entwist][17]; the female ivy so
+[Enring][19]s the [barky][18] fingers of the elm.
+O, how I love thee! How I dote on thee!
+_They sleep. Enter Puck_
+
+[16]: {{page.q}}=8268 "woodbine (n.) 2:  bindweed, convolvulus"
+[17]: {{page.q}}=9885 "entwist (v.):  clasp with a twist, entwine, wreathe around"
+[18]: {{page.q}}=2556 "barky (adj.):  bark-covered"
+[19]: {{page.q}}=9886 "enring (v.):  form a ring round, encircle, surround"
+
+
+**OBERON**
+
+_comes forward_
+Welcome, good Robin. Seest thou this sweet sight?
+Her [dotage][20] now I do begin to pity.
+For, meeting her of late behind the wood
+Seeking sweet [favour][21]s from this hateful fool,
+I did upbraid her and fall out with her,
+For she his hairy temples then had [round][22]ed
+With a [coronet][23] of fresh and fragrant flowers.
+And that same dew which [sometime][24] on the buds
+Was [wont][26] to swell, like round and [orient][25] pearls,
+Stood now within the pretty [floweret][27]s' eyes
+Like tears that did their own disgrace bewail.
+When I had at my pleasure taunted her,
+And she in mild terms begged my patience,
+I then did ask of her her [changeling][28] child,
+Which [straight][29] she gave me, and her fairy sent
+To bear him to my bower in Fairyland.
+And now I have the boy I will undo
+This hateful imperfection of her eyes.
+And, gentle Puck, take this transformed scalp
+From off the head of this Athenian [swain][30],
+That, he awaking when the other do,
+May all to Athens back again [repair][31]
+And think no more of this night's [accident][32]s
+But as the [fierce][33] [vexation][34] of a dream.
+But first I will release the Fairy Queen.
+_to Titania_
+Be as thou wast wont to be;
+See as thou wast wont to see.
+Dian's bud o'er Cupid's flower
+Hath such force and blessed power.
+Now, my Titania, wake you, my sweet Queen!
+
+[20]: {{page.q}}=8656 "dotage (n.) 1:  doting, infatuation, excessive affection"
+[21]: {{page.q}}=20221 "favour (n.) 5:  mark of favour, gift, token [often a love-token]"
+[22]: {{page.q}}=16685 "round (v.) 1:  ring, encircle, surround"
+[23]: {{page.q}}=3230 "coronet (n.) 2:  garland, wreath, circlet [of flowers, etc]"
+[24]: {{page.q}}=14027 "sometime (adv.) 1:  formerly, at one time, once"
+[25]: {{page.q}}=11729 "orient (adj.) 1:  lustrous, brilliant, bright"
+[26]: {{page.q}}=7592 "wont (v.):  be accustomed, used [to], be in the habit of"
+[27]: {{page.q}}=20182 "floweret (n.):  small flower"
+[28]: {{page.q}}=4389 "changeling (n./adj.) 1:  child taken by fairies, stolen child"
+[29]: {{page.q}}=14086 "straight (adv.):  straightaway, immediately, at once"
+[30]: {{page.q}}=14353 "swain (n.) 1:  [contemptuous] rustic, yokel, fellow"
+[31]: {{page.q}}=16609 "repair (v.) 1:  come, go, make one's way"
+[32]: {{page.q}}=710 "accident (n.) 1:  occurrence, event, happening"
+[33]: {{page.q}}=20183 "fierce (adj.) 2:  wild, lively, violent"
+[34]: {{page.q}}=7319 "vexation (n.) 1:  agitation, disturbance, turmoil"
+
+
+**TITANIA**
+
+_wakes_
+My Oberon, what visions have I seen!
+[Methought][35] I was enamoured of an ass.
+
+[35]: {{page.q}}=10439 "methinks(t), methought(s) (v.):  it seems /seemed to me"
+
+
+**OBERON**
+
+There lies your love.
+
+
+
+**TITANIA**
+
+How came these things to pass?
+O, how mine eyes do loathe his [visage][36] now!
+
+[36]: {{page.q}}=7226 "visage (n.) 1:  face, countenance"
+
+
+**OBERON**
+
+Silence awhile! Robin, take off this head.
+Titania, music call, and strike more dead
+Than common sleep of all these five the sense.
+
+
+
+**TITANIA**
+
+Music, ho! Music such as [charm][37]eth sleep.
+
+[37]: {{page.q}}=4382 "charm (v.) 2:  produce, bring, cause [as by magic]"
+
+
+**PUCK**
+
+_to Bottom, removing the ass's head_
+Now when thou wakest with thine own fool's eyes peep.
+
+
+
+**OBERON**
+
+Sound, music! (Music) Come, my Queen, take hands with me,
+And rock the ground whereon these sleepers be.
+_They dance_
+Now thou and I are new in amity,
+And will tomorrow midnight [solemnly][38]
+Dance in Duke Theseus' house [triumphantly][39],
+And bless it to all fair prosperity.
+There shall the pairs of faithful lovers be
+Wedded with Theseus all in jollity.
+
+[38]: {{page.q}}=14717 "solemnly (adv.):  ceremoniously, with ritual celebration"
+[39]: {{page.q}}=5987 "triumphantly (adv.):  as in a festive pageant, with great celebration"
+
+
+**PUCK**
+
+Fairy king, [attend][40], and [mark][41]:
+I do hear the morning lark.
+
+[40]: {{page.q}}=77 "attend (v.) 7:  listen [to], pay attention [to]"
+[41]: {{page.q}}=10405 "mark (v.) 1:  note, pay attention [to], take notice [of]"
+
+
+**OBERON**
+
+Then, my queen, in silence [sad][42],
+Trip we after night's shade.
+We the globe can [compass][43] soon,
+Swifter than the [wandering][44] moon.
+
+[42]: {{page.q}}=13906 "sad (adj.) 1:  serious, grave, solemn"
+[43]: {{page.q}}=3174 "compass (v.) 6:  go around, orbit, make a circuit of"
+[44]: {{page.q}}=7956 "wandering (adj.) 1:  [astrology] having its own motion"
+
+
+**TITANIA**
+
+Come, my lord, and in our flight
+Tell me how it came this night
+That I sleeping here was found
+With these mortals on the ground.
+_Exeunt Oberon, Titania, and Puck_
+_Horns sound. Enter Theseus with Hippolyta, Egeus,_
+_and all his train_
+
+
+
+**THESEUS**
+
+Go, one of you; find out the forester;
+For now our [observation][45] is performed.
+And since we have the [vaward][46] of the day,
+My love shall hear the music of my hounds.
+[Uncouple][47] in the western valley; let them go.
+[Dispatch][48], I say, and find the forester.
+_Exit an Attendant_
+We will, fair Queen, up to the mountain's top,
+And [mark][49] the musical confusion
+Of hounds and echo in conjunction.
+
+[45]: {{page.q}}=11761 "observation (n.) 1:  observance, rite, customary practice"
+[46]: {{page.q}}=7303 "vaward (n.) 2:  foremost part, front line, vanguard"
+[47]: {{page.q}}=6729 "uncouple (v.):  release pairs of hunting dogs for the chase"
+[48]: {{page.q}}=8763 "dispatch, despatch (v.) 4:  hurry up, be quick"
+[49]: {{page.q}}=10405 "mark (v.) 1:  note, pay attention [to], take notice [of]"
+
+
+**HIPPOLYTA**
+
+I was with Hercules and Cadmus once,
+When in a wood of Crete they [bay][50]ed the bear
+With hounds of Sparta. Never did I hear
+Such gallant [chiding][51], for besides the groves,
+The skies, the fountains, every region near
+Seemed all one [mutual][52] cry. I never heard
+So musical a discord, such sweet thunder.
+
+[50]: {{page.q}}=1586 "bay (v.) 1:  bring to bay, drive to a last stand"
+[51]: {{page.q}}=4383 "chiding (n.) 2:  barking, brawling, angry noise"
+[52]: {{page.q}}=10758 "mutual (adj.) 1:  common, general, omnipresent"
+
+
+**THESEUS**
+
+My hounds are bred out of the Spartan [kind][53];
+So [flewed][54], so [sanded][55]; and their heads are hung
+With ears that sweep away the morning dew;
+Crook-kneed, and [dewlapped][56] like Thessalian bulls;
+Slow in pursuit, but matched in mouth like bells,
+Each under each. A [cry][57] more [tuneable][58]
+Was never hallooed to nor [cheer][59]ed with horn
+In Crete, in Sparta, nor in Thessaly.
+Judge when you hear.
+_He sees the sleepers_
+But soft, what nymphs are these?
+
+[53]: {{page.q}}=15287 "kind (n.) 5:  breed, lineage, stock, family"
+[54]: {{page.q}}=20184 "flewed (adj.):  with large cheek folds [flews], chapped"
+[55]: {{page.q}}=14637 "sanded (adj.):  sandy-coloured"
+[56]: {{page.q}}=8808 "dewlapped (adj.):  with folds of loose skin around the throat"
+[57]: {{page.q}}=2784 "cry (n.) 1:  company, pack [as of hounds]"
+[58]: {{page.q}}=5974 "tuneable (adj.):  tuneful, musical, melodious"
+[59]: {{page.q}}=4395 "cheer (v.):  encourage, urge on, galvanize"
+
+
+**EGEUS**
+
+My lord, this is my daughter here asleep,
+And this Lysander; this Demetrius is,
+This Helena – old Nedar's Helena.
+I wonder of their being here together.
+
+
+
+**THESEUS**
+
+No doubt they rose up early to observe
+The rite of May, and hearing our [intent][60]
+Came here in [grace][61] of our [solemnity][62].
+But speak, Egeus: is not this the day
+That Hermia should give answer of her choice?
+
+[60]: {{page.q}}=5207 "intent (n.):  intention, purpose, aim"
+[61]: {{page.q}}=17514 "grace (n.) 1:  honour, favour, recognition, respect"
+[62]: {{page.q}}=14718 "solemnity (n.) 1:  celebration, jubilation, festivity"
+
+
+**EGEUS**
+
+It is, my lord.
+
+
+
+**THESEUS**
+
+Go, bid the huntsmen wake them with their horns.
+_Horns sound; the lovers wake; shout within; the_
+_lovers start up_
+Good [morrow][63], friends – Saint Valentine is past!
+Begin these woodbirds but to couple now?
+
+[63]: {{page.q}}=10890 "morrow (n.):  morning"
+
+
+**LYSANDER**
+
+Pardon, my lord.
+
+
+
+**THESEUS**
+
+I pray you all, stand up.
+I know you two are rival enemies.
+How comes this [gentle][64] concord in the world,
+That hatred is so far from [jealousy][65]
+To sleep by hate, and fear no enmity?
+
+[64]: {{page.q}}=18076 "gentle (adj.) 4:  peaceful, calm, free from violence"
+[65]: {{page.q}}=18844 "jealousy (n.) 1:  suspicion, mistrust, apprehension"
+
+
+**LYSANDER**
+
+My lord, I shall reply amazedly,
+Half sleep, half waking. But as yet, I swear,
+I cannot truly say how I came here.
+But as I think – for truly would I speak –
+And now do I [bethink][66] me, so it is:
+I came with Hermia hither. Our intent
+Was to be gone from Athens where we might
+Without the peril of the Athenian law...
+
+[66]: {{page.q}}=1455 "bethink (v.), past form bethought 1:  call to mind, think about, consider, reflect"
+
+
+**EGEUS**
+
+Enough, enough – my lord, you have enough!
+I beg the law, the law upon his head.
+They would have stolen away, they would, Demetrius,
+Thereby to have [defeat][67]ed you and me –
+You of your wife, and me of my consent –
+Of my consent that she should be your wife.
+
+[67]: {{page.q}}=8856 "defeat (v.) 2:  frustrate, bring to nought"
+
+
+**DEMETRIUS**
+
+My lord, fair Helen told me of their stealth,
+Of this their [purpose][68] hither to this wood,
+And I in fury hither followed them,
+Fair Helena in [fancy][69] following me.
+But, my good lord – I [wot][70] not by what power,
+But by some power it is – my love to Hermia,
+Melted as the snow, seems to me now
+As the [remembrance][73] of an [idle][72] [gaud][71]
+Which in my childhood I did dote upon;
+And all the faith, the [virtue][74] of my heart,
+The object and the pleasure of mine eye,
+Is only Helena. To her, my lord,
+Was I betrothed ere I saw Hermia;
+But like in sickness did I loathe this food.
+But, as in health come to my natural taste,
+Now I do wish it, love it, long for it,
+And will for evermore be true to it.
+
+[68]: {{page.q}}=12449 "purpose (n.) 1:  intention, aim, plan"
+[69]: {{page.q}}=20677 "fancy (n.) 1:  love, amorousness, infatuation"
+[70]: {{page.q}}=7655 "wot (v.) 1:  learn, know, be told"
+[71]: {{page.q}}=17583 "gaud (n.):  gaudy toy, showy plaything, trinket"
+[72]: {{page.q}}=4955 "idle (adj.) 1:  useless, barren, worthless"
+[73]: {{page.q}}=17226 "remembrance (n.) 1:  memory, bringing to mind, recollection"
+[74]: {{page.q}}=7316 "virtue (n.) 2:  essence, heart, soul"
+
+
+**THESEUS**
+
+Fair lovers, you are fortunately met.
+Of this discourse we more will hear [anon][75].
+Egeus, I will [overbear][76] your will;
+For in the temple by and by with us
+These couples shall eternally be knit.
+And – for the morning now is [something][77] worn –
+Our purposed hunting shall be set aside.
+Away with us to Athens. Three and three,
+We'll hold a feast in great [solemnity][78].
+Come, Hippolyta.
+_Exit Theseus with Hippolyta, Egeus, and his train_
+
+[75]: {{page.q}}=30 "anon (adv.) 1:  soon, shortly, presently"
+[76]: {{page.q}}=11827 "overbear (v.) 2:  overrule, overcome, put down"
+[77]: {{page.q}}=14025 "something (adv.) 1:  somewhat, rather"
+[78]: {{page.q}}=14718 "solemnity (n.) 1:  celebration, jubilation, festivity"
+
+
+**DEMETRIUS**
+
+These things seem small and [undistinguishable][79],
+Like far-off mountains turned into clouds.
+
+[79]: {{page.q}}=6821 "undistinguishable (adj.):  unrecognizable, undetectable, impossible to pick out"
+
+
+**HERMIA**
+
+[Methinks][80] I see these things with [parted][81] eye,
+When everything seems double.
+
+[80]: {{page.q}}=10439 "methinks(t), methought(s) (v.):  it seems /seemed to me"
+[81]: {{page.q}}=12712 "parted (adj.) 1:  divided, unfocused, indistinct"
+
+
+**HELENA**
+
+So methinks,
+And I have found Demetrius, like a jewel,
+Mine own and not mine own.
+
+
+
+**DEMETRIUS**
+
+Are you sure
+That we are awake? It seems to me
+That yet we sleep, we dream. Do not you think
+The Duke was here, and bid us follow him?
+
+
+
+**HERMIA**
+
+Yea, and my father.
+
+
+
+**HELENA**
+
+And Hippolyta.
+
+
+
+**LYSANDER**
+
+And he did bid us follow to the temple.
+
+
+
+**DEMETRIUS**
+
+Why, then, we are awake. Let's follow him,
+And by the way let's recount our dreams.
+_Exeunt Demetrius, Helena, Lysander, and Hermia_
+_Bottom wakes_
+
+
+
+**BOTTOM**
+
+When my cue comes, call me, and I will answer.
+My next is ‘ Most fair Pyramus.’ Heigh ho! Peter
+Quince! Flute the bellows-mender! Snout the tinker!
+Starveling! God's my life – stolen hence and left me
+asleep! – I have had a most rare vision. I have had a
+dream past the [wit][82] of man to say what dream it was. Man
+is but an ass if he [go about][83] to expound this dream. Methought
+I was – there is no man can tell what. [Methought][84]
+I was – and methought I had – but man is but a [patched][85]
+[fool][86] if he will offer to say what methought I had. The
+eye of man hath not heard, the ear of man hath not seen,
+man's hand is not able to taste, his tongue to [conceive][87],
+nor his heart to report what my dream was! I will get
+Peter Quince to write a ballad of this dream. It shall be
+called ‘ Bottom's Dream ’, because it hath no bottom; and
+I will sing it in the latter end of a play before the Duke.
+[Peradventure][89], to make it the more [gracious][88], I shall sing
+it at her death.
+_Exit_
+
+[82]: {{page.q}}=7583 "wit (n.) 1:  intelligence, wisdom, good sense, mental ability"
+[83]: {{page.q}}=17751 "go about (v.) 1:  endeavour, set to work, start trying"
+[84]: {{page.q}}=10439 "methinks(t), methought(s) (v.):  it seems /seemed to me"
+[85]: {{page.q}}=12713 "patched (adj.):  wearing a patchwork costume, multi-coloured"
+[86]: {{page.q}}=20065 "fool (n.) 4:  [professional] clown, jester"
+[87]: {{page.q}}=2813 "conceive (v.) 1:  understand, comprehend, follow"
+[88]: {{page.q}}=17672 "gracious (adj.) 9:  delightful, lovely, charming"
+[89]: {{page.q}}=12174 "peradventure (adv.):  perhaps, maybe, very likely"

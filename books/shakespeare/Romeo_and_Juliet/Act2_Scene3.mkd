@@ -1,0 +1,256 @@
+---
+title: Romeo and Juliet
+tagline: Act II - Scene III
+category: play
+author: shakespeare
+date: 2014-05-26 13:58:55 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act2_scene3.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Friar Laurence alone, with a basket_
+
+**FRIAR**
+
+Now, ere the sun advance his burning eye
+The day to cheer and night's dank dew to dry,
+I must up-fill this [osier][2] [cage][1] of ours
+With [baleful][3] weeds and precious-juiced flowers.
+The earth that's nature's mother is her tomb.
+What is her burying grave, that is her womb;
+And from her womb children of [divers][4] kind
+We sucking on her natural bosom find,
+Many for many [virtue][5]s excellent,
+None but for some, and yet all different.
+O [mickle][7] is the powerful [grace][6] that lies
+In plants, herbs, stones, and their [true][9] [qualities][8].
+For naught so vile that on the earth doth live
+But to the earth some special good doth give;
+Nor [aught][10] so good but, [strain][12]ed from that [fair][11] use,
+Revolts from true [birth][13], stumbling on abuse.
+Virtue itself [turn][14]s vice, being misapplied,
+And vice sometimes by action dignified.
+Within the infant rind of this weak flower
+Poison hath residence, and [medicine][15] power.
+For this, being smelt, with that [part][16] cheers each part;
+Being tasted, [stays][17] all senses with the heart.
+Two such opposed kings [encamp][18] them [still][19]
+In man as well as herbs – grace and [rude][20] [will][21].
+And where the worser is predominant,
+Full soon the [canker][22] death eats up that plant.
+_Enter Romeo_
+
+[1]: {{page.q}}=4067 "cage (n.) 1: basket, frame"
+[2]: {{page.q}}=12017 "osier (adj.): made of willow"
+[3]: {{page.q}}=1313 "baleful (adj.): deadly, mortal, malignant"
+[4]: {{page.q}}=9213 "divers (adj.): different, various, several"
+[5]: {{page.q}}=7225 "virtue (n.) 4: power, capability, efficacy, property"
+[6]: {{page.q}}=17515 "grace (n.) 2: virtue, good quality"
+[7]: {{page.q}}=10531 "mickle (adj.): great, much, large"
+[8]: {{page.q}}=13816 "quality (n.) 5: characteristic, feature, property"
+[9]: {{page.q}}=6427 "true (adj.) 7: inherent, authentic, genuine"
+[10]: {{page.q}}=84 "aught (n.): anything, [with negative word] nothing"
+[11]: {{page.q}}=20510 "fair (adj.) 10: legitimate, lawful, proper"
+[12]: {{page.q}}=16103 "strain (v.) 2: constrain, force, press"
+[13]: {{page.q}}=1131 "birth (n.) 2: nature, kind, natural character"
+[14]: {{page.q}}=5415 "turn (v.) 2: become, transform, change [into]"
+[15]: {{page.q}}=11106 "medicine (n.) 1: healing, effective remedy"
+[16]: {{page.q}}=12150 "part (n.) 1: quality, attribute, gift, accomplishment [of mind or body]"
+[17]: {{page.q}}=15545 "stay (v.) 8: stop, prevent, end"
+[18]: {{page.q}}=10224 "encamp (v.): form into a camp, settle in a camp"
+[19]: {{page.q}}=14077 "still (adv.) 1: constantly, always, continually"
+[20]: {{page.q}}=17312 "rude (adj.) 9: uncontrolled, unruly, of the flesh"
+[21]: {{page.q}}=7575 "will (n.) 2: lust, sexual desire, passion"
+[22]: {{page.q}}=3924 "canker (n./adj.) 1: grub that destroys plant buds and leaves, cankerworm, parasite"
+
+
+**ROMEO**
+
+Good morrow, father.
+
+
+
+**FRIAR**
+
+Benedicite!
+What early tongue so sweet saluteth me?
+Young son, it [argue][23]s a [distempered][24] head
+So soon to bid good [morrow][25] to thy bed.
+Care [keep][26]s his [watch][27] in every old man's eye,
+And where care lodges, sleep will never lie.
+But where [unbruised][28] youth with [unstuffed][29] brain
+Doth [couch][30] his limbs, there golden sleep doth reign.
+Therefore thy earliness doth me assure
+Thou art [uprouse][32]d with some [distemperature][31].
+Or if not so, then here I hit it right –,
+Our Romeo hath not been in bed tonight.
+
+[23]: {{page.q}}=870 "argue (v.) 1: indicate, betoken, be evidence of"
+[24]: {{page.q}}=9188 "distempered (adj.) 3: disordered, disturbed, diseased"
+[25]: {{page.q}}=10890 "morrow (n.): morning"
+[26]: {{page.q}}=19037 "keep (v.) 4: keep up, maintain, carry on"
+[27]: {{page.q}}=7556 "watch (n.) 3: sleepless state, wakefulness"
+[28]: {{page.q}}=7071 "unbruised (adj.) 2: undamaged by the world"
+[29]: {{page.q}}=7072 "unstuffed (adj.): unclogged by troubles"
+[30]: {{page.q}}=3784 "couch (v.) 5: lay down, rest, repose"
+[31]: {{page.q}}=8772 "distemperature (n.) 1: ailment, disorder, malady"
+[32]: {{page.q}}=7073 "uprouse (v.): arouse, get up, leave one's bed"
+
+
+**ROMEO**
+
+That last is true. The sweeter rest was mine.
+
+
+
+**FRIAR**
+
+God pardon sin! Wast thou with Rosaline?
+
+
+
+**ROMEO**
+
+With Rosaline, my [ghostly][33] father? No.
+I have forgot that name and that name's woe.
+
+[33]: {{page.q}}=17917 "ghostly (adj.): spiritual, holy"
+
+
+**FRIAR**
+
+That's my good son! But where hast thou been then?
+
+
+
+**ROMEO**
+
+I'll tell thee ere thou ask it me again.
+I have been feasting with mine enemy,
+Where on a [sudden][34] one hath wounded me
+That's by me wounded. Both our remedies
+Within thy help and holy [physic][35] lies.
+I bear no hatred, blessed man, for, lo,
+My [intercession][36] likewise [stead][37]s my foe.
+
+[34]: {{page.q}}=15881 "sudden, of / on / upon a / the 1: suddenly"
+[35]: {{page.q}}=12190 "physic (n.) 1: medicine, healing, treatment"
+[36]: {{page.q}}=4904 "intercession (n.) 1: prayer, plea, entreaty"
+[37]: {{page.q}}=14127 "stead (v.): help, assist, benefit"
+
+
+**FRIAR**
+
+Be plain, good son, and [homely][39] in thy [drift][38].
+Riddling confession finds but riddling [shrift][40].
+
+[38]: {{page.q}}=8478 "drift (n.) 1: plan, intention, aim"
+[39]: {{page.q}}=18461 "homely (adj.) 1: plain, simple, ordinary"
+[40]: {{page.q}}=15555 "shrift (n.) 2: absolution"
+
+
+**ROMEO**
+
+Then plainly know my heart's dear love is set
+On the fair daughter of rich Capulet.
+As mine on hers, so hers is set on mine,
+And all [combine][41]d, save what thou must combine
+By holy marriage. When, and where, and how
+We met, we wooed and made exchange of vow,
+I'll tell thee as we pass. But this I pray,
+That thou consent to marry us today.
+
+[41]: {{page.q}}=3785 "combine (v.) 2: unite in harmony, be at one"
+
+
+**FRIAR**
+
+Holy Saint Francis! What a change is here!
+Is Rosaline, that thou didst love so dear,
+So soon forsaken? Young men's love then lies
+Not truly in their hearts, but in their eyes.
+Jesu Maria! What a deal of [brine][42]
+Hath washed thy sallow cheeks for Rosaline!
+How much salt water thrown away in waste
+To [season][43] love, that of it doth not taste!
+The sun not yet thy sighs from heaven clears.
+Thy old groans yet ring in mine ancient ears.
+Lo, here upon thy cheek the stain doth sit
+Of an old tear that is not washed off yet.
+If e'er thou wast thyself, and these woes thine,
+Thou and these woes were all for Rosaline.
+And art thou changed? Pronounce this [sentence][44] then:
+Women may fall when there's no strength in men.
+
+[42]: {{page.q}}=1858 "brine (n.) 1: salt water [i.e. tears]"
+[43]: {{page.q}}=15757 "season (v.) 8: preserve, keep"
+[44]: {{page.q}}=15739 "sentence (n.) 1: maxim, wise saying, precept"
+
+
+**ROMEO**
+
+Thou [chidst][45] me [oft][46] for loving Rosaline.
+
+[45]: {{page.q}}=4299 "chide (v.), past form chid 1: scold, rebuke, reprove"
+[46]: {{page.q}}=11606 "oft (adv.): often"
+
+
+**FRIAR**
+
+For doting, not for loving, pupil mine.
+
+
+
+**ROMEO**
+
+And [badest][47] me bury love.
+
+[47]: {{page.q}}=2077 "bid (v.), past form bade 3: pray, entreat, beg, ask"
+
+
+**FRIAR**
+
+Not in a grave
+To lay one in, another out to have.
+
+
+
+**ROMEO**
+
+I pray thee [chide][48] me not. Her whom I love now
+Doth [grace][49] for grace and love for love allow.
+The other did not so.
+
+[48]: {{page.q}}=4299 "chide (v.), past form chid 1: scold, rebuke, reprove"
+[49]: {{page.q}}=17514 "grace (n.) 1: honour, favour, recognition, respect"
+
+
+**FRIAR**
+
+O, she knew well
+Thy love did read by rote, that could not spell.
+But come, young waverer, come, go with me.
+In one respect I'll thy assistant be.
+For this [alliance][50] may so happy prove
+To turn your households' rancour to pure love.
+
+[50]: {{page.q}}=1242 "alliance (n.) 2: marriage"
+
+
+**ROMEO**
+
+O, let us hence! I [stand][51] on sudden haste.
+
+[51]: {{page.q}}=14532 "stand on (v.) 1: insist on, demand, call for"
+
+
+**FRIAR**
+
+Wisely and slow. They stumble that run fast.
+_Exeunt_
+
+
+

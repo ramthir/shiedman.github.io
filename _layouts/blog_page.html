@@ -1,0 +1,31 @@
+---
+layout: blog 
+---
+
+<!-- add classe -->
+{% if page.classes %}
+  {% assign classes = page.classes | join: ' ' %}
+{% else %}
+  {% assign classes = page.url | replace: '/', ' ' | replace: '.', ' '%}
+{% endif %}
+<article class="{{ classes }}">
+  <div class="page-header">
+    <h2>
+      {{ page.title }}
+      <a href="{{ page.url }}" class="permalink" title="Permalink">∞</a>
+    </h2>
+      {% if page.tagline %}
+        <small> {{page.tagline}} </small>
+      {% endif %}
+  </div>
+  <div class="post-category">
+    {{ page.categories | join: ","}}
+  </div>
+  <div class="post-meta">
+    <time> {{ page.date |  date: "%Y-%m-%d" }} </time>
+  </div>
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
+

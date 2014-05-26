@@ -1,0 +1,26 @@
+---
+layout: blog 
+title: changelog
+permalink: /changelog/
+category: changelog
+---
+
++ books
+    * 东周列国志:P21
+
++ 2014-03-24
+
+    * rebuid css with bootstrap-3.1.1's less files
+    * add jekyll [documents](/docs/home/)
+    * add [syntax page](/kramdown/) of kramdown which is markdown parser for my site
+    * add private anotation for reading books
+
++ 2014-03-26
+
+    * build visual exercise game with [box2dweb](http://code.google.com/p/box2dweb/) and [createjs](http://www.createjs.com/#!/CreateJS)
+    * 《王阳明传习录详注集评》更新至p43
+    
++ 2014-03-28
+    
+    * 《源氏物语》 and 《Shakespeare's Words》 added
+    *  write script `shakespeare.js` to convert html to markdown

@@ -1,0 +1,261 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act II - Scene VII
+category: play
+author: shakespeare
+source: http://www.shakespeareswords.com/Plays.aspx?Ac=2&SC=7&IdPlay=5
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act2_scene7.html
+layout: book_page
+tag: [ shakespeare  ]
+creation: 1589-1593
+date: 2014-03-28 09:14:00 +0800
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+Enter Julia and Lucetta
+
+
+**JULIA**
+
+Counsel, Lucetta; [gentle][1] girl, assist me;
+And, e'en in kind love, I do [conjure][2] thee,
+Who art the [table][3] wherein all my thoughts
+Are visibly [character][4]ed and engraved,
+To [lesson][5] me and tell me some good [mean][6]
+How, with my honour, I may undertake
+A journey to my loving Proteus.
+
+[1]: {{page.q}}=17496  "gentle (adj.) 2: courteous, friendly, kind"
+[2]: {{page.q}}=2714  "conjure (v.) 1: ask solemnly, entreat earnestly, beseech"
+[3]: {{page.q}}=5419  "table (n.) 1: writing tablet, memo pad, notebook"
+[4]: {{page.q}}=4286  "character (v.): inscribe, engrave, write"
+[5]: {{page.q}}=15310  "lesson (v.) 1: instruct, teach, advise"
+[6]: {{page.q}}=10600  "mean (n.) 1: means, way, method"
+
+**LUCETTA**
+
+Alas, the way is wearisome and long!
+
+
+**JULIA**
+
+A true-devoted pilgrim is not weary
+To [measure][7] kingdoms with his feeble steps;
+Much less shall she that hath Love's wings to fly,
+And when the flight is made to one so dear,
+Of such divine perfection as Sir Proteus.
+
+[7]: {{page.q}}=10709  "measure (v.) 1: pass through, travel over, traverse"
+
+**LUCETTA**
+
+Better [forbear][8] till Proteus make return.
+
+[8]: {{page.q}}=20034  "forbear (v.) 3: control oneself, have patience [for]"
+
+**JULIA**
+
+O, knowest thou not his looks are my soul's food?
+Pity the [dearth][9] that I have pined in
+By longing for that food so long a time.
+Didst thou but know the [inly][10] touch of love,
+Thou wouldst as soon go kindle fire with snow
+As seek to quench the fire of love with words.
+
+[9]: {{page.q}}=8682  "dearth (n.) 1: scarcity, shortage, lack [of food], famine"
+[10]: {{page.q}}=5165  "inly (adj.): inward, internal, heartfelt"
+
+**LUCETTA**
+
+I do not seek to quench your love's hot fire,
+But [qualify][11] the fire's extreme rage,
+Lest it should burn above the bounds of reason.
+
+[11]: {{page.q}}=13728  "qualify (v.) 1: moderate, weaken, diminish"
+
+**JULIA**
+
+The more thou dammest it up, the more it burns.
+The current that with [gentle][12] murmur glides,
+Thou knowest, being stopped, impatiently doth rage;
+But when his fair [course][13] is not hindered,
+He makes sweet music with th' [enamelled][14] stones,
+Giving a [gentle][15] kiss to every [sedge][16]
+He overtaketh in his pilgrimage;
+And so by many winding nooks he strays,
+With willing [sport][17], to the wild ocean.
+Then let me go, and hinder not my course.
+I'll be as patient as a [gentle][18] stream,
+And make a pastime of each weary step,
+Till the last step have brought me to my love;
+And there I'll rest as, after much turmoil,
+A blessed soul doth in Elysium.
+
+[12]: {{page.q}}=21290  "gentle (adj.) 7: smooth-flowing, not rough or rapid"
+[13]: {{page.q}}=3134  "course (n.) 1: course of action, way of proceeding"
+[14]: {{page.q}}=9712  "enamelled (adj.): brightly coloured, multi-coloured, kaleidoscopic"
+[15]: {{page.q}}=21269  "gentle (adj.) 6: soft, tender, kind"
+[16]: {{page.q}}=15590  "sedge (n.): variety of grassy plant, rush"
+[17]: {{page.q}}=14044  "sport (n.) 1: recreation, amusement, entertainment"
+[18]: {{page.q}}=21290  "gentle (adj.) 7: smooth-flowing, not rough or rapid"
+
+**LUCETTA**
+
+But in what [habit][19] will you go along?
+
+[19]: {{page.q}}=15263  "habit (n.) 1: dress, clothing, costume"
+
+**JULIA**
+
+Not like a woman, for I would [prevent][20]
+The loose [encounter][21]s of lascivious men.
+[Gentle][22] Lucetta, fit me with such [weed][23]s
+As may [beseem][24] some well-reputed page.
+
+[20]: {{page.q}}=12700  "prevent (v.) 2: take steps to thwart, avoid by prompt action"
+[21]: {{page.q}}=10089  "encounter (n.) 2: accosting, address, approach"
+[22]: {{page.q}}=17496  "gentle (adj.) 2: courteous, friendly, kind"
+[23]: {{page.q}}=7564  "weed (n.) 1: (plural) garments, dress, clothes"
+[24]: {{page.q}}=1509  "beseem (v.): befit, be fitting [for], be seemly [for]"
+
+**LUCETTA**
+
+Why then, your ladyship must cut your hair.
+
+
+**JULIA**
+
+No, girl, I'll [knit][25] it up in silken strings
+With twenty [odd-conceited][26] true-love knots –
+To be [fantastic][28] may [become][27] a youth
+Of greater [time][30] than I shall [show][29] to be.
+
+[25]: {{page.q}}=15279  "knit, knit up (v.) 1: tie, fasten [by means of a knot]"
+[26]: {{page.q}}=11917  "odd-conceited (adj.): elaborately odd, ingeniously devised"
+[27]: {{page.q}}=1432  "become (v.) 1: be fitting, befit, be appropriate to"
+[28]: {{page.q}}=19787  "fantastic (adj.) 1: extravagant, fanciful, ingenious"
+[29]: {{page.q}}=14157  "show (v.): appear, look [like], present [as]"
+[30]: {{page.q}}=6044  "time (n.) 4: age, years"
+
+**LUCETTA**
+
+What fashion, madam, shall I make your breeches?
+
+
+**JULIA**
+
+That fits as well as, ‘ Tell me, good my lord,
+What [compass][31] will you wear your [farthingale][32]?’
+Why e'en what fashion thou best [like][33]s, Lucetta.
+
+[31]: {{page.q}}=3544  "compass (n.) 3: circumference, round measurement"
+[32]: {{page.q}}=20205  "farthingale (n.): long skirt extended at the back by a framework of hoops"
+[33]: {{page.q}}=19138  "like (v.) 1: please, suit"
+
+**LUCETTA**
+
+You must needs have them with a [codpiece][34], madam.
+
+[34]: {{page.q}}=3478  "codpiece, cod-piece (n.) 1: cloth case or pocket worn by a man at the front of breeches or hose; also: what it contains"
+
+**JULIA**
+
+Out, out, Lucetta, that will be [ill-favoured][35].
+
+[35]: {{page.q}}=4814  "ill-favoured (adj.): ugly, unattractive, unsightly"
+
+**LUCETTA**
+
+A round [hose][36], madam, now's not worth a [pin][37],
+Unless you have a codpiece to stick pins on.
+
+[36]: {{page.q}}=18199  "hose (n.): [pair of] breeches"
+[37]: {{page.q}}=12723  "pin (n.) 1: trifle, triviality, insignificant amount"
+
+**JULIA**
+
+Lucetta, as thou lovest me, let me have
+What thou thinkest [meet][38], and is most mannerly.
+But tell me, [wench][40], how will the world [repute][39] me
+For undertaking so [unstaid][41] a journey?
+I fear me it will make me [scandalized][42].
+
+[38]: {{page.q}}=10430  "meet (adj.) 1: fit, suitable, right, proper"
+[39]: {{page.q}}=17114  "repute (v.): consider, think, reckon"
+[40]: {{page.q}}=7615  "wench (n.): girl, lass"
+[41]: {{page.q}}=6979  "unstaid (adj.) 3: immodest, undignified, indecorous"
+[42]: {{page.q}}=15591  "scandalized (adj.): disgraced, defamed, made a subject of scandal"
+
+**LUCETTA**
+
+If you think so, then stay at home and go not.
+
+
+**JULIA**
+
+Nay, that I will not.
+
+
+**LUCETTA**
+
+Then never dream on [infamy][43], but go.
+If Proteus like your journey when you come,
+No matter who's displeased when you are gone.
+I fear me he will scarce be pleased withal.
+
+[43]: {{page.q}}=4939  "infamy (n.): bad report, terrible reputation"
+
+**JULIA**
+
+That is the least, Lucetta, of my fear:
+A thousand oaths, an ocean of his tears,
+And instances of [infinite][44] of love,
+[Warrant][45] me welcome to my Proteus.
+
+[44]: {{page.q}}=5175  "infinite (n.) 1: infinity, infinite quantity, eternity"
+[45]: {{page.q}}=7755  "warrant (v.) 3: act as a pledge for, give an assurance about"
+
+**LUCETTA**
+
+All these are servants to deceitful men.
+
+
+**JULIA**
+
+[Base][46] men, that use them to so base [effect][47]!
+But truer stars did govern Proteus' birth;
+His words are bonds, his oaths are oracles,
+His love sincere, his thoughts immaculate,
+His tears pure messengers sent from his heart,
+His heart as far from fraud as heaven from earth.
+
+[46]: {{page.q}}=1412  "base (adj.) 1: dishonourable, low, unworthy"
+[47]: {{page.q}}=9801  "effect (n.) 1: result, end, outcome, fulfilment"
+
+**LUCETTA**
+
+Pray heaven he prove so when you come to him!
+
+
+**JULIA**
+
+Now, as thou lovest me, do him not that wrong
+To bear a [hard][48] opinion of his truth;
+Only deserve my love by loving him;
+And [presently][49] go with me to my chamber,
+To take a note of what I stand in need of
+To [furnish][50] me upon my [longing][51] journey.
+All that is mine I leave at thy [dispose][52],
+My goods, my land, my reputation;
+Only, in lieu thereof, [dispatch][53] me hence.
+Come, answer not, but to it presently;
+I am impatient of my [tarriance][54].
+Exeunt
+
+[48]: {{page.q}}=18599  "hard (adj.) 5: bad, poor, inadequate"
+[49]: {{page.q}}=12248  "presently (adv.) 1: immediately, instantly, at once"
+[50]: {{page.q}}=19897  "furnish (v.) 3: dress, clothe, equip, fit out"
+[51]: {{page.q}}=19551  "longing (adj.): prompted by longing, full of yearning"
+[52]: {{page.q}}=8659  "dispose (n.) 1: disposal, control, discretion"
+[53]: {{page.q}}=9177  "dispatch, despatch (v.) 5: send away, send off"
+[54]: {{page.q}}=6251  "tarriance (n.) 1: delay, procrastination, lingering"

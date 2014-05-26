@@ -1,0 +1,76 @@
+---
+title: Fifth Lesson
+book:
+    title: A Guide to Philosophy
+    author: Witold Gombrowicz
+category: philosophy
+permalink: /books/a_guide_to_philosophy/06_fifth_lesson.html
+date: 2014-04-13 01:07:00 +0800
+layout: book_page 
+---
+
+Fifth Lesson
+=================
+
+*Friday, May 2, 1969*
+{: .text-right}
+
+Schopenhauer recognizes two possibilities:
+
+1. To affirm the will to live by fully participating in life with its cruelties and its injustices.
+
+2. Not suicide, but *meditation.*
+
+Schopenhauer considers that the contemplation of the world “as if it were a game” is absolutely superior to life. He demonstrates this in an extremely ingenious way. The one who contemplates the world and is filled with wonder is the artist. Now, in this sense, the artist resembles a child, because the child also marvels at the world in a disinterested way. It is for this reason, says Schopenhauer, that children are brilliant, simply because they are children. During our first few years, we make more progress than during the rest of our life. That is why, in the East, the yogi (the one who meditates) attains the unique possibility of suppressing life.
+
+Schopenhauer formulates an artistic theory which, for me, is the most important of all. And, just between us, the extremely naive and incomplete manner of dealing with art in France is due primarily to the ignorance of Schopenhauer.
+
+Art shows us nature’s game and its forces, namely the will to live. Schopenhauer is *concrete* in this matter. He asks: why does the facade of a cathedral charm us, when a simple wall does not interest us? It is because the will to live of matter is expressed in weight and resistance. Now, a wall does not display the game of these forces, since each particle of the wall both resists and carries weight. While a cathedral facade shows these forces in action, since the columns resist and the capitals press down. We see the struggle between weight and resistance. He also explains to us why a twisted (curved) column does not satisfy us. Quite simply because it does not resist enough. In the same way, a rounded column is better than a square column.
+
+####All this to tell you how Schopenhauer sees art.####
+
+####It is meditation that he sets in opposition to life.####
+
+####He also deals with *sculpture* and says that the beauty of man derives from *a priori* anticipation based on experience. The human body is all the more successful since it is well adapted to its ends. He adds that there is within us an ideal of human beauty, which consists of prolonging in the future what we consider to be of quality today, such as long legs. This quality always obliges man to go further in this direction, health, etc. One could say that this is a kind of dream about the design of the species in the future.####
+
+####For Schopenhauer, the beauty of *Greek sculpture* consisted in a discernment between sexual instinct and beauty. In a word, Greek beauty is not exciting, and that is why it is superior.####
+
+####*Painting.* If sculpture is primarily concerned with beauty and charm, painting seeks expression, passion, and character in man. Therefore, in painting one can also consider the ugly to be handsome. Example: an old woman. Character unifies a person in painting, because character is what unifies in a sense (direction); if not, man would be disparate.####
+
+####*Literature.* The artist, in general, does not function by concepts of logic, of abstractions, but has direct intuition of the will to live in the world.####
+
+####For this reason, Schopenhauer notes that discursive literature which tries to prove something is useless. One cannot make art with abstract principles, with concepts. If I have something to say about a subject, for example, about illegitimate children, I shall simply say it in a lecture and not in a work of art.####
+
+####The work of art seeks the concrete, but in the concrete, it rediscovers the universal, the will to live. Think of the miser in Molière. He is a concrete character who has a life, a hair color, etc., but through him we can see avarice in its universal sense. Schopenhauer####
+
+#### gives the definition of the genius, which is still very close to that of the child. *The genius is disinterested.* He has fun with the world. He perceives its atrocities but delights in its atrocities. The genius in general is useless in practical life, because he does not seek his personal interest. He is antisocial, but sees the world better because he is *objective.*####
+
+Schopenhauer makes a very good comparison in saying that a mediocre man’s intelligence resembles a flashlight, which shines only on what it is seeking, whereas a superior intelligence is like the sun, which illuminates everything. From there derives *the objectivity of the art of the genius.* It is *disinterested.*
+
+Schopenhauer said much on the subject of genius, for example that the genius cannot live normally; the artist always has an obstacle which prevents him from living: illness, abnormality, infirmity, homosexuality, etc.
+
+(Intelligent men are highly sensitive to noise). Me, personally, I interpret this by the fact that *we sense better what we lack.* Example: a cavalry officer does not even realize that he is healthy, whereas an invalid like Chopin has an acute notion of health, because he lacks it.
+
+One can observe phenomena like Beethoven who, personally, was hysterical and unhappy, yet in his art so well expressed health, balance (no doubt because he lacked these).
+
+Myself, I attach the highest importance to *antinomy in art.* An artist must be that and its opposite. Mad, disorganized but also disciplined, cold, rigorous. Art is never a single thing, but is always compensated by its opposite.
+
+Schopenhauer is not really philosophy, but rather intuitiveness and morality. He was outraged that on a Pacific island each year, sea tortoises emerge from the water to procreate on the beach, where they are flipped over and devoured by the island’s wild dogs. He said, “This is life, this is what has been systematically repeated for millennia, each spring.”
+
+Why don’t we read more Schopenhauer?
+
+Why isn’t he current?
+
+1. Schopenhauer’s metaphysics (first part of the book) is not valid today (I know that *noumenon* is intuition, the will to live), formulated in this way.
+
+2. No doubt the *aristocratic aspect* of this philosophy. For Schopenhauer, there are mediocre men and superior men. He insulted the mediocre ones.
+
+####3. He was against life (his philosophy was against it), whereas one can derive some very useful things about politics from Hegel, as Marx did.####
+
+####Schopenhauer sought renunciation, he sought to kill the will to live.####
+
+####For me, it is a mystery that interesting books like Schopenhauer’s (and my own!) do not find readers.####
+
+####Schopenhauer detested Hegel. He always said “that oaf, Hegel!” To defy Hegel, he had set the times of his courses at the University of Berlin to be the same as Hegel’s, with the result that Hegel’s classroom was always full while his own was empty.####
+
+####But Hegel and Schopenhauer had arguments to show why a genius cannot be successful, because he surpasses his own time. That is why genius is incomprehensible and serves no one. Yet Schopenhauer and I console ourselves rather well!####

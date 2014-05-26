@@ -1,0 +1,617 @@
+---
+title: Romeo and Juliet
+tagline: Act III - Scene I
+category: play
+author: shakespeare
+date: 2014-05-26 17:29:55 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act3_scene1.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Mercutio, Benvolio, and their men_
+
+**BENVOLIO**
+
+I pray thee, good Mercutio, let's retire.
+The day is hot, the Capels are abroad.
+And if we meet we shall not '[scape][1] a brawl,
+For now, these hot days, is the mad blood stirring.
+
+[1]: {{page.q}}=14263 "scape, 'scape (v.): escape, avoid"
+
+
+**MERCUTIO**
+
+Thou art like one of those fellows that, when
+he enters the [confine][3]s of a tavern, [clap][2]s me his sword
+upon the table and says ‘ God send me no need of thee!’,
+and by the [operation][5] of the second cup [draw][4]s him on the
+[drawer][6], when indeed there is no need.
+
+[2]: {{page.q}}=4704 "clap (v.) 4: put smartly, place promptly, set effectively"
+[3]: {{page.q}}=3198 "confine (n.) 2: limit, bound, domain"
+[4]: {{page.q}}=8910 "draw (v.) 10: draw a sword"
+[5]: {{page.q}}=11669 "operation (n.) 1: effect, force, influence, power"
+[6]: {{page.q}}=8825 "drawer (n.): one who draws drink from a cask, tapster, barman"
+
+
+**BENVOLIO**
+
+Am I like such a fellow?
+
+
+
+**MERCUTIO**
+
+Come, come, thou art as hot a [Jack][7] in thy
+mood as any in Italy; and as soon [move][9]d to be [moody][8],
+and as soon moody to be [move][10]d.
+
+[7]: {{page.q}}=18880 "Jack (n.) 1: Jack-in-office, ill-mannered fellow, lout, knave"
+[8]: {{page.q}}=10599 "moody (adj.) 1: angry, wrathful, rancorous, sullen"
+[9]: {{page.q}}=10486 "move (v.) 3: encourage, instigate, prompt"
+[10]: {{page.q}}=10634 "move (v.) 2: move to anger, provoke, exasperate"
+
+
+**BENVOLIO**
+
+And what to?
+
+
+
+**MERCUTIO**
+
+Nay, an there were two such, we should have
+none shortly, for one would kill the other. Thou! Why,
+thou wilt quarrel with a man that hath a hair more or a
+hair less in his beard than thou hast. Thou wilt quarrel
+with a man for cracking nuts, having no other reason but
+because thou hast hazel eyes. What eye but such an eye
+would spy out such a quarrel? Thy head is as full of
+quarrels as an egg is full of [meat][11]; and yet thy head hath
+been beaten as [addle][12] as an egg for quarrelling. Thou
+hast quarrelled with a man for coughing in the street,
+because he hath wakened thy dog that hath lain asleep in
+the sun. Didst thou not fall out with a tailor for wearing
+his new doublet before Easter; with another for tying
+his new shoes with old [riband][13]? And yet thou wilt tutor
+me from quarrelling!
+
+[11]: {{page.q}}=10545 "meat (n.) 1: food, nourishment"
+[12]: {{page.q}}=884 "addle (adj.): addled, rotten, putrid"
+[13]: {{page.q}}=16634 "riband (n.): ribbon"
+
+
+**BENVOLIO**
+
+An I were so [apt][14] to quarrel as thou art, any
+man should buy the [fee simple][15] of my life for an hour
+and a quarter.
+
+[14]: {{page.q}}=43 "apt (adj.) 1: fit, ready, prepared"
+[15]: {{page.q}}=20449 "fee-simple, fee simple (n.): private estate [belonging to the owner and his heirs for ever]; permanent lease, full possession"
+
+
+**MERCUTIO**
+
+The fee-[simple][16]? O simple!
+_Enter Tybalt and others_
+
+[16]: {{page.q}}=14426 "simple (adj.) 2: foolish, silly, stupid"
+
+
+**BENVOLIO**
+
+By my head, here comes the Capulets.
+
+
+
+**MERCUTIO**
+
+By my heel, I care not.
+
+
+
+**TYBALT**
+
+Follow me close, for I will speak to them.
+Gentlemen, good-e'en. A word with one of you.
+
+
+
+**MERCUTIO**
+
+And but one word with one of us? Couple it
+with something. Make it a word and a blow.
+
+
+
+**TYBALT**
+
+You shall find me [apt][17] enough to that, sir, an you
+will give me [occasion][18].
+
+[17]: {{page.q}}=43 "apt (adj.) 1: fit, ready, prepared"
+[18]: {{page.q}}=11685 "occasion (n.) 2: ground, reason, cause, matter"
+
+
+**MERCUTIO**
+
+Could you not take some occasion without
+giving?
+
+
+
+**TYBALT**
+
+Mercutio, thou consortest with Romeo.
+
+
+
+**MERCUTIO**
+
+Consort? What, dost thou make us minstrels?
+An thou make minstrels of us, look to hear nothing but
+discords. Here's my fiddlestick. Here's that shall make
+you dance. Zounds, consort!
+
+
+
+**BENVOLIO**
+
+We talk here in the public haunt of men.
+Either withdraw unto some private place,
+And [reason][20] [coldly][19] of your grievances,
+Or else depart. Here all eyes gaze on us.
+
+[19]: {{page.q}}=2819 "coldly (adv.) 1: calmly, coolly, objectively, rationally"
+[20]: {{page.q}}=16993 "reason (v.) 3: raise, bring up, discuss"
+
+
+**MERCUTIO**
+
+Men's eyes were made to look, and let them gaze.
+I will not budge for no man's pleasure, I.
+_Enter Romeo_
+
+
+
+**TYBALT**
+
+Well, peace be with you, sir. Here comes my man.
+
+
+
+**MERCUTIO**
+
+But I'll be hanged, sir, if he wear your [livery][21].
+Marry, go [before][22] to [field][23], he'll be your [follower][24]!
+Your worship in that sense may call him ‘ man.’
+
+[21]: {{page.q}}=19153 "livery (n.) 1: uniform, costume, special clothing"
+[22]: {{page.q}}=1601 "before (adv.) 1: ahead, in advance"
+[23]: {{page.q}}=20604 "field (n.) 2: duelling place"
+[24]: {{page.q}}=20605 "follower (n.): second, attendant"
+
+
+**TYBALT**
+
+Romeo, the love I bear thee can afford
+No better term than this: thou art a villain.
+
+
+
+**ROMEO**
+
+Tybalt, the reason that I have to love thee
+Doth much excuse the [appertaining][25] rage
+To such a greeting. Villain am I none.
+Therefore farewell, I see thou knowest me not.
+
+[25]: {{page.q}}=874 "appertaining (adj.): related, relevant, appropriate"
+
+
+**TYBALT**
+
+Boy, this shall not excuse the injuries
+That thou hast done me. Therefore turn and [draw][26].
+
+[26]: {{page.q}}=8910 "draw (v.) 10: draw a sword"
+
+
+**ROMEO**
+
+I do protest I never [injured][27] thee,
+But love thee better than thou canst [devise][28]
+Till thou shalt know the reason of my love.
+And so, good Capulet, which name I [tender][29]
+As dearly as mine own, be satisfied.
+
+[27]: {{page.q}}=5295 "injury (v.): injure, wrong, do injustice to"
+[28]: {{page.q}}=9085 "devise (v.) 2: invent, imagine, make up [an account]"
+[29]: {{page.q}}=5442 "tender (v.) 3: rate, esteem, regard"
+
+
+**MERCUTIO**
+
+O calm, dishonourable, vile [submission][30]!
+_Alla stoccata carries it away._
+_He draws_
+Tybalt, you ratcatcher, will you walk?
+
+[30]: {{page.q}}=14323 "submission (n.): compliance, deference, obedience"
+
+
+**TYBALT**
+
+What wouldst thou have with me?
+
+
+
+**MERCUTIO**
+
+Good King of Cats, nothing but one of your
+nine lives. That I mean to make bold withal, and, as you
+shall [use][32] me hereafter, [dry-beat][31] the rest of the eight.
+Will you pluck your sword out of his [pilcher][33] by the ears?
+Make haste, lest mine be about your ears ere it be out.
+
+[31]: {{page.q}}=9310 "dry-beat (v.): cudgel, thrash, beat soundly"
+[32]: {{page.q}}=7006 "use (v.) 2: treat, deal with, manage"
+[33]: {{page.q}}=13433 "pilcher (n.) 2: [contemptuous] scabbard"
+
+
+**TYBALT**
+
+I am for you.
+_He draws_
+
+
+
+**ROMEO**
+
+Gentle Mercutio, put thy rapier up.
+
+
+
+**MERCUTIO**
+
+_Come, sir, your passado!_
+_They fight_
+
+
+
+**ROMEO**
+
+Draw, Benvolio. Beat down their weapons.
+Gentlemen, for shame! [Forbear][34] this outrage!
+Tybalt, Mercutio, the Prince expressly hath
+Forbid this [bandying][35] in Verona streets.
+Hold, Tybalt! Good Mercutio!
+_Tybalt under Romeo's arm thrusts Mercutio_
+
+[34]: {{page.q}}=19856 "forbear (v.) 1: stop, cease, desist"
+[35]: {{page.q}}=1737 "bandying (n.): verbal strife, exchange of words"
+
+
+**A FOLLOWER**
+
+Away, Tybalt!
+_Exit Tybalt with his followers_
+
+
+
+**MERCUTIO**
+
+I am hurt.
+A plague a' both houses! I am [sped][36].
+Is he gone and hath nothing?
+
+[36]: {{page.q}}=15906 "speed (v.) 4: deal with, bring to an end, defeat"
+
+
+**BENVOLIO**
+
+What, art thou hurt?
+
+
+
+**MERCUTIO**
+
+Ay, ay, a scratch, a scratch. Marry, 'tis enough.
+Where is my page? Go, [villain][38], fetch a [surgeon][37].
+_Exit Page_
+
+[37]: {{page.q}}=14719 "surgeon (n.): doctor, physician"
+[38]: {{page.q}}=7224 "villain (n.) 1: serf, servant, bondman"
+
+
+**ROMEO**
+
+Courage, man. The hurt cannot be much.
+
+
+
+**MERCUTIO**
+
+No, 'tis not so deep as a well, nor so wide as
+a church door. But 'tis enough.'Twill serve. Ask for me
+tomorrow, and you shall find me a grave man. I am peppered,
+I [warrant][39], for this world. A plague a' both your
+houses! Zounds, a dog, a rat, a mouse, a cat, to scratch
+a man to death! A braggart, a rogue, a villain, that fights
+by the book of [arithmetic][40]! Why the devil came you between
+us? I was hurt under your arm.
+
+[39]: {{page.q}}=7550 "warrant (v.) 1: assure, promise, guarantee, confirm"
+[40]: {{page.q}}=235 "arithmetic (n.): calculation, computation, reckoning"
+
+
+**ROMEO**
+
+I thought all for the best.
+
+
+
+**MERCUTIO**
+
+Help me into some house, Benvolio,
+Or I shall faint. A plague a'both your houses!
+They have made worms' meat of me.
+I have it, and soundly too. Your houses!
+_Exit Mercutio with Benvolio_
+
+
+
+**ROMEO**
+
+This gentleman, the Prince's near [ally][41],
+My very friend, hath got this mortal hurt
+In my behalf – my reputation stained
+With Tybalt's slander – Tybalt, that an hour
+Hath been my cousin. O sweet Juliet,
+Thy beauty hath made me effeminate
+And in my [temper][42] softened valour's steel!
+_Enter Benvolio_
+
+[41]: {{page.q}}=885 "ally (n.): relative, relation, kinsman"
+[42]: {{page.q}}=5535 "temper (n.) 1: frame of mind, temperament, disposition"
+
+
+**BENVOLIO**
+
+O Romeo, Romeo, brave Mercutio is dead!
+That gallant spirit hath [aspire][43]d the clouds,
+Which too untimely here did scorn the earth.
+
+[43]: {{page.q}}=875 "aspire (v.) 1: ascend, rise up, climb [to]"
+
+
+**ROMEO**
+
+This day's black fate on more days doth [depend][44].
+This but begins the woe others must end.
+_Enter Tybalt_
+
+[44]: {{page.q}}=9311 "depend (v.) 2: have consequences for, menace, hover over"
+
+
+**BENVOLIO**
+
+Here comes the furious Tybalt back again.
+
+
+
+**ROMEO**
+
+Alive in triumph, and Mercutio slain!
+Away to heaven [respective][46] [lenity][45],
+And fire-eyed fury be my [conduct][47] now!
+Now, Tybalt, take the ‘ villain ’ back again
+That late thou gavest me. For Mercutio's soul
+Is but a little way above our heads,
+Staying for thine to keep him company.
+Either thou or I, or both, must go with him.
+
+[45]: {{page.q}}=19258 "lenity (n.): mildness, gentleness, mercifulness"
+[46]: {{page.q}}=17288 "respective (adj.) 1: careful, attentive, considerate"
+[47]: {{page.q}}=3062 "conduct (n.) 5: escort, attendant, guide"
+
+
+**TYBALT**
+
+Thou, wretched boy, that didst [consort][48] him here,
+Shalt with him hence.
+
+[48]: {{page.q}}=2986 "consort (v.): accompany, attend, go with"
+
+
+**ROMEO**
+
+This shall determine that.
+_They fight. Tybalt falls_
+
+
+
+**BENVOLIO**
+
+Romeo, away, be gone!
+The citizens are [up][49], and Tybalt slain.
+Stand not [amazed][50]. The Prince will [doom][51] thee death
+If thou art taken. Hence, be gone, away!
+
+[49]: {{page.q}}=7082 "up (adv.) 3: roused, agitated, angry"
+[50]: {{page.q}}=356 "amazed (adj.): dumbfounded, stunned, thunderstruck, overwhelmed"
+[51]: {{page.q}}=9005 "doom (v.) 1: decree, decide, adjudge"
+
+
+**ROMEO**
+
+O, I am fortune's fool!
+
+
+
+**BENVOLIO**
+
+Why dost thou stay?
+_Exit Romeo_
+_Enter Citizens_
+
+
+
+**CITIZENS**
+
+Which way ran he that killed Mercutio?
+Tybalt, that murderer, which way ran he?
+
+
+
+**BENVOLIO**
+
+There lies that Tybalt.
+
+
+
+**CITIZEN**
+
+Up, sir, go with me.
+I charge thee in the Prince's name obey.
+_Enter Prince, Montague, Capulet, their wives, and all_
+
+
+
+**PRINCE**
+
+Where are the vile beginners of this fray?
+
+
+
+**BENVOLIO**
+
+O noble Prince, I can [discover][52] all
+The unlucky [manage][53] of this fatal brawl.
+There lies the man, slain by young Romeo,
+That slew thy kinsman, [brave][54] Mercutio.
+
+[52]: {{page.q}}=8538 "discover (v.) 1: reveal, show, make known"
+[53]: {{page.q}}=10399 "manage (n.) 1: management, handling, control [especially of a horse, as a result of training]"
+[54]: {{page.q}}=2438 "brave (adj.) 2: noble, worthy, excellent"
+
+
+**LADY CAPULET**
+
+Tybalt, my cousin! O my brother's child!
+O Prince! O cousin! Husband! O, the blood is spilled
+Of my dear kinsman! Prince, as thou art true,
+For blood of ours shed blood of Montague.
+O cousin, cousin!
+
+
+
+**PRINCE**
+
+Benvolio, who began this bloody fray?
+
+
+
+**BENVOLIO**
+
+Tybalt, here slain, whom Romeo's hand did slay.
+Romeo, that spoke him fair, bid him [bethink][55]
+How [nice][56] the quarrel was, and urged withal
+Your high displeasure. All this – uttered
+With [gentle][57] breath, calm look, knees humbly bowed –
+Could not take [truce][59] with the unruly [spleen][58]
+Of Tybalt deaf to peace, but that he [tilt][60]s
+With piercing steel at bold Mercutio's breast;
+Who, all as [hot][61], turns deadly point to point,
+And, with a martial scorn, with one hand beats
+Cold death aside and with the other sends
+It back to Tybalt, whose dexterity
+[Retort][62]s it. Romeo he cries aloud,
+‘ Hold, friends! Friends, part!’ and swifter than his tongue
+His agile arm beats down their fatal points,
+And 'twixt them rushes; underneath whose arm
+An [envious][63] thrust from Tybalt hit the life
+Of stout Mercutio, and then Tybalt fled.
+But [by and by][64] comes back to Romeo,
+Who had but newly [entertain][65]ed revenge,
+And to't they go like lightning. For, ere I
+Could draw to part them, was stout Tybalt slain.
+And as he fell, did Romeo turn and fly.
+This is the truth, or let Benvolio die.
+
+[55]: {{page.q}}=1455 "bethink (v.), past form bethought 1: call to mind, think about, consider, reflect"
+[56]: {{page.q}}=11439 "nice (adj.) 5: trivial, unimportant, slight"
+[57]: {{page.q}}=18076 "gentle (adj.) 4: peaceful, calm, free from violence"
+[58]: {{page.q}}=14540 "spleen (n.) 2: irritability, malice, bad temper"
+[59]: {{page.q}}=6431 "truce, take: come to terms, negotiate"
+[60]: {{page.q}}=5706 "tilt (v.): joust, fight [with lances], thrust"
+[61]: {{page.q}}=18291 "hot (adj.) 1: hot-tempered, angry, passionate"
+[62]: {{page.q}}=17314 "retort (v.) 1: turn back, return, reflect"
+[63]: {{page.q}}=9645 "envious (adj.): malicious, spiteful, vindictive, full of enmity"
+[64]: {{page.q}}=1833 "by and by (adv.) 1: immediately, straightaway, directly"
+[65]: {{page.q}}=10033 "entertain (v.) 7: admit into consideration, grant as a possibility"
+
+
+**LADY CAPULET**
+
+He is a kinsman to the Montague.
+[Affection][66] makes him [false][67]. He speaks not true.
+Some twenty of them fought in this black strife,
+And all those twenty could but kill one life.
+I beg for justice, which thou, Prince, must give.
+Romeo slew Tybalt. Romeo must not live.
+
+[66]: {{page.q}}=886 "affection (n.) 7: partiality, biased feeling"
+[67]: {{page.q}}=20466 "false (adj.) 4: wrong, mistaken"
+
+
+**PRINCE**
+
+Romeo slew him. He slew Mercutio.
+Who now the price of his dear [blood][68] doth [owe][69]?
+
+[68]: {{page.q}}=2408 "blood (n.) 9: life-blood, spirit"
+[69]: {{page.q}}=11736 "owe (v.) 2: repay, compensate, pay back"
+
+
+**MONTAGUE**
+
+Not Romeo, Prince. He was Mercutio's friend;
+His fault concludes but what the law should end,
+The life of Tybalt.
+
+
+
+**PRINCE**
+
+And for that offence
+Immediately we do exile him hence.
+I have an [interest][70] in your hate's proceeding,
+My [blood][71] for your [rude][72] brawls doth lie a-bleeding.
+But I'll [amerce][73] you with so [strong][74] a fine
+That you shall all repent the loss of mine.
+I will be deaf to pleading and excuses.
+[Nor][76] tears nor prayers shall [purchase][77] out [abuse][75]s.
+Therefore use none. Let Romeo hence in haste,
+Else, when he is found, that hour is his last.
+Bear hence this body, and [attend][78] our [will][79].
+Mercy but murders, pardoning those that kill.
+_Exeunt_
+
+[70]: {{page.q}}=5292 "interest (n.) 4: personal involvement, special concern"
+[71]: {{page.q}}=1777 "blood (n.) 6: blood relationship, kinship"
+[72]: {{page.q}}=16651 "rude (adj.) 1: violent, harsh, unkind"
+[73]: {{page.q}}=887 "amerce (v.): penalize, punish financially"
+[74]: {{page.q}}=16520 "strong (adj.) 4: severe, oppressive, grievous"
+[75]: {{page.q}}=718 "abuse (n.) 2: offence, wrong, insult, transgression"
+[76]: {{page.q}}=11529 "nor ... nor (prep.): neither...nor"
+[77]: {{page.q}}=13434 "purchase out (v.): buy off punishment for"
+[78]: {{page.q}}=324 "attend (v.) 6: regard, consider"
+[79]: {{page.q}}=7725 "will (n.) 1: desire, wish, liking, inclination"
+
+

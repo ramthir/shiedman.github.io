@@ -1,0 +1,461 @@
+---
+title: Romeo and Juliet
+tagline: Act IV - Scene V
+category: play
+author: shakespeare
+date: 2014-05-26 17:58:20 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act4_scene5.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Nurse goes to curtains_
+
+**NURSE**
+
+Mistress! What, mistress! Juliet! Fast, I warrant her, she.
+Why, lamb! Why, lady! Fie, you [slug-a-bed][1]!
+Why, love, I say! Madam! Sweetheart! Why, bride!
+What, not a word? You take your [pennyworth][2]s now.
+Sleep for a week. For the next night, I warrant,
+The County Paris hath [set][3] up his rest
+That you shall rest but little. God forgive me!
+Marry, and amen! How sound is she asleep!
+I must needs wake her. Madam, madam, madam!
+Ay, let the County take you in your bed.
+He'll [fright][4] you up, i'faith. Will it not be?
+What, dressed, and in your clothes, and [down][5] again?
+I must needs wake you. Lady! lady! lady!
+Alas, alas! Help, help! My lady's dead!
+O [weraday][6] that ever I was born!
+Some [aqua vitae][7], ho! My lord! My lady!
+_Enter Lady Capulet_
+
+[1]: {{page.q}}=15994 "slug-abed (n.): lazy-bones"
+[2]: {{page.q}}=13439 "pennyworth, penn'orth (n.) 4: small amount, little bit"
+[3]: {{page.q}}=14583 "set up one's rest (n.): [in primero] venture one's final stake, stake all"
+[4]: {{page.q}}=19973 "fright (v.), past form frighted: frighten, scare, terrify"
+[5]: {{page.q}}=9316 "down (adv.) 2: in bed"
+[6]: {{page.q}}=8128 "weraday (int.): well-a-day, alas"
+[7]: {{page.q}}=273 "aqua-vitae (n.): spirits, alcohol, strong drink, brandy"
+
+
+**LADY CAPULET**
+
+What noise is here?
+
+
+
+**NURSE**
+
+O lamentable day!
+
+
+
+**LADY CAPULET**
+
+What is the matter?
+
+**NURSE**
+
+Look, look! O [heavy][8] day!
+
+[8]: {{page.q}}=18220 "heavy (adj.) 1: sorrowful, sad, gloomy"
+
+**LADY CAPULET**
+
+O me, O me! My child, my only life!
+Revive, look up, or I will die with thee!
+Help, help! Call help.
+_Enter Capulet_
+
+
+
+**CAPULET**
+
+For shame, bring Juliet forth. Her lord is come.
+
+
+
+**NURSE**
+
+She's dead, deceased. She's dead, alack the day!
+
+
+
+**LADY CAPULET**
+
+Alack the day, she's dead, she's dead, she's dead!
+
+
+
+**CAPULET**
+
+Ha! let me see her. Out alas! she's cold,
+Her blood is [settled][9], and her joints are stiff.
+Life and these lips have long been separated.
+Death lies on her like an [untimely][10] frost
+Upon the sweetest flower of all the field.
+
+[9]: {{page.q}}=15995 "settled (adj.) 5: not flowing, still, congealed"
+[10]: {{page.q}}=6742 "untimely (adj.): premature, coming before its time"
+
+
+**NURSE**
+
+O lamentable day!
+
+
+
+**LADY CAPULET**
+
+O woeful time!
+
+
+
+**CAPULET**
+
+Death, that hath ta'en her hence to make me wail,
+Ties up my tongue and will not let me speak.
+_Enter Friar Laurence and the County Paris_
+
+
+
+**FRIAR**
+
+Come, is the bride ready to go to church?
+
+
+
+**CAPULET**
+
+Ready to go, but never to return.
+O son, the night before thy wedding day
+Hath death lain with thy wife. There she lies,
+Flower as she was, deflowered by him.
+Death is my son-in-law. Death is my heir.
+My daughter he hath wedded. I will die
+And leave him all. Life, living, all is death's.
+
+
+
+**PARIS**
+
+Have I thought long to see this morning's face,
+And doth it give me such a sight as this?
+
+
+
+**LADY CAPULET**
+
+Accursed, unhappy, wretched, hateful day!
+Most miserable hour that e'er time saw
+In [lasting][11] labour of his pilgrimage!
+But one, poor one, one poor and loving child,
+But one thing to rejoice and [solace][12] in,
+And cruel death hath [catch][13]ed it from my sight.
+
+[11]: {{page.q}}=19636 "lasting (adj.): unceasing, ongoing, everlasting"
+[12]: {{page.q}}=14837 "solace (v.) 1: take comfort, be happy, cheer [oneself]"
+[13]: {{page.q}}=4161 "catch (v.) 1: seize, get hold of, capture"
+
+
+**NURSE**
+
+O woe! O woeful, woeful, woeful day!
+Most lamentable day, most woeful day
+That ever, ever I did yet behold!
+O day, O day, O day! O hateful day!
+Never was seen so black a day as this.
+O woeful day! O woeful day!
+
+
+
+**PARIS**
+
+[Beguile][14]d, divorced, wronged, spited, slain!
+Most detestable Death, by thee beguiled,
+By cruel, cruel thee quite overthrown.
+O love! O life! – not life, but love in death!
+
+[14]: {{page.q}}=1438 "beguile (v.) 1: cheat, deceive, trick"
+
+
+**CAPULET**
+
+Despised, distressed, hated, martyred, killed!
+[Uncomfortable][15] time, why camest thou now
+To murder, murder our [solemnity][16]?
+O child! O child! my soul, and not my child!
+Dead art thou – alack, my child is dead,
+And with my child my joys are buried.
+
+[15]: {{page.q}}=7077 "uncomfortable (adj.) 1: comfortless, inconsolable, heartbreaking"
+[16]: {{page.q}}=14718 "solemnity (n.) 1: celebration, jubilation, festivity"
+
+
+**FRIAR**
+
+Peace, ho, for shame! [Confusion][17]'s cure lives not
+In these [confusion][18]s. Heaven and yourself
+Had part in this fair maid. Now heaven hath all,
+And all the better is it for the maid.
+Your part in her you could not keep from death,
+But heaven keeps his part in eternal life.
+The most you sought was her [promotion][19],
+For 'twas your heaven she should be advanced.
+And weep ye now, seeing she is advanced
+Above the clouds, as high as heaven itself?
+O, in this love, you love your child so ill
+That you run mad, seeing that she is well.
+She's not well married that lives married long,
+But she's best married that dies married young.
+Dry up your tears, and stick your rosemary
+On this fair [corse][20], and, as the custom is,
+In all her best array bear her to church.
+For though [fond][21] nature bids us all lament,
+Yet nature's tears are reason's merriment.
+
+[17]: {{page.q}}=3783 "confusion (n.) 2: calamity, disaster, catastrophe"
+[18]: {{page.q}}=3786 "confusion (n.) 4: outburst, disorder, commotion"
+[19]: {{page.q}}=13440 "promotion (n.): advancement in life, social betterment"
+[20]: {{page.q}}=2740 "corse (n.): corpse, dead body"
+[21]: {{page.q}}=20177 "fond (adj.) 3: tender, loving, affectionate"
+
+
+**CAPULET**
+
+All things that we ordained festival
+Turn from their [office][22] to black funeral.
+Our instruments to melancholy bells;
+Our wedding [cheer][23] to a [sad][24] burial feast;
+Our solemn hymns to [sullen][26] [dirge][25]s change;
+Our bridal flowers serve for a buried [corse][27];
+And all things change them to the contrary.
+
+[22]: {{page.q}}=11646 "office (n.) 2: role, position, place, function"
+[23]: {{page.q}}=4356 "cheer (n.) 1: entertainment, fare, food and drink"
+[24]: {{page.q}}=15557 "sad (adj.) 3: downcast, distressed, mournful, gloomy"
+[25]: {{page.q}}=8523 "dirge (n.): funeral song, song of mourning"
+[26]: {{page.q}}=14610 "sullen (adj.) 1: gloomy, dismal, melancholy, mournful"
+[27]: {{page.q}}=2740 "corse (n.): corpse, dead body"
+
+
+**FRIAR**
+
+Sir, go you in; and, madam, go with him;
+And go, Sir Paris. Every one prepare
+To follow this fair [corse][28] unto her grave.
+The heavens do [lour][30] upon you for some [ill][29].
+[Move][31] them no more by crossing their high will.
+_Exeunt all except the Nurse, casting_
+_rosemary on her and shutting the curtains_
+_Enter Musicians_
+
+[28]: {{page.q}}=2740 "corse (n.): corpse, dead body"
+[29]: {{page.q}}=4938 "ill (n.) 1: wrong, injury, harm, evil"
+[30]: {{page.q}}=19272 "lour, lower (v.): frown, scowl, look dark and threatening"
+[31]: {{page.q}}=10634 "move (v.) 2: move to anger, provoke, exasperate"
+
+
+**FIRST MUSICIAN**
+
+Faith, we may put up our pipes and be gone.
+
+
+
+**NURSE**
+
+Honest good fellows, ah, put up, put up!
+For well you know this is a pitiful [case][32].
+
+[32]: {{page.q}}=4136 "case (n.) 1: state, plight, situation, circumstance"
+
+
+**FIDDLER**
+
+Ay, by my troth, the case may be amended.
+_Exit Nurse_
+_Enter Peter_
+
+
+
+**PETER**
+
+Musicians, O musicians, ‘ Heart's ease,’ ‘ Heart's
+ease ’! O, an you will have me live, play ‘ Heart's ease.’
+
+
+
+**FIRST MUSICIAN**
+
+Why ‘ Heart's ease ’?
+
+
+
+**PETER**
+
+O musicians, because my heart itself plays ‘ My
+heart is full.’ O play me some merry [dump][33] to comfort
+me.
+
+[33]: {{page.q}}=9599 "dump (n.) 2: tune, melody"
+
+
+**FIRST MUSICIAN**
+
+Not a dump we! 'Tis no time to play
+now.
+
+
+
+**PETER**
+
+You will not then?
+
+
+
+**FIRST MUSICIAN**
+
+No.
+
+
+
+**PETER**
+
+I will then give it you [soundly][34].
+
+[34]: {{page.q}}=15996 "soundly (adv.) 2: thoroughly, properly, in full"
+
+
+**FIRST MUSICIAN**
+
+What will you give us?
+
+
+
+**PETER**
+
+No money, on my faith, but the [gleek][36]. I will [give][35]
+you the [minstrel][37].
+
+[35]: {{page.q}}=18050 "give (v.) 8: call, nickname"
+[36]: {{page.q}}=17645 "gleek (n.): taunt, gibe, insult"
+[37]: {{page.q}}=11114 "minstrel (n.): [derisive term for] musician"
+
+
+**FIRST MUSICIAN**
+
+Then I will [give][38] you the
+[serving-creature][39].
+
+[38]: {{page.q}}=18050 "give (v.) 8: call, nickname"
+[39]: {{page.q}}=15997 "serving-creature (n.): [derisive term for] serving-man"
+
+
+**PETER**
+
+Then will I lay the serving-creature's dagger on
+your [pate][42]. I will [carry][40] no [crotchet][41]s. I'll re you, I'll fa you.
+Do you note me?
+
+[40]: {{page.q}}=4245 "carry (v.) 4: endure, put up with"
+[41]: {{page.q}}=3160 "crotchet (n.): strange notion, perverse idea, whimsical fancy"
+[42]: {{page.q}}=12608 "pate (n.): head, skull"
+
+
+**FIRST MUSICIAN**
+
+An you re us and fa us, you [note][43] us.
+
+[43]: {{page.q}}=11320 "note (v.) 1: observe, pay attention [to], take special note [of]"
+
+
+**SECOND MUSICIAN**
+
+Pray you put up your dagger, and
+[put][44] out your [wit][45].
+
+[44]: {{page.q}}=13442 "put out (v.) 2: display, exhibit, show forth"
+[45]: {{page.q}}=7645 "wit (n.) 2: mental sharpness, acumen, quickness, ingenuity"
+
+
+**PETER**
+
+Then have at you with my wit! I will [dry-beat][46] you
+with an iron wit, and put up my iron dagger. Answer me
+like men.
+‘ When griping grief the heart doth wound,
+And doleful [dump][47]s the mind oppress,
+Then music with her silver sound ’ –
+Why ‘ silver sound ’? Why ‘ music with her silver sound ’?
+What say you, Simon Catling?
+
+[46]: {{page.q}}=9310 "dry-beat (v.): cudgel, thrash, beat soundly"
+[47]: {{page.q}}=9155 "dump (n.) 1: plaintive melody, mournful song"
+
+
+**FIRST MUSICIAN**
+
+Marry, sir, because silver hath a sweet
+sound.
+
+
+
+**PETER**
+
+Pretty! What say you, Hugh Rebeck?
+
+
+
+**SECOND MUSICIAN**
+
+I say ‘ silver sound ’ because musicians
+sound for silver.
+
+
+
+**PETER**
+
+Pretty too! What say you, James Soundpost?
+
+
+
+**THIRD MUSICIAN**
+
+Faith, I know not what to say.
+
+
+
+**PETER**
+
+O, I cry you mercy! You are the singer. I will say
+for you. It is ‘ music with her silver sound ’ because musicians
+have no gold for [sounding][48].
+‘ Then music with her silver sound
+With speedy help doth lend [redress][51].’
+_Exit Peter_
+
+[48]: {{page.q}}=15998 "sounding (n.) 1: playing, making music"
+[51]: {{page.q}}=16674 "redress (n.) 1: relief, assistance, help, comfort"
+
+
+**FIRST MUSICIAN**
+
+What a pestilent [knave][49] is this same!
+
+[49]: {{page.q}}=18989 "knave (n.) 1: scoundrel, rascal, rogue"
+
+
+**SECOND MUSICIAN**
+
+Hang him, [Jack][50]! Come, we'll in here,
+[tarry][52] for the mourners, and stay dinner.
+_Exeunt_
+
+[50]: {{page.q}}=18880 "Jack (n.) 1: Jack-in-office, ill-mannered fellow, lout, knave"
+[52]: {{page.q}}=5567 "tarry (v.) 1: stay, remain, linger"
+
+

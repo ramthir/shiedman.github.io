@@ -1,0 +1,267 @@
+---
+title: Twelfth Night
+tagline: Act III - Scene II
+category: play
+author: shakespeare
+date: 2014-05-25 21:13:40 +0800
+permalink: /books/shakespeare/Twelfth_Night_act3_scene2.html
+layout: book_page
+creation: 1601-1602
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Sir Toby, Sir Andrew, and Fabian_
+
+**SIR ANDREW**
+
+No, faith, I'll not stay a jot longer.
+
+
+
+**SIR TOBY**
+
+Thy reason, dear venom, give thy reason.
+
+
+
+**FABIAN**
+
+You must needs [yield][1] your reason, Sir Andrew.
+
+[1]: {{page.q}}=8280 "yield (v.) 8:  communicate, deliver, represent"
+
+
+**SIR ANDREW**
+
+Marry, I saw your niece do more favours to
+the Count's servingman than ever she bestowed upon
+me. I saw't i'the [orchard][2].
+
+[2]: {{page.q}}=11618 "orchard (n.):  garden"
+
+
+**SIR TOBY**
+
+Did she see thee the while, old boy, tell me
+that?
+
+
+
+**SIR ANDREW**
+
+As plain as I see you now.
+
+
+
+**FABIAN**
+
+This was a great [argument][3] of love in her toward
+you.
+
+[3]: {{page.q}}=171 "argument (n.) 6:  proof, evidence, demonstration"
+
+
+**SIR ANDREW**
+
+'Slight! Will you make an ass o' me?
+
+
+
+**FABIAN**
+
+I will prove it legitimate, sir, upon the oaths of
+judgement and reason.
+
+
+
+**SIR TOBY**
+
+And they have been grand-jury men since before
+Noah was a sailor.
+
+
+
+**FABIAN**
+
+She did show favour to the youth in your sight
+only to exasperate you, to awake your [dormouse][4] valour,
+to put fire in your heart and brimstone in your liver. You
+should then have accosted her, and with some excellent
+jests fire-new from the mint, you should have banged
+the youth into dumbness. This was looked for at your
+hand, and this was [baulked][5]. The double gilt of this
+opportunity you let time wash off, and you are now
+sailed into the north of my lady's opinion; where you
+will hang like an icicle on a Dutchman's beard, unless you
+do redeem it by some laudable attempt either of valour
+or [policy][6].
+
+[4]: {{page.q}}=9239 "dormouse (adj.):  sleepy, dozing, slumbering"
+[5]: {{page.q}}=2510 "balk (v.) 1:  refuse, ignore, shirk, let slip"
+[6]: {{page.q}}=12216 "policy (n.) 1:  statecraft, statesmanship, diplomacy"
+
+
+**SIR ANDREW**
+
+An't be any way, it must be with valour, for
+policy I hate. I had as [lief][7] be a Brownist as a [politician][8].
+
+[7]: {{page.q}}=19129 "lief, had as:  should like just as much"
+[8]: {{page.q}}=12218 "politician (n.):  schemer, intriguer, plotter"
+
+
+**SIR TOBY**
+
+Why then, build me thy fortunes upon the basis
+of valour. Challenge me the Count's youth to fight with
+him; hurt him in eleven places; my niece shall take note
+of it – and, assure thyself, there is no love-broker in the
+world can more prevail in man's commendation with
+woman than report of valour.
+
+
+
+**FABIAN**
+
+There is no way but this, Sir Andrew.
+
+
+
+**SIR ANDREW**
+
+Will either of you bear me a challenge to
+him?
+
+
+
+**SIR TOBY**
+
+Go, write it in a martial hand. Be [curst][9] and
+brief. It is no matter how witty, so it be eloquent and
+full of [invention][10]. Taunt him with the licence of ink. If
+[thou][11] ‘ thou’-est him some thrice it shall not be amiss, and
+as many lies as will lie in thy sheet of paper – although
+the sheet were big enough for the bed of Ware in England,
+set 'em down, go about it. Let there be [gall][12] enough
+in thy ink, though thou write with a [goose][13] pen, no
+matter. About it!
+
+[9]: {{page.q}}=3144 "curst (adj.) 1:  bad-tempered, quarrelsome, shrewish, cross"
+[10]: {{page.q}}=5182 "invention (n.) 3:  novelty, fresh creation, innovation"
+[11]: {{page.q}}=6363 "thou (v.):  use ‘thou’ to someone as an insult"
+[12]: {{page.q}}=17479 "gall (n.) 3:  spirit of anger, venom, ability to be angry"
+[13]: {{page.q}}=18007 "goose pen (n.):  goose-quill, quill-pen"
+
+
+**SIR ANDREW**
+
+Where shall I find you?
+
+
+
+**SIR TOBY**
+
+We'll call thee at thy [cubiculo][14]. Go!
+_Exit Sir Andrew_
+
+[14]: {{page.q}}=3657 "cubiculo (n.):  bedroom, bedchamber"
+
+
+**FABIAN**
+
+This is a dear [manikin][15] to you, Sir Toby.
+
+[15]: {{page.q}}=5841 "manikin (n.):  little man, puppet"
+
+
+**SIR TOBY**
+
+I have been dear to him, lad, some two thousand
+strong or so.
+
+
+
+**FABIAN**
+
+We shall have a [rare][16] letter from him. But you'll
+not deliver it?
+
+[16]: {{page.q}}=16677 "rare (adj.) 1:  marvellous, splendid, excellent"
+
+
+**SIR TOBY**
+
+Never trust me then – and by all means stir on
+the youth to an answer. I think oxen and [wain-rope][17]s
+cannot [hale][18] them together. For Andrew, if he were
+opened and you find so much blood in his liver as will
+clog the foot of a flea, I'll eat the rest of the [anatomy][19].
+
+[17]: {{page.q}}=8086 "wain-rope (n.):  waggon-rope"
+[18]: {{page.q}}=18279 "hale (v.) 1:  drag, pull, haul"
+[19]: {{page.q}}=877 "anatomy (n.) 2:  body, cadaver, corpse"
+
+
+**FABIAN**
+
+And his opposite the youth bears in his [[visage][21]][20] no
+great [presage][22] of cruelty.
+_Enter Maria_
+
+[20]: {{page.q}}=7226 "visage (n.) 1:  face, countenance"
+[21]: {{page.q}}=7227 "visage (n.) 2:  outward appearance, aspect, air"
+[22]: {{page.q}}=13330 "presage (n.) 1:  sign, indication, portent"
+
+
+**SIR TOBY**
+
+Look where the youngest wren of nine comes.
+
+
+
+**MARIA**
+
+If you desire the [spleen][23], and will laugh yourselves
+into stitches, follow me. Yond [gull][24] Malvolio is turned
+heathen, a very [renegado][25]; for there is no Christian, that
+means to be saved by believing rightly, can ever believe
+such impossible [passage][27]s of [grossness][26]. He's in yellow
+stockings!
+
+[23]: {{page.q}}=15814 "spleen (n.) 4:  amusement, delight, merriment"
+[24]: {{page.q}}=17861 "gull (n.) 1:  dupe, fool, simpleton"
+[25]: {{page.q}}=17252 "renegado (n.):  renegade, turncoat, deserter"
+[26]: {{page.q}}=17740 "grossness (n.) 1:  flagrant nature, obviousness, enormity"
+[27]: {{page.q}}=12158 "passage (n.) 1:  incident, occurrence, event, happening"
+
+
+**SIR TOBY**
+
+And cross-gartered?
+
+
+
+**MARIA**
+
+Most villainously; like a [pedant][28] that keeps a
+school i'the church. I have dogged him like his murderer.
+He does obey every point of the letter that I
+dropped to betray him. He does [smile][29] his face into more
+lines than is in the new map with the [augmentation][30] of
+the Indies. You have not seen such a thing as 'tis. I can
+hardly [forbear][31] hurling things at him; I know my lady
+will strike him. If she do, he'll smile, and take it for a
+great favour.
+
+[28]: {{page.q}}=13331 "pedant (n.):  schoolmaster, teacher"
+[29]: {{page.q}}=16148 "smile (v.) 1:  make something happen by smiling"
+[30]: {{page.q}}=633 "augmentation (n.):  additional detail, fuller account"
+[31]: {{page.q}}=19857 "forbear (v.) 2:  leave alone, avoid, stay away [from]"
+
+
+**SIR TOBY**
+
+Come, bring us, bring us where he is.
+_Exeunt_
+

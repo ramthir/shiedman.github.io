@@ -1,0 +1,239 @@
+---
+title: Twelfth Night
+tagline: Act IV - Scene I
+category: play
+author: shakespeare
+date: 2014-05-25 21:33:24 +0800
+permalink: /books/shakespeare/Twelfth_Night_act4_scene1.html
+layout: book_page
+creation: 1601-1602
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Sebastian and Feste_
+
+**FESTE**
+
+Will you make me believe that I am not sent for
+you?
+
+
+
+**SEBASTIAN**
+
+Go to, go to, thou art a foolish fellow. Let me
+be clear of thee.
+
+
+
+**FESTE**
+
+Well [held out][1], i'faith! No: I do not know you; nor
+I am not sent to you by my lady, to bid you come speak
+with her; nor your name is not Master Cesario; nor this
+is not my nose, neither. Nothing that is so, is so.
+
+[1]: {{page.q}}=18593 "hold out (v.):  sustain, maintain, keep up"
+
+
+**SEBASTIAN**
+
+I prithee, [vent][2] thy folly somewhere else; thou
+knowest not me.
+
+[2]: {{page.q}}=7250 "vent (v.) 1:  utter, express, air, proclaim"
+
+
+**FESTE**
+
+Vent my folly! He has heard that word of some
+great man, and now applies it to a fool. Vent my folly!
+I am afraid this great [lubber][3] the world will prove a
+[cockney][4]. I prithee now, [ungird][6] thy [strangeness][5], and
+tell me what I shall [vent][7] to my lady? Shall I vent to her
+that thou art coming?
+
+[3]: {{page.q}}=19354 "lubber (n.):  clumsy dolt, blundering lout"
+[4]: {{page.q}}=2919 "cockney (n.) 2:  milksop, sissy, softy"
+[5]: {{page.q}}=15114 "strangeness (n.):  estrangement, disaffection, coldness, aloofness"
+[6]: {{page.q}}=7018 "ungird (v.):  take off, remove, put off"
+[7]: {{page.q}}=7250 "vent (v.) 1:  utter, express, air, proclaim"
+
+
+**SEBASTIAN**
+
+I prithee, foolish [Greek][8], depart from me.
+There's money for thee; if you [tarry][9] longer, I shall give
+worse payment.
+
+[8]: {{page.q}}=17992 "Greek, foolish / merry:  buffoon, merry person, silly joker"
+[9]: {{page.q}}=5567 "tarry (v.) 1:  stay, remain, linger"
+
+
+**FESTE**
+
+By my troth, thou hast an open hand! These wise
+men that give fools money get themselves a good report
+– after fourteen years' [purchase][10].
+_Enter Sir Andrew, Sir Toby, and Fabian_
+
+[10]: {{page.q}}=13335 "purchase (n.) 5:  financial return, earning power"
+
+
+**SIR ANDREW**
+
+Now, sir, have I met you again? There's
+for you!
+_He strikes Sebastian_
+
+
+
+**SEBASTIAN**
+
+Why, there's for thee! And there!
+_He beats Sir Andrew with the handle of his dagger_
+And there! Are all the people mad?
+
+
+
+**SIR TOBY**
+
+Hold, sir, or I'll throw your dagger o'er the
+house.
+
+
+
+**FESTE**
+
+This will I tell my lady [straight][11]. I would not be in
+some of your coats, for twopence.
+_Exit_
+
+[11]: {{page.q}}=14086 "straight (adv.):  straightaway, immediately, at once"
+
+
+**SIR TOBY**
+
+Come on, sir, hold!
+_He grips Sebastian_
+
+
+
+**SIR ANDREW**
+
+Nay, let him alone. I'll go another way to
+work with him. I'll have an action of battery against
+him, if there be any law in Illyria – though I struck him
+first, yet it's no matter for that.
+
+
+
+**SEBASTIAN**
+
+Let go thy hand!
+
+
+
+**SIR TOBY**
+
+Come, sir, I will not let you go. Come, my
+young soldier, [put][14] up your [iron][13]; you are well [fleshed][12].
+Come on!
+
+[12]: {{page.q}}=20716 "fleshed (adj.) 2:  blooded, initiated into fighting"
+[13]: {{page.q}}=4899 "iron (n.) 1:  iron weapon, steel, sword"
+[14]: {{page.q}}=12793 "put up (v.) 1:  sheathe, put away"
+
+
+**SEBASTIAN**
+
+I will be free from thee!
+_He breaks free and draws his sword_
+What wouldst thou now?
+If thou darest tempt me further, draw thy sword.
+
+
+
+**SIR TOBY**
+
+What, what! Nay, then, I must have an ounce
+or two of this [malapert][15] blood from you.
+_He draws_
+_Enter Olivia_
+
+[15]: {{page.q}}=10979 "malapert (adj.):  impudent, saucy, impertinent"
+
+
+**OLIVIA**
+
+Hold, Toby! On thy life, I charge thee hold!
+
+
+
+**SIR TOBY**
+
+Madam!
+
+
+
+**OLIVIA**
+
+Will it be ever thus? [Ungracious][16] wretch,
+Fit for the mountains and the barbarous caves
+Where manners ne'er were preached, out of my sight!
+Be not offended, dear Cesario.
+Rudesby, be gone!
+_Exeunt Sir Toby, Sir Andrew, and Fabian_
+I prithee, gentle friend,
+Let thy fair wisdom, not thy passion, [sway][17]
+In this [uncivil][19] and unjust [extent][18]
+Against thy peace. Go with me to my house,
+And hear thou there how many fruitless [prank][20]s
+This ruffian hath [botch][21]ed up, that thou thereby
+Mayst smile at this. Thou shalt not choose but go;
+Do not [deny][23]. [Beshrew][22] his soul for me!
+He [start][24]ed one poor heart of mine, in thee.
+
+[16]: {{page.q}}=7193 "ungracious (adj.) 2:  inconsiderate, graceless, unmannerly"
+[17]: {{page.q}}=14117 "sway (v.) 1:  control, rule, direct, govern"
+[18]: {{page.q}}=10167 "extent (n.) 3:  assault, attack, onslaught"
+[19]: {{page.q}}=6648 "uncivil (adj.):  uncivilized, barbarous, unrefined"
+[20]: {{page.q}}=12235 "prank (n.) 1:  outrageous deed, excessive behaviour"
+[21]: {{page.q}}=1076 "botch up (v.):  clumsily contrive, make a mess of"
+[22]: {{page.q}}=1534 "beshrew, 'shrew (v.) 1:  curse, devil take, evil befall"
+[23]: {{page.q}}=8882 "deny (v.) 2:  refuse, decline, scorn"
+[24]: {{page.q}}=14251 "start (v.) 2:  startle, alarm, disturb"
+
+
+**SEBASTIAN**
+
+_aside_
+What relish is in this? How runs the stream?
+Or I am mad, or else this is a dream.
+Let [fancy][25] [still][27] my [sense][26] in Lethe steep;
+If it be thus to dream, still let me sleep!
+
+[25]: {{page.q}}=20677 "fancy (n.) 1:  love, amorousness, infatuation"
+[26]: {{page.q}}=13957 "sense (n.) 5:  mind, power of reason, wits"
+[27]: {{page.q}}=14077 "still (adv.) 1:  constantly, always, continually"
+
+
+**OLIVIA**
+
+Nay, come, I prithee. Would thou'dst be [rule][28]d by me!
+
+[28]: {{page.q}}=16822 "rule (v.):  control, direct, guide"
+
+
+**SEBASTIAN**
+
+Madam, I will.
+
+
+
+**OLIVIA**
+
+O, say so, and so be!
+_Exeunt_
+

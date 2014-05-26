@@ -1,0 +1,368 @@
+---
+title: Romeo and Juliet
+tagline: Act IV - Scene I
+category: play
+author: shakespeare
+date: 2014-05-26 17:49:37 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act4_scene1.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Friar Laurence and County Paris_
+
+**FRIAR**
+
+On Thursday, sir? The time is very short.
+
+
+
+**PARIS**
+
+My father Capulet will have it so,
+And I am nothing [slow][2] to [slack][1] his haste.
+
+[1]: {{page.q}}=15992 "slack (v.) 1: slacken, reduce, slow down"
+[2]: {{page.q}}=14013 "slow (adj.) 2: reluctant, unwilling, slowly given"
+
+
+**FRIAR**
+
+You say you do not know the lady's mind.
+[Uneven][4] is the [course][3]. I like it not.
+
+[3]: {{page.q}}=3134 "course (n.) 1: course of action, way of proceeding"
+[4]: {{page.q}}=7075 "uneven (adj.): irregular, erratic"
+
+
+**PARIS**
+
+Immoderately she weeps for Tybalt's death,
+And therefore have I little talked of love;
+For Venus smiles not in a [house][5] of tears.
+Now, sir, her father counts it dangerous
+That she do give her sorrow so much [sway][6],
+And in his wisdom [haste][7]s our marriage
+To stop the inundation of her tears,
+Which, too much [mind][8]ed by herself alone,
+May be put from her by [society][9].
+Now do you know the reason of this haste.
+
+[5]: {{page.q}}=18723 "house (n.) 5: [astrology] heavenly domain [one of twelve divisions of the heavens]"
+[6]: {{page.q}}=5923 "sway (n.) 1: power, dominion, rule"
+[7]: {{page.q}}=18687 "haste (v.): hurry, speed up, accelerate"
+[8]: {{page.q}}=10537 "mind (v.) 3: think of, call to mind"
+[9]: {{page.q}}=14227 "society (n.) 1: companionship, fellowship, association"
+
+
+**FRIAR**
+
+_(aside)_
+I would I knew not why it should be slowed. –
+Look, sir, here comes the lady toward my cell.
+_Enter Juliet_
+
+
+
+**PARIS**
+
+Happily met, my lady and my wife!
+
+
+
+**JULIET**
+
+That may be, sir, when I may be a wife.
+
+
+
+**PARIS**
+
+That ‘ may be ’ must be, love, on Thursday next.
+
+
+
+**JULIET**
+
+What must be shall be.
+
+
+
+**FRIAR**
+
+That's a certain text.
+
+
+
+**PARIS**
+
+Come you to make confession to this father?
+
+
+
+**JULIET**
+
+To answer that, I should confess to you.
+
+
+
+**PARIS**
+
+Do not deny to him that you love me.
+
+
+
+**JULIET**
+
+I will confess to you that I love him.
+
+
+
+**PARIS**
+
+So will ye, I am sure, that you love me.
+
+
+
+**JULIET**
+
+If I do so, it will be of more [price][10],
+Being spoke behind your back, than to your face.
+
+[10]: {{page.q}}=12391 "price (n.): value, worth, importance"
+
+
+**PARIS**
+
+Poor soul, thy face is much [abuse][11]d with tears.
+
+[11]: {{page.q}}=879 "abuse (v.) 2: misuse, maltreat, treat badly, wrong"
+
+
+**JULIET**
+
+The tears have got small victory by that,
+For it was bad enough before their [spite][12].
+
+[12]: {{page.q}}=15568 "spite (n.) 2: malice, ill-will, hatred"
+
+
+**PARIS**
+
+Thou wrongest it more than tears with that report.
+
+
+
+**JULIET**
+
+That is no slander, sir, which is a truth.
+And what I spake, I spake it to my face.
+
+
+
+**PARIS**
+
+Thy face is mine, and thou hast slandered it.
+
+
+
+**JULIET**
+
+It may be so, for it is not mine own. –
+Are you at leisure, holy father, now,
+Or shall I come to you at evening [mass][13]?
+
+[13]: {{page.q}}=11112 "mass (n.) 2: service, liturgy, divine celebration"
+
+
+**FRIAR**
+
+My leisure [serve][15]s me, [pensive][14] daughter, now. –
+My lord, we must entreat the time alone.
+
+[14]: {{page.q}}=13436 "pensive (adj.): sorrowful, sad, full of melancholy"
+[15]: {{page.q}}=15563 "serve (v.) 3: provide opportunity [to], be favourable [to], favour"
+
+
+**PARIS**
+
+God [shield][16] I should disturb devotion! –
+Juliet, on Thursday early will I rouse ye.
+Till then, adieu, and keep this holy kiss.
+_Exit Paris_
+
+[16]: {{page.q}}=15756 "shield (v.): forbid [as exclamation]"
+
+
+**JULIET**
+
+O shut the door! and when thou hast done so,
+Come weep with me. Past hope, past cure, past help!
+
+
+
+**FRIAR**
+
+Ah, Juliet, I already know thy grief.
+It strains me past the [compass][17] of my [wits][18].
+I hear thou must, and nothing may [prorogue][19] it,
+On Thursday next be married to this [County][20].
+
+[17]: {{page.q}}=2681 "compass (n.) 1: range, reach, limit, scope"
+[18]: {{page.q}}=8049 "wits, also five wits: faculties of the mind (common wit, imagination, fantasy, estimation, memory) or body (the five senses)"
+[19]: {{page.q}}=12325 "prorogue (v.) 1: postpone, delay, defer"
+[20]: {{page.q}}=3568 "county (n.) 1: [title of rank] count"
+
+
+**JULIET**
+
+Tell me not, Friar, that thou hearest of this,
+Unless thou tell me how I may prevent it.
+If in thy wisdom thou canst give no help,
+Do thou but call my resolution wise
+And with this knife I'll help it [presently][21].
+God joined my heart and Romeo's, thou our hands;
+And ere this hand, by thee to Romeo's sealed,
+Shall be the [label][22] to another deed,
+Or my true heart with treacherous [revolt][23]
+Turn to another, this shall slay them both.
+Therefore, out of thy long-experienced [time][24],
+Give me some present counsel; or, behold,
+'Twixt my [extreme][25]s and me this bloody knife
+Shall play the [umpire][26], arbitrating that
+Which the [commission][28] of thy years and [art][27]
+Could to no [issue][29] of true honour bring.
+Be not so long to speak. I long to die
+If what thou speakest speak not of remedy.
+
+[21]: {{page.q}}=12248 "presently (adv.) 1: immediately, instantly, at once"
+[22]: {{page.q}}=19635 "label (n.) 2: codicil, appendix, additional clause"
+[23]: {{page.q}}=17010 "revolt (n.) 1: betrayal, change of heart, faithlessness"
+[24]: {{page.q}}=5604 "time (n.) 3: lifetime, life"
+[25]: {{page.q}}=9725 "extreme (n.) 4: intense emotion, violent passion"
+[26]: {{page.q}}=6711 "umpire (n.): arbitrator, mediator, adjudicator"
+[27]: {{page.q}}=610 "art (n.) 1: knowledge, learning, scholarship, science"
+[28]: {{page.q}}=2675 "commission (n.) 1: warrant, authority [to act]"
+[29]: {{page.q}}=5208 "issue (n.) 2: outcome, result, consequence(s)"
+
+
+**FRIAR**
+
+Hold, daughter. I do spy a kind of hope,
+Which [crave][30]s as desperate an execution
+As that is desperate which we would prevent.
+If, rather than to marry County Paris,
+Thou hast the strength of will to slay thyself,
+Then is it likely thou wilt undertake
+A thing like death to [chide][31] away this [shame][32],
+That [cope][33]st with death himself to '[scape][34] from it.
+And, if thou darest, I'll give thee remedy.
+
+[30]: {{page.q}}=2863 "crave (v.) 2: need, demand, require"
+[31]: {{page.q}}=4464 "chide (v.), past form chid 4: brusquely command, drive [away] with harsh words"
+[32]: {{page.q}}=14605 "shame (n.) 1: disgrace, dishonour, affront"
+[33]: {{page.q}}=2807 "cope, cope with (v.) 1: encounter, face, have to do [with], come into contact [with]"
+[34]: {{page.q}}=14263 "scape, 'scape (v.): escape, avoid"
+
+
+**JULIET**
+
+O bid me leap, rather than marry Paris,
+From off the battlements of any tower,
+Or walk in [thievish][35] ways, or bid me lurk
+Where serpents are. Chain me with roaring bears,
+Or hide me nightly in a [charnel house][36],
+[O'ercovered][37] [quite][38] with dead men's rattling bones,
+With [reeky][40] [shank][41]s and yellow [chapless][39] skulls.
+Or bid me go into a new-made grave
+And hide me with a dead man in his tomb –
+Things that, to hear them told, have made me tremble –
+And I will do it without fear or doubt,
+To live an unstained wife to my sweet love.
+
+[35]: {{page.q}}=6437 "thievish (adj.): frequented by thieves, infested with robbers"
+[36]: {{page.q}}=4413 "charnel-house, charnel house (n.): bone-store, burial vault"
+[37]: {{page.q}}=12019 "overcover (v.): cover up, bury"
+[38]: {{page.q}}=13766 "quite (adv.): totally, completely, entirely"
+[39]: {{page.q}}=4304 "chapless, chopless (adj.): jawless"
+[40]: {{page.q}}=17317 "reeky  (adj.): foul-smelling, smoky"
+[41]: {{page.q}}=16008 "shank (n.) 2: shin-bone"
+
+
+**FRIAR**
+
+Hold, then. Go home, be merry, give consent
+To marry Paris. Wednesday is tomorrow.
+Tomorrow night look that thou lie alone.
+Let not the Nurse lie with thee in thy chamber.
+Take thou this [vial][42], being then in bed,
+And this [distilling][43] liquor drink thou off;
+When [presently][44] through all thy veins shall run
+A cold and [drowsy][45] [humour][46]. For no pulse
+Shall keep his [native][47] progress, but [surcease][48].
+No warmth, no breath, shall testify thou livest.
+The roses in thy lips and cheeks shall fade
+To [wanny][49] ashes, thy eyes' [window][50]s fall
+Like death when he shuts up the day of life.
+Each part, deprived of supple [government][51],
+Shall, stiff and [stark][52] and cold, appear like death.
+And in this [borrowed][53] likeness of shrunk death
+Thou shalt continue two-and-forty hours,
+And then awake as from a pleasant sleep.
+Now, when the bridegroom in the morning comes
+To rouse thee from thy bed, there art thou dead.
+Then, as the manner of our country is,
+In thy best robes uncovered on the bier
+Thou shalt be borne to that same ancient vault
+Where all the kindred of the Capulets lie.
+In the meantime, [against][54] thou shalt awake,
+Shall Romeo by my letters know our [drift][55].
+And hither shall he come. And he and I
+Will watch thy waking, and that very night
+Shall Romeo bear thee hence to Mantua.
+And this shall free thee from this present shame,
+If no inconstant [toy][56] nor womanish fear
+Abate thy valour in the acting it.
+
+[42]: {{page.q}}=7220 "vial (n.): phial, small bottle, flask"
+[43]: {{page.q}}=9319 "distilling (adj.): infusing, penetrative, permeating the body"
+[44]: {{page.q}}=12248 "presently (adv.) 1: immediately, instantly, at once"
+[45]: {{page.q}}=9060 "drowsy (adj.): causing sleepiness, sleep-inducing, soporific"
+[46]: {{page.q}}=18357 "humour (n.) 5: secretion, fluid, juice"
+[47]: {{page.q}}=11534 "native (adj.) 1: natural, habitual, normal"
+[48]: {{page.q}}=14503 "surcease (v.): cease, stop, leave off"
+[49]: {{page.q}}=8126 "wanny (adj.): wan, pallid, pale"
+[50]: {{page.q}}=7845 "window (n.) 2: (plural) eyelids"
+[51]: {{page.q}}=17639 "government (n.) 1: control, charge, management"
+[52]: {{page.q}}=14924 "stark (adj.): rigid, stiff [as in death]"
+[53]: {{page.q}}=2265 "borrowed (adj.): assumed, pretended, feigned"
+[54]: {{page.q}}=889 "against, 'gainst (conj.): in anticipation of the time when"
+[55]: {{page.q}}=8478 "drift (n.) 1: plan, intention, aim"
+[56]: {{page.q}}=5477 "toy (n.) 1: whim, caprice, trifling matter"
+
+
+**JULIET**
+
+Give me, give me! O tell not me of fear!
+
+
+
+**FRIAR**
+
+Hold. Get you gone. Be strong and [prosperous][57]
+In this resolve. I'll send a friar with speed
+To Mantua, with my letters to thy lord.
+
+[57]: {{page.q}}=12566 "prosperous (adj.) 2: favourable, happy, showing success"
+
+
+**JULIET**
+
+Love give me strength, and strength shall help afford.
+Farewell, dear father!
+_Exeunt_
+
+
+

@@ -1,0 +1,79 @@
+---
+title: Preface, 2004
+book: 
+  title: on human nature
+  author: Edward O. Wilson
+date: 2014-03-27 00:00:00 +0800
+category: human_nature
+permalink: /books/on_human_nature/preface_2004.html
+layout: book_page 
+---
+
+Can there be a more important subject than human nature? If the subject can be truly fathomed, then our species will be more precisely defined, and our actions perhaps more wisely guided. When *On Human Nature *was written, in the 1970s, two conceptions of the human condition dominated Western thought. Theologians, plus all but the most liberal followers of the Abrahamic religions, saw human beings as dark angels in animal bodies awaiting redemption and eternal life. Human nature, in their view, is a mix of good and evil propensities, which we must sort out with the aid of writings by ancient Middle Eastern prophets.
+
+In contrast, most intellectuals, whether religiously inclined or not, doubted that a human nature exists at all. To them the brain is a blank slate, an engine driven by a few elementary passions but otherwise an all-purpose computer that creates the mind wholly from individual experience and learning. Culture, the intellectual majority in the 1970s believed, is the cumulative learned response to environment and historical contingency.
+
+Meanwhile, an alternative, naturalistic view was gaining strength. Still embryonic in form, it held that the brain and mind are entirely biological in origin and have been highly structured through evolution by natural selection. Human nature exists, composed of the complex biases of passion and learning propensities often loosely referred to as instincts. The instincts were created over millions of years, when human beings were Paleolithic hunter-gatherers. As a consequence, they still bear the archaic imprint of our species’ biological heritage- Human nature can thus be ultimately understood only with the aid of the scientific method. Culture evolves in response to environmental and historical contingencies, as common sense suggests, but its trajectories are powerfully guided by the inborn biases of human nature. This view was encapsulated in the new discipline of sociobiology, which in its human applications was later re-christened evolutionary psychology (but remains sociobiology nonetheless).
+
+Human sociobiology asks: What might the human instincts be? How do they fit together to compose human nature? Until the 1970s these central and ancient questions had rarely been addressed as a problem in biology. In particular, they had never been treated in any effective way as the province of two radically different bur crucial and potentially consilient disciplines within biology. The first of these disciplines is neuroscience, needed to explain what the mind is and how the brain creates it. The second is evolutionary biology, required to explain why the brain works in the odd way it does, and not in some other way out of the many conceivable. In a nutshell, the conundrum of human nature, as I and a few others saw it in this early period, can be solved only if scientific explanations embrace both the *how* (neurosciences) and *why* (evolutionary biology) of brain action, with the two axes of explanation fitted together.
+
+There is still more to be asked of the naturalistic approach to human nature. People may be endowed with instincts, and these may come to be well understood, but in precisely what manner have these biases in mental development shaped culture? The problem is deeper than most thinkers have visualized. If culture has evolved for millen-
+nia under the influence of a biological human nature, it is equally true that human nature has evolved at least in part during the hundreds of millennia in which the modem human species and its immediate antecedents in the genus *Homo* lived in bands, captured fire, invented tools, perfected language, and as a result of this burst of genius spread over the farflung continents and archipelagoes of Earth. Gene-culture coevolution, the synergistic coupling of the two forms of evolution, was inevitable. Yet of the true workings of gene-culture coevolution we know extremely little to this day.
+
+*On Human Nature*, which is kept here in its original form, touches on all these issues. To provide a fuller context, I think it useful to explain how I came to write the book in 1977-78. Throughout my scientific career to that time, covering three decades, I had focused on the biology of ants. I was of course impressed by the complexity and precision by which instincts guide the lives of these insects (some critics were to suggest too impressed). Having committed myself also to research on biodiversity, I was also attracted to the general study of evolution and its relevance to the biology of populations. In the late 1950s I was struck by a connection, which in retrospect seems obvious today, that societies are populations, and many of their properties are therefore open to the same kinds of analysis applied more generally to the genetics and ecology of populations. In *The Insect Societies* (1971), I proposed that a coherent branch of biology might be constructed from a synthesis of social behavior and population biology. The new discipline, for which I suggested the name sociobiology, would for the first time bind together knowledge of social insects and social vertebrate animals:
+
+> The optimistic prospect for sociobiology can be summarized briefly as follows. In spite of the phylogenetic remoteness of vertebrates and insects and the basic distinction between their respective personal and impersonal systems of communication, these two groups of animals have evolved social behaviors that are similar in degree of complexity and convergent in many important details. This fact conveys a special promise that sociobiology can eventually be derived from the first principles of population and behavioral biology and developed into a single, mature science. The discipline can then be expected to increase our understanding of the unique qualities of social behavior in animals as opposed to those of man. (The Insect Societies, p. 460)
+
+The schema for the consilience of the relevant disciplines suggested in 1971 is reproduced in the accompanying figure.
+
+In 1975 I expanded the conception of the discipline outlined in *The Insect Societies* to include vertebrate animals. The result was *Sociobiology: The New Synthesis*, a double-column, 697-page account of theory based on an encyclopedic review of all known social organisms, from social bacteria and coelenterates through the insects and vertebrates and human beings. The non-human part was a success among biologists. In a 1989 poll the officers and fellows of the international Animal Behavior Society ranked Sociobiology: The New Synthesis the most important book on animal behavior of all time, edging out even Darwin’s 1872 classic, *The Evolution of Emotions in Man and Animals.*
+
+Many scientists and others believed it would have been better if I had stopped at chimpanzees, short of Homo sapiens, remaining chastely on the zoological side of the boundary between the natural sciences and humanities. But the challenge and the excitement I felt were too much to resist, and in the final chapter, “Man: From Sociobiology to Sociology,” I crossed the well-guarded boundary:
+
+> Let us now consider man in the free spirit of natural history, as though we were zoologists from another planet completing a catalog of social species on Earth. In this macroscopic view the humanities and social sciences shrink to specialized branches of biology; history, biography, and fiction are the research protocols of human ethology; and anthropology and sociology together constitute the sociobiology of a single primate species.
+
+
+![Evolutionary and ecological parameters](preface_2004_image1.png){: style="width:100%"}
+
+Yes, I said that, and I still mean it. We are a biological species arising from Earth’s biosphere as one adapted species among many; and however splendid our languages and cultures, however rich and subtle our minds, however vast our creative powers, the mental process is the product of a brain shaped by the hammer of natural selection upon the anvil of nature. The powers and idiosyncrasies of the human brain bear the marks of their origin. Cultures may soar ever higher, to think upon the beginnings of time and farthest reaches of the universe in their searching, but they will never be truly free. Otherwise, we would not use the term humanities to denote the study of those very special phenomena that make us human.
+
+A few scholars in the social sciences and humanities were willing to consider this perception, or in various forms they had already expressed it. It seemed logical that biology should serve as part of die underpinning of their domains, as physics does for chemistry (hence, physical chemistry) and both in turn are fundamental for biology. I thought sociobiology would facilitate a bridging discipline between the great branches of learning, or at the very least provide a useful toolkit for the analysis of human behavior.
+
+Most social scientists and humanities scholars, however, were either indifferent to this idea or saw it as a hostile invasion from a false and unacceptable ideology. To my surprise—I admit I was naive— controversy quickly gathered, shots rang out.
+
+In fact, there could not have been a worse time than the mid-1970s for the inauguration of human sociobiology. The Vietnam War, the most hated conflict in American history, was mercifully coming to an end. Also, victory seemed in sight in the battle for civil rights, although still far from secured. American democracy, in its cumber-
+some and noisy fashion, was again proving its mettle. The negative side of this tumult, however, was the opportunity it offered extremism. The fashionable mood in academia was revolutionary left. Elite universities invented political correctness, enforced by peer pressures and the threat of student protest. Marxism and socialism in this ambience were all right. Communist revolutions were all right. The regimes of China and the Soviet Union were, at least in ideology, all right. Centrism was scorned outside the dean’s office. Political conservatives, stewing inwardly, for the most part dared not speak up. Radical left professors and visiting activists, the heroes on campus, repeated this litany: The Establishment has failed us, the Establishment blocks progress, the Establishment is the enemy. Power to the people it was—but with an American twist. Because ordinary working people remained dismayingly conservative throughout this sandbox revolution, the new proletariat in the class struggle had to be the students. And, unable to picture their futures as stockbrokers, bureaucrats, and college administrators, many of the students complied.
+
+In academia’s now necktic-free zone, race was a radioactive issue, deadly to any who touched it without extreme caution. Talk of the inheritance of IQ and human behavior were punishable offenses. Anyone who dared mention these subjects in any manner other than formulaic condemnation was at risk of being called a racist. Indictment as a racist in the eyes of the community, even if wholly false, would have been cause for banishment from academe. But that almost never occurred because the faculty were smart and timorous enough to stay entirely away from the subjects, at least in public. Even private conversations were cautious and muted.
+
+The roots of the antipathy ran deep, and, the hysteria of the 1970s aside, had a core of validity7. Social Darwinism and eugenics, arisen from the marriage of inadequate biology and right-wing nativist ideology, had been a blight on the natural sciences in the early decades of the twentieth century. They were favored by the Soviet Union in the 1930s, during its pre-Lamarckian period, and contributed fundamentally to the Nazi atrocities of the 1930s and 1940s. Partly as a reaction to this misuse of biology, and partly due to the laboratory successes of behaviorism as the dominant movement within psychology, social scientists steered away from the concept of instinct and the uses of genetics and evolutionary theory to explain human behavior. As late as the 1970s, the blank-slate interpretation of the brain sheltered the social sciences and humanities from the storms of biology and vouchsafed their independence as two of the three great branches of learning.
+
+Sociobiology, therefore, was widely seen not as an intellectual resource, as I had hoped, but as a threat to the blank-slate worldview. Worse, within a small but outspoken segment of the intellectual elite, it was considered a threat to Marxist ideology. In rejecting sociobiology, these critics managed to redefine the word in a wholly new and misleading way. In the popular media, it came to mean the theory that human behavior is determined by genes, or at least strongly influenced by them, as opposed to learning. Of course, that proposition is nowadays seen to be correct, and there was already plenty of evidence to support it in the 1970s. But regardless of the evidence, that is not what sociobiology meant originally or is understood to mean by scientists today. Sociobiology is a scientific discipline, the systematic study of the biological basis of all forms of social behavior in organisms, including humans. As an ensemble of working theories, it even encompasses the possibility of a blank-slate brain, recognizing that in order to flatten out innate predispositions to achieve such a brain would require a great deal of evolution involving a large number of genes. In other words, the theory of a blank slate is at base an intensely sociobiological idea, albeit wrong.
+
+The sociobiology controversy stemming from this mix of misunderstanding, suspicion, and resentment persuaded me early on that I had not adequately explained the relevance of the discipline to the
+understanding of human behavior. The final chapter of Sociobiology: The New Synthesis should have been a book-length exposition. It needed to go deeper into behavioral genetics, to address more persuasively the issue of culture, and more generally to address some of the philosophical and social issues that sociobiology had raised. It needed to address in a focused manner the main objections that had arisen and yet might arise from political ideology and religious belief. Consequently, in 1977 I sat down to write the book before you, On Human Nature, in an attempt to achieve these various ends. I was considerably relieved to have it generally well received, and to see it remain in wide circulation to the present time.
+
+
+
+Edward O. Wilson
+
+Lexington, Massachusetts
+
+June 2004
+
+
+
+Suggestions for Further Reading
+
+The following books, written for broad audiences, are among those that track the developments in human sociobiology (most often called evolutionary psychology) in the twenty-five years following the publication of On Human Nature,
+
+
+
++ Alcock, John. The Triumph of Sociobiology (New York: Oxford University Press, 2001).
+
++ Barkow, Jerome H., Leda Cosmides, and John Tooby, eds. The Adapted Mind (New York: Oxford University Press, 1992).
+
++ Degler, Carl N. In Search of Human Nature: The Decline & Revival of Darwinism in American Social Thought (New York: Oxford University Press, 1991).
+
++ Segerstrale, Ullica. Defenders of the Truth (New York: Oxford University Press, 2000).
+

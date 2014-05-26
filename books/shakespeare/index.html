@@ -1,0 +1,88 @@
+---
+layout: book
+title: Shakespeare's Words
+permalink: /books/shakespeare/
+author: William Shakespeare
+index: true
+plays:
+  - title: Twelfth Night
+    creation: 1601-1602
+  - title: Romeo and Juliet
+    creation: 1594-1595   
+  - title: The Two Gentlemen of Verona
+    creation: 1589-1593
+  - title: A Midsummer Night's Dream
+    creation: 1594-1595
+date: 2014-03-27 18:21:00 +0800
+---
+
+<div class="panel-group" id="plays">
+  {% for play in page.plays %}
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#plays" href="#play{{forloop.index}}">
+                  {{play.creation}} » {{play.title}}
+                </a>
+            </h4>
+        </div><!--/.panel-heading-->
+        <div id="play{{forloop.index}}" class="panel-collapse collapse in">
+            <div class="panel-body">
+                <ul>
+                  {% comment %}{% assign posts = site.categories['play'] | sort: 'date' %}{% endcomment %}
+                  {% assign posts = site.pages | sort: 'path' %}
+                  {% for post in  posts %}
+                    {% if post.title == play.title %}
+                      <li><a href="{{post.url}}">{{post.tagline}}</a></li>
+                    {% endif %}
+                  {% endfor %}
+                </ul>
+            </div><!--/.panel-body-->
+        </div>
+    </div><!--.panel-->
+  {% endfor %}
+    <!-- more panels -->
+</div>
+<!-- shakespeare play list
+
+1589-93   The Two Gentlemen of Verona
+1590-93   The Taming of the Shrew
+1590-94   King Edward III [with other authors]
+1590-92   Henry VI Part 3
+1590-91   Henry VI Part 2
+1590-91   Titus Andronicus
+1591-92   Henry VI Part 1 [with other authors]
+1592-93   Richard III
+1592-94   The Comedy of Errors
+1593-95   Love's Labour's Lost
+1594-95   A Midsummer Night's Dream
+1594-95   Romeo and Juliet
+1594-96   Richard II
+1594-96   King John
+1596-97   The Merchant of Venice
+1596-97   Henry IV Part 1
+1597      The Merry Wives of Windsor
+1597-98   Henry IV Part 2
+1598-99   Much Ado About Nothing
+1599      Henry V
+1599      Julius Caesar
+1599-1600 As You Like It
+1600-01   Hamlet
+1601-02   Twelfth Night
+1602-03   Troilus and Cressida
+1604      Measure for Measure
+1603-04   Othello
+1603-05   All's Well That Ends Well
+1604-07   Timon of Athens [with Thomas Middleton]
+1605-08   King Lear
+1606      Macbeth
+1606-07   Antony and Cleopatra
+1608-09   Pericles [with George Wilkins]
+1608      Coriolanus
+1609-10   The Winter's Tale
+1610-11   Cymbeline
+1610-11   The Tempest
+1613      Henry VIII [with John Fletcher]
+1613-15   The Two Noble Kinsmen [with John Fletcher]
+
+-->

@@ -1,0 +1,38 @@
+---
+layout: book
+---
+<article class="index">
+  <h2>{{page.title}}</h2>
+  {% assign collections = site.pages | sort: 'path'  %}
+  {{ content }}
+  {% if page.groupby %}
+    {% for group in page.groupby %}
+      <h4> {{group}} </h4>
+      <ul>
+      {% for p in collections %}
+        {% if p.group == group and (p.book.title == page.title  or p.url contains page.url) %}
+          <li>
+          {% if p.chapter %} <strong>{{p.chapter}}</strong> {% endif %}
+          <a href="{{p.url}}">{{p.title }}</a>
+          {% if p.tagline %} <small>{{p.tagline}}</small> {% endif %}
+          </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    {% endfor %}
+  {% else %}
+    <ul>
+    {% for p in collections %}
+      {% if p.url != page.url and (p.book.title == page.title  or p.url contains page.url) %}
+        <li>
+          {% if p.chapter %} <strong>{{p.chapter}}</strong> {% endif %}
+          <a href="{{p.url}}">{{p.title }}</a>
+          {% if p.tagline %} <small>{{p.tagline}}</small> {% endif %}
+        </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  {% endif %}
+</article>
+
+

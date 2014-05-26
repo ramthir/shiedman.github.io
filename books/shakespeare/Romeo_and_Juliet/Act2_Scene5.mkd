@@ -1,0 +1,223 @@
+---
+title: Romeo and Juliet
+tagline: Act II - Scene V
+category: play
+author: shakespeare
+date: 2014-05-26 14:11:11 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act2_scene5.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Juliet_
+
+**JULIET**
+
+The clock struck nine when I did send the Nurse.
+In half an hour she promised to return.
+[Perchance][1] she cannot meet him. That's not so.
+O, she is lame! Love's heralds should be thoughts,
+Which ten times faster glides than the sun's beams,
+Driving back shadows over [louring][2] hills.
+Therefore do [nimble-pinioned][3] doves draw love,
+And therefore hath the [wind-swift][4] Cupid wings.
+Now is the sun upon the [highmost][5] hill
+Of this day's journey, and from nine till twelve
+Is three long hours, yet she is not come.
+Had she [affection][6]s and warm youthful blood,
+She would be as swift in motion as a ball.
+My words would [bandy][7] her to my sweet love,
+And his to me.
+But old folks, many [feign][8] as they were dead –
+Unwieldy, slow, [heavy][9] and pale as lead.
+_Enter Nurse and Peter_
+O God, she comes! O honey Nurse, what news?
+Hast thou met with him? Send thy man away.
+
+[1]: {{page.q}}=12175 "perchance (adv.) 1: perhaps, maybe"
+[2]: {{page.q}}=19235 "louring (adj.) 1: gloomy, threatening, dark"
+[3]: {{page.q}}=11531 "nimble-pinioned (adj.): swift-winged"
+[4]: {{page.q}}=5800 "wind-swift (adj.): swift as the wind"
+[5]: {{page.q}}=18715 "highmost, high-most (adj.): highest, topmost"
+[6]: {{page.q}}=228 "affection (n.) 3: desire, passion, lustful feeling"
+[7]: {{page.q}}=1745 "bandy (v.) 3: drive, strike, toss back"
+[8]: {{page.q}}=20603 "feign (v.) 2: make appear, put on a demeanour"
+[9]: {{page.q}}=18397 "heavy (adj.) 7: slow-moving, sluggish, laggard"
+
+
+**NURSE**
+
+Peter, [stay][10] at the gate.
+_Exit Peter_
+
+[10]: {{page.q}}=16211 "stay (v.) 2: linger, tarry, delay"
+
+
+**JULIET**
+
+Now, good sweet Nurse – O Lord, why lookest thou [sad][11]?
+Though news be sad, yet tell them merrily.
+If good, thou shamest the music of sweet news
+By playing it to me with so sour a face.
+
+[11]: {{page.q}}=13906 "sad (adj.) 1: serious, grave, solemn"
+
+
+**NURSE**
+
+I am [aweary][12]. Give me leave a while.
+Fie, how my bones ache! What a [jaunce][13] have I!
+
+[12]: {{page.q}}=611 "aweary, a-weary (adj.): weary, tired"
+[13]: {{page.q}}=18962 "jaunce (n.): jaunt, fatiguing journey"
+
+
+**JULIET**
+
+I would thou hadst my bones, and I thy news.
+Nay, come, I pray thee speak. Good, good Nurse, speak.
+
+
+
+**NURSE**
+
+Jesu, what haste! Can you not [stay][14] a while?
+Do you not see that I am out of breath?
+
+[14]: {{page.q}}=16211 "stay (v.) 2: linger, tarry, delay"
+
+
+**JULIET**
+
+How art thou out of breath when thou hast breath
+To say to me that thou art out of breath?
+The excuse that thou dost make in this delay
+Is longer than the tale thou dost excuse.
+Is thy news good or bad? Answer to that.
+Say either, and I'll stay the [circumstance][15].
+Let me be satisfied, is't good or bad?
+
+[15]: {{page.q}}=2638 "circumstance (n.) 1: detail(s), particular(s), specifics"
+
+
+**NURSE**
+
+Well, you have made a [simple][16] choice. You know
+not how to choose a man. Romeo? No, not he. Though
+his face be better than any man's, yet his leg excels all
+men's; and for a hand and a foot, and a body, though
+they be not to be talked on, yet they are past compare.
+He is not the flower of courtesy, but, I'll [warrant][17] him, as
+gentle as a lamb. Go thy ways, [wench][18]. Serve God. What,
+have you dined at home?
+
+[16]: {{page.q}}=14426 "simple (adj.) 2: foolish, silly, stupid"
+[17]: {{page.q}}=7550 "warrant (v.) 1: assure, promise, guarantee, confirm"
+[18]: {{page.q}}=7615 "wench (n.): girl, lass"
+
+
+**JULIET**
+
+No, no. But all this did I know before.
+What says he of our marriage? What of that?
+
+
+
+**NURSE**
+
+Lord, how my head aches! What a head have I!
+It beats as it would fall in twenty pieces.
+My back a't' other side – ah, my back, my back!
+[Beshrew][19] your heart for sending me about
+To catch my death with [jauncing][20] up and down!
+
+[19]: {{page.q}}=1534 "beshrew, 'shrew (v.) 1: curse, devil take, evil befall"
+[20]: {{page.q}}=18963 "jaunce (v.): jaunt, trudge about, run around"
+
+
+**JULIET**
+
+I'faith, I am sorry that thou art not well.
+Sweet, sweet, sweet Nurse, tell me, what says my love?
+
+
+
+**NURSE**
+
+Your love says, like an [honest][21] gentleman, and a
+courteous, and a kind, and a handsome, and, I warrant,
+a virtuous – Where is your mother?
+
+[21]: {{page.q}}=18190 "honest (adj.) 2: honourable, respectable, upright"
+
+
+**JULIET**
+
+Where is my mother? Why, she is within.
+Where should she be? How oddly thou repliest!
+‘ Your love says, like an honest gentleman,
+“ Where is your mother? ”’
+
+
+
+**NURSE**
+
+O God's Lady dear!
+Are you so [hot][22]? Marry come up, I trow.
+Is this the poultice for my aching bones?
+Henceforward do your messages yourself.
+
+[22]: {{page.q}}=18444 "hot (adj.) 2: enthusiastic, ardent, eager, keen"
+
+
+**JULIET**
+
+Here's such a [coil][23]! Come, what says Romeo?
+
+[23]: {{page.q}}=3613 "coil (n.): turmoil, disturbance, fuss"
+
+
+**NURSE**
+
+Have you got leave to go to [shrift][24] today?
+
+[24]: {{page.q}}=15983 "shrift (n.) 1: confession"
+
+
+**JULIET**
+
+I have.
+
+
+
+**NURSE**
+
+Then [hie][25] you hence to Friar Laurence' cell.
+There stays a husband to make you a wife.
+Now comes the [wanton][26] blood up in your cheeks.
+They'll be in scarlet [straight][27] at any news.
+[Hie][28] you to church. I must another way,
+To fetch a ladder, by the which your love
+Must [climb][29] a bird's nest soon when it is dark.
+I am the drudge, and toil in your delight.
+But you shall bear the burden soon at night.
+Go. I'll to dinner. [Hie][30] you to the cell.
+
+[25]: {{page.q}}=18172 "hie (v.): hasten, hurry, speed"
+[26]: {{page.q}}=7541 "wanton (adj.) 3: unrestrained, undisciplined, boisterous, uncontrolled"
+[27]: {{page.q}}=14086 "straight (adv.): straightaway, immediately, at once"
+[28]: {{page.q}}=18172 "hie (v.): hasten, hurry, speed"
+[29]: {{page.q}}=3822 "climb (v.): reach, attain, achieve"
+[30]: {{page.q}}=18172 "hie (v.): hasten, hurry, speed"
+
+
+**JULIET**
+
+[Hie][31] to high fortune! Honest Nurse, farewell.
+_Exeunt_
+
+[31]: {{page.q}}=18172 "hie (v.): hasten, hurry, speed"
+
+

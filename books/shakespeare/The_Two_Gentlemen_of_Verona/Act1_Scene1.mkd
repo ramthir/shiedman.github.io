@@ -1,0 +1,678 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act I - Scene I
+category: play
+author: shakespeare
+source: http://www.shakespeareswords.com/Plays.aspx?Ac=1&SC=1&IdPlay=5
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act1_scene1.html
+layout: book_page
+tag: [ shakespeare ]
+creation: 1589-1593
+date: 2014-03-27 18:22:00 +0800
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+Enter Valentine and Proteus
+
+**VALENTINE**
+
+Cease to persuade, my loving Proteus;
+Home-keeping youth have ever homely [wit][1]s.
+Were't not[^a1] [affection][2] chains thy tender[^a2] days
+To the sweet glances of thy honoured love,
+I rather would entreat thy company
+To see the wonders of the world abroad
+Than, living dully [sluggardized][3] at home,
+Wear out thy youth with [shapeless][4] idleness.
+But, since thou lovest, love [still][5], and thrive therein,
+Even as I would when I to love begin.
+
+[^a1]: were it not that
+[^a2]: If you say that someone does something at a **tender** age, you mean that they do it when they are still young and have not had much experience
+
+*[dully]: Someone or something that is dull is not very lively or energetic.
+
+[1]: {{page.q}}=8149  "wit (n.) 5: mind, brain, thoughts"
+[2]: {{page.q}}=115  "Your affections are your feelings of love or fondness for someone"
+[3]: {{page.q}}=15581  "sluggardized (adj.): like a sluggard, made lazy"
+[4]: {{page.q}}=15582  "shapeless (adj.) 2: aimless, without guidance, desultory"
+[5]: {{page.q}}=14077  "still (adv.) 1: constantly, always, continually"
+
+**PROTEUS**
+
+Wilt thou be gone? Sweet Valentine, adieu.
+Think on thy Proteus, when thou [haply][6] seest
+Some rare noteworthy object in thy travel.
+Wish me partaker in thy happiness,
+When thou dost meet good [hap][7]; and in thy danger –
+If ever danger do [environ][8] thee –
+[Commend][9] thy [grievance][10] to my holy prayers,
+For I will be thy [beadsman][11], Valentine.
+
+*[adieu]: [əˈdju] farewell
+*[partaker]: to take part in or experience something along with others
+[6]: {{page.q}}=15270  "haply (adv.): perhaps, maybe, by chance, with luck"
+[7]: {{page.q}}=15268  "hap (n.) 1: fortune, lot, fate"
+[8]: {{page.q}}=9800  "environ (v.): surround, envelop, encircle, engulf"
+[9]: {{page.q}}=2838  "commend (v.) 2: commit, entrust, hand over"
+[10]: {{page.q}}=17944  "grievance (n.) 1: distress, suffering, pain"
+[11]: {{page.q}}=1583  "beadsman (n.): almsman, pensioner [who prays for others]"
+
+**VALENTINE**
+
+And on a [love-book][12] pray for my success?
+
+[12]: {{page.q}}=19547  "love-book (n.): book dealing with matters of love, courtship manual"
+
+**PROTEUS**
+
+Upon some book I love I'll pray for thee.
+
+
+**VALENTINE**
+
+That's on some shallow story of deep love,
+How young Leander[^a12] crossed the Hellespont.
+
+[^a12]: 利安得(Leander)，一希腊青年，每夜渡游海来斯庞(即今之鞑靼海峡）以会见他的爱人希罗（Hero)，于一风暴之夜溺毙，希罗亦投海以殉。诗人Musaeus (约生于纪元五百年)为诗以纪其事。莎士比亚是否直接取材于此诗，抑是取林于玛娄的著作(登记于一五九三年，延至一五九八年始出版），尚未得定论。
+
+**PROTEUS**
+
+That's a deep story of a deeper love,
+For he was more than [over-shoes][13] in love.
+
+[13]: {{page.q}}=11913  "overshoes, over-shoes (adj.): (plural) shoe-deep, following a reckless course"
+
+**VALENTINE**
+
+'Tis true; for you are [over-boots][14] in love,
+And yet you never swam the Hellespont.
+
+[14]: {{page.q}}=11914  "over-boots (adj.): (plural) boot-deep, following a reckless course"
+
+**PROTEUS**
+
+Over the boots? Nay, give me not the [boots][15].
+
+[15]: {{page.q}}=2268  "boots, give someone the: make fun of someone, make a fool of someone"
+
+**VALENTINE**
+
+No, I will not; for it [boot][16]s thee not.
+
+[16]: {{page.q}}=2005  "boot (v.) 1: help, serve, benefit, be useful [to]"
+
+**PROTEUS**
+
+                  What?
+
+
+**VALENTINE**
+
+To be in love, where scorn[^a16] is bought with groans[^a17];
+[Coy][17] looks, with heart-sore sighs; one fading moment's mirth,
+With twenty, [watchful][18], weary, tedious nights;
+If [haply][20] won, perhaps a [hapless][19] gain;
+If lost, why then a grievous labour won;
+However, but a folly bought with wit,
+Or else a [wit][21] by folly vanquished.
+
+[^a16]: If you treat someone or something with scorn, you show contempt(you have no respect for them or think that they are unimportant) for them.
+[^a17]: If you groan, you make a long, low sound because you are in pain, or because you are upset or unhappy about something.
+
+[17]: {{page.q}}=2861  "coy (adj.) 2: unresponsive, distant, standoffish, disdainful"
+[18]: {{page.q}}=7978  "watchful (adj.): wakeful, unsleeping, vigilant"
+[19]: {{page.q}}=18269  "hapless (adj.): luckless, unfortunate, unlucky"
+[20]: {{page.q}}=15270  "haply (adv.): perhaps, maybe, by chance, with luck"
+[21]: {{page.q}}=7583  "wit (n.) 1: intelligence, wisdom, good sense, mental ability"
+
+**PROTEUS**
+
+So, by your [circumstance][22], you call me fool?
+
+[22]: {{page.q}}=3116  "circumstance (n.) 3: special argument, detailed explanation"
+
+**VALENTINE**
+
+So, by your [circumstance][23], I fear you'll prove.
+
+[23]: {{page.q}}=2639  "circumstance (n.) 4: condition, state, situation"
+
+**PROTEUS**
+
+'Tis Love you [cavil][24] at; I am not Love.
+
+[24]: {{page.q}}=4141  "cavil (v.): dispute over details, raise pointless objections"
+
+**VALENTINE**
+
+Love is your master, for he masters you;
+And he that is so yoked by a fool,
+[Methinks][26] should not be [chronicle][25]d for wise.
+
+[25]: {{page.q}}=4471  "chronicle (v.) 1: register, log, put on record [as]"
+[26]: {{page.q}}=10439  "methinks(t), methought(s) (v.): it seems /seemed to me"
+
+**PROTEUS**
+
+Yet writers say, as in the sweetest bud
+The eating [canker][27] dwells, so eating love
+Inhabits in the finest [wits][28] of all.
+
+[27]: {{page.q}}=3924  "canker (n./adj.) 1: grub that destroys plant buds and leaves, cankerworm, parasite"
+[28]: {{page.q}}=8049  "wits, also five wits: faculties of the mind (common wit, imagination, fantasy, estimation, memory) or body (the five senses)"
+
+**VALENTINE**
+
+And writers say, as the most [forward][29] bud
+Is eaten by the [canker][31] ere it [blow][30],
+Even so by love the young and tender wit
+Is turned to folly, [blast][32]ing in the bud,
+Losing his [verdure][34] even in the [prime][33],
+And all the [fair][36] [effect][35]s of future hopes.
+But wherefore waste I time to counsel thee
+That art a [votary][38] to [fond][37] desire?
+Once more adieu. My father at the [road][39]
+[Expect][40]s my coming, there to see me shipped.
+
+[29]: {{page.q}}=19978  "forward (adj.) 7: promising, early-maturing, precocious"
+[30]: {{page.q}}=1846  "blow (v.) 1: blossom, bloom, flower"
+[31]: {{page.q}}=3924  "canker (n./adj.) 1: grub that destroys plant buds and leaves, cankerworm, parasite"
+[32]: {{page.q}}=1770  "blast (v.) 1: blight, wither, destroy"
+[33]: {{page.q}}=13132  "prime (n.) 2: early years, prime of life, fullness of youth"
+[34]: {{page.q}}=7317  "verdure, verdour (n.): sap, vitality, vigour, freshness"
+[35]: {{page.q}}=9801  "effect (n.) 1: result, end, outcome, fulfilment"
+[36]: {{page.q}}=19987  "fair (adj.) 4: fine, pleasing, splendid, excellent"
+[37]: {{page.q}}=19981  "fond (adj.) 4: infatuated, doting, passionate"
+[38]: {{page.q}}=7405  "votary (n.) 1: devotee, disciple, worshipper [of]"
+[39]: {{page.q}}=16798  "road (n.) 1: harbour, anchorage, roadstead"
+[40]: {{page.q}}=9797  "expect (v.): await, wait for"
+
+**PROTEUS**
+
+And thither will I [bring][41] thee, Valentine.
+
+[41]: {{page.q}}=2006  "bring (v.) 1: accompany, conduct, escort"
+
+**VALENTINE**
+
+Sweet Proteus, no; now let us take our leave.
+To Milan let me hear from thee by letters
+Of thy [success][42] in love, and what news else
+[Betide][43]th here in absence of thy friend;
+And I likewise will [visit][44] thee with mine.
+
+[42]: {{page.q}}=14457  "success (n.) 2: fortune, destiny"
+[43]: {{page.q}}=1582  "betide (v.) 1: happen (to), befall, come (to)"
+[44]: {{page.q}}=7411  "visit (v.) 2: supply, furnish, provide"
+
+**PROTEUS**
+
+All happiness [bechance][45] to thee in Milan.
+
+[45]: {{page.q}}=1673  "bechance (v.): happen to, befall"
+
+**VALENTINE**
+
+As much to you at home. And so farewell.
+
+Exit
+
+
+**PROTEUS**
+
+He after honour hunts, I after love.
+He leaves his friends to dignify them more;
+I leave myself, my friends, and all for love.
+Thou, Julia, thou hast [metamorphose][46]d me,
+Made me neglect my studies, [lose][47] my time,
+War with good counsel, set the world at naught;
+Made wit with musing weak, heart sick with [thought][48].
+Enter Speed
+
+[46]: {{page.q}}=10982  "metamorphose (v.): transform, alter one's disposition, change one's shape"
+[47]: {{page.q}}=19284  "lose (v.) 2: waste, throw away, give unprofitably"
+[48]: {{page.q}}=5453  "thought (n.) 2: melancholic reflection, anxiety, sorrow, worry"
+
+**SPEED**
+
+Sir Proteus, save you! Saw you my master?
+
+
+**PROTEUS**
+
+But now he parted hence to embark for Milan.
+
+
+**SPEED**
+
+Twenty to one then he is shipped already,
+And I have played the sheep in losing him.
+
+
+**PROTEUS**
+
+Indeed, a sheep doth very often stray,
+An if the shepherd be a while away.
+
+
+**SPEED**
+
+You conclude that my master is a shepherd then,
+and I a sheep?
+
+
+**PROTEUS**
+
+I do.
+
+
+**SPEED**
+
+Why then, my horns are his horns, whether I wake
+or sleep.
+
+
+**PROTEUS**
+
+A silly answer, and fitting well a sheep.
+
+
+**SPEED**
+
+This proves me still a sheep.
+
+
+**PROTEUS**
+
+True; and thy master a shepherd.
+
+
+**SPEED**
+
+Nay, that I can deny by a [circumstance][49].
+
+[49]: {{page.q}}=3116  "circumstance (n.) 3: special argument, detailed explanation"
+
+**PROTEUS**
+
+It shall go [hard][50] but I'll prove it by another.
+
+[50]: {{page.q}}=18255  "hard (adv.) 3: badly, poorly, ill"
+
+**SPEED**
+
+The shepherd seeks the sheep, and not the sheep
+the shepherd; but I seek my master, and my master
+seeks not me. Therefore I am no sheep.
+
+
+**PROTEUS**
+
+The sheep for fodder follow the shepherd; the
+shepherd for food follows not the sheep. Thou for
+wages followest thy master, thy master for wages follows
+not thee. Therefore thou art a sheep.
+
+
+**SPEED**
+
+Such another proof will make me cry, ‘baa'.
+
+
+**PROTEUS**
+
+But dost thou hear? Gavest thou my letter to
+Julia?
+
+
+**SPEED**
+
+Ay, sir. I, a lost mutton, gave your letter to her,
+a laced [mutton][51]; and she, a laced mutton, gave me, a lost
+mutton, nothing for my labour.
+
+[51]: {{page.q}}=19548  "mutton (n.) 2: prostitute, courtesan"
+
+**PROTEUS**
+
+Here's too small a pasture for such store of
+muttons.
+
+
+**SPEED**
+
+If the ground be [overcharged][52], you were best [stick][53]
+her.
+
+[52]: {{page.q}}=11915  "overcharged (adj.) 2: overburdened, overstocked, overfilled"
+[53]: {{page.q}}=15583  "stick (v.) 4: slaughter, kill [by stabbing]"
+
+**PROTEUS**
+
+Nay, in that you are astray; 'twere best [pound][54]
+you.
+
+[54]: {{page.q}}=12553  "pound (v.): shut up, confine [as animals in a pound]"
+
+**SPEED**
+
+Nay, sir, less than a pound shall serve me for
+carrying your letter.
+
+
+**PROTEUS**
+
+You mistake; I mean the pound – a [pinfold][55].
+
+[55]: {{page.q}}=12812  "pinfold (n.): pound, place for keeping stray animals"
+
+**SPEED**
+
+From a pound to a [pin][56]? Fold it over and over,
+'Tis threefold too little for carrying a letter to your lover.
+
+[56]: {{page.q}}=12723  "pin (n.) 1: trifle, triviality, insignificant amount"
+
+**PROTEUS**
+
+But what said she?
+Speed nods
+A nod?
+
+
+**SPEED**
+
+Ay.
+
+
+**PROTEUS**
+
+Nod-ay? Why, that's [noddy][57].
+
+[57]: {{page.q}}=11470  "noddy (n.): fool, simpleton, buffoon"
+
+**SPEED**
+
+You mistook, sir. I say she did nod; and you ask
+me if she did nod, and I say ‘ Ay.’
+
+
+**PROTEUS**
+
+And that set together is ‘ noddy.’
+
+
+**SPEED**
+
+Now you have taken the pains to set it together,
+take it for your pains.
+
+
+**PROTEUS**
+
+No, no; you shall have it for bearing the letter.
+
+
+**SPEED**
+
+Well, I perceive I must be [fain][58] to bear with you.
+
+[58]: {{page.q}}=19995  "fain (adj.) 1: obliged, forced, compelled"
+
+**PROTEUS**
+
+Why, sir, how do you bear with me?
+
+
+**SPEED**
+
+Marry, sir, the letter very [orderly][59], having nothing
+but the word ‘ noddy ’ for my pains.
+
+[59]: {{page.q}}=11758  "orderly (adv.): according to the rules, properly, in the prescribed way"
+
+**PROTEUS**
+
+[Beshrew][60] me, but you have a quick [wit][61].
+
+[60]: {{page.q}}=1534  "beshrew, 'shrew (v.) 1: curse, devil take, evil befall"
+[61]: {{page.q}}=7645  "wit (n.) 2: mental sharpness, acumen, quickness, ingenuity"
+
+**SPEED**
+
+And yet it cannot overtake your slow purse.
+
+
+**PROTEUS**
+
+Come, come, [open][64] the [matter][63] [in][62] brief; what
+said she?
+
+[62]: {{page.q}}=2269  "brief, in: quickly, speedily, expeditiously"
+[63]: {{page.q}}=10417  "matter (n.) 1: subject-matter, content, substance"
+[64]: {{page.q}}=11611  "open (v.) 1: reveal, uncover, disclose"
+
+**SPEED**
+
+Open your purse, that the money and the matter
+may be both at once delivered.
+
+
+**PROTEUS**
+
+Well, sir, here is for your pains.
+He gives Speed money
+What said she?
+
+
+**SPEED**
+
+Truly, sir, I think you'll hardly win her.
+
+
+**PROTEUS**
+
+Why? Couldst thou [perceive][65] so much from
+her?
+
+[65]: {{page.q}}=13194  "perceive (v.): receive, get, obtain"
+
+**SPEED**
+
+Sir, I could perceive nothing at all from her; no,
+not so much as a ducat for delivering your letter; and
+being so hard to me that brought your mind, I fear she'll
+prove as hard to you in telling your mind. Give her no
+token but stones, for she's as hard as steel.
+
+
+**PROTEUS**
+
+What said she? Nothing?
+
+
+**SPEED**
+
+No, not so much as ‘ Take this for thy pains.’ To
+testify your [bounty][66], I thank you, you have [testern][67]ed me;
+in [requital][68] whereof, henceforth carry your letters yourself.
+And so, sir, I'll [commend][69] you to my master.
+
+Exit
+
+[66]: {{page.q}}=2196  "bounty (n.) 2: special gift, present"
+[67]: {{page.q}}=6249  "testern (v.): give a sixpence [tester] as a tip"
+[68]: {{page.q}}=16812  "requital (n.): recompense, reward, repayment"
+[69]: {{page.q}}=2672  "commend (v.) 1: convey greetings, present kind regards"
+
+**PROTEUS**
+
+Go, go, be gone, to save your ship from wreck,
+Which cannot perish, having thee aboard,
+Being destined to a drier death on shore.
+I must go send some better messenger.
+I fear my Julia would not [deign][70] my lines,
+Receiving them from such a worthless [post][71].
+
+Exit
+
+[70]: {{page.q}}=8774  "deign (v.) 1: willingly accept, not disdain"
+[71]: {{page.q}}=12610  "post (n.) 1: express messenger, courier"
+
+译文
+----
+
+第一幕 第一景：维洛那。一广场。
+
+瓦伦坦与普洛蒂阿斯上。
+
+別再劝我了，亲爱的普洛蒂阿斯：年轻人闷在家里，总是要头脑简单的。若不是恋爰把你的青舂时光锁在你的爱人的秋波上面，我颇想请你和我结伴去看看外面世界的形形色色，总比懒洋洋的厮守在家里，作些无聊的事消磨掉你的青春，要好得多。
+
+> 不过你既恋爱，就恋爰下去，争取胜利，
+> 我若是开始恋爱，我也会这样做的。
+
+你一定要去么？亲爱的瓦伦坦，再会！你在旅途中偶然看到一些值得注意的希罕事物，可要想着你的普洛蒂阿斯：你若 是遇到什么得意的事，要盼着我能分享你的幸福；若是遭遇危险，如果真有危险环伺着你的话，把你的忧虑交给我的祈祷。因为我会为你而祈祷的，瓦伦坦。
+
+捧着一本讲爰情的书为我的成功而祈祷？
+
+我要捧着一本我爱的书为你祈祷。
+
+那一定是讲一段深刻爰情之浅薄的故事，例如年轻的利安得 如何游过海来斯庞海峡。
+
+那是深刻的故事，讲的是更深刻的爱情；因为他深陷爰情不止是漫过了鞋子。
+
+那是真的；因为你也深陷爱情之中，可以说是漫过了靴子, 但是你却不曾咏过海来斯庞。
+
+漫过了靴子？不，别和我开玩笑
+
+不，我不和你开玩笑，因为那实在对你没有益处。
+
+什么事？
+
+陷入恋爰，以呻吟换取轻蔑；以痛心的叹息换取娇羞的顾盼，以好多个困顿失眠的夜晚换取片刻的欢娱：纵然侥幸成功，也许是得不偿失；如果失败，那更是自讨苦吃：
+
+> 无论如何，那是用聪明做荒唐事，
+> 再不然，就是聪明被荒唐所控制
+
+依你说来，你以为我是傻瓜。
+
+照你的行为来说，我恐怕你会证实我的想法。
+
+你攻击的是爱情：我并不是爰情。
+
+爱情是你的主人，因为它支配你；一个甘受痴情驱使的人， 据我看，不能算是一个聪明人
+
+可是作家们说，最香甜的花苞里才生蛀虫，最聪明的人的心里才有腐蚀心灵的爰情。
+
+作家们也说，最早熟的花苞在尚未开放的时候就被蛀虫蚀光。同样的少不更事的聪明也会被爱情变为愚蠢；在蓓蕾时期就枯萎了，在青春时代就失了光泽以及未来的希望中的好景。不过你既是痴情的崇拜者，我又何必浪费时间來劝你？ 再说一回再会吧！我的父亲在港口等待着我呢，
+
+他要看我上船。
+
+我要陪你到那里去，瓦伦坦。
+
+亲爱的普洛蒂阿斯，不可以；我们现在就辞别了吧。你写信到米兰向我报告你的恋爰的成功，以及你的朋友离开之后 此地所发生的消息；同样的我也写信给你。
+
+愿你在米兰一切幸运！
+
+愿你在家乡也是如此！那么，再会了。
+
+〔下
+
+他追求荣誊，我追求爰情：他离开了朋友们，为的是使他的朋友们格外光荣；我为了爱情抛弃了我自己，我的朋友们，以及一切。你，朱丽亚，你把我改变了； ——你使得我荒废学业，虚掷光阴。
+
+> 不听好言劝告，一切不足顾虑；
+> 因幻想而理智虚弱，困苦恋而内心忧郁。
+
+
+斯皮德上。
+
+
+普洛蒂阿斯先生，上帝保佑您！您看见我的主人了么？
+
+他刚从这里走开，搭船到米兰去了
+
+那么他八成已经登上船了，我也变成一只迷途的羊，追不上他了
+
+是的，羊是时常会迷途的，如果牧羊人稍为走开一下。
+
+你是说我的主人是一个牧羊人，而我是一只羊？
+
+我是这样说。
+
+那么我的角也就是他的角，不管我是醒着还是睡着。
+
+好愚蠢的回答，正合于羊的身份。
+
+这还是证明我是一只羊。
+
+是的，你的主人是一个牧羊人。
+
+不，我可以提出证据来否认。
+
+我若不能提出另外证据来证明，那才是怪事哩
+
+牧羊人寻羊，不是羊寻牧羊人；但是我寻我的主人，不是我的主人寻我：所以我不是羊。
+
+羊为了草料而跟随着牧羊人，牧羊人并不为了吃食而跟随着羊；你为了工资而跟随着你的主人，你的主人并不为工资而跟随着你：所以你是一只羊。
+
+再举这样的一个证据，我就要"咩”的一声叫起来了。
+
+我且问你。我的信你交给朱丽亚没有？
+
+是喽，先生：我，一只迷途的羊，把你的信交给她了，一只 风骚的羊；而她.那一只风骚的羊，竟让我这只迷途的 羊白白辛苦一趟.什么也没有给我。
+
+有这么多的羊，这牧场嫌太小了。
+
+如果那地方太拥挤，你最好是把她戳死，
+
+不，你是迷途的羊；最好是把你禁闭起来
+
+用不着，先生，我给你送一封信，不需要一镑金币
+
+你弄错了：我的意思是栏，——畜栏。
+
+从金币一镑一变而为针一根④？加上几倍上去，也不够我绐你的情人送信的报酬。
+
+她说什么？〔斯皮徳点头。〕她点头了么？
+
+对。
+
+点头，对？噫，那就是癲头癫脑的傻瓜
+
+您误会了，先生：我是说她点头了；您问我她是否点头了; 我就说，对。
+
+两个字加起来便是一癫头癲脑的傻瓜。
+
+您既然费心把这两个字加在一起，您就留着自己受用吧。
+
+不，不；你既然给我送信，这就给了你吧。
+
+唉，我看我只好对你忍耐一些。
+
+怎么.你怎样对我忍耐了？
+
+唉，先生，把信规规矩矩的送去了；辛苦了一趟，除了被骂一声"儍瓜”之外什么也没有得到。
+
+真是的，你倒是才思敏捷。
+
+可是还追不上您的迟缓的钱包。
+
+好了，好了；简截的把内容打开來吧：她说了什么？
+
+打开你的钱包，好让钱和内容同时交付出来。
+
+好吧，这是酬劳你的。（给他钱。〕她说了什么？
+
+老实说，先生，我想您很难把她弄到手。
+
+为什么？你从她那里看出来了么？
+
+先生，我从她那里什么也看不出；把您的信送了过去。一块钱也没有看到。我给您送信，她尚且如此苛待，我恐怕您当面向她倾诉衷情的时候，她将一样的刻薄。就拿石头送给她做定情物吧，因为她是铁石心肠。
+
+怎么！她没有说话么？
+
+没有，连"给你这个，你辛苦了”都没有说。为了证明您的慷慨，我谢谢您，您给了我六便士；为了酬答您这一番好意，以后您自己送信吧。那么，先生，我要到我的主人面前去为您致意。
+
+去，去，去吧，去挽救你的船不至于沉没；有你在船上. 船就不会沉没，因为你是命中注定要被铰杀的。〔斯皮德下。]我一定要派一个较好的送信的人：我恐怕我的朱丽亚不屑于看我的信，如果是由这样一个无用的人递送过去的话。
+

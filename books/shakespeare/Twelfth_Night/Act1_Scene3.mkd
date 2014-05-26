@@ -1,0 +1,534 @@
+---
+title: Twelfth Night
+tagline: Act I - Scene III
+category: play
+author: shakespeare
+date: 2014-05-25 18:36:38 +0800
+permalink: /books/shakespeare/Twelfth_Night_act1_scene3.html
+layout: book_page
+creation: 1601-1602
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Sir Toby Belch and Maria_
+
+**SIR TOBY**
+
+What a plague means my niece to take the death
+of her brother thus? I am sure care's an enemy to life.
+
+
+
+**MARIA**
+
+By my troth, Sir Toby, you must come in earlier
+o' nights. Your cousin, my lady, takes great [exception][1]s to
+your [ill][2] hours.
+
+[1]: {{page.q}}=10076 "exception (n.) 1:  (often plural) objection, dislike, disapproval"
+[2]: {{page.q}}=4918 "ill (adj.) 1:  bad, adverse, unfavourable"
+
+
+**SIR TOBY**
+
+Why, let her [except][3] before excepted.
+
+[3]: {{page.q}}=9868 "except, except against (v.) 1:  take exception to, object to, repudiate"
+
+
+**MARIA**
+
+Ay, but you must confine yourself within the
+[modest][4] limits of [order][5].
+
+[4]: {{page.q}}=11034 "modest (adj.) 1:  moderate, reasonable, mild, limited"
+[5]: {{page.q}}=11619 "order (n.) 2:  prescribed practice, regular procedure"
+
+
+**SIR TOBY**
+
+Confine! I'll confine myself no finer than I am.
+These clothes are good enough to drink in, and so be
+these boots too; an they be not, let them hang themselves
+in their own straps.
+
+
+
+**MARIA**
+
+That quaffing and drinking will undo you. I heard
+my lady talk of it yesterday, and of a foolish knight that
+you brought in one night here, to be her wooer.
+
+
+
+**SIR TOBY**
+
+Who? Sir Andrew Aguecheek?
+
+
+
+**MARIA**
+
+Ay, he.
+
+
+
+**SIR TOBY**
+
+He's as [tall][6] a man as any's in Illyria.
+
+[6]: {{page.q}}=5549 "tall (adj.) 1:  brave, valiant, bold"
+
+
+**MARIA**
+
+What's that to the [purpose][7]?
+
+[7]: {{page.q}}=12296 "purpose (n.) 2:  point at issue, matter in hand"
+
+
+**SIR TOBY**
+
+Why, he has three thousand ducats a year.
+
+
+
+**MARIA**
+
+Ay, but he'll have but a year in all these ducats.
+He's a [very][9] fool and a [prodigal][8].
+
+[8]: {{page.q}}=12662 "prodigal (n.) 1:  waster, squanderer, spendthrift"
+[9]: {{page.q}}=7338 "very (adj.) 1:  [intensifying] thorough-going, absolute"
+
+
+**SIR TOBY**
+
+Fie, that you'll say so. He plays o'the [viol-de-gamboys][10],
+and speaks three or four languages word for
+word without [book][11], and hath all the good gifts of nature.
+
+[10]: {{page.q}}=7415 "viol-de-gamboys (n.):  viola da gamba"
+[11]: {{page.q}}=2276 "book, without:  off by heart, by rote"
+
+
+**MARIA**
+
+He hath indeed all, most [natural][12]; for besides that
+he's a fool, he's a great quarreller; and but that he hath
+the [gift][13] of a coward to allay the [gust][14] he hath in quarrelling,
+'tis thought among the prudent he would quickly
+have the gift of a grave.
+
+[12]: {{page.q}}=11505 "natural (adv.):  like a half-wit, idiotically"
+[13]: {{page.q}}=17725 "gift (n.) 1:  quality, accomplishment, talent"
+[14]: {{page.q}}=17949 "gust (n.) 3:  relish, taste, inclination"
+
+
+**SIR TOBY**
+
+By this hand, they are scoundrels and [substractors][15]
+that say so of him. Who are they?
+
+[15]: {{page.q}}=15656 "substractor (n.):  detractor, slanderer, calumniator"
+
+
+**MARIA**
+
+They that add, moreover, he's drunk nightly in
+your company.
+
+
+
+**SIR TOBY**
+
+With drinking [health][16]s to my niece. I'll drink to
+her as long as there is a passage in my throat and drink
+in Illyria. He's a coward and a [coistrel][17] that will not
+drink to my niece till his brains turn o'the toe like a
+_vulgo_
+comes Sir Andrew Agueface!
+_Enter Sir Andrew Aguecheek_
+
+[16]: {{page.q}}=18554 "health (n.) 1:  toast, salutation in drink"
+[17]: {{page.q}}=3551 "coistrel (n.):  groom, low fellow, knave"
+
+
+**SIR ANDREW**
+
+Sir Toby Belch! How now, Sir Toby
+Belch?
+
+
+
+**SIR TOBY**
+
+Sweet Sir Andrew!
+
+
+
+**SIR ANDREW**
+
+Bless you, fair [shrew][18].
+
+[18]: {{page.q}}=14576 "shrew (n.):  vexatious person, troubleseome individual [of either sex]"
+
+
+**MARIA**
+
+And you too, sir.
+
+
+
+**SIR TOBY**
+
+[Accost][19], Sir Andrew, accost.
+
+[19]: {{page.q}}=756 "accost (v.):  approach, make up to, pay court to"
+
+
+**SIR ANDREW**
+
+What's that?
+
+
+
+**SIR TOBY**
+
+My niece's chambermaid.
+
+
+
+**SIR ANDREW**
+
+Good Mistress Accost, I desire better
+acquaintance.
+
+
+
+**MARIA**
+
+My name is Mary, sir.
+
+
+
+**SIR ANDREW**
+
+Good Mistress Mary Accost –
+
+
+
+**SIR TOBY**
+
+_aside_
+You mistake, knight. ‘ Accost ’ is front
+her, [board][21] her, woo her, [assail][20] her.
+
+[20]: {{page.q}}=974 "assail (v.) 2:  approach with offers of love, woo with vigour, attempt to seduce"
+[21]: {{page.q}}=1781 "board (v.) 1:  accost, address, approach, tackle"
+
+
+**SIR ANDREW**
+
+_aside_
+By my troth, I would not undertake
+her in this company. Is that the meaning of ‘ accost ’?
+
+
+
+**MARIA**
+
+[Fare][22] you well, gentlemen.
+
+[22]: {{page.q}}=20910 "fare ... well: "
+
+
+**SIR TOBY**
+
+_aside_
+An thou let part so, Sir Andrew, would
+thou mightst never draw sword again.
+
+
+
+**SIR ANDREW**
+
+An you part so, mistress, I would I might
+never draw sword again. Fair lady, do you think you
+have fools in [hand][23]?
+
+[23]: {{page.q}}=18614 "hand, in:  to deal with, here present"
+
+
+**MARIA**
+
+Sir, I have not you by the hand.
+
+
+
+**SIR ANDREW**
+
+Marry, but you shall have, and here's my
+hand.
+
+
+
+**MARIA**
+
+Now, sir, ‘ [Thought][24] is free.’ I pray you, bring your
+hand to the [buttery][25] bar and let it drink.
+
+[24]: {{page.q}}=6350 "thought is free:  think what you like"
+[25]: {{page.q}}=2272 "buttery bar:  ledge by the hatch of a buttery [liquor store]"
+
+
+**SIR ANDREW**
+
+Wherefore, sweetheart? What's your
+metaphor?
+
+
+
+**MARIA**
+
+It's dry, sir.
+
+
+
+**SIR ANDREW**
+
+Why, I think so. I am not such an ass, but
+I can keep my hand dry. But what's your jest?
+
+
+
+**MARIA**
+
+A dry jest, sir.
+
+
+
+**SIR ANDREW**
+
+Are you full of them?
+
+
+
+**MARIA**
+
+Ay, sir. I have them at my fingers' ends. Marry,
+now I let go your hand, I am barren.
+_Exit_
+
+
+
+**SIR TOBY**
+
+O knight, thou lack'st a cup of [canary][26]. When
+did I see thee so [put][27] down?
+
+[26]: {{page.q}}=3995 "canary, canaries (n.) 1:  variety of sweet wine from the Canary Islands"
+[27]: {{page.q}}=13246 "put down (v.):  crush, defeat, put to silence"
+
+
+**SIR ANDREW**
+
+Never in your life, I think, unless you see
+canary put me down. [Methinks][28] sometimes I have no
+more [wit][29] than a Christian or an ordinary man has; but I
+am a great eater of beef, and I believe that does harm to
+my wit.
+
+[28]: {{page.q}}=10439 "methinks(t), methought(s) (v.):  it seems /seemed to me"
+[29]: {{page.q}}=7583 "wit (n.) 1:  intelligence, wisdom, good sense, mental ability"
+
+
+**SIR TOBY**
+
+No question.
+
+
+
+**SIR ANDREW**
+
+An I thought that, I'd [forswear][30] it. I'll ride
+home tomorrow, Sir Toby.
+
+[30]: {{page.q}}=19977 "forswear (v), past forms forsworn, forswore 2:  abandon, renounce, reject, give up"
+
+
+**SIR TOBY**
+
+_Pourquoi_
+
+
+
+**SIR ANDREW**
+
+_pourquoi_
+had bestowed that time in the tongues that I have in
+fencing, dancing, and bear-baiting. O, had I but followed
+the arts!
+
+
+
+**SIR TOBY**
+
+Then hadst thou had an excellent head of hair.
+
+
+
+**SIR ANDREW**
+
+Why, would that have mended my hair?
+
+
+
+**SIR TOBY**
+
+Past question, for thou seest it will not curl by
+nature.
+
+
+
+**SIR ANDREW**
+
+But it [become][31]s me well enough, does't not?
+
+[31]: {{page.q}}=1514 "become (v.) 2:  grace, honour, dignify"
+
+
+**SIR TOBY**
+
+Excellent, it hangs like flax on a [distaff][32]; and I
+hope to see a [huswife][33] take thee between her legs and
+spin it off.
+
+[32]: {{page.q}}=8895 "distaff (n.):  device for weaving, spindle"
+[33]: {{page.q}}=18526 "housewife, huswife (n.):  [pron: 'husif] hussy, wanton, minx"
+
+
+**SIR ANDREW**
+
+Faith, I'll home tomorrow, Sir Toby. Your
+niece will not be seen, or if she be, it's four to one she'll
+none of me; the Count himself, here [hard][34] by, woos her.
+
+[34]: {{page.q}}=18213 "hard (adv.) 1:  close, near"
+
+
+**SIR TOBY**
+
+She'll none o'the Count; she'll not [match][35] above
+her [degree][36], neither in [estate][37], years, nor [wit][38]. I have heard
+her swear't. Tut, there's life in't, man.
+
+[35]: {{page.q}}=10866 "match (v.) 1:  join in marriage, make a match"
+[36]: {{page.q}}=8590 "degree (n.) 1:  rank, station, standing"
+[37]: {{page.q}}=9654 "estate (n.) 2:  high rank, standing, status"
+[38]: {{page.q}}=7583 "wit (n.) 1:  intelligence, wisdom, good sense, mental ability"
+
+
+**SIR ANDREW**
+
+I'll stay a month longer. I am a fellow o'the
+strangest mind i'the world. I delight in masques and
+revels sometimes altogether.
+
+
+
+**SIR TOBY**
+
+Art thou good at these [kickshaw][39]ses, knight?
+
+[39]: {{page.q}}=19051 "kickshaw (n.) 1:  trifle, triviality, worthless distraction"
+
+
+**SIR ANDREW**
+
+As any man in Illyria, whatsoever he be,
+under the [degree][40] of my betters, and yet I will not compare
+with an [old][41] man.
+
+[40]: {{page.q}}=8590 "degree (n.) 1:  rank, station, standing"
+[41]: {{page.q}}=11923 "old (adj.) 6:  experienced, practised, skilled"
+
+
+**SIR TOBY**
+
+What is thy excellence in a [galliard][42], knight?
+
+[42]: {{page.q}}=17967 "galliard (n.):  type of lively, high-spirited dance"
+
+
+**SIR ANDREW**
+
+Faith, I can cut a [caper][43].
+
+[43]: {{page.q}}=4039 "caper, cut a:  perform a leap in which the feet are kicked together in the air"
+
+
+**SIR TOBY**
+
+And I can cut the mutton to't.
+
+
+
+**SIR ANDREW**
+
+And I think I have the [back-trick][44], simply as
+strong as any man in Illyria.
+
+[44]: {{page.q}}=1361 "back-trick (n.):  type of backwards dance leap"
+
+
+**SIR TOBY**
+
+Wherefore are these things hid? Wherefore
+have these gifts a curtain before 'em? Are they like to
+take dust, like Mistress Mall's picture? Why dost thou
+not go to church in a [galliard][45] and come home in a
+[coranto][46]? My very walk should be a [jig][47]. I would not so
+much as make water but in a [sink-apace][48]. What dost thou
+mean? Is it a world to hide virtues in? I did think by
+the excellent [constitution][49] of thy leg it was formed under
+the star of a galliard.
+
+[45]: {{page.q}}=17967 "galliard (n.):  type of lively, high-spirited dance"
+[46]: {{page.q}}=3625 "coranto (n.):  lively dance with quick running steps"
+[47]: {{page.q}}=18970 "jig (n.):  lively song; frivolous dance"
+[48]: {{page.q}}=2637 "cinquepace (n.):  five-step capering dance"
+[49]: {{page.q}}=4760 "constitution (n.) 2:  construction, make-up, frame"
+
+
+**SIR ANDREW**
+
+Ay, 'tis strong, and it does indifferent well in
+a [dun][50]-coloured [stock][51]. Shall we set about some revels?
+
+[50]: {{page.q}}=9184 "dun (adj.) 2:  grey-brown"
+[51]: {{page.q}}=15596 "stock (n.) 3:  stocking"
+
+
+**SIR TOBY**
+
+What shall we do else? Were we not born under
+Taurus?
+
+
+
+**SIR ANDREW**
+
+Taurus? That's sides and heart.
+
+
+
+**SIR TOBY**
+
+No, sir, it is legs and thighs. Let me see thee
+[caper][52]. Ha! Higher! Ha! Ha! Excellent!
+_Exeunt_
+
+[52]: {{page.q}}=4015 "caper (v.) 2:  dance with joy, leap with delight"

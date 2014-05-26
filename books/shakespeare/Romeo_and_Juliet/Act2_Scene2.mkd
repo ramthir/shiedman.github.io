@@ -1,0 +1,573 @@
+---
+title: Romeo and Juliet
+tagline: Act II - Scene II
+category: play
+author: shakespeare
+date: 2014-05-26 13:55:56 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act2_scene2.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+**ROMEO**
+
+_(coming forward)_
+He jests at scars that never felt a wound.
+_Enter Juliet above_
+But, soft! What light through yonder window breaks?
+It is the East, and Juliet is the sun!
+Arise, fair sun, and kill the [envious][1] moon,
+Who is already sick and pale with grief
+That thou her maid art far more fair than she.
+Be not her maid, since she is [envious][2].
+Her [vestal][5] [livery][3] is but [sick][4] and green,
+And none but fools do wear it. Cast it off.
+It is my lady, O, it is my love!
+O that she knew she were!
+She speaks. Yet she says nothing. What of that?
+Her eye discourses. I will answer it.
+I am too bold. 'Tis not to me she speaks.
+Two of the fairest [star][6]s in all the heaven,
+Having some [business][7], do entreat her eyes
+To twinkle in their [sphere][8]s till they return.
+What if her eyes were there, they in her head?
+The brightness of her cheek would shame those stars
+As daylight doth a lamp. Her eyes in heaven
+Would through the airy [region][9] stream so bright
+That birds would sing and think it were not night.
+See how she leans her cheek upon her hand!
+O that I were a glove upon that hand,
+That I might touch that cheek!
+
+[1]: {{page.q}}=9645 "envious (adj.): malicious, spiteful, vindictive, full of enmity"
+[2]: {{page.q}}=9645 "envious (adj.): malicious, spiteful, vindictive, full of enmity"
+[3]: {{page.q}}=19153 "livery (n.) 1: uniform, costume, special clothing"
+[4]: {{page.q}}=16435 "sick (adj.) 7: pale, wan, of a sickly hue"
+[5]: {{page.q}}=7458 "vestal (adj.) 2: virgin"
+[6]: {{page.q}}=15976 "star (n.) 1: planet"
+[7]: {{page.q}}=2143 "business (n.) 2: mission, errand, purpose"
+[8]: {{page.q}}=15747 "sphere (n.) 1: celestial globe in which a heavenly body was thought to move, orbit"
+[9]: {{page.q}}=16596 "region (n.) 1: sky, air, heavens"
+
+
+**JULIET**
+
+Ay me!
+
+
+
+**ROMEO**
+
+She speaks.
+O, speak again, bright angel! – for thou art
+As glorious to this night, being o'er my head
+As is a winged messenger of heaven
+Unto the white-upturned wondering eyes
+Of mortals that fall back to gaze on him
+When he bestrides the lazy, [puffing][10] clouds
+And sails upon the [bosom][11] of the air.
+
+[10]: {{page.q}}=13445 "puffing (adj.): puffed-out, swollen, swelling"
+[11]: {{page.q}}=2363 "bosom (n.) 6: surface"
+
+
+**JULIET**
+
+O Romeo, Romeo! – wherefore art thou Romeo?
+[Deny][12] thy father and [refuse][13] thy name.
+Or, if thou wilt not, be but sworn my love,
+And I'll no longer be a Capulet.
+
+[12]: {{page.q}}=8652 "deny (v.) 4: disown, disavow, renounce"
+[13]: {{page.q}}=17212 "refuse (v.): spurn, disown, cast off"
+
+
+**ROMEO**
+
+_(aside)_
+Shall I hear more, or shall I speak at this?
+
+
+
+**JULIET**
+
+'Tis but thy name that is my enemy.
+Thou art thyself, though not a Montague.
+What's Montague? It is nor hand nor foot
+Nor arm nor face nor any other part
+Belonging to a man. O, be some other name!
+What's in a name? That which we call a rose
+By any other word would smell as sweet.
+So Romeo would, were he not Romeo called,
+Retain that dear perfection which he [owe][14]s
+Without that title. Romeo, [doff][15] thy name;
+And for thy name, which is no part of thee,
+Take all myself.
+
+[14]: {{page.q}}=11935 "owe (v.) 1: own, possess, have"
+[15]: {{page.q}}=8957 "doff (v.): throw off, get rid of, do away with"
+
+
+**ROMEO**
+
+I take thee at thy word.
+Call me but love, and I'll be new baptized.
+Henceforth I never will be Romeo.
+
+
+
+**JULIET**
+
+What man art thou that, thus [bescreen][16]ed in night,
+So stumblest on my [counsel][17]?
+
+[16]: {{page.q}}=1742 "bescreen (v.): hide from sight, cover up"
+[17]: {{page.q}}=3777 "counsel (n.) 8: private reflection, self-communing"
+
+
+**ROMEO**
+
+By a name
+I know not how to tell thee who I am.
+My name, dear saint, is [hateful][18] to myself,
+Because it is an enemy to thee.
+Had I it written, I would tear the word.
+
+[18]: {{page.q}}=18742 "hateful (adj.) 2: repulsive, obnoxious, incompatible [with]"
+
+
+**JULIET**
+
+My ears have yet not drunk a hundred words
+Of thy tongue's uttering, yet I know the sound.
+Art thou not Romeo, and a Montague?
+
+
+
+**ROMEO**
+
+Neither, fair saint, if either thee [dislike][19].
+
+[19]: {{page.q}}=9053 "dislike (v.) 1: upset, displease, offend"
+
+
+**JULIET**
+
+How camest thou hither, tell me, and wherefore?
+The [orchard][20] walls are high and hard to climb,
+And the place death, considering who thou art,
+If any of my kinsmen find thee here.
+
+[20]: {{page.q}}=11618 "orchard (n.): garden"
+
+
+**ROMEO**
+
+With love's light wings did I [o'erperch][21] these walls.
+For stony limits cannot hold love out,
+And what love can do, that dares love attempt.
+Therefore thy kinsmen are no stop to me.
+
+[21]: {{page.q}}=12013 "overperch (v.): fly over, surmount"
+
+
+**JULIET**
+
+If they do see thee, they will murder thee.
+
+
+
+**ROMEO**
+
+Alack, there lies more peril in thine eye
+Than twenty of their swords! Look thou but sweet,
+And I am proof against their enmity.
+
+
+
+**JULIET**
+
+I would not for the world they saw thee here.
+
+
+
+**ROMEO**
+
+I have night's cloak to hide me from their eyes.
+And but thou love me, let them find me here.
+My life were better ended by their hate
+Than death [prorogue][23]d, [wanting][22] of thy love.
+
+[22]: {{page.q}}=7539 "want (v.) 1: lack, need, be without"
+[23]: {{page.q}}=12325 "prorogue (v.) 1: postpone, delay, defer"
+
+
+**JULIET**
+
+By whose direction foundest thou out this place?
+
+
+
+**ROMEO**
+
+By love, that first did prompt me to inquire.
+He lent me counsel, and I lent him eyes.
+I am no pilot; yet, wert thou as far
+As that vast shore washed with the farthest sea,
+I would [adventure][24] for such merchandise.
+
+[24]: {{page.q}}=873 "adventure (v.): venture, dare, chance, risk"
+
+
+**JULIET**
+
+Thou knowest the mask of night is on my face,
+[Else][26] would a maiden blush [bepaint][25] my cheek
+For that which thou hast heard me speak tonight.
+[Fain][28] would I [dwell][27] on [form][29] – fain, fain deny
+What I have spoke. But farewell [compliment][30]!
+Dost thou love me? I know thou wilt say ‘ Ay.’
+And I will take thy word. Yet, if thou swearest,
+Thou mayst prove [false][31]. At lovers' perjuries,
+They say, Jove laughs. O [gentle][32] Romeo,
+If thou dost love, pronounce it faithfully.
+Or if thou thinkest I am too quickly won,
+I'll frown, and be perverse, and say thee nay,
+So thou wilt woo. But else, not for the world.
+In truth, fair Montague, I am too [fond][33],
+And therefore thou mayst think my '[haviour][34] [light][35].
+But trust me, gentleman, I'll prove more true
+Than those that have more [cunning][36] to be strange.
+I should have been more [strange][37], I must confess,
+But that thou overheardest, ere I was [ware][38],
+My true-love passion. Therefore pardon me,
+And not impute this [yielding][40] to [light][39] love,
+Which the dark night hath so [discover][41]ed.
+
+[25]: {{page.q}}=1743 "bepaint (v.): cover over, colour, tinge"
+[26]: {{page.q}}=9622 "else (adv.) 1: otherwise"
+[27]: {{page.q}}=9324 "dwell on / upon 1: preserve, maintain, pay attention to"
+[28]: {{page.q}}=19773 "fain (adv.): gladly, willingly"
+[29]: {{page.q}}=20265 "form (n.) 6: formal procedure, due process, formality"
+[30]: {{page.q}}=3179 "compliment, complement (n.) 2: ceremony, etiquette, protocol"
+[31]: {{page.q}}=19969 "false (adj.) 2: disloyal, faithless, inconstant, unfaithful"
+[32]: {{page.q}}=17496 "gentle (adj.) 2: courteous, friendly, kind"
+[33]: {{page.q}}=19981 "fond (adj.) 4: infatuated, doting, passionate"
+[34]: {{page.q}}=18145 "haviour (n.): behaviour, manner, demeanour"
+[35]: {{page.q}}=15367 "light (adj.) 6: facile, frivolous, of no consequence"
+[36]: {{page.q}}=2840 "cunning (n.) 3: deviousness, deceit, craftiness, artfulness"
+[37]: {{page.q}}=15811 "strange (adj.) 7: aloof, distant, reserved"
+[38]: {{page.q}}=7546 "ware (adj.) 1: aware, conscious, sensible"
+[39]: {{page.q}}=15367 "light (adj.) 6: facile, frivolous, of no consequence"
+[40]: {{page.q}}=8281 "yielding (n.): consent, compliance, agreement"
+[41]: {{page.q}}=8538 "discover (v.) 1: reveal, show, make known"
+
+
+**ROMEO**
+
+Lady, by yonder blessed moon I vow,
+That tips with silver all these fruit-tree tops –
+
+
+
+**JULIET**
+
+O, swear not by the moon, th' inconstant moon,
+That monthly changes in her [circled][42] [orb][43],
+Lest that thy love prove likewise variable.
+
+[42]: {{page.q}}=3778 "circled (adj.) 1: in a circular motion, encircling"
+[43]: {{page.q}}=11830 "orb (n.) 2: sphere, orbit, circle"
+
+
+**ROMEO**
+
+What shall I swear by?
+
+
+
+**JULIET**
+
+Do not swear at all.
+Or, if thou wilt, swear by thy gracious self,
+Which is the god of my idolatry,
+And I'll believe thee.
+
+
+
+**ROMEO**
+
+If my heart's dear love –
+
+
+
+**JULIET**
+
+Well, do not swear. Although I [joy][44] in thee,
+I have no joy of this contract tonight.
+It is too rash, too [unadvised][45], too sudden;
+Too like the lightning, which doth cease to be
+Ere one can say ‘ It lightens.’ Sweet, good night!
+This bud of love, by summer's ripening breath,
+May prove a beauteous flower when next we meet.
+Good night, good night! As sweet repose and rest
+Come to thy heart as that within my breast!
+
+[44]: {{page.q}}=18888 "joy (v.) 1: feel joy, be happy, rejoice"
+[45]: {{page.q}}=6740 "unadvised (adj.): rash, foolhardy, thoughtless, unconsidered"
+
+
+**ROMEO**
+
+O, wilt thou leave me so unsatisfied?
+
+
+
+**JULIET**
+
+What satisfaction canst thou have tonight?
+
+
+
+**ROMEO**
+
+Th' exchange of thy love's faithful vow for mine.
+
+
+
+**JULIET**
+
+I gave thee mine before thou didst request it.
+And yet I would it were to give again.
+
+
+
+**ROMEO**
+
+Wouldst thou withdraw it? For what purpose, love?
+
+
+
+**JULIET**
+
+But to be [frank][46] and give it thee again.
+And yet I wish but for the thing I have.
+My [bounty][47] is as boundless as the sea,
+My love as deep. The more I give to thee,
+The more I have, for both are infinite.
+I hear some noise within. Dear love, adieu!
+_Nurse calls within_
+Anon, good Nurse! – Sweet Montague, be true.
+Stay but a little, I will come again.
+_Exit Juliet_
+
+[46]: {{page.q}}=20683 "frank (adj.) 1: generous, liberal, bounteous"
+[47]: {{page.q}}=1909 "bounty (n.) 1: great generosity, gracious liberality, munificence"
+
+
+**ROMEO**
+
+O blessed, blessed night! I am [afeard][48],
+Being in night, all this is but a dream,
+Too [flattering-sweet][49] to be [substantial][50].
+_Enter Juliet above_
+
+[48]: {{page.q}}=10 "afeard (adj.): afraid, frightened, scared"
+[49]: {{page.q}}=20597 "flattering-sweet (adj.): sweetly appealing, enticingly delightful"
+[50]: {{page.q}}=16006 "substantial (adj.) 1: real, of substance, not imaginary"
+
+
+**JULIET**
+
+Three words, dear Romeo, and good night indeed.
+If that thy [bent][51] of love be honourable,
+Thy [purpose][52] marriage, send me word tomorrow,
+By one that I'll [procure][53] to come to thee,
+Where and what time thou wilt perform the rite,
+And all my fortunes at thy foot I'll lay
+And follow thee my lord throughout the world.
+
+[51]: {{page.q}}=1490 "bent (n.) 1: direction, turning, inclination"
+[52]: {{page.q}}=12449 "purpose (n.) 1: intention, aim, plan"
+[53]: {{page.q}}=13435 "procure (v.) 1: bring, induce, make come"
+
+
+**NURSE**
+
+_(within)_
+Madam!
+
+
+
+**JULIET**
+
+I come, [anon][54] – But if thou meanest not well,
+I do beseech thee –
+
+[54]: {{page.q}}=30 "anon (adv.) 1: soon, shortly, presently"
+
+
+**NURSE**
+
+_(within)_
+Madam!
+
+
+
+**JULIET**
+
+By and by I come –
+To cease thy [strife][55] and leave me to my grief.
+Tomorrow will I send.
+
+[55]: {{page.q}}=15807 "strife (n.): striving, endeavour, strong effort"
+
+
+**ROMEO**
+
+So thrive my soul –
+
+
+
+**JULIET**
+
+A thousand times good night!
+_Exit Juliet_
+
+
+
+**ROMEO**
+
+A thousand times the worse, to [want][56] thy light!
+Love goes toward love as schoolboys from their books;
+But love from love, toward school with [heavy][57] looks.
+_Enter Juliet above again_
+
+[56]: {{page.q}}=7539 "want (v.) 1: lack, need, be without"
+[57]: {{page.q}}=18220 "heavy (adj.) 1: sorrowful, sad, gloomy"
+
+
+**JULIET**
+
+Hist! Romeo, hist! O for a falconer's voice,
+To lure this [tassel-gentle][58] back again!
+Bondage is hoarse and may not speak aloud,
+Else would I tear the cave where Echo lies,
+And make her airy tongue more hoarse than mine
+With repetition of ‘ My Romeo!’
+
+[58]: {{page.q}}=6426 "tassel-gentle (n.): male peregrine falcon"
+
+
+**ROMEO**
+
+It is my soul that calls upon my name.
+How silver-sweet sound lovers' tongues by night,
+Like softest music to attending ears!
+
+
+
+**JULIET**
+
+Romeo!
+
+**ROMEO**
+
+My [nyas][59]?
+
+[59]: {{page.q}}=11530 "nyas: eyas, hawk nestling, young hawk"
+
+**JULIET**
+
+What o'clock tomorrow
+Shall I send to thee?
+
+
+
+**ROMEO**
+
+By the hour of nine.
+
+
+
+**JULIET**
+
+I will not fail. 'Tis twenty years till then.
+I have forgot why I did call thee back.
+
+
+
+**ROMEO**
+
+Let me stand here till thou remember it.
+
+
+
+**JULIET**
+
+I shall forget, to have thee [still][60] stand there,
+Remembering how I love thy company.
+
+[60]: {{page.q}}=14077 "still (adv.) 1: constantly, always, continually"
+
+
+**ROMEO**
+
+And I'll still stay, to have thee still forget,
+Forgetting any other home but this.
+
+
+
+**JULIET**
+
+'Tis almost morning. I would have thee gone.
+And yet no farther than a [wanton][61]'s bird,
+That lets it hop a little from her hand,
+Like a poor prisoner in his twisted [gyve][62]s,
+And with a silken thread plucks it back again,
+So loving-jealous of his liberty.
+
+[61]: {{page.q}}=7661 "wanton (n.) 5: young rogue, scamp, rascal"
+[62]: {{page.q}}=17570 "gyve (n.) 1: (plural) fetters, shackles"
+
+
+**ROMEO**
+
+I would I were thy bird.
+
+
+
+**JULIET**
+
+Sweet, so would I.
+Yet I should kill thee with much cherishing.
+Good night, good night! Parting is such sweet sorrow
+That I shall say goodnight till it be [morrow][63].
+_Exit Juliet_
+
+[63]: {{page.q}}=10890 "morrow (n.): morning"
+
+
+**ROMEO**
+
+Sleep dwell upon thine eyes, peace in thy breast!
+Would I were sleep and peace, so sweet to rest!
+The grey-eyed [morn][64] smiles on the frowning night,
+Chequering the eastern clouds with streaks of light,
+And darkness [fleckled][65] like a drunkard reels
+From forth day's pathway made by Titan's wheels.
+Hence will I to my [ghostly][69] Friar's [close][67] [cell][66],
+His help to [crave][68] and my dear [hap][70] to tell.
+_Exit_
+
+[64]: {{page.q}}=10474 "morn (n.): morning, dawn"
+[65]: {{page.q}}=20598 "fleckled (adj.): dappled, flecked, speckled"
+[66]: {{page.q}}=4172 "cell (n.): small humble dwelling"
+[67]: {{page.q}}=3143 "close (adj.) 2: private, secluded, sequestered"
+[68]: {{page.q}}=2904 "crave (v.) 1: beg, entreat, request"
+[69]: {{page.q}}=17917 "ghostly (adj.): spiritual, holy"
+[70]: {{page.q}}=15268 "hap (n.) 1: fortune, lot, fate"
+
+

@@ -1,0 +1,91 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act II - Scene VI
+category: play
+author: shakespeare
+source: http://www.shakespeareswords.com/Plays.aspx?Ac=2&SC=6&IdPlay=5
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act2_scene6.html
+layout: book_page
+tag: [ shakespeare ]
+creation: 1589-1593
+date: 2014-03-28 09:12:00 +0800
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+Enter Proteus
+
+
+**PROTEUS**
+
+To leave my Julia, shall I be forsworn;
+To love fair Silvia, shall I be [forsworn][1];
+To wrong my friend, I shall be much forsworn.
+And e'en that [power][2] which gave me first my oath
+Provokes me to this threefold perjury:
+Love bade me swear, and Love bids me forswear.
+O [sweet-suggesting][3] Love, if thou hast sinned,
+Teach me, thy tempted subject, to excuse it!
+At first I did adore a twinkling star,
+But now I worship a celestial sun.
+[Unheedful][5] vows may [heedfully][4] be broken;
+And he [want][7]s [wit][9] that wants [resolved][6] [will][8]
+To [learn][10] his wit t' exchange the bad for better.
+Fie, fie, [unreverend][11] tongue, to call her bad
+Whose [sovereignty][13] so [oft][12] thou hast preferred
+With twenty thousand soul-confirming oaths!
+I cannot [leave][14] to love, and yet I do;
+But there I leave to love where I should love.
+Julia I lose, and Valentine I lose;
+If I keep them, I needs must lose myself;
+If I lose them, thus find I by their loss:
+For Valentine, myself; for Julia, Silvia.
+I to myself am dearer than a friend,
+For love is [still][15] most precious in itself;
+And Silvia – witness heaven, that made her fair! –
+Shows Julia but a swarthy [Ethiop][16]e.
+I will forget that Julia is alive,
+Remembering that my love to her is dead;
+And Valentine I'll hold an enemy,
+Aiming at Silvia as a sweeter [friend][17].
+I cannot now prove constant to myself
+Without some treachery used to Valentine.
+This night he meaneth with a corded ladder
+To climb celestial Silvia's chamber-window,
+Myself in counsel, his [competitor][18].
+Now [presently][19] I'll give her father notice
+Of their disguising and [pretended][20] flight,
+Who, all enraged, will banish Valentine,
+For Thurio he intends shall wed his daughter;
+But Valentine being gone, I'll quickly [cross][21]
+By some sly trick [blunt][22] Thurio's [dull][23] proceeding.
+Love, lend me wings to make my [purpose][24] swift,
+As thou hast lent me [wit][26] to plot this [drift][25]!
+
+Exit
+
+[1]: {{page.q}}=19872  "forswear (v), past forms forsworn, forswore 1: swear falsely, perjure [oneself], break one's word"
+[2]: {{page.q}}=12546  "power (n.) 3: authority, government"
+[3]: {{page.q}}=15589  "sweet-suggesting (adj.): sweetly tempting, seductive, irresistable"
+[4]: {{page.q}}=18404  "heedfully (adv.) 1: attentively, carefully, conscientiously"
+[5]: {{page.q}}=6752  "unheedful (adj.): careless, heedless, irresponsible"
+[6]: {{page.q}}=16731  "resolved (adj.) 1: determined, settled, decided"
+[7]: {{page.q}}=7539  "want (v.) 1: lack, need, be without"
+[8]: {{page.q}}=8023  "will (n.) 3: wilfulness, self-will, determination"
+[9]: {{page.q}}=7583  "wit (n.) 1: intelligence, wisdom, good sense, mental ability"
+[10]: {{page.q}}=19111  "learn (v.) 1: teach, instruct [not a regional dialect usage as in modern English]"
+[11]: {{page.q}}=6986  "unreverend (adj.): irreverent, impertinent, impudent"
+[12]: {{page.q}}=11606  "oft (adv.): often"
+[13]: {{page.q}}=16138  "sovereignty (n.) 1: pre-eminence, greatest excellence"
+[14]: {{page.q}}=19112  "leave (v.) 1: cease, stop, give up"
+[15]: {{page.q}}=14077  "still (adv.) 1: constantly, always, continually"
+[16]: {{page.q}}=9659  "Ethiop, Ethiope (adj./n.): Ethiopian, African, person with a dark countenance"
+[17]: {{page.q}}=19922  "friend (n.) 1: lover, sweetheart, suitor"
+[18]: {{page.q}}=2984  "competitor (n.) 1: partner, associate, colleague"
+[19]: {{page.q}}=12248  "presently (adv.) 1: immediately, instantly, at once"
+[20]: {{page.q}}=12326  "pretended (adj.): intended, purposed, proposed"
+[21]: {{page.q}}=2829  "cross (v.) 1: prevent, thwart, forestall"
+[22]: {{page.q}}=1840  "blunt (adj.) 1: stupid, obtuse, dull-witted"
+[23]: {{page.q}}=8691  "dull (adj.) 6: obtuse, stupid"
+[24]: {{page.q}}=12449  "purpose (n.) 1: intention, aim, plan"
+[25]: {{page.q}}=8478  "drift (n.) 1: plan, intention, aim"
+[26]: {{page.q}}=7583  "wit (n.) 1: intelligence, wisdom, good sense, mental ability"

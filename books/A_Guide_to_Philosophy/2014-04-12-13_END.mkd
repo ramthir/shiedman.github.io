@@ -1,0 +1,76 @@
+---
+title: END
+book:
+    title: A Guide to Philosophy
+    author: Witold Gombrowicz
+category: philosophy
+permalink: /books/a_guide_to_philosophy/13_END.html
+date: 2014-04-13 01:32:00 +0800
+layout: book_page 
+---
+
+*Sunday, May 25*
+{: .text-right}
+
+####In giving the general characteristics of existentialism, I forgot a very important thing.####
+
+For classical philosophy, the philosopher was an observer who looked at life, but he was outside of life.
+{: .text-right}
+
+####Kierkegaard already attacked this attitude in saying that the philosopher is in life.####
+
+####Philosophy is an act of existence. It is too easy to consider the philosopher as a privileged being.####
+
+####In each philosophy, there is a fundamental choice which is arbitrary, and everything else, system, reasoning, only serve to justify this choice—to prove that it responds to reality. This *idea of the fundamental choice,* arbitrary, was taken up again by Sartre: it is an act of freedom by our faculty for creating values.####
+
+####And this fundamental choice in Sartre can go as far as the choice of negation as value: if I choose death and not life, everything that leads me to death, for example, the lack of food—becomes a positive value. Moreover, it is for this reason that Sartre was so interested in Genet, because Genet chose evil; naturally this is a foolish thing, because every police chief knows quite well that Genet did not choose anything. He started with some petty thefts, etc., and so he became a thief by an imperceptible mechanism, minute by minute. This fundamental choice establishes what they call *existential psychoanalysis.*####
+
+I return to this important point about existentialism: *the philosopher is in life,* one of the major currents of our thinking during the 19th century.
+
+The path of this Western thought could be defined by the great questions it asked.
+
+1. The reduction of thought. Thought for Kant becomes conscious of its limits. It already knows that one cannot demonstrate, for example, the existence of God, but that it is just as impossible to demonstrate that God does not exist.
+
+Through the consecutive reductions of Feuerbach, of Marx (consciousness as a function of life, “being defines consciousness”), the phenomenological reduction of Husserl, where already philosophy does not seek the reality of things nor the truth, but only a kind of putting in order of the facts of our consciousness, and finally the psychoanalytical reduction of Freud which, in my view, does not have much to do with these reductions, since it is of a scientific nature.
+
+Reduction is the dominant characteristic of the 19th century.
+
+2. The other problem is more difficult, that of life, of *becoming.*
+
+Philosophy, before Hegel, claimed to describe a fixed world in a state of stability where the notion of movement, of becoming, surely was disturbing (already in Greek philosophy), but was not the fundamental problem.
+
+Now Hegel is the philosophy of becoming.
+
+It is the idea of an imperfection of reason which is in the process of moving ahead, of developing.
+
+Schopenhauer links thought to life even more directly, but at the same time he establishes a principle of contemplation, of renunciation, by which one can, so to speak, evade or kill life.
+
+Existentialism *gets bogged down in life.* It is in existence, but it also considers itself to be a vital act (curious thing).
+
+What is the phenomenology of Husserl? It derives from mathematics.
+
+Husserl was a logician and mathematician. His phenomenology is a kind of classification of the facts of consciousness. Now, it is curious that this spiritual algebra of Husserl was used above all by Heidegger for existentialism, which is the complete opposite of Husserlien phenomenology.
+
+These abstract concepts still persist in thought nowadays (that of Aristotle, Catholic, etc.). Now, through a dialectical opposition, *[words missing]* is breaking out against existentialism, in structuralism.
+
+(Gombrowicz finds his bearings, geography of philosophy.)
+
+Structuralism is a difficult thing to define because it originates in different regions of thought. It is both the fruit of mathematical thought, like the linguistic studies of Saussure, and *[sentence incomplete*] and in the sociology of Lévi-Strauss and even [the *text breaks off here*].
+
+About the author
+================
+
+The works of the Polish novelist and playwright Witold Gombrowicz (1904—1969) were deemed scandalous and subversive by Nazis, Stalinists, and the Polish Communist government in turn. Gombrowicz spent twenty-four years in self-imposed exile in Argentina, returned to Europe in 1963, and eventually settled on the French Riviera. His *Cours de philosophie en six heures un quart* began as lectures to his wife, Rita, and his good friend Dominique de Roux. De Roux had edited Gombrowicz’s autobiographical *A Kind of Testament,* and the two were so close that Gombrowicz once asked de Roux to get him a gun or some poison so that he could kill himself. De Roux, hoping to take his friend’s mind off the heart problems that were eventually to kill him, asked Gombrowicz for lessons in philosophy. According to Rita Gombrowicz, “Dominique understood full well that only philosophy, in this moment of physical decadence, had the power to mobilize his spirit.” This first published English translation of *A Guide to Philosophy in Six Hours and Fifteen Minutes *retains the anonymous footnotes and textual gaps of the original French publication.
+
+
+
+[^5]: In this passage, *corpusculaire* and *ondulatoire,* respectively, refer to “particles” and “waves,” properties of light in physics. [Translator’s note.]
+
+
+[^6]: Stefan Zeromski (1864 -1925), Polish novelist and dramatist.
+
+Isa Neyman was a friend of Gombrowicz’s who sometimes attended his philosophy lectures.
+
+[^7]: Kant’s hometown, Königsberg (today, Kaliningrad, Russia), was claimed by the Poles, who called it Królewiec. Schopenhauer was from Danzig, which was also claimed by the Poles under the name of Gdánsk. Nietzsche, as well, even though born in Röcken in Prussian Saxony, was deluded by the idea, apparently unfounded, that his ancestors were Polish noblemen (“I am a pure-blooded Polish gentleman,” *Ecce Homo,* 1888).
+
+    Gombrowicz’s wife, Rita, is Canadian.

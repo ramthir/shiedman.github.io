@@ -1,0 +1,841 @@
+---
+title: Romeo and Juliet
+tagline: Act I - Scene I
+category: play
+author: shakespeare
+date: 2014-05-26 13:36:04 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act1_scene1.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Sampson and Gregory, with swords and [bucklers][1], of the house of Capulet_
+
+**SAMPSON**
+
+Gregory, on my word, we'll not carry [coals][2].
+
+[1]: {{page.q}}=1974 "buckler (n.): small round shield"
+[2]: {{page.q}}=3769 "coals, carry: submit to insult, show cowardice; also: do degrading work"
+
+
+**GREGORY**
+
+No. For then we should be [collier][3]s.
+
+[3]: {{page.q}}=3660 "collier (n.): coalman, coal-vendor"
+
+
+**SAMPSON**
+
+I mean, an we be in [choler][4], we'll [draw][5].
+
+[4]: {{page.q}}=4301 "choler (n.): anger, rage, wrath"
+[5]: {{page.q}}=8910 "draw (v.) 10: draw a sword"
+
+
+**GREGORY**
+
+Ay, while you live, draw your neck out of [collar][6].
+
+[6]: {{page.q}}=3770 "collar, colour (n.): noose, hangman's halter"
+
+
+**SAMPSON**
+
+I strike quickly, being [move][7]d.
+
+[7]: {{page.q}}=10634 "move (v.) 2: move to anger, provoke, exasperate"
+
+
+**GREGORY**
+
+But thou art not quickly moved to strike.
+
+
+
+**SAMPSON**
+
+A dog of the house of Montague moves me.
+
+
+
+**GREGORY**
+
+To move is to stir, and to be valiant is to stand.
+Therefore, if thou art moved, thou runnest away.
+
+
+
+**SAMPSON**
+
+A dog of that house shall move me to stand. I
+will take the [wall][8] of any man or maid of Montague's.
+
+[8]: {{page.q}}=5795 "wall, take the: take the inside position, keep to the cleaner side of a path"
+
+
+**GREGORY**
+
+That shows thee a weak slave. For the weakest
+goes to the wall.
+
+
+
+**SAMPSON**
+
+'Tis true; and therefore women, being the
+weaker [vessel][9]s, are ever thrust to the wall. Therefore I
+will push Montague's men from the wall, and thrust his
+maids to the wall.
+
+[9]: {{page.q}}=7363 "vessel (n.): body, frame"
+
+
+**GREGORY**
+
+The quarrel is between our masters and us
+their men.
+
+
+
+**SAMPSON**
+
+'Tis all one. I will show myself a tyrant. When
+I have fought with the men, I will be cruel with the
+maids – I will cut off their heads.
+
+
+
+**GREGORY**
+
+The heads of the maids?
+
+
+
+**SAMPSON**
+
+Ay, the heads of the maids, or their [maidenhead][10]s.
+Take it in what sense thou wilt.
+
+[10]: {{page.q}}=10517 "maidenhead (n.) 1: virginity"
+
+
+**GREGORY**
+
+They must take it in sense that feel it.
+
+
+
+**SAMPSON**
+
+Me they shall feel while I am able to stand: and
+'tis known I am a pretty piece of flesh.
+
+
+
+**GREGORY**
+
+'Tis well thou art not fish; if thou hadst, thou
+hadst been [poor John][11]. Draw thy [tool][12]. Here comes of
+the house of Montagues.
+_Enter Abram and another Servingman_
+
+[11]: {{page.q}}=12979 "poor-John (n.): salted hake, dried fish"
+[12]: {{page.q}}=6069 "tool (n.) 1: weapon, sword"
+
+
+**SAMPSON**
+
+My naked weapon is out. Quarrel. I will back
+thee.
+
+
+
+**GREGORY**
+
+How? Turn thy back and run?
+
+
+
+**SAMPSON**
+
+Fear me not.
+
+
+
+**GREGORY**
+
+No, marry. I fear thee!
+
+
+
+**SAMPSON**
+
+Let us take the law of our sides. Let them
+begin.
+
+
+
+**GREGORY**
+
+I will frown as I pass by, and let them take it as
+they [list][13].
+
+[13]: {{page.q}}=19149 "list (v.) 1: wish, like, please"
+
+
+**SAMPSON**
+
+Nay, as they dare. I will [bite][14] my thumb at them;
+which is disgrace to them if they bear it.
+
+[14]: {{page.q}}=1738 "bite one's thumb: [gesture of insult or defiance] insert the thumb nail into the mouth, making it click againt the upper teeth upon release"
+
+
+**ABRAM**
+
+Do you bite your thumb at us, sir?
+
+
+
+**SAMPSON**
+
+I do bite my thumb, sir.
+
+
+
+**ABRAM**
+
+Do you bite your thumb at us, sir?
+
+
+
+**SAMPSON**
+
+_(aside to Gregory)_
+Is the law of our side, if I say
+‘ Ay ’?
+
+
+
+**GREGORY**
+
+_(aside to Sampson)_
+No.
+
+
+
+**SAMPSON**
+
+No, sir, I do not bite my thumb at you, sir. But
+I bite my thumb, sir.
+
+
+
+**GREGORY**
+
+Do you quarrel, sir?
+
+
+
+**ABRAM**
+
+Quarrel, sir? No, sir.
+
+
+
+**SAMPSON**
+
+If you do, sir, I am for you. I serve as good
+a man as you.
+
+
+
+**ABRAM**
+
+No better.
+
+
+
+**SAMPSON**
+
+Well, sir.
+_Enter Benvolio_
+
+
+
+**GREGORY**
+
+_(aside to Sampson)_
+Say ‘ better.’ Here comes one
+of my master's kinsmen.
+
+
+
+**SAMPSON**
+
+Yes, better, sir.
+
+
+
+**ABRAM**
+
+You lie.
+
+
+
+**SAMPSON**
+
+Draw, if you be men. Gregory, remember thy
+[washing][15] blow.
+_They fight_
+
+[15]: {{page.q}}=5796 "washing (adj.): swashing, slashing"
+
+
+**BENVOLIO**
+
+Part, fools!
+Put up your swords. You know not what you do.
+_Enter Tybalt_
+
+
+
+**TYBALT**
+
+What, art thou drawn among these heartless hinds?
+Turn thee, Benvolio, look upon thy death.
+
+
+
+**BENVOLIO**
+
+I do but keep the peace. Put up thy sword,
+Or manage it to part these men with me.
+
+
+
+**TYBALT**
+
+What, [drawn][16], and talk of peace? I hate the word
+As I hate hell, all Montagues, and thee.
+Have at thee, coward!
+_They fight_
+_Enter three or four Citizens with clubs or partisans_
+
+[16]: {{page.q}}=8855 "drawn (adj.) 1: with sword drawn"
+
+
+**CITIZENS**
+
+Clubs, bills, and [partisan][17]s! Strike! Beat them
+down! Down with the Capulets! Down with the
+Montagues!
+_Enter old Capulet in his gown, and his wife_
+
+[17]: {{page.q}}=12153 "partisan (n.): weapon with a long handle and a broad head, sometimes with a projection at the side"
+
+
+**CAPULET**
+
+What noise is this? Give me my long sword, ho!
+
+
+
+**LADY CAPULET**
+
+A crutch, a crutch! Why call you for a sword?
+_Enter old Montague and his wife_
+
+
+
+**CAPULET**
+
+My sword, I say! Old Montague is come
+And flourishes his blade in [spite][18] of me.
+
+[18]: {{page.q}}=15568 "spite (n.) 2: malice, ill-will, hatred"
+
+
+**MONTAGUE**
+
+Thou villain Capulet! – Hold me not. Let me go.
+
+
+
+**LADY MONTAGUE**
+
+Thou shalt not stir one foot to seek a foe.
+_Enter Prince Escalus, with his train_
+
+
+
+**PRINCE**
+
+Rebellious subjects, enemies to peace,
+Profaners of this neighbour-stained steel, –
+Will they not hear? What, ho – you men, you beasts,
+That quench the fire of your pernicious rage
+With [purple][19] fountains issuing from your veins!
+On pain of torture, from those bloody hands
+Throw your [mistempered][20] weapons to the ground
+And hear the sentence of your [moved][21] prince.
+Three civil brawls, bred of an airy word
+By thee, old Capulet, and Montague,
+Have thrice disturbed the quiet of our streets
+And made Verona's [ancient][22] citizens
+[Cast][23] by their [grave-beseeming][24] [ornament][25]s
+To wield old partisans, in hands as old,
+[Cankered][27] with peace, to part your cankered hate.
+If ever you disturb our streets again,
+Your lives shall pay the forfeit of the peace.
+For this time all the rest depart away.
+You, Capulet, shall go along with me;
+And, Montague, come you this afternoon,
+To know our farther pleasure in this case,
+To old Free-town, our common judgement-place.
+Once more, on pain of death, all men depart.
+_Exeunt all but Montague, his wife, and Benvolio_
+
+[19]: {{page.q}}=13192 "purple (adj.): bright-red, blood-coloured, bloody"
+[20]: {{page.q}}=11097 "mistempered (adj.) 2: tempered for wickedness, made with evil intent"
+[21]: {{page.q}}=11098 "moved (adj.) 2: aroused, provoked, exasperated"
+[22]: {{page.q}}=419 "ancient, aunchient (adj.) 4: aged, very old, venerable"
+[23]: {{page.q}}=4246 "cast by (v.): throw aside, put to one side"
+[24]: {{page.q}}=18043 "grave-beseeming (adj.): suitably dignified, sober-looking"
+[25]: {{page.q}}=11705 "ornament (n.) 2: (plural) robes, garments, attire"
+[26]: {{page.q}}=3844 "cankered (adj.) 3: malignant, malicious, bad-tempered"
+[27]: {{page.q}}=4066 "cankered (adj.) 1: rusted, corroded, tarnished"
+
+
+**MONTAGUE**
+
+Who set this [ancient][29] quarrel new [abroach][28]?
+Speak, nephew, were you by when it began?
+
+[28]: {{page.q}}=878 "abroach (adv.): afoot, astir, in motion"
+[29]: {{page.q}}=225 "ancient, aunchient (adj.) 1: long-established, long-standing"
+
+
+**BENVOLIO**
+
+Here were the servants of your adversary,
+And yours, [close][30] fighting ere I did approach.
+I drew to part them. In the instant came
+The fiery Tybalt, with his sword prepared;
+Which, as he [breathe][31]d defiance to my ears,
+He swung about his head and cut the winds,
+Who nothing hurt withal, hissed him in scorn.
+While we were interchanging thrusts and blows,
+Came more and more, and fought on [part][32] and part,
+Till the Prince came, who parted either part.
+
+[30]: {{page.q}}=3427 "close (adv.) 5: close together"
+[31]: {{page.q}}=1807 "breathe (v.) 1: speak, utter, talk"
+[32]: {{page.q}}=13297 "part (n.) 2: side, camp, party"
+
+
+**LADY MONTAGUE**
+
+O where is Romeo? Saw you him today?
+Right glad I am he was not at this fray.
+
+
+
+**BENVOLIO**
+
+Madam, an hour before the worshipped sun
+Peered forth the golden window of the East,
+A troubled mind drive me to walk abroad;
+Where, underneath the grove of sycamore
+That westward [root][33]eth from this city side,
+So early walking did I see your son.
+Towards him I made. But he was [ware][34] of me
+And stole into the [covert][35] of the wood.
+I, measuring his [affection][36]s by my own,
+Which then most sought where most might not be found,
+Being one to many by my weary self,
+Pursued my [humour][37], not pursuing his,
+And gladly shunned who gladly fled from me.
+
+[33]: {{page.q}}=17309 "root (v.) 2: grow, be established, flourish"
+[34]: {{page.q}}=7546 "ware (adj.) 1: aware, conscious, sensible"
+[35]: {{page.q}}=3479 "covert (n.): shelter, hiding-place, concealed spot"
+[36]: {{page.q}}=98 "affection (n.) 1: fancy, inclination, desire"
+[37]: {{page.q}}=18215 "humour (n.) 2: fancy, whim, inclination, caprice"
+
+
+**MONTAGUE**
+
+Many a morning hath he there been seen
+With tears augmenting the fresh morning's dew,
+Adding to clouds more clouds with his deep sighs.
+But all so soon as the [all-cheering][38] sun
+Should in the farthest East begin to draw
+The shady curtains from Aurora's bed,
+Away from light steals home my [heavy][39] son
+And private in his chamber pens himself,
+Shuts up his windows, locks fair daylight out
+And makes himself an artificial night.
+Black and portentous must this [humour][40] prove,
+Unless good counsel may the cause remove.
+
+[38]: {{page.q}}=1236 "all-cheering (adj.): invigorating everything"
+[39]: {{page.q}}=18220 "heavy (adj.) 1: sorrowful, sad, gloomy"
+[40]: {{page.q}}=18215 "humour (n.) 2: fancy, whim, inclination, caprice"
+
+
+**BENVOLIO**
+
+My noble uncle, do you know the cause?
+
+
+
+**MONTAGUE**
+
+I neither know it nor can learn of him.
+
+
+
+**BENVOLIO**
+
+Have you [importune][41]d him by any means?
+
+[41]: {{page.q}}=4833 "importune (v.) 1: urge, press"
+
+
+**MONTAGUE**
+
+Both by myself and many other friends.
+But he, his own [affection][42]s' counsellor,
+Is to himself – I will not say how true –
+But to himself so secret and so close,
+So far from [sounding][43] and discovery,
+As is the bud bit with an [envious][44] worm
+Ere he can spread his sweet leaves to the air
+Or dedicate his beauty to the sun.
+Could we but learn from whence his sorrows grow,
+We would as willingly give cure as know.
+_Enter Romeo_
+
+[42]: {{page.q}}=11 "affection (n.) 2: emotion, feeling"
+[43]: {{page.q}}=16004 "sounding (n.) 2: sounding out, gauging depth, investigation"
+[44]: {{page.q}}=9645 "envious (adj.): malicious, spiteful, vindictive, full of enmity"
+
+
+**BENVOLIO**
+
+See, where he comes. So please you step aside.
+I'll know his [grievance][46], or be much [denied][45].
+
+[45]: {{page.q}}=8536 "deny (v.) 1: refuse, rebuff, reject"
+[46]: {{page.q}}=17862 "grievance (n.) 2: cause of annoyance, painful constraint, source of sorrow"
+
+
+**MONTAGUE**
+
+I would thou wert so happy by thy stay
+To hear true [shrift][47]. Come, madam, let's away.
+_Exeunt Montague and wife_
+
+[47]: {{page.q}}=15983 "shrift (n.) 1: confession"
+
+
+**BENVOLIO**
+
+Good [morrow][48], cousin.
+
+[48]: {{page.q}}=10890 "morrow (n.): morning"
+
+
+**ROMEO**
+
+Is the day so young?
+
+
+
+**BENVOLIO**
+
+But [new][49] struck nine.
+
+[49]: {{page.q}}=11292 "new (adv.) 1: newly, freshly, recently, just"
+
+
+**ROMEO**
+
+Ay me! [sad][50] hours seem long.
+Was that my father that went hence so fast?
+
+[50]: {{page.q}}=15557 "sad (adj.) 3: downcast, distressed, mournful, gloomy"
+
+
+**BENVOLIO**
+
+It was. What sadness lengthens Romeo's hours?
+
+
+
+**ROMEO**
+
+Not having that which having makes them short.
+
+
+
+**BENVOLIO**
+
+In love?
+
+
+
+**ROMEO**
+
+Out –
+
+
+
+**BENVOLIO**
+
+Of love?
+
+
+
+**ROMEO**
+
+Out of her favour where I am in love.
+
+
+
+**BENVOLIO**
+
+Alas that love, so [gentle][51] in his view,
+Should be so [tyrannous][53] and rough in [proof][52]!
+
+[51]: {{page.q}}=21269 "gentle (adj.) 6: soft, tender, kind"
+[52]: {{page.q}}=12271 "proof (n.) 2: experience, actual practice, tried knowledge"
+[53]: {{page.q}}=5511 "tyrannous (adj.): cruel, pitiless, oppressive"
+
+
+**ROMEO**
+
+Alas that love, whose view is [muffled][54], [still][55]
+Should without eyes see pathways to his will!
+Where shall we dine? O me, what fray was here?
+Yet tell me not, for I have heard it all.
+Here's much to-do with hate, but more with love.
+Why then, O [brawling][56] love, O loving hate,
+[O][59] anything, of nothing first create!
+O [heavy][58] lightness, serious [vanity][60],
+Misshapen chaos of [well-seeming][61] forms,
+Feather of lead, bright smoke, cold fire, sick health,
+Still-waking sleep, that is not what it is!
+This love feel I, that feel no love in this.
+Dost thou not laugh?
+
+[54]: {{page.q}}=10999 "muffled (adj.): blindfolded, covered up"
+[55]: {{page.q}}=14077 "still (adv.) 1: constantly, always, continually"
+[56]: {{page.q}}=2270 "brawling (adj.): clamorous, noisy, tumultuous"
+[57]: {{page.q}}=18156 "heavy (adj.) 2: grave, serious, weighty"
+[58]: {{page.q}}=18220 "heavy (adj.) 1: sorrowful, sad, gloomy"
+[59]: {{page.q}}=12115 "O (int.) 1: vocalization used before a direct address [to a person, thing, concept, etc]"
+[60]: {{page.q}}=7447 "vanity (n.) 1: worthlessness, futility, unprofitable way of life"
+[61]: {{page.q}}=8033 "well-seeming (adj.): attractively looking, presenting a plausible appearance"
+
+
+**BENVOLIO**
+
+No, coz, I rather weep.
+
+
+
+**ROMEO**
+
+Good [heart][62], at what?
+
+[62]: {{page.q}}=18709 "heart (n.) 5: [term of endearment] dear friend"
+
+
+**BENVOLIO**
+
+At thy good heart's oppression.
+
+
+
+**ROMEO**
+
+Why, such is love's transgression.
+Griefs of mine own lie heavy in my breast,
+Which thou wilt propagate, to have it pressed
+With more of thine. This love that thou hast shown
+Doth add more grief to too much of mine own.
+Love is a smoke made with the fume of sighs;
+Being [purge][63]d, a fire sparkling in lovers' eyes;
+Being vexed, a sea nourished with lovers' tears.
+What is it else? A madness most [discreet][64],
+A choking [gall][65] and a preserving [sweet][66].
+Farewell, my coz.
+
+[63]: {{page.q}}=12523 "purge (v.) 1: cleanse, purify, get rid of impurities [in]"
+[64]: {{page.q}}=8692 "discreet (adj.): discerning, judicious, prudent"
+[65]: {{page.q}}=17559 "gall (n.) 2: bitterness, spitefulness, vindictiveness"
+[66]: {{page.q}}=15968 "sweet (n.) 1: sweetness, pleasure, delight"
+[67]: {{page.q}}=14713 "soft (adv.) 1: [used as a command] not so fast, wait a moment"
+
+
+**BENVOLIO**
+
+[Soft][67]! I will go along.
+An if you leave me so, you do me wrong.
+
+
+
+**ROMEO**
+
+Tut, I have lost myself. I am not here.
+This is not Romeo, he's some other where.
+
+
+
+**BENVOLIO**
+
+Tell me in [sadness][68], who is that you love.
+
+[68]: {{page.q}}=16309 "sadness, in / in good: in earnest, seriously"
+
+
+**ROMEO**
+
+What, shall I groan and tell thee?
+
+
+
+**BENVOLIO**
+
+Groan! Why, no.
+But [sadly][69] tell me who.
+
+[69]: {{page.q}}=13907 "sadly (adv.) 1: seriously, gravely, solemnly"
+
+
+**ROMEO**
+
+Bid a sick man in sadness make his will.
+Ah, word [ill][71] urged to one that is so ill!
+In sadness, cousin, I do love a woman.
+
+[70]: {{page.q}}=5031 "ill (adj.) 4: sick, indisposed, unwell"
+[71]: {{page.q}}=4953 "ill (adv.) 1: badly, adversely, unfavourably"
+
+
+**BENVOLIO**
+
+I aimed so near when I supposed you loved.
+
+
+
+**ROMEO**
+
+A right good [markman][72]! And she's fair I love.
+
+[72]: {{page.q}}=11122 "markman (n.): marksman"
+
+
+**BENVOLIO**
+
+A right fair mark, fair coz, is soonest hit.
+
+
+
+**ROMEO**
+
+Well, in that [hit][73] you miss. She'll not be hit
+[Wit][74]h Cupid's arrow. She hath Dian's wit,
+And, in strong [proof][75] of chastity well armed,
+From love's weak childish bow she lives uncharmed.
+She will not [stay][76] the siege of loving [term][77]s,
+Nor [bide][79] th' encounter of [assailing][78] eyes,
+Nor [ope][80] her lap to saint-seducing gold.
+O, she is rich in beauty; only poor
+That, when she dies, with beauty dies her store.
+
+[73]: {{page.q}}=18721 "hit (n.): shot, stroke"
+[74]: {{page.q}}=7583 "wit (n.) 1: intelligence, wisdom, good sense, mental ability"
+[75]: {{page.q}}=12270 "proof (n.) 1: tested strength, proven power of resistance, impenetrability"
+[76]: {{page.q}}=15951 "stay (v.) 14: put up with, endure, abide"
+[77]: {{page.q}}=6232 "term (n.) 1: word, expression, utterance"
+[78]: {{page.q}}=1271 "assailing  (adj.): wooing, loving, amorous"
+[79]: {{page.q}}=2064 "bide (v.) 1: endure, suffer, undergo"
+[80]: {{page.q}}=11610 "ope (v.): open"
+
+
+**BENVOLIO**
+
+Then she hath sworn that she will [still][82] live [chaste][81]?
+
+[81]: {{page.q}}=4683 "chaste (adj.) 1: celibate, single, unmarried"
+[82]: {{page.q}}=14077 "still (adv.) 1: constantly, always, continually"
+
+
+**ROMEO**
+
+She hath; and in that [sparing][83] makes huge waste.
+For beauty, [starve][84]d with her severity,
+Cuts beauty off from all posterity.
+She is too fair, too wise, wisely too fair,
+To merit bliss by making me despair.
+She hath [forsworn][85] to love; and in that vow
+Do I live dead that live to tell it now.
+
+[83]: {{page.q}}=15969 "sparing (n.): economy, thrift, saving"
+[84]: {{page.q}}=16005 "starve (v.) 2: bring to death, kill off"
+[85]: {{page.q}}=19977 "forswear (v), past forms forsworn, forswore 2: abandon, renounce, reject, give up"
+
+
+**BENVOLIO**
+
+Be ruled by me – forget to think of her.
+
+
+
+**ROMEO**
+
+O, teach me how I should forget to think!
+
+
+
+**BENVOLIO**
+
+By giving liberty unto thine eyes.
+Examine other beauties.
+
+
+
+**ROMEO**
+
+'Tis the way
+To call hers, exquisite, in [question][86] more.
+These happy masks that kiss fair ladies' [brow][87]s,
+Being black, put us in mind they hide the fair.
+He that is strucken blind cannot forget
+The precious treasure of his eyesight lost.
+Show me a mistress that is [passing][88] fair,
+What doth her beauty serve but as a note
+Where I may read who [pass][89]ed that passing fair?
+Farewell. Thou canst not teach me to forget.
+
+[86]: {{page.q}}=13831 "question (n.) 3: consideration, contention"
+[87]: {{page.q}}=2299 "brow (n.) 4: forehead [often plural, referring to the two prominences of the forehead]"
+[88]: {{page.q}}=12159 "passing (adv.): very, exceedingly, extremely"
+[89]: {{page.q}}=12157 "pass (v.) 1: surpass, go beyond, outdo"
+
+
+**BENVOLIO**
+
+I'll pay that [doctrine][90], or else die in debt.
+_Exeunt_
+
+[90]: {{page.q}}=9584 "doctrine (n.) 2: precept, lesson"
+
+

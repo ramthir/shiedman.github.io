@@ -1,0 +1,9 @@
+---
+---
+
+jekyll: {{ jekyll }}
+
+{% for m in site %}{% capture content %}
+{{m[0]}}: {{ m[1] }}
+{% endcapture %}{{ content | strip_newlines | truncate: 300 }}
+{% endfor %}

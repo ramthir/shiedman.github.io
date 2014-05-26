@@ -1,0 +1,159 @@
+---
+title: Sixth Lesson
+book:
+    title: A Guide to Philosophy
+    author: Witold Gombrowicz
+category: philosophy
+permalink: /books/a_guide_to_philosophy/06_sixth_lesson.html
+date: 2014-04-13 01:10:00 +0800
+layout: book_page 
+---
+
+Sixth Lesson
+=============
+
+*Saturday, May 3*
+{: .text-right}
+
+###Hegel###
+
+
+####Dull biography. 19th century. Professor in Berlin.####
+
+####*Kant*####
+
+####*Fichte:* Philosophy of the State and of law.####
+
+####*Schelling:* Artistic nature. His philosophy is much influenced by aesthetics and art. Hegel attacked him violently.####
+
+####Hegel’s fundamental thesis is: *what is rational is real, and what is real is rational.*####
+
+####This is not so difficult. The main idea is that the subject is correlative with (dependent on) the object, that one cannot exist without the other.####
+
+####Imagine that only one thing exists. If there is no consciousness, this thing does not exist. It is on this basis that Hegel formulates his *theory of the real.*####
+
+####The world is a thing, it is understood to the extent that it is assimilated by reason, by a rational consciousness. Hegel gives a grandiose image of this process.####
+
+Let us imagine that I entered a cathedral. At first I see nothing more than the entrance, fragments
+{: .text-right}
+
+of walls, architectural details which are not self-explanatory. In short, I see the cathedral in a fragmentary way. I advance. As I advance, the more I see the cathedral and finally I reach the other end and I see it in its entirety. I discover the meaning of each fragment. The cathedral penetrated my reason; it is. This is exactly the process of our development in the world. Each day, we understand the world better, we are better aware of the reason for every phenomenon. Thus each time the world exists a little more for us. There will come a moment, the final moment of our history and of the human race, where the world will be fully assimilated. On that day, time and space will disappear and the conjunction of subject and object will be transformed into an *absolute.* Beyond time and space. There will no longer be any movement. Then poof! the absolute.
+
+As you see, such metaphysical systems have a rather fantastic structure. Even when the systems collapse, they are useful in understanding reality and the world a little better. This idea of the progress of reason in Hegel is achieved through a dialectical system which is of the greatest importance today and which expresses itself somewhat this way.
+
+Each thesis finds its antithesis at a higher degree. This synthesis appears anew as a thesis and finds its antinomy, etc. Thus this is a law of development based on contradiction. According to Hegel, our mind is based on this contradiction because it is imperfect, because it knows reality only partially. Thus its judgments are imperfect.
+
+Hegel discovers this contradiction in the very foundation of the mind; for example, when we say *all,* we must accept the *singular.* When we imagine something *black,* we must also think of another *color *because the very idea of color is an opposition between it and all the other colors. The same opposition can be found in the historical development of the State.
+
+For example, a dictatorship provokes a revolution, and a revolution encounters its synthesis in a system which is neither that of the dictatorship nor of the revolution, a system thus of limited power which, in turn, finds correction in a system, for example oligarchic.
+
+Or when you think *all,* you are obliged to think *nothing,* and it is this way that one advances, step by step, inside that cathedral.
+
+Hegel’s philosophy is a *philosophy of becoming,* which is a great step ahead, since this process of becoming does not appear in earlier philosophies. It is not only a movement, but a progression, since this dialectical process always puts us on a higher rung, until the final outcome of reason, and in Hegel, this process is naturally based on the progress of reason, that is, of science. Which leads him to give the greatest importance to *history.*
+
+For Hegel, nature is not creative. It does not advance. The sun, for example, always rises and sets the same way. But what is creative is *human evolution,* which expresses itself especially in history. Already one can notice great chasms which open in the mind between what is now called synchronic and diachronic.
+
+This abyss is part of the great contradictions that always characterize the human mind, like, for example, the subject-object or Einstein’s theory of a space-time continuum, Planck’s quantum theory or the way of detecting the electron, or in the corpuscular and undulatory theory of light.5 In this perspective, the human mind seems like something created by two different elements which never meet each other.
+
+Man is precisely this *hole.*
+
+Again a formula from Hegel which will give you an idea of his rather complicated language: man is the principle through which the world’s reason arrives at *self-awareness.*
+
+Let us now take a look at Hegel’s logic. It is presented *grosso modo* in the following way:
+
+I assert that nothing exists, but because I assert it, then at least my assertion exists. Therefore the being exists (in opposition to the thing). But since the being in itself signifies nothing, in saying *being, *I must say that something is. By this path, I come to recognize that the category of the being may be thought about only with that of the non-being; what I already told you in speaking about the mind’s antinomy. But I simply want to show what is the starting point for this logic.
+
+The difference between traditional logic and Hegel’s is this: according to traditional logic, everything that is, is identical to itself and nothing contradicts itself. This is just the well-known *identity principle* by which A is equivalent to A.
+
+But in Hegel, nothing is identical to itself and everything contradicts itself. (The imperfection of reason in operation: as long as I have not entirely seen the cathedral, the sense is imperfect. A equals A is not achieved here.)
+
+This leads to what I announced at the beginning: it is *thought* which is the basis of reality. We need only compare the Hegelian world to the world of Aristotle or Saint Thomas to understand that the Hegelian world is truth in progress, where humanity devises its own laws and man becomes a rung in history.
+
+The importance which Hegel attributed to history surely contributed to the triumph of Hegel’s thought.
+
+In order to give you a more detailed idea of this thinking, which will show you to what extent my abbreviations are far from containing a complete picture, I would like to speak to you about an important book by Hegel, *The Phenomenology of Mind,* vol. II.
+
+Chapter six (in order to show the path of his thought). The truly ethical mind is divided into two parts: the ethical world, the human and divine world and man and woman.
+
+This is subdivided into:
+
+####1. Nation and family. The law of day and the law of night,####
+
+####which is subdivided again into####
+
+####A. human law####
+
+####B. divine law####
+
+####C. the rights of the individual.####
+
+####2. The movement that one finds in both laws (always becoming):####
+
+####A. government—wars—negative power####
+
+####B. (very important). The ethical relationship between man and woman in the sense of brother and sister.####
+
+####C. The reciprocal influence of divine and human law.####
+
+####3. The epic world as being an infinite thing, therefore a totality.####
+
+####The Hegelian analysis of these themes always consists of discovering and defining the dialectical movement to which they are subject. This leads him to truly astonishing results, to famous passages like the one on the dialectics between master and slave.####
+
+####I have not yet spoken about an extremely important theme for Hegel, *State* and *peoples* (nations).####
+
+####For Hegel, the reality of the State is superior to that of the individual. For him, the State is the incarnation of the Mind in the world. Here are some definitions which permit us to understand his notion of the State.####
+
+(The State is the reality of the moral idea. It is the moral mind as will (intention), self-evident and substantial, which thinks by itself and *knows* and realizes what it knows as knowledge.)
+
+This horrible sentence shows the most profound sense of the Hegelian idea, which can be expressed in the following very superficial way: for earlier philosophy, man was subject to a moral law instituted by God or, as in Kant, subject to a moral imperative. In other words, man functions but the law already exists. But in Hegel, everything moves. In advancing, man crafts his own law, and there is no fixed law beyond that which is constituted by the dialectical process. In Hegel, not only man but laws are in progress because they are imperfect.
+
+Again, two definitions of the State in Hegel.
+
+1. The State is the realization of individual will.
+
+2. The State is the mind which blossoms in becoming the world’s form and organization.
+
+Next he analyzes various forms of government. And he submits it to the dialectical process: the capitalist government provokes an opposing dictatorship,  that of the proletariat. The dictatorship of the proletariat leads to a superior form which will know how to combine the good points of each previous form, etc.
+
+####*Thesis*—*antithesis*—*synthesis.*####
+
+####You understand how greedily *the Communists *threw themselves on this idea. For them, revolution leads to a dictatorship of the proletariat, but afterward one arrives at the ideal State, which has nothing to do with strength.####
+
+####Hegel owes his glory first to Marx, and secondly to the Marxists.####
+
+####*War,* for Hegel, is also a dialectical process in which the immoral leads to the moral.####
+
+####Finally, the State transforms itself into the incarnation of the divinity.####
+
+####*Hegel/Kierkegaard *Kierkegaard’s Attack
+{: .text-center}####
+
+####This is the last great metaphysical system to be formed. According to dialectical law in pure Hegelian style, the thesis meets its antithesis, and Kierkegaard is the antithesis.####
+
+####Kierkegaard was a Danish pastor, a great admirer of Hegel. Suddenly he declared war on him, in one of culture’s most dramatic moments.####
+
+####The following summarizes Kierkegaard’s attack on Hegel:####
+
+####Hegel is absolutely irreproachable in his theory, but this *theory is worthless.*####
+
+####And why?####
+
+####Because it is abstract, while *existence* (it is the first time that this word appears) is concrete.####
+
+####In Hegel there are only abstractions and concepts; for example, I saw a thousand horses that all have something in common, and thus I formulate the concept of a thing: horse, four-footed animal, etc. But really this horse never existed, because each concrete horse has its color. In the way that classical  philosophy has operated with the concept since ancient times, as in Democritus, or Aristotle, or Saint Thomas, up to Spinoza, Kant, and Hegel, is *in the void.*####
+
+It says: man.
+
+Abstraction does not correspond to reality. It is from the other world, so to speak. It is here that thought finds its most violent internal contradiction.
+
+And it is the basis, to use Hegelian language, of an antithesis which leads us directly to *existence.*
+
+Existentialism is particularly meant to be a philosophy of the concrete. But this is a dream; in concrete reality, one cannot make arguments. Arguments always use concepts, etc. Existentialism is therefore a tragic system of thought because it can never be self-sufficient, it must be simultaneously both an abstract and a concrete philosophy.
+
+Kierkegaard’s philosophy is a reaction against Hegel’s.
+
+It is beginning with Husserl that existentialism becomes possible, since Husserl’s phenomenological method consists of investigations of truth as essence.
+
+It is a description of our consciousness, a sort of application of the Aristotelian method to the self.
+
+####But while Aristotle’s philosophy is a classification of the world, Husserl’s phenomenological method consists of the purification and classification of the phenomena of our consciousness.####

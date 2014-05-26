@@ -1,0 +1,81 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act II - Scene II
+category: play
+author: shakespeare
+source: http://www.shakespeareswords.com/Plays.aspx?Ac=2&SC=2&IdPlay=5
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act2_scene2.html
+layout: book_page
+tag: [ shakespeare  ]
+creation: 1589-1593
+date: 2014-03-28 08:56:00 +0800
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+Enter Proteus and Julia
+
+
+**PROTEUS**
+
+Have patience, [gentle][1] Julia.
+
+[1]: {{page.q}}=17496  "gentle (adj.) 2: courteous, friendly, kind"
+
+**JULIA**
+
+I must, where is no remedy.
+
+
+**PROTEUS**
+
+When possibly I can, I will return.
+
+
+**JULIA**
+
+If you [turn][2] not, you will return the sooner.
+Keep this [remembrance][3] for thy Julia's sake.
+She gives him a ring
+
+[2]: {{page.q}}=6130  "turn (v.) 1: change, transform, alter"
+[3]: {{page.q}}=16601  "remembrance (n.) 4: love-token, keepsake, memento"
+
+**PROTEUS**
+
+Why, then, we'll make exchange; here, take you this.
+He gives her a ring
+
+
+**JULIA**
+
+And seal the bargain with a holy kiss.
+
+
+**PROTEUS**
+
+Here is my hand for my true constancy;
+And when that hour [o'erslips][4] me in the day
+Wherein I sigh not, Julia, for thy sake,
+The next ensuing hour some foul mischance
+Torment me for my love's forgetfulness!
+My father stays my coming. Answer not.
+The tide is now – nay, not thy tide of tears;
+That tide will [stay][5] me longer than I should.
+Julia, farewell! (Exit Julia) What, gone without a word?
+Ay, so true love should do; it cannot speak,
+For truth hath better deeds than words to grace it.
+Enter Panthino
+
+[4]: {{page.q}}=11916  "overslip (v.): pass by unnoticed, slip past"
+[5]: {{page.q}}=14218  "stay (v.) 5: keep, make to stay, allow to remain"
+
+**PANTHINO**
+
+Sir Proteus, you are stayed for.
+
+
+**PROTEUS**
+
+                  Go; I come.
+(aside) Alas, this parting strikes poor lovers dumb.
+Exeunt

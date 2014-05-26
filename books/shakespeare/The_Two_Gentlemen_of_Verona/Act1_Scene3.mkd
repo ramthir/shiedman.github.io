@@ -1,0 +1,252 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act I - Scene III
+category: play
+author: shakespeare
+source: http://www.shakespeareswords.com/Plays.aspx?Ac=1&SC=3&IdPlay=5
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act1_scene3.html
+layout: book_page
+tag: [ shakespeare ]
+creation: 1589-1593
+date: 2014-03-28 05:05:00 +0800
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+Enter Antonio and Panthino
+
+**ANTONIO**
+
+Tell me, Panthino, what [sad][1] talk was that
+Wherewith my brother held you in the cloister?
+
+[1]: {{page.q}}=13906  "sad (adj.) 1: serious, grave, solemn"
+
+**PANTHINO**
+
+'Twas of his nephew Proteus, your son.
+
+
+**ANTONIO**
+
+Why, what of him?
+
+
+**PANTHINO**
+
+&nbsp               &nbsp He wondered that your lordship
+Would [suffer][2] him to spend his youth at home,
+While other men, of [slender][3] reputation,
+[Put][5] forth their sons to seek [preferment][4] out:
+Some to the wars to try their fortune there;
+Some to [discover][6] islands far away;
+Some to the studious universities.
+For any or for all these exercises
+He said that Proteus your son was [meet][7],
+And did request me to [importune][8] you
+To let him spend his time no more at home,
+Which would be great [impeachment][10] to his [age][9],
+In having known no travel in his youth.
+
+[2]: {{page.q}}=14128  "suffer (v.) 1: allow, permit, let"
+[3]: {{page.q}}=14011  "slender (adj.): slight, trifling, insignificant"
+[4]: {{page.q}}=12846  "preferment (n.): advancement, promotion"
+[5]: {{page.q}}=13197  "put forth (v.) 2: send abroad, send away"
+[6]: {{page.q}}=9070  "discover (v.) 4: find, uncover, come upon"
+[7]: {{page.q}}=10430  "meet (adj.) 1: fit, suitable, right, proper"
+[8]: {{page.q}}=4833  "importune (v.) 1: urge, press"
+[9]: {{page.q}}=527  "age (n.) 2: mature years, old age"
+[10]: {{page.q}}=5172  "impeachment (n.) 2: discredit, reproach, detriment"
+
+**ANTONIO**
+
+Nor needest thou much importune me to that
+Whereon this month I have been [hammer][11]ing.
+I have considered well his loss of time,
+And how he cannot be a [perfect][12] man,
+Not being [tried][13] and tutored in the world.
+Experience is by industry achieved,
+And perfected by the swift course of time.
+Then tell me, whither were I best to send him?
+
+[11]: {{page.q}}=18485  "hammer (v.): think hard, deliberate, ponder"
+[12]: {{page.q}}=12342  "perfect (adj.) 6: complete, totally accomplished, well-trained"
+[13]: {{page.q}}=6310  "try (v.) 2: put to the test, test the goodness [of]"
+
+**PANTHINO**
+
+I think your lordship is not ignorant
+How his companion, youthful Valentine,
+[Attend][14]s the Emperor in his royal court.
+
+[14]: {{page.q}}=913  "attend (v.) 2: serve, follow, wait [on/upon]"
+
+**ANTONIO**
+
+I know it well.
+
+
+**PANTHINO**
+
+'Twere good, I think, your lordship sent him thither.
+There shall he practise [tilt][15]s and tournaments,
+Hear sweet [discourse][17], [converse][16] with noblemen,
+And be in [eye][19] of every [exercise][18]
+Worthy his youth and nobleness of birth.
+
+[15]: {{page.q}}=5600  "tilt (n.): lance-charge, joust, combat"
+[16]: {{page.q}}=2730  "converse (v.): associate, keep company"
+[17]: {{page.q}}=8673  "discourse (n.) 1: conversation, talk, chat"
+[18]: {{page.q}}=9667  "exercise (n.) 2: manly sport, martial practice"
+[19]: {{page.q}}=9930  "eye (n.) 1: sight, view, presence"
+
+**ANTONIO**
+
+I like thy counsel; well hast thou advised;
+And that thou mayst perceive how well I like it,
+The execution of it shall make known.
+Even with the speediest [expedition][20]
+I will [dispatch][21] him to the Emperor's court.
+
+[20]: {{page.q}}=9938  "expedition (n.) 1: haste, speedy action, prompt dispatch"
+[21]: {{page.q}}=9177  "dispatch, despatch (v.) 5: send away, send off"
+
+**PANTHINO**
+
+Tomorrow, may it please you, Don Alphonso
+With other gentlemen of good esteem
+Are journeying to [salute][22] the Emperor,
+And to [commend][23] their service to his will.
+
+[22]: {{page.q}}=15639  "salute (v.) 3: pay respects to, make a formal visit to"
+[23]: {{page.q}}=2838  "commend (v.) 2: commit, entrust, hand over"
+
+**ANTONIO**
+
+Good company; with them shall Proteus go.
+
+*Enter Proteus, reading a letter*
+
+And [in good time][25]; now will we [break][24] with him.
+
+[24]: {{page.q}}=1049  "break (v.) 5: reveal, disclose, impart"
+[25]: {{page.q}}=6271  "time, in good 1: at the right moment"
+
+**PROTEUS**
+
+(aside)
+Sweet love, sweet lines, sweet life!
+Here is her hand, the agent of her heart;
+Here is her oath for love, her honour's [pawn][26].
+O, that our fathers would applaud our loves,
+To seal our happiness with their consents!
+O heavenly Julia!
+
+[26]: {{page.q}}=12795  "pawn (n.): pledge, surety, forfeit"
+
+**ANTONIO**
+
+How now? What letter are you reading there?
+
+
+**PROTEUS**
+
+May't please your lordship, 'tis a word or two
+Of [commendation][27]s sent from Valentine,
+Delivered by a friend that came from him.
+
+[27]: {{page.q}}=4622  "commendation (n.) 3: (plural) regards, compliments, greetings"
+
+**ANTONIO**
+
+Lend me the letter. Let me see what news.
+
+
+**PROTEUS**
+
+There is no news, my lord, but that he writes
+How happily he lives, how well beloved,
+And daily [graced][28] by the Emperor;
+Wishing me with him, partner of his fortune.
+
+[28]: {{page.q}}=17925  "graced (adj.) 2: honoured, favoured"
+
+**ANTONIO**
+
+And how stand you [affected][29] to his wish?
+
+[29]: {{page.q}}=344  "affected (adj.) 1: disposed, inclined, minded"
+
+**PROTEUS**
+
+As one relying on your lordship's will,
+And not depending on his friendly wish.
+
+
+**ANTONIO**
+
+My will is [something][30] [sort][31]ed with his wish.
+[Muse][32] not that I thus suddenly proceed;
+For what I will, I will, and there an end.
+I am resolved that thou shalt spend some time
+With Valentinus in the Emperor's court.
+What maintenance he from his friends receives,
+[Like][34] [exhibition][33] thou shalt have from me.
+Tomorrow be in readiness to go.
+[Excuse][35] it not, for I am [peremptory][36].
+
+[30]: {{page.q}}=14025  "something (adv.) 1: somewhat, rather"
+[31]: {{page.q}}=15586  "sort (v.) 5: correspond [to], be in agreement, conform [to]"
+[32]: {{page.q}}=10587  "muse (v.) 1: wonder, be surprised"
+[33]: {{page.q}}=9914  "exhibition (n.) 1: allowance, pension, maintenance"
+[34]: {{page.q}}=19136  "like (adj.) 1: same, similar, alike, equal"
+[35]: {{page.q}}=10087  "excuse (v.) 2: seek to decline, beg to get out of"
+[36]: {{page.q}}=12590  "peremptory (adj.) 1: determined, resolved, absolutely decided"
+
+**PROTEUS**
+
+My lord, I cannot be so soon [provided][37].
+Please you deliberate a day or two.
+
+[37]: {{page.q}}=12820  "provided (adj.): prepared, ready, provided with necessities"
+
+**ANTONIO**
+
+[Look][38] what thou [want][39]est shall be sent after thee.
+No more of [stay][40]; tomorrow thou must go.
+Come on, Panthino; you shall be employed
+To hasten on his expedition.
+Exeunt Antonio and Panthino
+
+[38]: {{page.q}}=19515  "look what (conj.): whatever"
+[39]: {{page.q}}=7992  "want (v.) 4: require, demand, need"
+[40]: {{page.q}}=14371  "stay (n.) 1: staying, remaining, continued presence"
+
+**PROTEUS**
+
+Thus have I shunned the fire for fear of burning,
+And drenched me in the sea, where I am drowned.
+I feared to show my father Julia's letter,
+Lest he should take [exception][41]s to my love,
+And with the [vantage][42] of mine own excuse
+Hath he [except][43]ed most against my love.
+O, how this spring of love resembleth
+The uncertain glory of an April day,
+Which now shows all the beauty of the sun,
+And by and by a cloud takes all away.
+Enter Panthino
+
+[41]: {{page.q}}=10076  "exception (n.) 1: (often plural) objection, dislike, disapproval"
+[42]: {{page.q}}=7253  "vantage (n.) 3: advantage, benefit, advancement, profit"
+[43]: {{page.q}}=10088  "except, except against (v.) 2: object to, take exception to"
+
+**PANTHINO**
+
+Sir Proteus, your father calls for you.
+He is in haste; therefore, I pray you go.
+
+
+**PROTEUS**
+
+Why, this it is; my heart accords thereto,
+And yet a thousand times it answers, ‘ No.’
+Exeunt

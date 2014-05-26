@@ -1,0 +1,592 @@
+---
+title: Twelfth Night
+tagline: Act III - Scene I
+category: play
+author: shakespeare
+date: 2014-05-25 21:08:56 +0800
+permalink: /books/shakespeare/Twelfth_Night_act3_scene1.html
+layout: book_page
+creation: 1601-1602
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter at different entrances Viola, and Feste playing_
+
+_his pipe and tabor_
+
+**VIOLA**
+
+Save thee, friend, and thy music. Dost thou live by
+thy [tabor][1]?
+
+[1]: {{page.q}}=5633 "tabor (n.):  type of small drum, especially used in revelling"
+
+
+**FESTE**
+
+No, sir, I live by the church.
+
+
+
+**VIOLA**
+
+Art thou a Churchman?
+
+
+
+**FESTE**
+
+No such matter, sir; I do live by the church. For I
+do live at my house, and my house doth stand by the
+church.
+
+
+
+**VIOLA**
+
+So thou mayst say the king [lie][2]s by a beggar, if a
+beggar dwell near him; or the Church [stand][3]s by thy
+tabor, if thy tabor stand by the church.
+
+[2]: {{page.q}}=19536 "lie (v.) 4:  sleep, go to bed"
+[3]: {{page.q}}=15813 "stand by (v.) 3:  support, uphold, maintain"
+
+
+**FESTE**
+
+You have [said][4], sir. To see this age! A sentence is
+but a [cheveril][5] glove to a good [wit][6]; how quickly the
+wrong side may be turned outward!
+
+[4]: {{page.q}}=16376 "say (v.) 6:  speak the truth, speak to the point"
+[5]: {{page.q}}=4497 "cheveril (adj.):  flexible, yielding, pliant"
+[6]: {{page.q}}=8225 "wit (n.) 6:  lively person, sharp-minded individual"
+
+
+**VIOLA**
+
+Nay, that's certain. They that [dally][7] [nicely][8] with
+words may quickly make them [wanton][9].
+
+[7]: {{page.q}}=9191 "dally (v.) 1:  deal lightly, play about, tease"
+[8]: {{page.q}}=11375 "nicely (adv.) 2:  subtly, triflingly, fancifully"
+[9]: {{page.q}}=8084 "wanton (adj.) 10:  equivocal, ambiguous, uncontrollable"
+
+
+**FESTE**
+
+I would therefore my sister had had no name, sir.
+
+
+
+**VIOLA**
+
+Why, man?
+
+
+
+**FESTE**
+
+Why, sir, her name's a word, and to dally with that
+word might make my sister [wanton][10]. But indeed, words
+are very rascals, since [bond][11]s disgraced them.
+
+[10]: {{page.q}}=7940 "wanton (adj.) 5:  sexually hot, passionate, sportive"
+[11]: {{page.q}}=1995 "bond (n.) 1:  deed, contract, pledge"
+
+
+**VIOLA**
+
+Thy reason, man?
+
+
+
+**FESTE**
+
+Troth, sir, I can yield you none without words, and
+words are grown so [false][12], I am loath to prove reason
+with them.
+
+[12]: {{page.q}}=19980 "false (adj.) 3:  sham, spurious, not genuine, artificial"
+
+
+**VIOLA**
+
+I [warrant][13] thou art a merry fellow, and car'st for
+nothing.
+
+[13]: {{page.q}}=7550 "warrant (v.) 1:  assure, promise, guarantee, confirm"
+
+
+**FESTE**
+
+Not so, sir. I do care for something; but in my conscience,
+sir, I do not care for you. If that be to care for
+nothing, sir, I would it would make you invisible.
+
+
+
+**VIOLA**
+
+Art not thou the Lady Olivia's fool?
+
+
+
+**FESTE**
+
+No indeed, sir, the Lady Olivia has no folly. She
+will keep no fool, sir, till she be married, and fools are as
+like husbands as [pilcher][14]s are to herrings; the husband's
+the bigger. I am indeed not her fool, but her corrupter
+of words.
+
+[14]: {{page.q}}=13328 "pilcher (n.) 1:  pilchard"
+
+
+**VIOLA**
+
+I saw thee late at the Count Orsino's.
+
+
+
+**FESTE**
+
+Foolery, sir, does walk about the orb like the sun, it
+shines everywhere. I would be sorry, sir, but the fool
+should be as [oft][15] with your master as with my mistress.
+I think I saw your wisdom there?
+
+[15]: {{page.q}}=11606 "oft (adv.):  often"
+
+
+**VIOLA**
+
+Nay, an thou [pass][16] upon me, I'll no more with
+thee. Hold, there's expenses for thee!
+_She gives him a coin_
+
+[16]: {{page.q}}=13329 "pass upon (v.):  [unclear meaning] jest at; impose on; pass judgement upon"
+
+
+**FESTE**
+
+Now Jove, in his next commodity of hair, send
+thee a beard!
+
+
+
+**VIOLA**
+
+By my troth, I'll tell thee, I am almost [sick][17] for
+one – (aside) though I would not have it grow on my
+chin. Is thy lady within?
+
+[17]: {{page.q}}=15762 "sick (adj.) 1:  longing, pining, avid"
+
+
+**FESTE**
+
+Would not a pair of these have bred, sir?
+
+
+
+**VIOLA**
+
+Yes, being kept together and put to [use][18].
+
+[18]: {{page.q}}=6841 "use (n.) 7:  profit, interest, premium"
+
+
+**FESTE**
+
+I would play Lord Pandarus of Phrygia, sir, to
+bring a Cressida to this Troilus.
+
+
+
+**VIOLA**
+
+I understand you, sir; 'tis well begged.
+_She gives another coin_
+
+
+
+**FESTE**
+
+The matter, I hope, is not great, sir, begging but a
+beggar – Cressida was a beggar. My lady is within, sir.
+I will [conster][19] to them whence you come. Who you are
+and what you would are out of my [welkin][20] – I might say
+‘ element,’ but the word is overworn.
+_Exit_
+
+[19]: {{page.q}}=3654 "conster (v.) 1:  explain, inform, give an account"
+[20]: {{page.q}}=8085 "welkin, out of one's:  out of one's element, none of one's business"
+
+
+**VIOLA**
+
+This fellow is wise enough to play the fool;
+And to do that well [crave][21]s a kind of [wit][22].
+He must observe their mood on whom he jests,
+The [quality][23] of persons, and the time,
+And, like the [haggard][25], [check][24] at every feather
+That comes before his eye. This is a [practice][26]
+As full of labour as a wise man's [art][27].
+For folly that he wisely shows is [fit][28];
+But wise men, [folly-fallen][29], quite [taint][30] their [wit][31].
+_Enter Sir Toby and Sir Andrew_
+
+[21]: {{page.q}}=2863 "crave (v.) 2:  need, demand, require"
+[22]: {{page.q}}=7583 "wit (n.) 1:  intelligence, wisdom, good sense, mental ability"
+[23]: {{page.q}}=13755 "quality (n.) 1:  nature, disposition, character"
+[24]: {{page.q}}=4485 "check at (v.) 2:  [falconry] swerve to pounce on, turn towards, swoop at"
+[25]: {{page.q}}=18621 "haggard (n.):  [falconry] wild hawk"
+[26]: {{page.q}}=13356 "practice (n.) 5:  occupation, profession, line of work"
+[27]: {{page.q}}=610 "art (n.) 1:  knowledge, learning, scholarship, science"
+[28]: {{page.q}}=19837 "fit (adj.) 1:  suited, fitting, appropriate"
+[29]: {{page.q}}=20710 "folly-fallen (adj.):  falling into folly, stooping to foolishness"
+[30]: {{page.q}}=6340 "taint (v.) 4:  impair, harm, injure"
+[31]: {{page.q}}=7583 "wit (n.) 1:  intelligence, wisdom, good sense, mental ability"
+
+
+**SIR TOBY**
+
+Save you, gentleman!
+
+
+
+**VIOLA**
+
+And you, sir!
+
+
+
+**SIR ANDREW**
+
+_Dieu vous garde, monsieur!_
+
+
+
+**VIOLA**
+
+_Et vous aussi; votre serviteur!_
+
+
+
+**SIR ANDREW**
+
+I hope, sir, you are, and I am yours.
+
+
+
+**SIR TOBY**
+
+Will you [encounter][32] the house? My niece is
+desirous you should enter, if your [trade][33] be to her.
+
+[32]: {{page.q}}=10164 "encounter (v.) 2:  approach, go to, move towards"
+[33]: {{page.q}}=5480 "trade (n.) 2:  business, dealings"
+
+
+**VIOLA**
+
+I am bound to your niece, sir. I mean, she is the
+[list][34] of my voyage.
+
+[34]: {{page.q}}=19574 "list (n.) 4:  limit, objective"
+
+
+**SIR TOBY**
+
+[Taste][35] your legs, sir; put them to motion.
+
+[35]: {{page.q}}=6341 "taste (v.) 1:  try out, test, put to the proof"
+
+
+**VIOLA**
+
+My legs do better [under-stand][36] me, sir, than I
+understand what you mean by bidding me taste my legs.
+
+[36]: {{page.q}}=6762 "understand (v.) 1:  stand under the force of [with pun on ‘comprehend’]"
+
+
+**SIR TOBY**
+
+I mean to go, sir, to enter.
+
+
+
+**VIOLA**
+
+I will answer you with gate and entrance.
+_Enter Olivia and Maria_
+But we are prevented. (To Olivia) Most excellent,
+accomplished lady, the heavens rain odours on you!
+
+
+
+**SIR ANDREW**
+
+_aside_
+That youth's a rare courtier. ‘ Rain
+odours ’! Well!
+
+
+
+**VIOLA**
+
+My [matter][37] hath no voice, lady, but to your own
+most [pregnant][38] and [vouchsafed][39] ear.
+
+[37]: {{page.q}}=10513 "matter (n.) 4:  affair(s), business, real issue"
+[38]: {{page.q}}=12243 "pregnant (adj.) 1:  well-disposed, ready, inclined, receptive"
+[39]: {{page.q}}=7432 "vouchsafed (adj.):  well-bestowed, kindly granted"
+
+
+**SIR ANDREW**
+
+‘ Odours;’ ‘ pregnant;’ and ‘ vouchsafed.’
+I'll get 'em all three all ready.
+
+
+
+**OLIVIA**
+
+Let the garden door be shut and leave me to my
+hearing.
+_Exeunt Sir Toby and Maria, Sir Andrew lingering before_
+_he, too, leaves_
+Give me your hand, sir.
+
+
+
+**VIOLA**
+
+My [duty][40], madam, and most humble service!
+
+[40]: {{page.q}}=9216 "duty (n.) 2:  reverence, due respect, proper attitude"
+
+
+**OLIVIA**
+
+What is your name?
+
+
+
+**VIOLA**
+
+Cesario is your [servant][41]'s name, fair princess.
+
+[41]: {{page.q}}=14133 "servant (n.) 1:  devotee, one who gives dedicated service, lover"
+
+
+**OLIVIA**
+
+My servant, sir? 'Twas never merry [world][42]
+Since [lowly][44] [feigning][43] was called compliment.
+Y'are servant to the Count Orsino, youth.
+
+[42]: {{page.q}}=7955 "world (n.) 2:  times, life, state of affairs"
+[43]: {{page.q}}=20711 "feigning (n.):  pretentiousness, posturing, courtly display"
+[44]: {{page.q}}=19237 "lowly (adj.) 1:  humble, modest, submissive"
+
+
+**VIOLA**
+
+And he is yours, and his must needs be yours.
+Your servant's servant is your servant, madam.
+
+
+
+**OLIVIA**
+
+For him, I think not on him. For his thoughts,
+Would they were blanks rather than filled with me.
+
+
+
+**VIOLA**
+
+Madam, I come to whet your [gentle][45] thoughts
+On his behalf –
+
+[45]: {{page.q}}=21269 "gentle (adj.) 6:  soft, tender, kind"
+
+
+**OLIVIA**
+
+O, by your leave, I pray you.
+I [bade][46] you never speak again of him.
+But would you undertake another [suit][47],
+I had rather hear you to [solicit][48] that
+Than music from the [sphere][49]s.
+
+[46]: {{page.q}}=2049 "bid (v.), past form bade 1:  command, order, enjoin, tell"
+[47]: {{page.q}}=14962 "suit (n.) 2:  wooing, courtship"
+[48]: {{page.q}}=14022 "solicit (v.) 1:  urge, move, incite, prevail upon"
+[49]: {{page.q}}=15747 "sphere (n.) 1:  celestial globe in which a heavenly body was thought to move, orbit"
+
+
+**VIOLA**
+
+Dear lady –
+
+
+
+**OLIVIA**
+
+Give me leave, beseech you. I did send,
+After the last enchantment you did here,
+A ring in chase of you. So did I [abuse][50]
+Myself, my servant, and, I fear me, you.
+Under your [hard][52] [construction][51] must I sit,
+To force that on you in a shameful cunning
+Which you knew none of yours. What might you think?
+Have you not set mine honour at the [stake][53],
+And baited it with all th' unmuzzled thoughts
+That tyrannous heart can think? To one of your [receiving][54]
+Enough is shown; a [cypress][55], not a bosom,
+Hides my heart. So let me hear you speak.
+
+[50]: {{page.q}}=879 "abuse (v.) 2:  misuse, maltreat, treat badly, wrong"
+[51]: {{page.q}}=3655 "construction (n.) 2:  judgement, consideration, appraisal"
+[52]: {{page.q}}=15276 "hard (adj.) 3:  painful, harrowing, tough"
+[53]: {{page.q}}=15777 "stake, at the:  [bear-baiting] under attack; or [gambling]: at risk"
+[54]: {{page.q}}=17251 "receiving (n.):  perception, awareness, discernment"
+[55]: {{page.q}}=3315 "cypress (n.):  type of lightweight fabric, gauze cloth, crape material [when black, used in mourning]"
+
+
+**VIOLA**
+
+I pity you.
+
+
+**OLIVIA**
+
+That's a [degree][56] to love.
+
+[56]: {{page.q}}=8701 "degree (n.) 3:  step, stage, rung"
+
+
+**VIOLA**
+
+No, not a [grize][57]; for 'tis a [vulgar][59] [proof][58]
+That very [oft][60] we pity enemies.
+
+[57]: {{page.q}}=17556 "grece, grise, grize (n.):  step, degree, grade"
+[58]: {{page.q}}=12271 "proof (n.) 2:  experience, actual practice, tried knowledge"
+[59]: {{page.q}}=7233 "vulgar (adj.) 5:  familiar, ordinary, everyday"
+[60]: {{page.q}}=11606 "oft (adv.):  often"
+
+
+**OLIVIA**
+
+Why, then, [methinks][61] 'tis time to smile again.
+O world, how apt the poor are to be proud!
+If one should be a prey, how much the better
+To fall before the lion than the wolf!
+_Clock strikes_
+The clock upbraids me with the waste of time.
+Be not afraid, good youth; I will not have you.
+And yet, when [wit][62] and youth is come to harvest,
+Your wife is [like][63] to reap a [proper][64] man.
+There lies your way, due west.
+
+[61]: {{page.q}}=10439 "methinks(t), methought(s) (v.):  it seems /seemed to me"
+[62]: {{page.q}}=7583 "wit (n.) 1:  intelligence, wisdom, good sense, mental ability"
+[63]: {{page.q}}=19137 "like (adv.) 1:  likely, probable / probably"
+[64]: {{page.q}}=12275 "proper (adj.) 1:  good-looking, handsome, comely"
+
+
+**VIOLA**
+
+Then westward ho!
+Grace and good [disposition][66] [attend][65] your ladyship.
+You'll nothing, madam, to my lord by me?
+
+[65]: {{page.q}}=76 "attend (v.) 4:  accompany, follow closely, go with"
+[66]: {{page.q}}=8438 "disposition (n.) 1:  composure, state of mind, temperament"
+
+
+**OLIVIA**
+
+Stay.
+I prithee, tell me what thou think'st of me?
+
+
+
+**VIOLA**
+
+That you do think you are not what you are.
+
+
+
+**OLIVIA**
+
+If I think so, I think the same of you.
+
+
+
+**VIOLA**
+
+Then think you right; I am not what I am.
+
+
+
+**OLIVIA**
+
+I would you were as I would have you be.
+
+
+
+**VIOLA**
+
+Would it be better, madam, than I am?
+I wish it might, for now I am your fool.
+
+
+
+**OLIVIA**
+
+_aside_
+O, what a deal of scorn looks beautiful
+In the contempt and anger of his lip!
+A murderous guilt shows not itself more soon
+Than love that would seem hid: love's night is noon.
+(To Viola) Cesario, by the roses of the spring,
+By maidhood, honour, truth, and everything,
+I love thee so that, [maugre][67] all thy pride,
+Nor [wit][68] nor reason can my passion hide.
+Do not [extort][70] thy reasons from this [clause][69]:
+For that I woo, thou therefore hast no cause.
+But rather reason thus with reason [fetter][71]:
+Love sought, is good; but given unsought, is better.
+
+[67]: {{page.q}}=10808 "maugre (prep.):  [pron: 'mawguh] in spite of"
+[68]: {{page.q}}=7583 "wit (n.) 1:  intelligence, wisdom, good sense, mental ability"
+[69]: {{page.q}}=3656 "clause (n.):  premise, assertion, statement"
+[70]: {{page.q}}=10165 "extort (v.) 2:  extract with force, wring out"
+[71]: {{page.q}}=20712 "fetter (v.):  restrain, overcome, suppress"
+
+
+**VIOLA**
+
+By innocence I swear, and by my youth,
+I have one heart, one bosom, and one truth.
+And that no woman has, nor never none
+Shall mistress be of it, save I alone.
+And so, adieu, good madam; never more
+Will I my master's tears to you [deplore][72].
+
+[72]: {{page.q}}=9535 "deplore (v.):  tell with grief, express with lamentation"
+
+
+**OLIVIA**
+
+Yet come again; for thou perhaps mayst move
+That heart, which now abhors, to like his love.
+_Exeunt_
+

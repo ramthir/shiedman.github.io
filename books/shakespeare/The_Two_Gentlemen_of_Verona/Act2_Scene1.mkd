@@ -1,0 +1,619 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act II - Scene I
+category: play
+author: shakespeare
+source: http://www.shakespeareswords.com/Plays.aspx?Ac=2&SC=1&IdPlay=5
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act2_scene1.html
+layout: book_page
+tag: [ shakespeare  ]
+creation: 1589-1593
+date: 2014-03-28 08:43:00 +0800
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+Enter Valentine and Speed
+
+**SPEED**
+
+Sir, your glove.
+
+
+**VALENTINE**
+
+                  Not mine. My gloves are on.
+
+
+**SPEED**
+
+Why then, this may be yours, for this is but one.
+
+
+**VALENTINE**
+
+Ha! Let me see. Ay, give it me, it's mine.
+Sweet ornament that decks a thing divine.
+Ah, Silvia, Silvia!
+
+
+**SPEED**
+
+Madam Silvia! Madam Silvia!
+
+
+**VALENTINE**
+
+How now, sirrah?
+
+
+**SPEED**
+
+She is not within hearing, sir.
+
+
+**VALENTINE**
+
+Why, sir, who bade you call her?
+
+
+**SPEED**
+
+Your worship, sir, or else I mistook.
+
+
+**VALENTINE**
+
+Well, you'll [still][1] be too forward.
+
+[1]: {{page.q}}=14077  "still (adv.) 1: constantly, always, continually"
+
+**SPEED**
+
+And yet I was last [chidden][2] for being too slow.
+
+[2]: {{page.q}}=4299  "chide (v.), past form chid 1: scold, rebuke, reprove"
+
+**VALENTINE**
+
+Go to, sir. Tell me, do you know Madam
+Silvia?
+
+
+**SPEED**
+
+She that your worship loves?
+
+
+**VALENTINE**
+
+Why, how know you that I am in love?
+
+
+**SPEED**
+
+Marry, by these special marks: first, you have
+learned, like Sir Proteus, to [wreathe][3] your arms, like a
+[malcontent][4]; to [relish][5] a love-song, like a robin-redbreast;
+to walk alone, like one that had the pestilence; to sigh,
+like a schoolboy that had lost his A B C; to weep, like a
+young [wench][6] that had buried her grandam; to fast, like
+one that takes [diet][7]; to [watch][8], like one that fears robbing;
+to speak [puling][9], like a beggar at Hallowmas. You were
+[wont][10], when you laughed, to crow like a cock; when you
+walked, to walk like one of the lions; when you fasted,
+it was [presently][11] after dinner; when you looked sadly, it
+was for want of money. And now you are [metamorphose][12]d
+with a mistress, that, when I look on you, I can
+hardly think you my master.
+
+[3]: {{page.q}}=8013  "wreathe (v.): fold, intertwine"
+[4]: {{page.q}}=10566  "malcontent (n.): discontented individual, trouble-maker"
+[5]: {{page.q}}=17196  "relish (v.) 5: sing, warble, croon"
+[6]: {{page.q}}=7615  "wench (n.): girl, lass"
+[7]: {{page.q}}=9495  "diet (n.) 3: therapeutic nutrition, curative regime"
+[8]: {{page.q}}=7558  "watch (v.) 1: stay awake, keep vigil"
+[9]: {{page.q}}=13198  "puling (n./adj.) 2: whimperingly, whiningly, complainingly"
+[10]: {{page.q}}=7592  "wont (v.): be accustomed, used [to], be in the habit of"
+[11]: {{page.q}}=12248  "presently (adv.) 1: immediately, instantly, at once"
+[12]: {{page.q}}=10982  "metamorphose (v.): transform, alter one's disposition, change one's shape"
+
+**VALENTINE**
+
+Are all these things perceived in me?
+
+
+**SPEED**
+
+They are all perceived without ye.
+
+
+**VALENTINE**
+
+Without me? They cannot.
+
+
+**SPEED**
+
+Without you? Nay, that's certain; for without you
+were so simple, none else would. But you are so without
+these follies, that these follies are within you, and shine
+through you like the water in an [urinal][13], that not an eye
+that sees you but is a physician to comment on your
+malady.
+
+[13]: {{page.q}}=6815  "urinal (n.): medical vessel for holding urine"
+
+**VALENTINE**
+
+But tell me, dost thou know my lady Silvia?
+
+
+**SPEED**
+
+She that you gaze on so, as she sits at supper?
+
+
+**VALENTINE**
+
+Hast thou observed that? Even she I mean.
+
+
+**SPEED**
+
+Why, sir, I know her not.
+
+
+**VALENTINE**
+
+Dost thou know her by my gazing on her,
+and yet knowest her not?
+
+
+**SPEED**
+
+Is she not [hard-favoured][14], sir?
+
+[14]: {{page.q}}=15277  "hard-favoured (adj.): ugly, unattractive, unsightly, hideous"
+
+**VALENTINE**
+
+Not so fair, boy, as [well-favoured][15].
+
+[15]: {{page.q}}=7824  "well-favoured (adj.): good-looking, attractive in appearance"
+
+**SPEED**
+
+Sir, I know that well enough.
+
+
+**VALENTINE**
+
+What dost thou know?
+
+
+**SPEED**
+
+That she is not so fair as, of you, well favoured.
+
+
+**VALENTINE**
+
+I mean that her beauty is exquisite, but her
+[favour][16] infinite.
+
+[16]: {{page.q}}=19799  "favour (n.) 3: charm, attractiveness, gracefulness"
+
+**SPEED**
+
+That's because the one is painted, and the other
+out of all [count][17].
+
+[17]: {{page.q}}=2903  "count (n.) 1: account, reckoning"
+
+**VALENTINE**
+
+How painted? And how out of count?
+
+
+**SPEED**
+
+Marry, sir, so painted to make her fair, that no
+man [count][18]s of her beauty.
+
+[18]: {{page.q}}=3503  "count of (v.): take account of, esteem, appreciate"
+
+**VALENTINE**
+
+How esteemest thou me? I [account][19] of her
+beauty.
+
+[19]: {{page.q}}=754  "account (v.) 2: take account of, esteem, appreciate"
+
+**SPEED**
+
+You never saw her since she was deformed.
+
+
+**VALENTINE**
+
+How long hath she been deformed?
+
+
+**SPEED**
+
+Ever since you loved her.
+
+
+**VALENTINE**
+
+I have loved her ever since I saw her, and
+still I see her beautiful.
+
+
+**SPEED**
+
+If you love her, you cannot see her.
+
+
+**VALENTINE**
+
+Why?
+
+
+**SPEED**
+
+Because Love is blind. O, that you had mine eyes,
+or your own eyes had the [light][20]s they were [wont][21] to have,
+when you [chid][22] at Sir Proteus for going [ungartered][23]!
+
+[20]: {{page.q}}=19549  "light (n.) 1: ability to see clearly, power of vision"
+[21]: {{page.q}}=7592  "wont (v.): be accustomed, used [to], be in the habit of"
+[22]: {{page.q}}=4299  "chide (v.), past form chid 1: scold, rebuke, reprove"
+[23]: {{page.q}}=6669  "ungartered (v.): untied, not wearing a garter [a sign of a lovesick man]"
+
+**VALENTINE**
+
+What should I see then?
+
+
+**SPEED**
+
+Your own present folly, and her [passing][24] deformity;
+for he, being in love, could not see to garter his hose;
+and you, being in love, cannot see to put on your hose.
+
+[24]: {{page.q}}=13188  "passing (adj.) 1: unsurpassed, extreme, pre-eminent"
+
+**VALENTINE**
+
+[Belike][25], boy, then you are in love; for last
+morning you could not see to wipe my shoes.
+
+[25]: {{page.q}}=1442  "belike (adv.): probably, presumably, perhaps, so it seems"
+
+**SPEED**
+
+True, sir; I was in love with my bed. I thank you,
+you [swinge][26]d me for my love, which makes me the bolder
+to [chide][27] you for yours.
+
+[26]: {{page.q}}=15587  "swinge (v.): beat, thrash, flog"
+[27]: {{page.q}}=4299  "chide (v.), past form chid 1: scold, rebuke, reprove"
+
+**VALENTINE**
+
+In conclusion, I stand [affected][28] to her.
+
+[28]: {{page.q}}=557  "affected (adj.) 2: devoted, totally in love [with]"
+
+**SPEED**
+
+I would you were [set][29], so your affection would
+cease.
+
+[29]: {{page.q}}=15588  "set (adj.) 4: seated, sitting down"
+
+**VALENTINE**
+
+Last night she enjoined me to write some
+lines to one she loves.
+
+
+**SPEED**
+
+And have you?
+
+
+**VALENTINE**
+
+I have.
+
+
+**SPEED**
+
+Are they not [lamely][30] writ?
+
+[30]: {{page.q}}=19511  "lamely (adv.): imperfectly, defectively; also, haltingly, in a lame manner"
+
+**VALENTINE**
+
+No, boy, but as well as I can do them. Peace,
+here she comes.
+
+*Enter Silvia*
+
+**SPEED**
+
+(aside)
+O excellent [motion][31]! O exceeding puppet!
+Now will he interpret to her.
+
+[31]: {{page.q}}=10852  "motion (n.) 11: puppet-show"
+
+**VALENTINE**
+
+Madam and mistress, a thousand good
+morrows.
+
+
+**SPEED**
+
+(aside)
+O, give ye good even! Here's a million of
+manners.
+
+
+**SILVIA**
+
+Sir Valentine and servant, to you two thousand.
+
+
+**SPEED**
+
+(aside)
+He should give her interest, and she gives it
+him.
+
+
+**VALENTINE**
+
+As you enjoined me, I have writ your letter
+Unto the secret nameless friend of yours;
+Which I was much unwilling to proceed in,
+But for my duty to your ladyship.
+He gives her the letter
+
+**SILVIA**
+
+I thank you, [gentle][33] servant, 'tis very clerkly[32] done.
+
+[32]: {{page.q}}=3359  "clerkly (adv.): scholarly, cleverly, adroitly"
+[33]: {{page.q}}=17496  "gentle (adj.) 2: courteous, friendly, kind"
+
+**VALENTINE**
+
+Now trust me, madam, it [came][34] [hardly][35] off;
+For, being ignorant to whom it goes,
+I writ at random, very doubtfully.
+
+[34]: {{page.q}}=2667  "come off (v.) 4: turn out, result"
+[35]: {{page.q}}=18252  "hardly (adv.) 1: with great difficulty, only with difficulty"
+
+**SILVIA**
+
+[Perchance][36] you think too much of so much pains?
+
+[36]: {{page.q}}=12175  "perchance (adv.) 1: perhaps, maybe"
+
+**VALENTINE**
+
+No, madam; so it [stead][37] you, I will write,
+Please you command, a thousand times as much;
+And yet –
+
+[37]: {{page.q}}=14127  "stead (v.): help, assist, benefit"
+
+**SILVIA**
+
+A pretty [period][38]! Well, I guess the sequel;
+And yet I will not name it; and yet I care not;
+And yet take this [again][39];
+She offer him the letter <br />
+                  and yet I thank you, <br>
+Meaning henceforth to trouble you no more.
+
+[38]: {{page.q}}=13199  "period (n.) 3: rhetorical pause, sentence ending, termination"
+[39]: {{page.q}}=200  "again (adv.) 1: in return, back [in response]"
+
+**SPEED**
+
+(aside)
+And yet you will; and yet, another ‘ yet.’
+
+
+**VALENTINE**
+
+What means your ladyship? Do you not like it?
+
+
+**SILVIA**
+
+Yes, yes; the lines are very [quaintly][40] writ;
+But, since unwillingly, take them again.
+Nay, take them.
+She offers the letter again
+
+[40]: {{page.q}}=13727  "quaintly (adv.) 1: subtly, skilfully, ingeniously"
+
+**VALENTINE**
+
+                  Madam, they are for you.
+
+
+**SILVIA**
+
+Ay, ay; you writ them, sir, at my request,
+But I will none of them; they are for you.
+I would have had them writ more movingly.
+Valentine takes the letter
+
+
+**VALENTINE**
+
+Please you, I'll write your ladyship another.
+
+
+**SILVIA**
+
+And when it's writ, for my sake read it over;
+And if it please you, so; if not, why, so.
+
+
+**VALENTINE**
+
+If it please me, madam, what then?
+
+
+**SILVIA**
+
+Why, if it please you, take it for your labour.
+And so, good [morrow][41], servant.
+
+Exit
+
+[41]: {{page.q}}=10890  "morrow (n.): morning"
+
+**SPEED**
+
+(aside)
+O jest unseen, inscrutable, invisible
+As a nose on a man's face, or a weathercock on a steeple!
+My master [sue][42]s to her; and she hath taught her suitor,
+He being her pupil, to become her tutor.
+O excellent device! Was there ever heard a better,
+That my master, being scribe, to himself should write the letter?
+
+[42]: {{page.q}}=16533  "sue (v.) 2: pay court, act as a suitor"
+
+**VALENTINE**
+
+How now, sir? What are you [reason][43]ing with
+yourself?
+
+[43]: {{page.q}}=16993  "reason (v.) 3: raise, bring up, discuss"
+
+**SPEED**
+
+Nay, I was rhyming; 'tis you that have the reason.
+
+
+**VALENTINE**
+
+To do what?
+
+
+**SPEED**
+
+To be a spokesman for Madam Silvia.
+
+
+**VALENTINE**
+
+To whom?
+
+
+**SPEED**
+
+To yourself. Why, she woos you by a [figure][44].
+
+[44]: {{page.q}}=19824  "figure (n.) 2: figure of speech, device, piece of rhetoric"
+
+**VALENTINE**
+
+What figure?
+
+
+**SPEED**
+
+By a letter, I should say.
+
+
+**VALENTINE**
+
+Why, she hath not writ to me.
+
+
+**SPEED**
+
+What need she, when she hath made you write to
+yourself? Why, do you not perceive the jest?
+
+
+**VALENTINE**
+
+No, believe me.
+
+
+**SPEED**
+
+No believing you, indeed, sir. But did you perceive
+her [earnest][45]?
+
+[45]: {{page.q}}=9753  "earnest (n.): pledge, instalment, deposit, payment in advance"
+
+**VALENTINE**
+
+She gave me none, except an angry word.
+
+
+**SPEED**
+
+Why, she hath given you a letter.
+
+
+**VALENTINE**
+
+That's the letter I writ to her friend.
+
+
+**SPEED**
+
+And that letter hath she delivered, and there an
+end.
+
+
+**VALENTINE**
+
+I would it were no worse.
+
+
+**SPEED**
+
+I'll [warrant][46] you, 'tis as well:
+For often have you writ to her; and she, in modesty,
+Or else for want of idle time, could not again reply;
+Or fearing else some messenger, that might her mind [discover][47],
+Herself hath taught her love himself to write unto her lover.
+All this I speak [in][48] print, for in print I found it. Why
+[muse][49] you, sir? 'Tis dinner-time.
+
+[46]: {{page.q}}=7550  "warrant (v.) 1: assure, promise, guarantee, confirm"
+[47]: {{page.q}}=8538  "discover (v.) 1: reveal, show, make known"
+[48]: {{page.q}}=12129  "print, in: in a precise way, by the letter, very carefully"
+[49]: {{page.q}}=10970  "muse (v.) 3: wonder, speculate, ponder"
+
+**VALENTINE**
+
+I have dined.
+
+
+**SPEED**
+
+Ay, but hearken, sir: though the chameleon Love
+can feed on the air, I am one that am nourished by my
+victuals, and would [fain][50] have meat. O, be not like your
+mistress; be [move][51]d, be moved.
+Exeunt
+
+[50]: {{page.q}}=19773  "fain (adv.): gladly, willingly"
+[51]: {{page.q}}=10534  "move (v.) 1: arouse, affect, stir [by emotion]"

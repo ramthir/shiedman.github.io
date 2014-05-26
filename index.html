@@ -1,55 +1,54 @@
 ---
-layout: basic
-noindex: true
+layout: default
+title: 读 &bull; 注
+overview: true
 ---
 
 {% comment %}
-<!-- Main jumbotron for a primary marketing message or call to action -->
-<div class="jumbotron">
-    <div class="container">
-        <h1>Hello, world!</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
-    </div>
-</div>
-{% endcomment %}
-<div class="container">
-  <div class="row">
-    <div class="col-sm-12">
-      <!-- This loops through the paginated posts -->
-      {% for post in paginator.posts %}
-      <div class="article">
-          <div class="page-header">
-          <h2><a href="{{BASE_PATH}}{{ post.url }}">{{ post.title }}</a></h2>
-          {% include categories_list.liquid categories=post.categories %}
-          <span class="label label-default">{{ post.date | date_to_long_string}}</span>
-           </div>
-          <div class="post-content">
-          {{ post.excerpt }}
-          </div>
-      </div>
-      <hr></hr>
-      {% endfor %}
-
-      <!-- Pagination links -->
-      {% if paginator.total_pages > 1 %}
-        <ul class="pager">
-        {% if paginator.previous_page %}
-          <li><a href="{{ paginator.previous_page_path }}">&larr; Prev</a></li>
-        {% else %}
-          <li class="disabled"><a href="#">&larr; Prev</a></li>
-        {% endif %}
-        <li><span class="page_number "> {{ paginator.page }} / {{ paginator.total_pages }}</span></li>
-        {% if paginator.next_page %}
-          <li><a href="{{ paginator.next_page_path }}">Next &rarr;</a></li>
-        {% else %}
-          <li class="disabled"><a href="#">Next &rarr;</a></li>
-        {% endif %}
-        </ul>
-      {% endif %}
-      <!-- /Pagination links -->
-
-
+<section class="intro">
+  <div class="grid">
+    <div class="unit whole center-on-mobiles">
+      <p class="first">Transform your plain text into static&nbsp;websites and&nbsp;blogs.</p>
     </div>
   </div>
+</section>
+{% endcomment %}
+<main class="home">
+<div class="row">
+  <div class="vertical-writing">
+    <p class="symbol">☰<br/>☰</p>
+    <p>乾卦乾下乾上
+    <p>乾元亨利贞
+    <p>初九潜龙勿用
+    <p>九二见龙在田利见大人
+    <p>九三君子终日乾乾夕惕若厉无咎
+    <p>九四或跃在渊无咎
+    <p>九五飞龙在天利见大人
+    <p>上九亢龙有悔
+    <p>用九见群龙无首吉
+  </div>
+<!--
+{% capture mkd %}
+
+### site still building...
+
+{% endcapture %}
+{{ mkd | markdownify }}
+
+-->
+  <canvas id="gameboard" height="480" style="position:absolute;top:0;width:100%;border: 0px solid red">
+     your browser not support canvas.
+  </canvas>
 </div>
+</main>
+<!--[if gt IE 8]><!-->
+<script src="js/vendor/Box2dWeb-2.1.a.3.min.js"></script>
+<script src="js/vendor/easeljs-0.7.1.min.js"></script>
+<script>
+if(Math.random()>0.5){
+  card.run(document.getElementById('gameboard'));
+}else{
+  ball.run(document.getElementById('gameboard'));
+}
+</script>
+ <!--<![endif]-->

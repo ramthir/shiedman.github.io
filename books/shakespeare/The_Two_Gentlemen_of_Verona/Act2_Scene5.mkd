@@ -1,0 +1,214 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act II - Scene V
+category: play
+author: shakespeare
+source: http://www.shakespeareswords.com/Plays.aspx?Ac=2&SC=5&IdPlay=5
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act2_scene5.html
+layout: book_page
+tag: [ shakespeare  ]
+creation: 1589-1593
+date: 2014-03-28 09:10:00 +0800
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+Enter Speed and Launce, meeting
+
+
+**SPEED**
+
+Launce! By mine honesty, welcome to Milan.
+
+
+**LAUNCE**
+
+[Forswear ][1]not thyself, sweet youth, for I am not
+welcome. I reckon this always, that a man is never [undone][2]
+till he be hanged, nor never welcome to a place till
+some certain [shot][3] be paid, and the hostess say,
+‘ Welcome.’
+
+[1]: {{page.q}}=19872  "forswear (v), past forms forsworn, forswore 1: swear falsely, perjure [oneself], break one's word"
+[2]: {{page.q}}=7007  "undone (adj.): ruined, destroyed, brought down"
+[3]: {{page.q}}=14956  "shot (n.) 4: tavern bill, reckoning"
+
+**SPEED**
+
+Come on, you [madcap][4]; I'll to the alehouse with
+you [presently][5]; where, for one shot of five pence, thou
+shalt have five thousand welcomes. But, sirrah, how did
+thy master [part][6] with Madam Julia?
+
+[4]: {{page.q}}=11164  "madcap (n.): mad-brained fellow, lunatic"
+[5]: {{page.q}}=12248  "presently (adv.) 1: immediately, instantly, at once"
+[6]: {{page.q}}=12396  "part (v.) 1: depart [from], leave, quit"
+
+**LAUNCE**
+
+Marry, after they [close][7]d in earnest, they parted
+very fairly in jest.
+
+[7]: {{page.q}}=3505  "close (v.) 5: embrace, cuddle, hug"
+
+**SPEED**
+
+But shall she marry him?
+
+
+**LAUNCE**
+
+No.
+
+
+**SPEED**
+
+How then? Shall he marry her?
+
+
+**LAUNCE**
+
+No, neither.
+
+
+**SPEED**
+
+What, are they [broken][8]?
+
+[8]: {{page.q}}=2251  "broken (adj.) 4: fallen out, with the relationship in pieces"
+
+**LAUNCE**
+
+No, they are both as whole as a fish.
+
+
+**SPEED**
+
+Why, then, how stands the [matter][9] with them?
+
+[9]: {{page.q}}=10513  "matter (n.) 4: affair(s), business, real issue"
+
+**LAUNCE**
+
+Marry, thus: when it stands well with him, it
+stands well with her.
+
+
+**SPEED**
+
+What an ass art thou! I understand thee not.
+
+
+**LAUNCE**
+
+What a [block][10] art thou, that thou canst not! My
+staff understands me.
+
+[10]: {{page.q}}=1963  "block (n.) 1: blockhead"
+
+**SPEED**
+
+What thou sayest?
+
+
+**LAUNCE**
+
+Ay, and what I do too; look there, I'll but lean,
+and my staff [understand][11]s me.
+
+[11]: {{page.q}}=6762  "understand (v.) 1: stand under the force of [with pun on ‘comprehend’]"
+
+**SPEED**
+
+It stands under thee, indeed.
+
+
+**LAUNCE**
+
+Why, stand-under and under-stand is all one.
+
+
+**SPEED**
+
+But tell me true, will't be a match?
+
+
+**LAUNCE**
+
+Ask my dog. If he say ay, it will; if he say no, it
+will; if he shake his tail and say nothing, it will.
+
+
+**SPEED**
+
+The conclusion is, then, that it will.
+
+
+**LAUNCE**
+
+Thou shalt never get such a secret from me but
+by a [parable][12].
+
+[12]: {{page.q}}=13204  "parable (n.): indirect means, oblique utterance, similitude"
+
+**SPEED**
+
+'Tis well that I get it so. But, Launce, how sayest
+thou that my master is become a notable lover?
+
+
+**LAUNCE**
+
+I never knew him otherwise.
+
+
+**SPEED**
+
+Than how?
+
+
+**LAUNCE**
+
+A notable [lubber][13], as thou reportest him to be.
+
+[13]: {{page.q}}=19354  "lubber (n.): clumsy dolt, blundering lout"
+
+**SPEED**
+
+Why, thou whoreson ass, thou mistakest me.
+
+
+**LAUNCE**
+
+Why, fool, I meant not thee, I meant thy
+master.
+
+
+**SPEED**
+
+I tell thee my master is become a hot lover.
+
+
+**LAUNCE**
+
+Why, I tell thee, I care not though he burn himself
+in love. If thou wilt, go with me to the alehouse; if
+not, thou art an Hebrew, a Jew, and not worth the name
+of a Christian.
+
+
+**SPEED**
+
+Why?
+
+
+**LAUNCE**
+
+Because thou hast not so much charity in thee as
+to go to the [ale][14] with a Christian. Wilt thou go?
+
+[14]: {{page.q}}=559  "ale (n.): ale-house, tavern"
+
+**SPEED**
+
+At thy service.
+Exeunt

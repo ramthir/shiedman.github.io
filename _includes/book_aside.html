@@ -1,0 +1,21 @@
+    <ul>
+      <li class="{% if page.title == 'Books' %}active{% endif %}">
+        <a href="/books/">All Books</a>
+      </li>
+      {% for book in site.data.books %}
+      <li class="{% if page.title == book.title %}active{% endif %}">
+      <a href="{{book.href}}">{{book.title}}</a>
+      </li>
+      {% endfor %}
+    </ul>
+    <h4>Recent Articles</h4>
+    <ul>
+      {% for post in site.posts limit:5 %}
+      <li class="{% if page.id == post.id %}active{% endif %}">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% endfor %}
+      <li>
+        <a href="/changelog/">changelog »</a>
+      </li>
+    </ul>

@@ -1,0 +1,38 @@
+---
+layout: default
+title: notes
+permalink: /blog/
+
+---
+
+<main class="archive">
+<div class="row">
+
+<!-- post listing -->
+{% for cat in site.categories %}
+    {% capture header %}
+    <h3> {{cat[0]}}</h3>
+    {% endcapture %}
+
+    {% capture body %}
+    {% for post in cat[1] %}
+    {% if post.url contains '/blog/' %}
+        <li>
+          <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+          <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        </li>
+    {% endif %}
+    {% endfor %}
+    {% endcapture %}
+
+    {% assign strip_body = body|strip_newlines|remove: ' ' %}
+    {% if  strip_body != '' %}
+      {{ header }}
+      <ul>{{ body }}</ul>
+    {% endif %}
+
+{% endfor %}
+<!-- /post listing -->
+
+</div>
+</main>

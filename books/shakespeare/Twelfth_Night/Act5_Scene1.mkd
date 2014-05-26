@@ -1,0 +1,1266 @@
+---
+title: Twelfth Night
+tagline: Act V - Scene I
+category: play
+author: shakespeare
+date: 2014-05-25 22:09:26 +0800
+permalink: /books/shakespeare/Twelfth_Night_act5_scene1.html
+layout: book_page
+creation: 1601-1602
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Feste and Fabian_
+
+**FABIAN**
+
+Now, as thou lov'st me, let me see his letter.
+
+
+
+**FESTE**
+
+Good Master Fabian, grant me another request.
+
+
+
+**FABIAN**
+
+Anything!
+
+
+
+**FESTE**
+
+Do not desire to see this letter.
+
+
+
+**FABIAN**
+
+This is to give a dog, and in recompense desire
+my dog again.
+_Enter Orsino, Viola, Curio, and lords_
+
+
+
+**ORSINO**
+
+Belong you to the Lady Olivia, friends?
+
+
+
+**FESTE**
+
+Ay, sir, we are some of her [trappings][1].
+
+[1]: {{page.q}}=6345 "trappings (n.):  ornaments, embellishments, bits and pieces"
+
+
+**ORSINO**
+
+I know thee well. How dost thou, my good
+fellow?
+
+
+
+**FESTE**
+
+Truly, sir, the better for my foes, and the worse for
+my friends.
+
+
+
+**ORSINO**
+
+Just the contrary: the better for thy friends.
+
+
+
+**FESTE**
+
+No, sir: the worse.
+
+
+
+**ORSINO**
+
+How can that be?
+
+
+
+**FESTE**
+
+Marry, sir, they praise me – and make an ass of me.
+Now my foes tell me plainly, I am an ass; so that by my
+foes, sir, I profit in the knowledge of myself, and by my
+friends I am [abuse][2]d. So that, conclusions to be as
+kisses, if your four negatives make your two affirmatives,
+why then, the worse for my friends and the better
+for my foes.
+
+[2]: {{page.q}}=709 "abuse (v.) 1:  deceive, mislead, fool, cheat"
+
+
+**ORSINO**
+
+Why, this is excellent.
+
+
+
+**FESTE**
+
+By my troth, sir, no – though it please you to be
+one of my friends.
+
+
+
+**ORSINO**
+
+Thou shalt not be the worse for me: there's gold.
+
+
+
+**FESTE**
+
+But that it would be double-dealing, sir, I would
+you could make it another.
+
+
+
+**ORSINO**
+
+O, you give me [ill][3] counsel!
+
+[3]: {{page.q}}=4918 "ill (adj.) 1:  bad, adverse, unfavourable"
+
+
+**FESTE**
+
+Put your grace in your pocket, sir, for this once,
+and let your flesh and blood obey it.
+
+
+
+**ORSINO**
+
+Well, I will be so much a sinner to be a double-dealer;
+there's another.
+
+
+
+**FESTE**
+
+_Primo_
+_secundo_
+_tertio_
+saying is, the third pays for all; the [triplex][4], sir, is a good
+[tripping][5] measure; or the bells of Saint Bennet, sir, may
+put you in mind – one, two, three!
+
+[4]: {{page.q}}=6346 "triplex (n.):  [music] triple time"
+[5]: {{page.q}}=6637 "tripping (adj.):  light-footed, nimble"
+
+
+**ORSINO**
+
+You can fool no more money out of me at this
+throw. If you will let your lady know I am here to speak
+with her, and bring her along with you, it may awake my
+bounty further.
+
+
+
+**FESTE**
+
+Marry, sir, lullaby to your bounty till I come
+again. I go, sir, but I would not have you to think that
+my desire of having is the sin of covetousness. But as
+you say, sir, let your bounty take a nap – I will awake it
+[anon][6].
+_Exit_
+_Enter Antonio and Officers_
+
+[6]: {{page.q}}=30 "anon (adv.) 1:  soon, shortly, presently"
+
+
+**VIOLA**
+
+Here comes the man, sir, that did rescue me.
+
+
+
+**ORSINO**
+
+That face of his I do remember well.
+Yet when I saw it last, it was [besmear][7]ed
+As black as Vulcan in the smoke of war.
+A [baubling][8] vessel was he captain of,
+For shallow draught and bulk, [unprizable][9];
+With which, such [scatheful][10] grapple did he make
+With the most noble [bottom][11] of our fleet,
+That [very][14] [envy][12] and the tongue of [loss][13]
+Cried fame and honour on him. What's the matter?
+
+[7]: {{page.q}}=2494 "besmear (v.) 1:  smear over, bedaub"
+[8]: {{page.q}}=1714 "baubling, bawbling (adj.):  contemptible, trifling, piddling"
+[9]: {{page.q}}=6884 "unprizable (adj.) 2:  worthless, of little value"
+[10]: {{page.q}}=15824 "scatheful (adj.):  damaging, harmful, injurious"
+[11]: {{page.q}}=1079 "bottom (n.) 6:  [nautical: keel, hull] ship, vessel"
+[12]: {{page.q}}=9707 "envy (n.) 1:  malice, ill-will, enmity"
+[13]: {{page.q}}=19576 "loss (n.) 3:  losing, defeat, overthrow"
+[14]: {{page.q}}=7338 "very (adj.) 1:  [intensifying] thorough-going, absolute"
+
+
+**FIRST OFFICER**
+
+Orsino, this is that Antonio
+_Phoenix_
+_Tiger_
+When your young nephew Titus lost his leg.
+Here in the streets, [desperate][15] of [shame][16] and [state][17],
+In private [brabble][18] did we apprehend him.
+
+[15]: {{page.q}}=9244 "desperate (adj.) 3:  disregarding, careless, reckless"
+[16]: {{page.q}}=14605 "shame (n.) 1:  disgrace, dishonour, affront"
+[17]: {{page.q}}=5904 "state (n.) 1:  condition, circumstances, situation, state of affairs"
+[18]: {{page.q}}=1080 "brabble (n.) 1:  brawl, noisy quarrel, fracas"
+
+
+**VIOLA**
+
+He did me kindness, sir, drew on my side,
+But in conclusion put strange speech upon me.
+I know not what 'twas, but [distraction][19].
+
+[19]: {{page.q}}=8449 "distraction (n.) 2:  madness, derangement, insanity"
+
+
+**ORSINO**
+
+Notable pirate, thou salt-water thief,
+What foolish boldness brought thee to their mercies
+Whom thou, in [term][22]s so [bloody][20] and so [dear][21],
+Hast made thine enemies?
+
+[20]: {{page.q}}=1075 "bloody (adj.) 1:  blood-thirsty, warlike, ferocious"
+[21]: {{page.q}}=8792 "dear (adj.) 1:  dire, grievous, hard"
+[22]: {{page.q}}=5447 "term (n.) 3:  state, condition, circumstance"
+
+
+**ANTONIO**
+
+Orsino, noble sir,
+Be pleased that I shake off these names you give me.
+Antonio never yet was thief or pirate;
+Though, I confess, on [base][23] and [ground][24] enough,
+Orsino's enemy. A witchcraft drew me hither.
+That most [ingrateful][25] boy there by your side
+From the [rude][26] sea's enraged and foamy mouth
+Did I redeem; a [wrack][27] past hope he was.
+His life I gave him, and did thereto add
+My love without [retention][28] or restraint,
+All his in dedication. For his sake
+Did I expose myself – [pure][29] for his love –
+Into the danger of this adverse town;
+Drew to defend him when he was beset;
+Where, being [apprehend][30]ed, his [false][31] cunning –
+Not meaning to partake with me in danger –
+Taught him to [face][32] me out of his acquaintance,
+And grew a twenty years' [removed][33] thing
+While one would [wink][34]; denied me mine own purse
+Which I had [recommend][35]ed to his use
+Not half an hour before.
+
+[23]: {{page.q}}=1715 "base (n.) 1:  basis, foundation, cause"
+[24]: {{page.q}}=17607 "ground (n.) 1:  reason, cause, source"
+[25]: {{page.q}}=4971 "ingrateful (adj.) 1:  ungrateful, unappreciative"
+[26]: {{page.q}}=16903 "rude (adj.) 3:  [of wind or water] stormy, turbulent, harsh"
+[27]: {{page.q}}=7757 "wrack (n.) 2:  wreck, loss, shipwreck"
+[28]: {{page.q}}=17257 "retention (n.) 2:  limit, restriction, holding back"
+[29]: {{page.q}}=13340 "pure (adv.):  purely, solely, only"
+[30]: {{page.q}}=332 "apprehend (v.) 1:  seize, arrest, lay hold of"
+[31]: {{page.q}}=19780 "false (adj.) 1:  treacherous, traitorous, perfidious"
+[32]: {{page.q}}=20718 "face (v.) 6:  exclude, expel; or: deny [to one's face]"
+[33]: {{page.q}}=17258 "removed (adj.) 2:  estranged, remote, alienated"
+[34]: {{page.q}}=8089 "wink (v.) 4:  blink"
+[35]: {{page.q}}=16805 "recommend (v.) 1:  commit, commend, consign"
+
+
+**VIOLA**
+
+How can this be?
+
+
+
+**ORSINO**
+
+When came he to this town?
+
+
+
+**ANTONIO**
+
+Today, my lord; and for three months before
+No interim, not a minute's vacancy,
+Both day and night, did we keep company.
+_Enter Olivia and attendants_
+
+
+
+**ORSINO**
+
+Here comes the Countess; now heaven walks on earth!
+But for thee, fellow – fellow, thy words are madness.
+Three months this youth hath tended upon me.
+But more of that [anon][36]. Take him aside.
+
+[36]: {{page.q}}=30 "anon (adv.) 1:  soon, shortly, presently"
+
+
+**OLIVIA**
+
+What would my lord – but that he may not have –
+Wherein Olivia may seem serviceable?
+Cesario, you do not keep promise with me.
+
+
+
+**VIOLA**
+
+Madam?
+
+
+
+**ORSINO**
+
+Gracious Olivia –
+
+
+
+**OLIVIA**
+
+What do you say, Cesario? (To Orsino) Good, my lord.
+
+
+
+**VIOLA**
+
+My lord would speak; my duty hushes me.
+
+
+
+**OLIVIA**
+
+If it be [aught][37] to the old tune, my lord,
+It is as [fat][38] and [fulsome][39] to mine ear
+As howling after music.
+
+[37]: {{page.q}}=84 "aught (n.):  anything, [with negative word] nothing"
+[38]: {{page.q}}=20719 "fat (adj.) 2:  gross, heavy, dull"
+[39]: {{page.q}}=20750 "fulsome (adj.) 1:  distasteful, nauseating, repulsive"
+
+
+**ORSINO**
+
+[Still][40] so cruel?
+
+[40]: {{page.q}}=14077 "still (adv.) 1:  constantly, always, continually"
+
+
+**OLIVIA**
+
+Still so constant, lord.
+
+
+
+**ORSINO**
+
+What, to perverseness? You [uncivil][41] lady,
+To whose [ingrate][42] and [unauspicious][43] altars
+My soul the faithfull'st offerings hath breathed out
+That e'er devotion tendered! What shall I do?
+
+[41]: {{page.q}}=6648 "uncivil (adj.):  uncivilized, barbarous, unrefined"
+[42]: {{page.q}}=4987 "ingrate (adj.):  ungrateful, unthankful, unappreciative"
+[43]: {{page.q}}=7022 "unauspicious (adj.):  inauspicious, discouraging, unpromising"
+
+
+**OLIVIA**
+
+Even what it please my lord, that shall [become][44] him.
+
+[44]: {{page.q}}=1432 "become (v.) 1:  be fitting, befit, be appropriate to"
+
+
+**ORSINO**
+
+Why should I not – had I the heart to do it –
+Like to th' Egyptian thief at point of death
+Kill what I love – a savage jealousy
+That sometime savours nobly? But hear me this:
+Since you to [non-regardance][45] cast my faith,
+And that I partly know the instrument
+That [screw][46]s me from my true place in your favour,
+Live you the marble-breasted tyrant [still][47].
+But this your [minion][48], whom I know you love,
+And whom, by heaven, I swear, I [tender][49] dearly,
+Him will I tear out of that cruel eye
+Where he sits crowned in his master's [spite][50].
+Come, boy, with me, my thoughts are ripe in mischief.
+I'll sacrifice the lamb that I do love
+To spite a raven's heart within a dove.
+
+[45]: {{page.q}}=11504 "non-regardance (n.):  failure to respect, contempt, disdain"
+[46]: {{page.q}}=15825 "screw (v.) 2:  wrench, force, wrest"
+[47]: {{page.q}}=14077 "still (adv.) 1:  constantly, always, continually"
+[48]: {{page.q}}=10625 "minion (n.) 1:  darling, favourite, select one"
+[49]: {{page.q}}=5443 "tender (v.) 2:  feel concern for, hold dear, care for"
+[50]: {{page.q}}=14578 "spite (n.) 1:  annoyance, vexation, irritation"
+
+
+**VIOLA**
+
+And I, most [jocund][52], [apt][51], and willingly
+To do you rest, a thousand deaths would die.
+
+[51]: {{page.q}}=43 "apt (adj.) 1:  fit, ready, prepared"
+[52]: {{page.q}}=18848 "jocund (adj.):  merry, joyful, cheerful"
+
+
+**OLIVIA**
+
+Where goes Cesario?
+
+
+
+**VIOLA**
+
+After him I love
+More than I love these eyes, more than my life,
+[More][53] by all mores than e'er I shall love [wife][54].
+If I do feign, you witnesses above,
+Punish my life, for [taint][55]ing of my love!
+
+[53]: {{page.q}}=5845 "more (n.):  additional amount, extra quantity"
+[54]: {{page.q}}=8115 "wife (n.):  woman"
+[55]: {{page.q}}=6152 "taint (v.) 3:  disparage, denigrate, belittle"
+
+
+**OLIVIA**
+
+Ay me, [detest][57]ed! How am I [beguile][56]d!
+
+[56]: {{page.q}}=1438 "beguile (v.) 1:  cheat, deceive, trick"
+[57]: {{page.q}}=9245 "detest (v.) 1:  renounce, repudiate; or: hate, abhor"
+
+
+**VIOLA**
+
+Who does beguile you? Who does do you wrong?
+
+
+
+**OLIVIA**
+
+Hast thou forgot thyself? Is it so long?
+Call forth the holy father!
+_Exit an attendant_
+
+
+
+**ORSINO**
+
+Come, away!
+
+
+
+**OLIVIA**
+
+Whither, my lord? Cesario, husband, stay!
+
+
+
+**ORSINO**
+
+Husband?
+
+
+
+**OLIVIA**
+
+Ay, husband. Can he that deny?
+
+
+
+**ORSINO**
+
+Her husband, sirrah?
+
+
+
+**VIOLA**
+
+No, my lord, not I.
+
+
+
+**OLIVIA**
+
+Alas, it is the [baseness][58] of thy fear
+That makes thee [strangle][60] thy [propriety][59].
+Fear not, Cesario, take thy fortunes up.
+Be that thou know'st thou art, and then thou art
+As great as that thou fear'st.
+_Enter Priest_
+O, welcome, Father.
+Father, I charge thee, by thy reverence,
+Here to unfold – though [lately][61] we intended
+To keep in darkness what [occasion][62] now
+Reveals before 'tis ripe – what thou dost know
+Hath newly passed between this youth and me.
+
+[58]: {{page.q}}=1551 "baseness (n.) 3:  cowardice, degenerateness, degradation"
+[59]: {{page.q}}=13341 "propriety (n.) 2:  proper character, real identity"
+[60]: {{page.q}}=5944 "strangle (v.):  quench, eclipse, stifle"
+[61]: {{page.q}}=15366 "lately (adv.) 1:  recently, of late"
+[62]: {{page.q}}=11829 "occasion (n.) 3:  need, want, requirement"
+
+
+**PRIEST**
+
+A contract of eternal bond of love,
+Confirmed by mutual [joinder][63] of your hands,
+[Attest][64]ed by the holy [close][65] of lips,
+Strengthened by [interchangement][66] of your rings,
+And all the ceremony of this compact
+Sealed in my [function][67], by my testimony;
+Since when, my watch hath told me, toward my grave
+I have travelled but two hours.
+
+[63]: {{page.q}}=18951 "joinder (n.):  joining, union, uniting"
+[64]: {{page.q}}=598 "attest (v.) 1:  vouch for, be evidence of, testify to"
+[65]: {{page.q}}=3512 "close (n.) 1:  union, uniting"
+[66]: {{page.q}}=5233 "interchangement (n.):  interchange, exchange"
+[67]: {{page.q}}=19896 "function (n.) 3:  office, occupation, calling"
+
+
+**ORSINO**
+
+O thou [dissembling][68] cub! What wilt thou be
+When time hath sowed a [grizzle][70] on thy [case][69]?
+Or will not else thy craft so quickly grow
+That thine own [trip][71] shall be thine overthrow?
+Farewell, and take her; but direct thy feet
+Where thou and I henceforth may never meet.
+
+[68]: {{page.q}}=8491 "dissembling (adj.):  deceitful, hypocritical, false"
+[69]: {{page.q}}=4218 "case (n.) 5:  outer covering, surface appearance"
+[70]: {{page.q}}=17994 "grizzle (n.):  sprinkling of grey hairs"
+[71]: {{page.q}}=6373 "trip (n.):  [wrestling] foot movement which causes an opponent to fall"
+
+
+**VIOLA**
+
+My lord, I do protest –
+
+
+
+**OLIVIA**
+
+O, do not swear!
+Hold little faith, though thou hast too much fear.
+_Enter Sir Andrew_
+
+
+
+**SIR ANDREW**
+
+For the love of God, a surgeon! Send one
+[presently][72] to Sir Toby.
+
+[72]: {{page.q}}=12248 "presently (adv.) 1:  immediately, instantly, at once"
+
+
+**OLIVIA**
+
+What's the matter?
+
+
+
+**SIR ANDREW**
+
+He's broke my head [across][73], and he's given
+Sir Toby a bloody [coxcomb][74] too. For the love of God,
+your help! I had rather than forty pound I were at home.
+
+[73]: {{page.q}}=797 "across (adv.) 2:  from side to side, all the way across"
+[74]: {{page.q}}=3197 "coxcomb (n.) 1:  head"
+
+
+**OLIVIA**
+
+Who has done this, Sir Andrew?
+
+
+
+**SIR ANDREW**
+
+The Count's gentleman, one Cesario. We
+took him for a coward, but he's the very devil
+[incardinate][75].
+
+[75]: {{page.q}}=5234 "incardinate (adj.):  malapropism for ‘incarnate’"
+
+
+**ORSINO**
+
+My gentleman, Cesario?
+
+
+
+**SIR ANDREW**
+
+'Od's lifelings, here he is! You broke my
+head for nothing; and that that I did, I was set on to do't
+by Sir Toby.
+
+
+
+**VIOLA**
+
+Why do you speak to me? I never hurt you.
+You drew your sword upon me without cause,
+But I [bespake][76] you [fair][77], and hurt you not.
+_Enter Sir Toby and Feste_
+
+[76]: {{page.q}}=1449 "bespeak (v.), past forms bespake, bespoke 4:  address, speak to"
+[77]: {{page.q}}=20162 "fair (adv.) 1:  kindly, encouragingly, courteously"
+
+
+**SIR ANDREW**
+
+If a bloody coxcomb be a hurt, you have
+hurt me. I think you [set][78] nothing by a bloody coxcomb.
+Here comes Sir Toby [halt][79]ing, you shall hear more; but
+if he had not been in drink, he would have [tickle][80]d you
+[othergates][81] than he did.
+
+[78]: {{page.q}}=13970 "set (v.) 1:  value, rate, esteem"
+[79]: {{page.q}}=15264 "halt (v.):  limp, proceed lamely"
+[80]: {{page.q}}=5528 "tickle (v.) 2:  beat, flog, rain blows on"
+[81]: {{page.q}}=11948 "othergates (adv.):  otherwise, differently, in another way"
+
+
+**ORSINO**
+
+How now, gentleman? How is't with you?
+
+
+
+**SIR TOBY**
+
+That's all one; he's hurt me, and there's the
+end on't. (To Feste) Sot, didst see Dick Surgeon, sot?
+
+
+
+**FESTE**
+
+O, he's drunk, Sir Toby, an hour [agone][82]. His eyes
+were [set][83] at eight i'the morning.
+
+[82]: {{page.q}}=561 "agone (adv.):  ago, past"
+[83]: {{page.q}}=15826 "set (adj.) 5:  fixed, rigid, closed"
+
+
+**SIR TOBY**
+
+Then he's a rogue and a [passy-measures][84] [pavin][85].
+I hate a drunken rogue.
+
+[84]: {{page.q}}=13342 "passy-measures (adj.):  dancing with slow pace"
+[85]: {{page.q}}=13343 "pavin (n.):  type of stately dance, pavane"
+
+
+**OLIVIA**
+
+Away with him! Who hath made this havoc with
+them?
+
+
+
+**SIR ANDREW**
+
+I'll help you, Sir Toby, because we'll be
+[dress][86]ed together.
+
+[86]: {{page.q}}=9067 "dress (v.) 4:  [of wounds] treat, minister to, care for"
+
+
+**SIR TOBY**
+
+Will you help? An asshead, and a [coxcomb][87],
+and a [knave][89] – a thin-faced knave, a [gull][88]!
+
+[87]: {{page.q}}=3051 "coxcomb (n.) 2:  fool's head, fool, simpleton"
+[88]: {{page.q}}=17861 "gull (n.) 1:  dupe, fool, simpleton"
+[89]: {{page.q}}=18989 "knave (n.) 1:  scoundrel, rascal, rogue"
+
+
+**OLIVIA**
+
+Get him to bed, and let his hurt be looked to.
+_Exeunt Sir Toby and Sir Andrew,_
+_helped by Feste and Fabian_
+_Enter Sebastian_
+
+
+
+**SEBASTIAN**
+
+I am sorry, madam, I have hurt your kinsman.
+But had it been the brother of my [blood][90]
+I must have done no less, [wit][91]h wit and safety.
+You throw a [strange][93] [regard][92] upon me; and by that
+I do perceive it hath offended you.
+Pardon me, sweet one, even for the vows
+We made each other but so late ago.
+
+[90]: {{page.q}}=1777 "blood (n.) 6:  blood relationship, kinship"
+[91]: {{page.q}}=7583 "wit (n.) 1:  intelligence, wisdom, good sense, mental ability"
+[92]: {{page.q}}=17052 "regard (n.) 4:  look, glance, gaze"
+[93]: {{page.q}}=15811 "strange (adj.) 7:  aloof, distant, reserved"
+
+
+**ORSINO**
+
+One face, one voice, one [[habit][95]][94], and two persons!
+A natural [perspective][96], that is and is not.
+
+[94]: {{page.q}}=15263 "habit (n.) 1:  dress, clothing, costume"
+[95]: {{page.q}}=18258 "habit (n.) 3:  behaviour, bearing, demeanour"
+[96]: {{page.q}}=12691 "perspective (n.):  picture in which perspective is altered so as to appear distorted unless seen from a particular angle"
+
+
+**SEBASTIAN**
+
+Antonio! O, my dear Antonio!
+How have the hours racked and tortured me
+Since I have lost thee!
+
+
+
+**ANTONIO**
+
+Sebastian, are you?
+
+
+
+**SEBASTIAN**
+
+[Fear][97]'st thou that, Antonio?
+
+[97]: {{page.q}}=19803 "fear (v.) 3:  doubt, mistrust"
+
+
+**ANTONIO**
+
+How have you made division of yourself?
+An apple cleft in two is not more twin
+Than these two creatures. Which is Sebastian?
+
+
+
+**OLIVIA**
+
+Most wonderful!
+
+
+
+**SEBASTIAN**
+
+Do I stand there? I never had a brother;
+Nor can there be that deity in my nature
+Of here and everywhere. I had a sister
+Whom the [blind][98] waves and surges have devoured.
+Of charity, what kin are you to me?
+What countryman? What name? What parentage?
+
+[98]: {{page.q}}=2291 "blind (adj.) 3:  heedless, reckless, headstrong"
+
+
+**VIOLA**
+
+Of Messaline. Sebastian was my father.
+Such a Sebastian was my brother too.
+So went he [suit][99]ed to his watery tomb.
+If spirits can assume both [form][100] and [suit][101]
+You come to [fright][102] us.
+
+[99]: {{page.q}}=14103 "suit (v.) 1:  dress, clothe, equip"
+[100]: {{page.q}}=19871 "form (n.) 8:  physical appearance, outward appearance"
+[101]: {{page.q}}=14285 "suit (n.) 4:  clothing, dress, garb"
+[102]: {{page.q}}=19973 "fright (v.), past form frighted:  frighten, scare, terrify"
+
+
+**SEBASTIAN**
+
+A spirit I am indeed,
+But am in that [dimension][103] [grossly][104] clad
+Which from the womb I did [participate][105].
+Were you a woman, as the rest goes [even][106],
+I should my tears let fall upon your cheek,
+And say, ‘ Thrice welcome, drowned Viola.’
+
+[103]: {{page.q}}=9246 "dimension (n.) 1:  bodily form, physical frame"
+[104]: {{page.q}}=17995 "grossly (adv.) 3:  materially, physically, with substance"
+[105]: {{page.q}}=13344 "participate (v.):  take, receive, share in"
+[106]: {{page.q}}=9842 "even (adj.) 6:  equal, alike, same"
+
+
+**VIOLA**
+
+My father had a mole upon his [brow][107].
+
+[107]: {{page.q}}=2299 "brow (n.) 4:  forehead [often plural, referring to the two prominences of the forehead]"
+
+
+**SEBASTIAN**
+
+And so had mine.
+
+
+
+**VIOLA**
+
+And died that day when Viola from her birth
+Had numbered thirteen years.
+
+
+
+**SEBASTIAN**
+
+O, that [record][108] is lively in my soul.
+He finished indeed his mortal act
+That day that made my sister thirteen years.
+
+[108]: {{page.q}}=17259 "record (n.) 1:  recollection, memory"
+
+
+**VIOLA**
+
+If nothing [let][109]s to make us happy both
+But this my masculine [usurped][110] attire,
+Do not embrace me, till each circumstance
+Of place, time, fortune, do [cohere][111] and [jump][112]
+That I am Viola; which to confirm,
+I'll bring you to a captain in this town
+Where lie my maiden [weed][114]s; by whose [gentle][113] help
+I was preserved to serve this noble Count.
+All the occurrence of my fortune since
+Hath been between this lady and this lord.
+
+[109]: {{page.q}}=19118 "let (v.) 1:  hinder, prevent, stand in the way"
+[110]: {{page.q}}=5760 "usurped (adj.):  false, counterfeit, disguising"
+[111]: {{page.q}}=3670 "cohere (v.):  agree, accord, hold together"
+[112]: {{page.q}}=18887 "jump (v.) 1:  agree, coincide, tally"
+[113]: {{page.q}}=17496 "gentle (adj.) 2:  courteous, friendly, kind"
+[114]: {{page.q}}=7564 "weed (n.) 1:  (plural) garments, dress, clothes"
+
+
+**SEBASTIAN**
+
+_to Olivia_
+So comes it, lady, you have been mistook.
+But nature to her [bias][115] drew in that.
+You would have been contracted to a maid.
+Nor are you therein, by my life, deceived:
+You are betrothed both to a [maid][116] and man.
+
+[115]: {{page.q}}=2054 "bias (n.) 1:  [weighting in a bowl causing it to run obliquely] inclination, tendency, leaning"
+[116]: {{page.q}}=10548 "maid (n.) 2:  virgin, unmarried woman"
+
+
+**ORSINO**
+
+Be not amazed; right noble is his blood.
+If this be so, as yet the [glass][117] seems true,
+I shall have share in this most happy [wrack][118].
+(To Viola) Boy, thou hast said to me a thousand times
+Thou never shouldst love woman like to me.
+
+[117]: {{page.q}}=17507 "glass (n.) 1:  mirror, looking-glass"
+[118]: {{page.q}}=7757 "wrack (n.) 2:  wreck, loss, shipwreck"
+
+
+**VIOLA**
+
+And all those sayings will I [overswear][119]
+And those [swearing][120]s keep as true in soul
+As doth that [orbed][122] [continent][121] the fire
+That severs day from night.
+
+[119]: {{page.q}}=11949 "overswear (v.):  swear over again"
+[120]: {{page.q}}=14399 "swearing (n.):  act of swearing, moment of oath-taking"
+[121]: {{page.q}}=3671 "continent (n.) 3:  globe, mass"
+[122]: {{page.q}}=11617 "orbed (adj.):  rounded, orb-like, spherical"
+
+
+**ORSINO**
+
+Give me thy hand,
+And let me see thee in thy woman's [weed][123]s.
+
+[123]: {{page.q}}=7564 "weed (n.) 1:  (plural) garments, dress, clothes"
+
+
+**VIOLA**
+
+The Captain that did bring me first on shore
+Hath my maid's garments. He, upon some action,
+Is now in [durance][124] at Malvolio's [suit][125],
+A gentleman and follower of my lady's.
+
+[124]: {{page.q}}=9117 "durance (n.) 1:  confinement, imprisonment, incarceration"
+[125]: {{page.q}}=14102 "suit (n.) 1:  formal request, entreaty, petition"
+
+
+**OLIVIA**
+
+He shall [enlarge][126] him; fetch Malvolio hither.
+And yet, alas, now I [remember][127] me,
+They say, poor gentleman, he's much [distract][128].
+_Enter Feste with a letter, and Fabian_
+A most extracting frenzy of mine own
+From my [[remembrance][130]][129] clearly banished his.
+(To Feste) How does he, sirrah?
+
+[126]: {{page.q}}=9745 "enlarge (v.) 1:  release, set at large, discharge"
+[127]: {{page.q}}=16893 "remember (v.) 1:  remind, bring to someone's mind"
+[128]: {{page.q}}=8446 "distract (adj.) 1:  deranged, mad, mentally disturbed"
+[129]: {{page.q}}=17000 "remembrance (n.) 3:  notice, paying attention"
+[130]: {{page.q}}=17226 "remembrance (n.) 1:  memory, bringing to mind, recollection"
+
+
+**FESTE**
+
+Truly, madam, he holds Beelzebub at the [stave][131]s's
+end as well as a man in his case may do. He's here writ a
+letter to you. I should have given it you today morning.
+But as a madman's epistles are no gospels, so it [skill][132]s not
+much when they are delivered.
+
+[131]: {{page.q}}=15827 "stave (n.):  staff, rod"
+[132]: {{page.q}}=15076 "skill (v.):  matter, make a difference, be of importance"
+
+
+**OLIVIA**
+
+Open it, and read it.
+
+
+
+**FESTE**
+
+Look, then, to be well edified when the fool
+[delivers][133] the madman.
+_He reads frantically_
+_By the Lord, madam_
+
+[133]: {{page.q}}=9212 "deliver (v.) 1:  report [to], communicate [to], tell, describe"
+
+
+**OLIVIA**
+
+How now, art thou mad?
+
+
+
+**FESTE**
+
+No, madam; I do but read madness. An your
+ladyship will have it as it ought to be, you must allow
+_vox_
+
+
+
+**OLIVIA**
+
+Prithee, read i' thy right [wits][134].
+
+[134]: {{page.q}}=8049 "wits, also five wits:  faculties of the mind (common wit, imagination, fantasy, estimation, memory) or body (the five senses)"
+
+
+**FESTE**
+
+So I do, madonna; but to read his right wits, is to
+read thus. Therefore, [perpend][135], my princess, and give
+ear.
+
+[135]: {{page.q}}=12180 "perpend (v.):  consider, ponder, reflect"
+
+
+**OLIVIA**
+
+(snatching the letter and giving it to Fabian) Read
+it you, sirrah.
+
+
+
+**FABIAN**
+
+_reads_
+_By the Lord, madam, you wrong me, and the world shall_
+_know it. Though you have put me into darkness and given_
+_your drunken cousin rule over me, yet have I the benefit of_
+_my senses as well as your ladyship. I have your own letter_
+_that induced me to the semblance I put on; with the which_
+_I doubt not but to do myself much right, or you much_
+_shame. Think of me as you please, I leave my duty a little_
+_unthought-of, and speak out of my injury. The madly-used_
+_Malvolio._
+
+
+
+**OLIVIA**
+
+Did he write this?
+
+
+
+**FESTE**
+
+Ay, madam.
+
+
+
+**ORSINO**
+
+This savours not much of [distraction][136].
+
+[136]: {{page.q}}=8449 "distraction (n.) 2:  madness, derangement, insanity"
+
+
+**OLIVIA**
+
+See him [deliver][137]ed, Fabian, bring him hither.
+_Exit Fabian_
+My lord, so please you, these things further thought on,
+To think me as well a sister as a wife,
+One day shall crown th' alliance on't, so please you,
+Here at my house, and at my [proper][138] cost.
+
+[137]: {{page.q}}=9219 "deliver (v.) 3:  free, release, liberate"
+[138]: {{page.q}}=5874 "proper (adj.) 4:  personal, private, individual"
+
+
+**ORSINO**
+
+Madam, I am most [apt][139] t' embrace your offer.
+(To Viola) Your master quits you; and for your service done him
+So much against the mettle of your sex,
+So far beneath your soft and tender breeding,
+And since you called me master for so long,
+Here is my hand; you shall from this time be
+Your master's mistress.
+
+[139]: {{page.q}}=43 "apt (adj.) 1:  fit, ready, prepared"
+
+
+**OLIVIA**
+
+A sister, you are she.
+_Enter Malvolio and Fabian_
+
+
+
+**ORSINO**
+
+Is this the madman?
+
+
+
+**OLIVIA**
+
+Ay, my lord, this same.
+How now, Malvolio?
+
+
+
+**MALVOLIO**
+
+Madam, you have done me wrong;
+Notorious wrong.
+
+
+
+**OLIVIA**
+
+Have I, Malvolio? No!
+
+
+
+**MALVOLIO**
+
+Lady, you have; pray you, peruse that letter.
+You must not now deny it is your hand.
+Write from it if you can, in hand or phrase,
+Or say 'tis not your seal, nor your [invention][140];
+You can say none of this. Well, grant it then,
+And tell me in the [modesty][142] of [honour][141],
+Why you have given me such clear [light][143]s of favour?
+Bade me come smiling and cross-gartered to you,
+To put on yellow stockings, and to frown
+Upon Sir Toby and the [light][144]er people?
+And, acting this in an obedient hope,
+Why have you suffered me to be imprisoned,
+Kept in a dark house, visited by the priest,
+And made the most notorious [geck][145] and [gull][146]
+That e'er [invention][147] played on? Tell me why?
+
+[140]: {{page.q}}=5235 "invention (n.) 4:  composition, written exposition"
+[141]: {{page.q}}=18193 "honour (n.) 2:  credit, good name, reputation"
+[142]: {{page.q}}=10462 "modesty (n.) 2:  propriety, protocol, seemly behaviour"
+[143]: {{page.q}}=19577 "light (n.) 3:  sign, signal, indication"
+[144]: {{page.q}}=15367 "light (adj.) 6:  facile, frivolous, of no consequence"
+[145]: {{page.q}}=17805 "geck (n.):  dupe, sucker, fool"
+[146]: {{page.q}}=17861 "gull (n.) 1:  dupe, fool, simpleton"
+[147]: {{page.q}}=5058 "invention (n.) 5:  plan, scheme, stratagem"
+
+
+**OLIVIA**
+
+Alas, Malvolio, this is not my writing,
+Though, I confess, much like the [character][148].
+But out of question 'tis Maria's hand.
+And now I do [bethink][149] me, it was she
+First told me thou wast mad; then, camest in smiling,
+And in such forms which here were [presuppose][150]d
+Upon thee in the letter. Prithee, be [content][151].
+This [practice][152] hath most [shrewdly][153] passed upon thee;
+But when we know the grounds and authors of it,
+Thou shalt be both the plaintiff and the judge
+Of thine own cause.
+
+[148]: {{page.q}}=4285 "character (n.) 3:  handwriting, style of writing, lettering"
+[149]: {{page.q}}=1455 "bethink (v.), past form bethought 1:  call to mind, think about, consider, reflect"
+[150]: {{page.q}}=13345 "presuppose (v.):  suggest earlier, previously lay down"
+[151]: {{page.q}}=2877 "content (adj.) 2:  contented, patient, accepting, undisturbed"
+[152]: {{page.q}}=12233 "practice (n.) 2:  trickery, treachery"
+[153]: {{page.q}}=15828 "shrewdly (adv.) 3:  maliciously, wickedly, mischievously"
+
+
+**FABIAN**
+
+Good madam, hear me speak;
+And let no quarrel, nor no brawl to come,
+[Taint][155] the [condition][154] of this present hour,
+Which I have [wonder][156]ed at. In hope it shall not,
+Most freely I confess, myself and Toby
+Set this [device][157] against Malvolio here,
+Upon some [stubborn][159] and [uncourteous][160] [part][158]s
+We had [conceive][161]d against him. Maria writ
+The letter at Sir Toby's great [importance][162],
+In recompense whereof, he hath married her.
+How with a [sportful][163] malice it was followed
+May rather pluck on laughter than revenge,
+If that the injuries be justly weighed
+That have on both sides passed.
+
+[154]: {{page.q}}=2899 "condition (n.) 3:  nature, state, circumstances"
+[155]: {{page.q}}=6340 "taint (v.) 4:  impair, harm, injure"
+[156]: {{page.q}}=8009 "wonder (v.) 1:  marvel [at], be astonished [at]"
+[157]: {{page.q}}=8403 "device (n.) 1:  plot, stratagem, trick"
+[158]: {{page.q}}=12150 "part (n.) 1:  quality, attribute, gift, accomplishment [of mind or body]"
+[159]: {{page.q}}=15829 "stubborn (adj.) 3:  uncompromising, unyielding, obstinate"
+[160]: {{page.q}}=7023 "uncourteous (adj.):  discourteous, unfriendly"
+[161]: {{page.q}}=1190 "conceive (v.) 3:  imagine, fancy"
+[162]: {{page.q}}=5236 "importance (n.) 2:  urgent request, urging, encouragement"
+[163]: {{page.q}}=15579 "sportful (adj.) 2:  playful, frolicsome, wanton"
+
+
+**OLIVIA**
+
+Alas, poor fool! How have they [baffle][164]d thee!
+
+[164]: {{page.q}}=1367 "baffle (v.) 2:  treat shamefully, expose to ridicule"
+
+
+**FESTE**
+
+Why, ‘ Some are born great, some achieve greatness,
+and some have greatness thrown upon them.’ I
+was one, sir, in this [interlude][165], one Sir Topas, sir – but
+that's all one. ‘ By the Lord, fool, I am not mad!’ But do
+you remember: ‘ Madam, why laugh you at such a
+barren rascal, an you smile not, he's gagged ’? And thus
+the [whirligig][166] of time brings in his revenges.
+
+[165]: {{page.q}}=5048 "interlude, enterlude (n.):  short play, theatrical performance [staged to fill an interval]"
+[166]: {{page.q}}=8090 "whirligig (n.):  spinning top, roundabout"
+
+
+**MALVOLIO**
+
+I'll be revenged on the whole pack of you!
+_Exit_
+
+
+
+**OLIVIA**
+
+He hath been most notoriously [abuse][167]d.
+
+[167]: {{page.q}}=879 "abuse (v.) 2:  misuse, maltreat, treat badly, wrong"
+
+
+**ORSINO**
+
+Pursue him and entreat him to a peace.
+He hath not told us of the Captain yet.
+When that is known, and golden time [convent][168]s,
+A solemn [combination][169] shall be made
+Of our dear souls. Meantime, sweet sister,
+We will not part from hence. Cesario, come;
+For so you shall be, while you are a man.
+But when in other [habit][170]s you are seen –
+Orsino's mistress, and his [fancy][171]'s queen!
+_Exeunt all but Feste_
+
+[168]: {{page.q}}=3475 "convent (v.) 2:  summon, call to appear, send for"
+[169]: {{page.q}}=3796 "combination (n.):  alliance, league, treaty"
+[170]: {{page.q}}=15263 "habit (n.) 1:  dress, clothing, costume"
+[171]: {{page.q}}=20677 "fancy (n.) 1:  love, amorousness, infatuation"
+
+
+**FESTE**
+
+_sings_
+When that I was and a little tiny boy,
+With hey-ho, the wind and the rain;
+A foolish thing was but a [toy][172],
+For the rain it raineth every day.
+But when I came to man's estate,
+With hey-ho, the wind and the rain;
+'Gainst [knave][173]s and thieves men shut their gate,
+For the rain it raineth every day.
+But when I came, alas, to wive,
+With hey-ho, the wind and the rain;
+By [swaggering][174] could I never thrive,
+For the rain it raineth every day.
+But when I came unto my beds,
+With hey-ho, the wind and the rain;
+With [tosspot][175]s still had drunken heads,
+For the rain it raineth every day.
+A great while ago the world began,
+With hey-ho, the wind and the rain;
+But that's all one, our play is done,
+And we'll strive to please you every day.
+_Exit_
+
+[172]: {{page.q}}=5523 "toy (n.) 3:  trinket, trifle, trivial ornament"
+[173]: {{page.q}}=18989 "knave (n.) 1:  scoundrel, rascal, rogue"
+[174]: {{page.q}}=15872 "swaggering (n.):  blustering, bullying, quarrelling"
+[175]: {{page.q}}=6348 "tosspot (n.):  drunkard, sot, tippler"

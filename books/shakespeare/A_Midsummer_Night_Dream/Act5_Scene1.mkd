@@ -1,0 +1,1132 @@
+---
+title: A Midsummer Night's Dream
+tagline: Act V - Scene I
+category: play
+author: shakespeare
+date: 2014-05-25 16:38:49 +0800
+permalink: /books/shakespeare/A_Midsummer_Night_Dream_act5_scene1.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Theseus, Hippolyta, Philostrate, Lords, and_
+
+_Attendants_
+
+**HIPPOLYTA**
+
+'Tis strange, my Theseus, that these lovers speak of.
+
+
+
+**THESEUS**
+
+More strange than true. I never may believe
+These [antique][1] fables, nor these fairy [toy][2]s.
+Lovers and madmen have such seething brains,
+Such [shaping][5] [fantasies][4], that [apprehend][3]
+More than cool reason ever comprehends.
+The lunatic, the lover, and the poet
+Are of imagination all [compact][6].
+One sees more devils than vast hell can hold.
+That is the madman. The lover, all as frantic,
+Sees Helen's beauty in a [brow][7] of Egypt.
+The poet's eye, in fine frenzy rolling,
+Doth glance from heaven to earth, from earth to heaven.
+And as imagination [bodies forth][8]
+The forms of things unknown, the poet's pen
+Turns them to shapes, and gives to airy nothing
+A local habitation and a name.
+Such tricks hath strong imagination
+That if it would but [apprehend][9] some joy,
+It [comprehend][10]s some bringer of that joy.
+Or in the night, imagining some fear,
+How easy is a bush supposed a bear?
+
+[1]: {{page.q}}=297 "antic, antick(e), antique (adj.) 3:  old-fashioned, old-world, antiquated"
+[2]: {{page.q}}=5976 "toy (n.) 7:  foolish story, old wives' tale"
+[3]: {{page.q}}=298 "apprehend (v.) 4:  imagine, conceive, invent"
+[4]: {{page.q}}=19789 "fantasy (n.) 1:  imagining, delusion, hallucination"
+[5]: {{page.q}}=16421 "shaping (adj.):  imaginative, inventive, creative"
+[6]: {{page.q}}=2679 "compact (adj.) 2:  made up, composed"
+[7]: {{page.q}}=1820 "brow (n.) 1:  appearance, aspect, countenance"
+[8]: {{page.q}}=2019 "body forth (v.):  make available to the mind, give mental shape to"
+[9]: {{page.q}}=298 "apprehend (v.) 4:  imagine, conceive, invent"
+[10]: {{page.q}}=3147 "comprehend (v.) 1:  take in, include, incorporate"
+
+
+**HIPPOLYTA**
+
+But all the story of the night told over,
+And all their minds transfigured so together,
+More [witness][12]eth than [fancy][11]'s images,
+And grows to something of great [constancy][13];
+But, howsoever, strange and [admirable][14].
+_Enter the lovers: Lysander, Demetrius, Hermia, and_
+_Helena_
+
+[11]: {{page.q}}=19785 "fancy (n.) 3:  imagination, creativity, inventiveness"
+[12]: {{page.q}}=7758 "witness (v.) 1:  bear witness to, attest, testify to"
+[13]: {{page.q}}=3175 "constancy (n.) 1:  consistency, agreement, uniformity"
+[14]: {{page.q}}=299 "admirable (adj.):  wondrous, marvellous, extraordinary"
+
+
+**THESEUS**
+
+Here come the lovers, full of joy and mirth.
+Joy, [gentle][15] friends, joy and fresh days of love
+Accompany your hearts.
+
+[15]: {{page.q}}=17495 "gentle (adj.) 1:  well-born, honourable, noble"
+
+
+**LYSANDER**
+
+More than to us
+Wait in your royal walks, your board, your bed.
+
+
+
+**THESEUS**
+
+Come now, what masques, what dances shall we have
+To wear away this long age of three hours
+Between our [after-supper][16] and bedtime?
+Where is our usual manager of mirth?
+What revels are in hand? Is there no play
+To ease the anguish of a torturing hour?
+Call Philostrate.
+
+[16]: {{page.q}}=300 "after-supper (n.):  period of time immediately after dessert [eaten after the main course of the evening meal]"
+
+
+**PHILOSTRATE**
+
+Here, mighty Theseus.
+
+
+
+**THESEUS**
+
+Say, what [abridgement][17] have you for this evening?
+What masque, what music? How shall we beguile
+The lazy time if not with some delight?
+
+[17]: {{page.q}}=507 "abridgement (n.) 1:  pastime, short entertainment, means of shortening the time"
+
+
+**PHILOSTRATE**
+
+_giving a paper_
+There is a brief how many sports are ripe.
+Make choice of which your highness will see first.
+
+
+
+**THESEUS**
+
+_The Battle with the Centaurs_
+By an Athenian eunuch to the harp.’
+We'll none of that. That have I told my love
+In glory of my kinsman, Hercules.
+_The riot of the tipsy Bacchanals,_
+_Tearing the Thracian singer in their rage._
+That is an old [device][18], and it was played
+When I from Thebes came last a conqueror.
+_The thrice three Muses mourning for the death_
+_Of learning, late deceased in beggary._
+That is some satire keen and [critical][19],
+Not [sort][20]ing with a nuptial ceremony.
+_A tedious brief scene of young Pyramus_
+_And his love Thisbe_
+Merry and tragical? Tedious and brief?
+That is, hot ice and wondrous strange snow.
+How shall we find the concord of this discord?
+
+[18]: {{page.q}}=8843 "device (n.) 10:  show, performance, production"
+[19]: {{page.q}}=3176 "critical (adj.):  censorious, judgemental, faultfinding"
+[20]: {{page.q}}=14031 "sort (v.) 1:  suit, be fitting, be appropriate"
+
+
+**PHILOSTRATE**
+
+A play there is, my lord, some ten words long,
+Which is as ‘ brief ’ as I have known a play.
+But by ten words, my lord, it is too long,
+Which makes it ‘ tedious.’ For in all the play
+There is not one word apt, one player fitted.
+And ‘ tragical ’, my noble lord, it is,
+For Pyramus therein doth kill himself,
+Which when I saw rehearsed, I must confess,
+Made mine eyes water: but more ‘ merry ’ tears
+The passion of loud laughter never shed.
+
+
+
+**THESEUS**
+
+What are they that do play it?
+
+
+
+**PHILOSTRATE**
+
+Hard-handed men that work in Athens here,
+Which never laboured in their minds till now,
+And now have [toil][21]ed their [unbreathed][22] memories
+With this same play against your nuptial.
+
+[21]: {{page.q}}=5674 "toil (v.):  exhaust, tire out, fatigue"
+[22]: {{page.q}}=6810 "unbreathed (adj.):  unpractised, inexperienced, inexpert"
+
+
+**THESEUS**
+
+And we will hear it.
+
+
+
+**PHILOSTRATE**
+
+No, my noble lord,
+It is not for you. I have heard it over,
+And it is nothing, nothing in the world,
+Unless you can find [sport][23] in their [intents][25],
+Extremely stretched, and [con][24]ned with cruel [pain][26],
+To do you service.
+
+[23]: {{page.q}}=14044 "sport (n.) 1:  recreation, amusement, entertainment"
+[24]: {{page.q}}=2691 "con (v.) 1:  learn by heart, commit to memory"
+[25]: {{page.q}}=5207 "intent (n.):  intention, purpose, aim"
+[26]: {{page.q}}=12314 "pain (n.):  effort, endeavour, exertion, labour"
+
+
+**THESEUS**
+
+I will hear that play,
+For never anything can be amiss
+When [simpleness][27] and duty tender it.
+Go bring them in; and take your places, ladies.
+_Exit Philostrate_
+
+[27]: {{page.q}}=15748 "simpleness (n.) 1:  unpretentiousness, unaffected behaviour, unassuming simplicity"
+
+
+**HIPPOLYTA**
+
+I love not to see [wretchedness][29] [o'ercharged][28],
+And duty in his service perishing.
+
+[28]: {{page.q}}=11873 "overcharged (adj.) 1:  overburdened, overtaxed, overwrought"
+[29]: {{page.q}}=7771 "wretchedness (n.):  humble people, the poor, the lowly"
+
+
+**THESEUS**
+
+Why, [gentle][30] sweet, you shall see no such thing.
+
+[30]: {{page.q}}=21269 "gentle (adj.) 6:  soft, tender, kind"
+
+
+**HIPPOLYTA**
+
+He says they can do nothing in this kind.
+
+
+
+**THESEUS**
+
+The kinder we, to give them thanks for nothing.
+Our [sport][31] shall be to [take][32] what they mistake;
+And what poor duty cannot do, noble [respect][33]
+Takes it in might, not merit.
+Where I have come, great [clerk][34]s have purposed
+To greet me with premeditated welcomes,
+Where I have seen them shiver and look pale,
+Make [period][35]s in the midst of sentences,
+Throttle their practised accent in their fears,
+And in conclusion dumbly have broke off,
+Not paying me a welcome. Trust me, sweet,
+Out of this silence yet I [pick][36]ed a welcome,
+And in the modesty of fearful [duty][37]
+I read as much as from the rattling tongue
+Of saucy and audacious eloquence.
+Love, therefore, and tongue-tied [simplicity][38]
+In least speak most, to my [capacity][39].
+_Enter Philostrate_
+
+[31]: {{page.q}}=14044 "sport (n.) 1:  recreation, amusement, entertainment"
+[32]: {{page.q}}=6088 "take (v.) 5:  take in, comprehend, understand"
+[33]: {{page.q}}=16945 "respect (n.) 3:  regard, admiration, favour, opinion"
+[34]: {{page.q}}=3148 "clerk (n.) 1:  scholar, sage, man of learning"
+[35]: {{page.q}}=13199 "period (n.) 3:  rhetorical pause, sentence ending, termination"
+[36]: {{page.q}}=13674 "pick (v.) 2:  extract, make out, detect"
+[37]: {{page.q}}=9216 "duty (n.) 2:  reverence, due respect, proper attitude"
+[38]: {{page.q}}=14638 "simplicity (n.) 1:  sincerity, unpretentiousness, artlessness"
+[39]: {{page.q}}=3945 "capacity (n.):  intelligence, understanding, capability"
+
+
+**PHILOSTRATE**
+
+So please your grace, the Prologue is addressed.
+
+
+
+**THESEUS**
+
+Let him approach.
+_Flourish of trumpets_
+_Enter Quince as Prologue_
+
+
+
+**QUINCE**
+
+If we offend it is with our good will.
+That you should think we come not to offend
+But with good will. To show our simple skill,
+That is the true beginning of our end.
+Consider then we come but in despite.
+We do not come as minding to content you,
+Our true [intent][40] is. All for your delight
+We are not here. That you should here repent you
+The actors are at hand, and by their show
+You shall know all that you are [like][41] to know.
+
+[40]: {{page.q}}=5207 "intent (n.):  intention, purpose, aim"
+[41]: {{page.q}}=19137 "like (adv.) 1:  likely, probable / probably"
+
+
+**THESEUS**
+
+This fellow doth not [stand][43] upon [point][42]s.
+
+[42]: {{page.q}}=12772 "point (n.) 5:  trifle, triviality, minor matter"
+[43]: {{page.q}}=14487 "stand upon (v.) 1:  make an issue of, insist upon, bother about"
+
+
+**LYSANDER**
+
+He hath [rid][44] his prologue like a rough colt; he
+knows not the [[stop][46]][45]. A good moral, my lord: it is not
+enough to speak, but to speak true.
+
+[44]: {{page.q}}=16940 "ride (v.) 2:  manage, conduct, control"
+[45]: {{page.q}}=14639 "stop (n.) 3:  [in managing a horse] pulling-up, sudden checking of a career"
+[46]: {{page.q}}=14689 "stop (n.) 6:  full-stop, period, full point"
+
+
+**HIPPOLYTA**
+
+Indeed, he hath played on his prologue like a
+child on a recorder – a sound, but not in [government][47].
+
+[47]: {{page.q}}=17639 "government (n.) 1:  control, charge, management"
+
+
+**THESEUS**
+
+His speech was like a tangled chain: nothing
+impaired, but all disordered. Who is next?
+_Enter Bottom as Pyramus, Flute as Thisbe, Snout as_
+_Wall, Starveling as Moonshine, and Snug as Lion;_
+_a trumpeter before them_
+
+
+
+**QUINCE**
+
+[Gentle][48]s, [perchance][49] you wonder at this show;
+But wonder on, till truth make all things plain.
+This man is Pyramus, if you would know;
+This beauteous lady Thisbe is, certain.
+This man with lime and roughcast doth present
+Wall – that vile wall which did these lovers [sunder][50];
+And through Wall's chink, poor souls, they are [content][51]
+To whisper. At the which let no man wonder.
+This man with lantern, dog, and bush of thorn
+Presenteth Moonshine. For if you will know
+By moonshine did these lovers think no scorn
+To meet at Ninus' tomb, there, there to woo.
+This grisly beast – which Lion [hight][52] by name –
+The trusty Thisbe coming first by night
+Did scare away, or rather did affright.
+And as she fled, her mantle she did [fall][53],
+Which Lion vile with bloody mouth did stain.
+[Anon][54] comes Pyramus – sweet youth and [tall][55] –
+And finds his trusty Thisbe's mantle slain.
+Whereat with blade – with bloody, blameful blade –
+He [bravely][56] [broach][57]ed his boiling bloody breast.
+And Thisbe, [tarry][58]ing in mulberry shade,
+His dagger drew, and died. For all the rest,
+Let Lion, Moonshine, Wall, and lovers twain
+At [large][60] [discourse][59] while here they do remain.
+_Exeunt Quince, Bottom, Flute, Snug, and Starveling_
+
+[48]: {{page.q}}=17724 "gentle (n.) 2:  (plural) ladies and gentlemen, gentlefolk"
+[49]: {{page.q}}=12175 "perchance (adv.) 1:  perhaps, maybe"
+[50]: {{page.q}}=14106 "sunder (v.) 1:  separate, split up, part"
+[51]: {{page.q}}=2877 "content (adj.) 2:  contented, patient, accepting, undisturbed"
+[52]: {{page.q}}=18376 "hight (v.):  [archaism] is called"
+[53]: {{page.q}}=19979 "fall (v.) 1:  drop, descend, let fall"
+[54]: {{page.q}}=30 "anon (adv.) 1:  soon, shortly, presently"
+[55]: {{page.q}}=6406 "tall (adj.) 3:  good, fine, capable"
+[56]: {{page.q}}=1082 "bravely (adv.) 2:  showily, with great display, with a fine flourish"
+[57]: {{page.q}}=1857 "broach (v.) 4:  pierce, impale, spit"
+[58]: {{page.q}}=5567 "tarry (v.) 1:  stay, remain, linger"
+[59]: {{page.q}}=8780 "discourse (v.) 2:  relate, talk about, recount"
+[60]: {{page.q}}=19241 "large, at 1:  at length, in full, thoroughly"
+
+
+**THESEUS**
+
+I wonder if the lion be to speak.
+
+
+
+**DEMETRIUS**
+
+No wonder, my lord – one lion may, when many asses do.
+
+
+
+**SNOUT as Wall**
+
+In this same interlude it doth befall
+That I – one Snout by name – present a wall.
+And such a wall as I would have you think
+That had in it a [crannied][61] hole or chink,
+Through which the lovers, Pyramus and Thisbe,
+Did whisper often, very secretly.
+This loam, this roughcast, and this stone doth show
+That I am that same wall; the truth is so.
+And this the cranny is, right and [sinister][62],
+Through which the fearful lovers are to whisper.
+
+[61]: {{page.q}}=2910 "crannied (adj.):  cracked, split, holed"
+[62]: {{page.q}}=15736 "sinister (adj.) 1:  left"
+
+
+**THESEUS**
+
+Would you desire lime and hair to speak better?
+
+
+
+**DEMETRIUS**
+
+It is the [wittiest][64] [partition][63] that ever I heard
+[discourse][65], my lord.
+_Enter Bottom as Pyramus_
+
+[63]: {{page.q}}=12715 "partition (n.) 2:  wall, dividing structure; also: section of a learned book"
+[64]: {{page.q}}=7772 "witty (adj.) 2:  intelligent, ingenious, sensible"
+[65]: {{page.q}}=8513 "discourse (v.) 1:  talk, chat, converse"
+
+
+**THESEUS**
+
+Pyramus draws near the wall. Silence!
+
+
+
+**BOTTOM as Pyramus**
+
+O grim-looked night, O night with hue so black,
+O night which ever art when day is not!
+O night, O night, alack, alack, alack,
+I fear my Thisbe's promise is forgot.
+And thou, O wall, O sweet, O lovely wall,
+That standest between her father's ground and mine,
+Thou wall, O wall, O sweet and lovely wall,
+Show me thy chink to blink through with mine [eyne][66].
+_Wall holds up his fingers_
+Thanks, courteous wall; Jove shield thee well for this.
+But what see I? No Thisbe do I see.
+O wicked wall, through whom I see no bliss:
+Cursed be thy stones for thus deceiving me!
+
+[66]: {{page.q}}=9686 "eyne (n.):  [archaism] eyes"
+
+
+**THESEUS**
+
+The wall, [methinks][67], being [sensible][68], should curse
+[again][69].
+
+[67]: {{page.q}}=10439 "methinks(t), methought(s) (v.):  it seems /seemed to me"
+[68]: {{page.q}}=14450 "sensible (adj.) 1:  sensitive, responsive, capable of feeling"
+[69]: {{page.q}}=200 "again (adv.) 1:  in return, back [in response]"
+
+
+**BOTTOM**
+
+No, in truth sir, he should not. ‘Deceiving me' is
+Thisbe's cue. She is to enter now, and I am to spy her
+through the wall. You shall see – it will fall [pat][70] as I told
+you. Yonder she comes.
+_Enter Flute as Thisbe_
+
+[70]: {{page.q}}=12716 "pat (adv.) 3:  precisely, just, exactly"
+
+
+**FLUTE as Thisbe**
+
+O wall, full often hast thou heard my moans
+For parting my fair Pyramus and me.
+My cherry lips have often kissed thy stones,
+Thy stones with lime and hair knit up in thee.
+
+
+
+**BOTTOM as Pyramus**
+
+I see a voice. Now will I to the chink
+To spy [an][71] I can hear my Thisbe's face.
+Thisbe!
+
+[71]: {{page.q}}=1253 "and, an (conj.) 3:  if, whether"
+
+
+**FLUTE as Thisbe**
+
+My love! Thou art my love, I think?
+
+
+
+**BOTTOM as Pyramus**
+
+Think what thou wilt, I am thy lover's grace,
+And like Limander am I trusty [still][72].
+
+[72]: {{page.q}}=14077 "still (adv.) 1:  constantly, always, continually"
+
+
+**FLUTE as Thisbe**
+
+And I like Helen till the Fates me kill.
+
+
+
+**BOTTOM as Pyramus**
+
+Not Shafalus to Procrus was so true.
+
+
+
+**FLUTE as Thisbe**
+
+As Shafalus to Procrus, I to you.
+
+
+
+**BOTTOM as Pyramus**
+
+O kiss me through the hole of this vile wall!
+
+
+
+**FLUTE as Thisbe**
+
+I kiss the wall's hole, not your lips at all.
+
+
+
+**BOTTOM as Pyramus**
+
+Wilt thou at Ninny's tomb meet me straight way?
+
+
+
+**FLUTE as Thisbe**
+
+Tide life, tide death, I come without delay.
+_Exeunt Bottom and Flute_
+
+
+
+**SNOUT as Wall**
+
+Thus have I, Wall, my part discharged so;
+And, being done, thus Wall away doth go.
+_Exit_
+
+
+
+**THESEUS**
+
+Now is the [mural][73] down between the two
+neighbours.
+
+[73]: {{page.q}}=10719 "mural (n.):  [disputed reading] wall"
+[74]: {{page.q}}=10759 "mure (n.):  wall"
+
+
+**DEMETRIUS**
+
+No remedy, my lord, when walls are so wilful
+to hear without warning.
+
+
+
+**HIPPOLYTA**
+
+This is the silliest stuff that ever I heard.
+
+
+
+**THESEUS**
+
+The best in this kind are but shadows; and the
+worst are no worse, if imagination amend them.
+
+
+
+**HIPPOLYTA**
+
+It must be your imagination then, and not
+theirs.
+
+
+
+**THESEUS**
+
+If we imagine no worse of them than they of
+themselves, they may pass for excellent men. Here come
+two noble beasts in: a man and a lion.
+_Enter Snug as Lion and Starveling as Moonshine_
+
+
+
+**SNUG as Lion**
+
+You, ladies – you whose gentle hearts do fear
+The smallest monstrous mouse that creeps on floor –
+May now, [perchance][75], both quake and tremble here,
+When Lion rough in wildest rage doth roar.
+Then know that I as Snug the joiner am
+A lion [fell][76], nor else no lion's dam,
+For if I should as lion come in strife
+Into this place, 'twere pity on my life.
+
+[75]: {{page.q}}=12175 "perchance (adv.) 1:  perhaps, maybe"
+[76]: {{page.q}}=19813 "fell (adj.) 1:  cruel, fierce, savage"
+
+
+**THESEUS**
+
+A very [gentle][77] beast, of a good conscience.
+
+[77]: {{page.q}}=17496 "gentle (adj.) 2:  courteous, friendly, kind"
+
+
+**DEMETRIUS**
+
+The very best at a beast, my lord, that e'er I.
+saw.
+
+
+
+**LYSANDER**
+
+This lion is a very fox for his valour.
+
+
+
+**THESEUS**
+
+True; and a goose for his discretion.
+
+
+
+**DEMETRIUS**
+
+Not so, my lord; for his valour cannot carry
+his discretion; and the fox carries the goose.
+
+
+
+**THESEUS**
+
+His discretion, I am sure, cannot carry his
+valour; for the goose carries not the fox. It is well: leave
+it to his discretion, and let us listen to the moon.
+
+
+
+**STARVELING as Moonshine**
+
+This lanthorn doth the horned moon present.
+
+
+
+**DEMETRIUS**
+
+He should have worn the horns on his head.
+
+
+
+**THESEUS**
+
+He is no [crescent][78], and his horns are invisible
+within the circumference.
+
+[78]: {{page.q}}=3149 "crescent (n.):  waxing moon, growing person"
+
+
+**STARVELING as Moonshine**
+
+This lanthorn doth the horned moon present;
+Myself the man i'th' moon do seem to be.
+
+
+
+**THESEUS**
+
+This is the greatest error of all the rest; the man
+should be put into the lanthorn. How is it else the man
+i'th' moon?
+
+
+
+**DEMETRIUS**
+
+He dares not come there, for the candle. For,
+you see, it is already in [snuff][79].
+
+[79]: {{page.q}}=14640 "snuff, in:  in need of snuffing out; also: in a rage"
+
+
+**HIPPOLYTA**
+
+I am aweary of this moon. Would he would change.
+I am aweary of this moon. Would he would
+
+
+
+**THESEUS**
+
+It appears by his small light of discretion that
+he is in the wane. But yet in courtesy, in all reason, we
+must stay the time.
+
+
+
+**LYSANDER**
+
+Proceed, Moon.
+
+
+
+**STARVELING**
+
+All that I have to say is to tell you that the
+lantern is the moon, I the man i'th' moon, this thorn
+bush my thorn bush, and this dog my dog.
+
+
+
+**DEMETRIUS**
+
+Why, all these should be in the lantern; for
+all these are in the moon. But, silence: here comes Thisbe.
+_Enter Flute as Thisbe_
+
+
+
+**FLUTE as Thisbe**
+
+This is old Ninny's tomb. Where is my love?
+
+
+
+**SNUG as Lion**
+
+O!
+_Lion roars. Flute as Thisbe runs off_
+
+
+
+**DEMETRIUS**
+
+Well roared, Lion!
+
+
+
+**THESEUS**
+
+Well run, Thisbe!
+
+
+
+**HIPPOLYTA**
+
+Well shone, Moon! Truly, the moon shines
+with a good grace.
+_Lion tears Thisbe's mantle. Exit_
+
+
+
+**THESEUS**
+
+Well moused, Lion!
+
+
+
+**DEMETRIUS**
+
+And then came Pyramus.
+
+
+
+**LYSANDER**
+
+And so the lion vanished.
+_Enter Bottom as Pyramus_
+
+
+
+**BOTTOM as Pyramus**
+
+Sweet moon, I thank thee for thy sunny beams;
+I thank thee, moon, for shining now so bright;
+For by thy gracious, golden, glittering beams
+I trust to take of truest Thisbe sight.
+But stay – O spite!
+But [mark][80], poor Knight,
+What dreadful [dole][81] is here?
+Eyes, do you see? –
+How can it be?
+O dainty duck, O dear!
+Thy mantle good –
+What, stained with blood!
+Approach, ye Furies fell.
+O Fates, come, come,
+Cut thread and [thrum][82],
+[Quail][83], crush, conclude, and [quell][84].
+
+[80]: {{page.q}}=10405 "mark (v.) 1:  note, pay attention [to], take notice [of]"
+[81]: {{page.q}}=8459 "dole (n.) 1:  grief, sorrow, sadness"
+[82]: {{page.q}}=5731 "thrum (n.):  unwoven end of a warp-thread on a loom"
+[83]: {{page.q}}=13783 "quail (v.) 1:  overpower, destroy, make an end"
+[84]: {{page.q}}=13784 "quell (v.) 2:  kill, destroy, slay"
+
+
+**THESEUS**
+
+This [passion][85], and the death of a dear friend,
+would go near to make a man look [sad][86].
+
+[85]: {{page.q}}=12161 "passion (n.) 5:  passionate outburst, emotional passage"
+[86]: {{page.q}}=13906 "sad (adj.) 1:  serious, grave, solemn"
+
+
+**HIPPOLYTA**
+
+[Beshrew][87] my heart, but I pity the man.
+
+[87]: {{page.q}}=1534 "beshrew, 'shrew (v.) 1:  curse, devil take, evil befall"
+
+
+**BOTTOM as Pyramus**
+
+O wherefore, nature, didst thou lions frame,
+Since lion vile hath here deflowered my dear?
+Which is – no, no, which was – the fairest [dame][88]
+That lived, that loved, that liked, that looked with [cheer][89].
+Come tears, confound;
+Out sword, and wound
+The pap of Pyramus.
+Ay, that left pap,
+Where heart doth hop.
+Thus die I – thus, thus, thus.
+_He stabs himself_
+Now am I dead,
+Now am I fled;
+My soul is in the sky;
+Tongue, lose thy light;
+Moon, take thy flight;
+_Exit Starveling as Moonshine_
+Now die, die, die, die, die.
+_He dies_
+
+[88]: {{page.q}}=9481 "dame (n.) 3:  lady, mistress, woman of rank"
+[89]: {{page.q}}=4316 "cheer (n.) 4:  face, look, expression"
+
+
+**DEMETRIUS**
+
+No [die][91], but an [ace][90] for him; for he is but one.
+
+[90]: {{page.q}}=725 "ace (n.):  one [lowest score on a dice]"
+[91]: {{page.q}}=8809 "die (n.):  one of a pair of dice"
+
+
+**LYSANDER**
+
+Less than an ace, man; for he is dead. He is
+[nothing][92].
+
+[92]: {{page.q}}=11554 "nothing (n.) 1:  [state of] nothingness, oblivion, extinction"
+
+
+**THESEUS**
+
+With the help of a [surgeon][93] he might yet recover,
+and prove an ass.
+
+[93]: {{page.q}}=14719 "surgeon (n.):  doctor, physician"
+
+
+**HIPPOLYTA**
+
+How chance Moonshine is gone before
+Thisbe comes back and finds her lover?
+
+
+
+**THESEUS**
+
+She will find him by starlight. Here she comes;
+and her [passion][94] ends the play.
+_Enter Flute as Thisbe_
+
+[94]: {{page.q}}=12161 "passion (n.) 5:  passionate outburst, emotional passage"
+
+
+**HIPPOLYTA**
+
+Methinks she should not use a long one for
+such a Pyramus. I hope she will be brief.
+
+
+
+**DEMETRIUS**
+
+A [mote][95] will turn the balance which Pyramus,
+which Thisbe is the better – he for a man, God [warrant][96]
+us; she for a woman, God bless us.
+
+[95]: {{page.q}}=10476 "mote (n.):  speck of dust, tiny particle, trifle"
+[96]: {{page.q}}=7551 "warrant (v.) 6:  protect, preserve, keep safe"
+
+
+**LYSANDER**
+
+She hath spied him already, with those sweet
+eyes.
+
+
+
+**DEMETRIUS**
+
+And thus she [mean][97]s, videlicet:
+
+[97]: {{page.q}}=10750 "mean (v.) 3:  lament, mourn, make complaint"
+
+
+**FLUTE as Thisbe**
+
+Asleep, my love?
+What, dead, my dove?
+O Pyramus, arise.
+Speak, speak. Quite dumb?
+Dead, dead? A tomb
+Must cover thy sweet eyes.
+These lily lips,
+This cherry nose,
+These yellow cowslip cheeks
+Are gone, are gone.
+Lovers, make moan –
+His eyes were green as leeks.
+O sisters three,
+Come, come to me
+With hands as pale as milk;
+Lay them in gore,
+Since you have shore
+With shears his thread of silk.
+Tongue, not a word!
+Come, trusty sword,
+Come blade, my breast [imbrue][98].
+_She stabs herself_
+And farewell friends.
+Thus Thisbe ends.
+Adieu, adieu, adieu!
+_She dies_
+
+[98]: {{page.q}}=5038 "imbrue, embrue (v.):  pierce, stab, stain with blood"
+
+
+**THESEUS**
+
+Moonshine and Lion are left to bury the dead.
+
+
+
+**DEMETRIUS**
+
+Ay, and Wall too.
+
+
+
+**BOTTOM**
+
+_starting up_
+No, I assure you, the wall is down
+that parted their fathers. Will it please you to see the
+epilogue, or to hear a Bergomask dance between two of
+our company?
+
+
+
+**THESEUS**
+
+No epilogue, I pray you; for your play needs no
+[excuse][99]. Never excuse; for when the players are all dead,
+there needs none to be blamed. Marry, if he that writ it
+had played Pyramus and hanged himself in Thisbe's
+garter, it would have been a fine tragedy. And so it is,
+truly, and very notably [discharge][100]d. But come, your
+Bergomask; let your epilogue alone.
+_A dance. Exeunt Bottom and his fellows_
+The iron tongue of midnight hath [told][101] twelve.
+Lovers, to bed; 'tis almost fairy time.
+I fear we shall [outsleep][103] the coming [morn][102]
+As much as we this night have [overwatch][104]ed.
+This [palpable-gross][105] play hath well beguiled
+The [heavy][107] [gait][106] of night. Sweet friends, to bed.
+A fortnight hold we this solemnity
+In [nightly][108] revels and new jollity.
+_Exeunt Theseus, Hippolyta, Philostrate,_
+_Demetrius, Helena, Lysander, Hermia,_
+_Lords, and Attendants_
+_Enter Puck_
+
+[99]: {{page.q}}=9814 "excuse (v.) 1:  explain, give reasons [for]"
+[100]: {{page.q}}=8712 "discharge (v.) 2:  play, perform, execute"
+[101]: {{page.q}}=5434 "tell (v.) 1:  count out, number, itemize"
+[102]: {{page.q}}=10474 "morn (n.):  morning, dawn"
+[103]: {{page.q}}=11779 "outsleep (v.):  sleep beyond [a time], sleep in"
+[104]: {{page.q}}=11762 "overwatch (v.):  stay up late, remain awake"
+[105]: {{page.q}}=12717 "palpable-gross (adj.):  obviously clumsy, plainly ignorant"
+[106]: {{page.q}}=17974 "gait (n.) 1:  manner of walking, bearing, movement"
+[107]: {{page.q}}=18397 "heavy (adj.) 7:  slow-moving, sluggish, laggard"
+[108]: {{page.q}}=21246 "nightly (adj.) 1:  of the night, active at night"
+
+
+**PUCK**
+
+Now the hungry lion roars
+And the wolf [behowl][109]s the moon,
+Whilst the [heavy][110] ploughman snores
+All with weary task [fordone][111].
+Now the [wasted][112] brands do glow
+Whilst the screech-owl, screeching loud,
+Puts the wretch that lies in woe
+In [remembrance][113] of a shroud.
+Now it is the time of night
+That the graves, all gaping wide,
+Every one lets forth his sprite
+In the churchway paths to glide.
+And we fairies, that do run
+By the triple Hecate's team,
+From the presence of the sun
+Following darkness like a dream,
+Now are [frolic][114]. Not a mouse
+Shall disturb this hallowed house.
+I am sent with broom before
+To sweep the dust behind the door.
+_Enter Oberon and Titania, with all their train_
+
+[109]: {{page.q}}=1587 "behowl (v.):  howl at, bay, cry out to"
+[110]: {{page.q}}=18377 "heavy (adj.) 4:  weary, exhausted, worn out"
+[111]: {{page.q}}=20186 "foredone (adj.):  exhausted, tired out, worn out"
+[112]: {{page.q}}=7773 "wasted (adj.) 1:  spent, consumed, burnt-out"
+[113]: {{page.q}}=17226 "remembrance (n.) 1:  memory, bringing to mind, recollection"
+[114]: {{page.q}}=20187 "frolic (adj.):  frolicsome, merry, frisky"
+
+
+**OBERON**
+
+Through the house give glimmering light
+By the dead and drowsy fire;
+Every elf and fairy sprite
+Hop as light as bird from briar,
+And this [ditty][115] after me
+Sing, and dance it trippingly.
+
+[115]: {{page.q}}=8854 "ditty (n.) 1:  song"
+
+
+**TITANIA**
+
+First [rehearse][116] your song by rote,
+To each word a warbling note.
+Hand in hand with fairy grace
+Will we sing and bless this place.
+_Song and dance_
+
+[116]: {{page.q}}=16849 "rehearse (v.) 2:  pronounce, speak, utter"
+
+
+**OBERON**
+
+Now until the break of day
+Through this house each fairy stray.
+To the best bride bed will we,
+Which by us shall blessed be;
+And the [issue][117] there create
+Ever shall be fortunate.
+So shall all the couples three
+Ever true in loving be,
+And the blots of nature's hand
+Shall not in their issue stand.
+Never mole, harelip, nor scar,
+Nor [mark][118] [prodigious][119], such as are
+Despised in nativity,
+Shall upon their children be.
+With this field dew [consecrate][120]
+Every fairy take his [gait][121],
+And each [several][122] chamber bless
+Through this palace with sweet peace;
+And the owner of it blessed
+Ever shall in safety rest.
+Trip away; make no stay.
+Meet me all by break of day.
+_Exeunt Oberon, Titania, and their train_
+
+[117]: {{page.q}}=4896 "issue (n.) 1:  child(ren), offspring, family, descendant"
+[118]: {{page.q}}=10720 "mark (n.) 6:  birthmark, discolouration, blemish"
+[119]: {{page.q}}=12718 "prodigious (adj.) 1:  ominous, portentous, promising evil"
+[120]: {{page.q}}=3150 "consecrate (adj.):  consecrated, blessed, sanctified"
+[121]: {{page.q}}=17478 "gait (n.) 2:  proceedings, course, doings, steps"
+[122]: {{page.q}}=13898 "several (adj.) 1:  separate, different, distinct"
+
+
+**PUCK**
+
+_to the audience_
+If we shadows have offended,
+Think but this, and all is mended:
+That you have but slumbered here
+While these visions did appear.
+And this [weak][123] and idle theme,
+No more yielding but a dream,
+[Gentle][124]s, do not [reprehend][125].
+If you pardon, we will mend.
+And, as I am an honest Puck,
+If we have unearned luck
+Now to '[scape][126] the serpent's tongue
+We will make amends ere long,
+Else the Puck a liar call.
+So, good night unto you all.
+Give me your hands if we be friends,
+And Robin shall restore amends.
+_Exit_
+
+[123]: {{page.q}}=8042 "weak (adj.) 1:  of little worth, wanting, deficient"
+[124]: {{page.q}}=17724 "gentle (n.) 2:  (plural) ladies and gentlemen, gentlefolk"
+[125]: {{page.q}}=16908 "reprehend (v.) 1:  reprove, censure, rebuke"
+[126]: {{page.q}}=14263 "scape, 'scape (v.):  escape, avoid"

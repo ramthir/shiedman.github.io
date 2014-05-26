@@ -1,0 +1,1082 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act III - Scene I
+category: play
+author: shakespeare
+source: http://www.shakespeareswords.com/Plays.aspx?Ac=3&SC=1&IdPlay=5
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act3_scene1.html
+layout: book_page
+tag: [ shakespeare  ]
+creation: 1589-1593
+date: 2014-03-30 15:33:00 +0800
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+Enter the Duke of Milan, Thurio, and Proteus
+
+
+**DUKE**
+
+Sir Thurio, give us leave, I pray, awhile;
+We have some secrets to confer about.
+Exit Thurio
+Now, tell me, Proteus, what's your will with me?
+
+
+**PROTEUS**
+
+My gracious lord, that which I would [discover][1]
+The law of friendship bids me to conceal,
+But when I call to mind your gracious favours
+Done to me, undeserving as I am,
+My duty [prick][2]s me on to utter that
+Which else no worldly good should draw from me.
+Know, worthy prince, Sir Valentine, my friend,
+This night intends to steal away your daughter;
+Myself am one made [privy][3] to the plot.
+I know you have determined to bestow her
+On Thurio, whom your [gentle][4] daughter hates;
+And should she thus be stolen away from you,
+It would be much vexation to your age.
+Thus, for my duty's sake, I rather chose
+To [cross][5] my friend in his intended [drift][6]
+Than, by concealing it, heap on your head
+A pack of sorrows which would press you down,
+Being unprevented, to your [timeless][7] grave.
+
+[1]: {{page.q}}=8538  "discover (v.) 1: reveal, show, make known"
+[2]: {{page.q}}=12252  "prick on (v.): incite, urge on, spur on"
+[3]: {{page.q}}=12256  "privy 1: privately aware [of], secretly knowledgeable [about]"
+[4]: {{page.q}}=17495  "gentle (adj.) 1: well-born, honourable, noble"
+[5]: {{page.q}}=2846  "cross (v.) 2: contradict, challenge, go against"
+[6]: {{page.q}}=8478  "drift (n.) 1: plan, intention, aim"
+[7]: {{page.q}}=5608  "timeless (adj.): untimely, premature, ill-timed"
+
+**DUKE**
+
+Proteus, I thank thee for thine honest care,
+Which to [requite][8], command me while I live.
+This love of theirs myself have often seen,
+[Haply][9] when they have [judge][10]d me fast asleep,
+And [oftentimes][11] have [purpose][12]d to forbid
+Sir Valentine her company and my court;
+But, fearing lest my [jealous][14] [aim][13] might err,
+And so, unworthily, disgrace the man –
+A rashness that I ever yet have shunned –
+I gave him [gentle][15] looks, thereby to find
+That which thyself hast now disclosed to me.
+And, that thou mayst perceive my fear of this,
+Knowing that [tender][17] youth is soon [suggest][16]ed,
+I nightly lodge her in an upper tower,
+The key whereof myself have ever kept;
+And thence she cannot be conveyed away.
+
+[8]: {{page.q}}=16613  "requite (v.), past forms requit, requited 1: reward, repay, recompense"
+[9]: {{page.q}}=15270  "haply (adv.): perhaps, maybe, by chance, with luck"
+[10]: {{page.q}}=18929  "judge (v.) 1: suppose, consider, think"
+[11]: {{page.q}}=11751  "oftentimes (adv.): often, frequently, on many occasions"
+[12]: {{page.q}}=12477  "purpose (v.) 1: intend, plan"
+[13]: {{page.q}}=560  "aim (n.) 1: guess, conjecture, surmise"
+[14]: {{page.q}}=18903  "jealous (adj.) 1: suspicious, mistrustful, wary, watchful"
+[15]: {{page.q}}=17496  "gentle (adj.) 2: courteous, friendly, kind"
+[16]: {{page.q}}=14246  "suggest (v.) 1: tempt, prompt, incite"
+[17]: {{page.q}}=5440  "tender (adj.) 2: immature, undeveloped, inexperienced"
+
+**PROTEUS**
+
+Know, noble lord, they have devised a [mean][18]
+How he her chamber-window will ascend
+And with a [corded][19] ladder fetch her down;
+For which the youthful lover now is gone,
+And this way comes he with it [presently][20];
+Where, if it please you, you may intercept him.
+But, good my lord, do it so cunningly
+That my [discovery][22] be not [aim][21]ed at;
+For, love of you, not hate unto my friend,
+Hath made me [publisher][24] of this [pretence][23].
+
+[18]: {{page.q}}=10600  "mean (n.) 1: means, way, method"
+[19]: {{page.q}}=3506  "corded (adj.): made of ropes"
+[20]: {{page.q}}=13077  "presently (adv.) 2: after a short time, soon, before long"
+[21]: {{page.q}}=15  "aim (v.): guess, conjecture, surmise"
+[22]: {{page.q}}=8428  "discovery (n.) 1: disclosure, admission, revelation"
+[23]: {{page.q}}=12551  "pretence (n.) 1: plan, design, intention, purpose"
+[24]: {{page.q}}=13205  "publisher (n.): exposer, divulger, one who makes public"
+
+**DUKE**
+
+Upon mine honour, he shall never know
+That I had any [light][25] from thee of this.
+
+[25]: {{page.q}}=19552  "light (n.) 4: help, enlightenment, information"
+
+**PROTEUS**
+
+Adieu, my lord, Sir Valentine is coming.
+
+Exit
+Enter Valentine
+
+
+**DUKE**
+
+Sir Valentine, whither away so fast?
+
+
+**VALENTINE**
+
+Please it your grace, there is a messenger
+That stays to bear my letters to my friends,
+And I am going to deliver them.
+
+
+**DUKE**
+
+Be they of much [import][26]?
+
+[26]: {{page.q}}=4929  "import (n.): importance, significance, consequence"
+
+**VALENTINE**
+
+The tenor of them doth but signify
+My health and [happy][28] [being][27] at your court.
+
+[27]: {{page.q}}=1023  "being (n.) 2: physical existence, life"
+[28]: {{page.q}}=18293  "happy (adj.) 1: fortunate, lucky, favoured"
+
+**DUKE**
+
+Nay then, no matter; stay with me awhile;
+I am to [break][29] with thee of some affairs
+That [touch][31] me [near][30], wherein thou must be secret.
+'Tis not unknown to thee that I have sought
+To match my friend Sir Thurio to my daughter.
+
+[29]: {{page.q}}=1049  "break (v.) 5: reveal, disclose, impart"
+[30]: {{page.q}}=11340  "near (adv.) 1: closely, intimately, seriously"
+[31]: {{page.q}}=5598  "touch (v.) 1: affect, concern, regard, relate to"
+
+**VALENTINE**
+
+I know it well, my lord; and, sure, the match
+Were rich and honourable; besides, the gentleman
+Is full of virtue, bounty, worth, and [qualities][32]
+[Beseem][33]ing such a wife as your fair daughter.
+Cannot your grace win her to [fancy][34] him?
+
+[32]: {{page.q}}=13854  "quality (n.) 2: accomplishment, capacity, ability"
+[33]: {{page.q}}=1509  "beseem (v.): befit, be fitting [for], be seemly [for]"
+[34]: {{page.q}}=20476  "fancy (v.): like, love, admire"
+
+**DUKE**
+
+No, trust me; she is [peevish][36], sullen, [froward][35],
+Proud, disobedient, stubborn, lacking duty;
+Neither [regard][37]ing that she is my child,
+Nor fearing me as if I were her father;
+And, may I say to thee, this pride of hers,
+Upon [advice][38], hath drawn my love from her;
+And where I thought the remnant of mine [age][39]
+Should have been cherished by her child-like duty,
+I now am full resolved to take a wife
+And turn her out to who will take her in.
+Then let her beauty be her wedding-[dower][40];
+For me and my possessions she esteems not.
+
+[35]: {{page.q}}=19998  "froward (adj.) 1: perverse, obstinate, wilful, ungovernable"
+[36]: {{page.q}}=13294  "peevish (adj.) 2: obstinate, perverse, self-willed [contrast modern sense of ‘irritable, morose’]"
+[37]: {{page.q}}=16824  "regard (v.) 1: take note of, pay heed to, value"
+[38]: {{page.q}}=369  "advice (n.) 1: consideration, reflection, deliberation"
+[39]: {{page.q}}=193  "age (n.) 1: whole life, lifetime, days"
+[40]: {{page.q}}=8649  "dower (n.): dowry, property or wealth given with a wife"
+
+**VALENTINE**
+
+What would your grace have me to do in this?
+
+
+**DUKE**
+
+There is a lady of Verona here
+Whom I [affect][41]; but she is [nice][43], and [coy][42],
+And naught esteems my aged eloquence.
+Now, therefore, would I have thee to my tutor –
+For long [agone][44] I have forgot to court;
+Besides, the fashion of the time is changed –
+How and which way I may [bestow][45] myself
+To be regarded in her sun-bright eye.
+
+[41]: {{page.q}}=106  "affect (v.) 2: love, like, be fond of"
+[42]: {{page.q}}=2861  "coy (adj.) 2: unresponsive, distant, standoffish, disdainful"
+[43]: {{page.q}}=11294  "nice (adj.) 1: fastidious, particular, fussy, overscrupulous"
+[44]: {{page.q}}=561  "agone (adv.): ago, past"
+[45]: {{page.q}}=1500  "bestow (v.) 8: carry, bear, acquit, conduct"
+
+**VALENTINE**
+
+Win her with gifts, if she [respect][46] not words;
+Dumb jewels often in their silent [kind][47]
+More than [quick][48] words do move a woman's mind.
+
+[46]: {{page.q}}=16658  "respect (v.) 1: pay attention to, heed"
+[47]: {{page.q}}=19004  "kind (n.) 1: nature, reality, character, disposition"
+[48]: {{page.q}}=13754  "quick (adj.) 2: lively, animated, vivacious"
+
+**DUKE**
+
+But she did scorn a present that I sent her.
+
+
+**VALENTINE**
+
+A woman sometimes scorns what best [content][49]s her.
+Send her another; never give her o'er;
+For scorn at first makes [after-love][50] the more.
+If she do frown, 'tis not in hate of you,
+But rather to [beget][51] more love in you;
+If she do [chide][52], 'tis not to have you gone,
+For why, the fools are mad if left alone.
+Take no repulse, whatever she doth say;
+For ‘ Get you gone,’ she doth not mean ‘ Away!’
+Flatter and praise, [commend][53], extol their graces;
+Though ne'er so [black][54], say they have angels' faces.
+That man that hath a tongue, I say, is no man,
+If with his tongue he cannot win a woman.
+
+[49]: {{page.q}}=2885  "content (v.) 1: please, gratify, delight, satisfy"
+[50]: {{page.q}}=251  "after-love (n.): later gratitude, future loyalty"
+[51]: {{page.q}}=1602  "beget (v.), past form begot 2: produce, engender, give rise to"
+[52]: {{page.q}}=4299  "chide (v.), past form chid 1: scold, rebuke, reprove"
+[53]: {{page.q}}=2872  "commend (v.) 4: praise, admire, extol"
+[54]: {{page.q}}=2163  "black (adj.) 1: dark-complexioned, swarthy"
+
+**DUKE**
+
+But she I mean is promised by her friends
+Unto a youthful gentleman of worth;
+And kept severely from [resort][55] of men,
+That no man hath access by day to her.
+
+[55]: {{page.q}}=16618  "resort (n.) 1: visits, visitings, approaches"
+
+**VALENTINE**
+
+Why then, I would resort to her by night.
+
+
+**DUKE**
+
+Ay, but the doors be locked, and keys kept safe,
+That no man hath [recourse][56] to her by night.
+
+[56]: {{page.q}}=16730  "recourse (n.) 1: opportunity of going, means of access"
+
+**VALENTINE**
+
+What [let][57]s but one may enter at her window?
+
+[57]: {{page.q}}=19118  "let (v.) 1: hinder, prevent, stand in the way"
+
+**DUKE**
+
+Her chamber is aloft, far from the ground,
+And built so [shelving][58] that one cannot climb it
+Without [apparent][59] [hazard][60] of his life.
+
+[58]: {{page.q}}=15592  "shelving (adv.): slopingly, projecting out, with an overhang"
+[59]: {{page.q}}=192  "apparent (adj.) 2: certain, inevitable, evident"
+[60]: {{page.q}}=18275  "hazard (n.) 1: risk, peril, danger"
+
+**VALENTINE**
+
+Why then, a ladder, [quaintly][61] made of cords,
+To cast up with a pair of anchoring hooks,
+Would serve to scale another Hero's tower,
+So bold Leander would [adventure][62] it.
+
+[61]: {{page.q}}=13727  "quaintly (adv.) 1: subtly, skilfully, ingeniously"
+[62]: {{page.q}}=873  "adventure (v.): venture, dare, chance, risk"
+
+**DUKE**
+
+Now, as thou art a gentleman of [blood][63],
+[Advise][64] me where I may have such a ladder.
+
+[63]: {{page.q}}=1983  "blood (n.) 4: spirit, vigour, mettle"
+[64]: {{page.q}}=533  "advise, avise (v.) 3: inform, be aware, apprise"
+
+**VALENTINE**
+
+When would you use it? Pray, sir, tell me that.
+
+
+**DUKE**
+
+This very night; for Love is like a child,
+That longs for every thing that he can come by.
+
+
+**VALENTINE**
+
+By seven o'clock I'll get you such a ladder.
+
+
+**DUKE**
+
+But, hark thee; I will go to her alone;
+How shall I best convey the ladder thither?
+
+
+**VALENTINE**
+
+It will be light, my lord, that you may bear it
+Under a cloak that is of any length.
+
+
+**DUKE**
+
+A cloak as long as thine will serve the turn?
+
+
+**VALENTINE**
+
+Ay, my good lord.
+
+
+**DUKE**
+
+&nbsp               &nbsp Then let me see thy cloak;
+I'll get me one of such another length.
+
+
+**VALENTINE**
+
+Why, any cloak will serve the turn, my lord.
+
+
+**DUKE**
+
+How shall I [fashion][65] me to wear a cloak?
+I pray thee, let me feel thy cloak upon me.
+He lifts Valentine's cloak and finds a letter and a
+rope-ladder
+What letter is this same? What's here? To Silvia!
+And here an [engine][66] fit for my [proceeding][67].
+I'll be so bold to break the seal for once.
+
+(He opens the letter and reads)
+
+My thoughts do [harbour][68] with my Silvia nightly,
+And slaves they are to me, that send them flying.
+O, could their master come and go as [lightly][69],
+Himself would lodge where, [senseless][70], they are lying!
+My [herald][71] thoughts in thy pure bosom rest them,
+While I, their king, that thither them [importune][72],
+Do curse the [[grace][74]][73] that with such grace hath blessed them,
+Because myself do [want][75] my servants' fortune.
+I curse myself, for they are sent by me,
+That they should [harbour][76] where their lord should be.
+What's here?
+Silvia, this night I will [enfranchise][77] thee.
+'Tis so; and here's the ladder for the purpose.
+Why, Phaeton – for thou art Merops' son –
+Wilt thou aspire to guide the heavenly [car][78],
+And with thy daring folly burn the world?
+Wilt thou reach stars, because they shine on thee?
+Go, [base][79] intruder, [overweening][80] slave,
+Bestow thy fawning smiles on equal mates;
+And think my patience, more than thy [desert][81],
+Is privilege for thy departure hence.
+Thank me for this more than for all the favours
+Which, all too much, I have bestowed on thee.
+But if thou linger in my territories
+Longer than swiftest [expedition][82]
+Will give thee time to leave our royal court,
+By heaven, my wrath shall far exceed the love
+I ever bore my daughter or thyself.
+Be gone; I will not hear thy vain excuse,
+But, as thou lovest thy life, make speed from hence.
+
+Exit
+
+[65]: {{page.q}}=20043  "fashion (v.) 1: form, shape, make [into]"
+[66]: {{page.q}}=10014  "engine (n.) 1: plot, device, means, instrument"
+[67]: {{page.q}}=12888  "proceeding (n.) 1: course of action, measures"
+[68]: {{page.q}}=18308  "harbour (v.): lodge, stay, shelter"
+[69]: {{page.q}}=19299  "lightly (adv.) 1: readily, easily"
+[70]: {{page.q}}=14843  "senseless (adj.) 2: unconscious, insensible, oblivious"
+[71]: {{page.q}}=18600  "herald (adj.): message-bearing, acting as a herald"
+[72]: {{page.q}}=4833  "importune (v.) 1: urge, press"
+[73]: {{page.q}}=17514  "grace (n.) 1: honour, favour, recognition, respect"
+[74]: {{page.q}}=17602  "grace (n.) 7: success, favourable outcome, fortune"
+[75]: {{page.q}}=7539  "want (v.) 1: lack, need, be without"
+[76]: {{page.q}}=18308  "harbour (v.): lodge, stay, shelter"
+[77]: {{page.q}}=9803  "enfranchise (v.): set free, liberate"
+[78]: {{page.q}}=3953  "car (n.): carriage, cart, chariot [often of the sun god]"
+[79]: {{page.q}}=1412  "base (adj.) 1: dishonourable, low, unworthy"
+[80]: {{page.q}}=11674  "overweening (adj.): arrogant, overambitious, high and mighty"
+[81]: {{page.q}}=8594  "desert, desart (n.) 1: deserving, due recompense, right"
+[82]: {{page.q}}=9938  "expedition (n.) 1: haste, speedy action, prompt dispatch"
+
+**VALENTINE**
+
+And why not death, rather than living torment?
+To die is to be banished from myself,
+And Silvia is myself; banished from her
+Is self from self – a deadly banishment.
+What light is light, if Silvia be not seen?
+What joy is joy, if Silvia be not by?
+Unless it be to think that she is by,
+And feed upon the [shadow][83] of perfection.
+Except I be by Silvia in the night,
+There is no music in the nightingale;
+Unless I look on Silvia in the day,
+There is no day for me to look upon.
+She is my [essence][84], and I [leave][85] to be,
+If I be not by her fair influence
+Fostered, illumined, cherished, kept alive.
+I fly not death, to fly his deadly doom:
+[Tarry][87] I here, I but [attend][86] on death;
+But fly I hence, I fly away from life.
+Enter Proteus and Launce
+
+[83]: {{page.q}}=15593  "shadow (n.) 4: illusion, unreal image, delusion"
+[84]: {{page.q}}=10090  "essence (n.): very life, foundation of being"
+[85]: {{page.q}}=19112  "leave (v.) 1: cease, stop, give up"
+[86]: {{page.q}}=78  "attend (v.) 1: await, wait for, expect"
+[87]: {{page.q}}=5567  "tarry (v.) 1: stay, remain, linger"
+
+**PROTEUS**
+
+Run, boy, run, run, and seek him out.
+
+
+**LAUNCE**
+
+So-ho, so-ho!
+
+
+**PROTEUS**
+
+What seest thou?
+
+
+**LAUNCE**
+
+Him we go to find: there's not a hair on's head
+but 'tis a Valentine.
+
+
+**PROTEUS**
+
+Valentine?
+
+
+**VALENTINE**
+
+No.
+
+
+**PROTEUS**
+
+Who then? His spirit?
+
+
+**VALENTINE**
+
+Neither.
+
+
+**PROTEUS**
+
+What then?
+
+
+**VALENTINE**
+
+Nothing.
+
+
+**LAUNCE**
+
+Can nothing speak? Master, shall I strike?
+
+
+**PROTEUS**
+
+Who wouldst thou strike?
+
+
+**LAUNCE**
+
+Nothing.
+
+
+**PROTEUS**
+
+Villain, [forbear][88].
+
+[88]: {{page.q}}=19856  "forbear (v.) 1: stop, cease, desist"
+
+**LAUNCE**
+
+Why, sir, I'll strike nothing. I pray you –
+
+
+**PROTEUS**
+
+Sirrah, I say forbear. Friend Valentine, a word.
+
+
+**VALENTINE**
+
+My ears are stopped and cannot hear good news,
+So much of bad already hath possessed them.
+
+
+**PROTEUS**
+
+Then in dumb silence will I bury mine,
+For they are harsh, [untuneable][89], and bad.
+
+[89]: {{page.q}}=6727  "untuneable (adj.): unsuitable, disagreeable; or: unmelodious"
+
+**VALENTINE**
+
+Is Silvia dead?
+
+
+**PROTEUS**
+
+No, Valentine.
+
+
+**VALENTINE**
+
+No Valentine, indeed, for [sacred][90] Silvia.
+Hath she [forsworn][91] me?
+
+[90]: {{page.q}}=16358  "sacred (adj.) 2: revered, respected [as if a holy thing]"
+[91]: {{page.q}}=19977  "forswear (v), past forms forsworn, forswore 2: abandon, renounce, reject, give up"
+
+**PROTEUS**
+
+No, Valentine.
+
+
+**VALENTINE**
+
+No Valentine, if Silvia have forsworn me.
+What is your news?
+
+
+**LAUNCE**
+
+Sir, there is a proclamation that you are vanished.
+
+
+**PROTEUS**
+
+That thou art banished – O, that's the news! –
+From hence, from Silvia, and from me thy friend.
+
+
+**VALENTINE**
+
+O, I have fed upon this woe already,
+And now excess of it will make me [surfeit][92].
+Doth Silvia know that I am banished?
+
+[92]: {{page.q}}=15594  "surfeit (v.) 2: become sick through having too much"
+
+**PROTEUS**
+
+Ay, ay; and she hath offered to the [doom][93] –
+Which, unreversed, stands in [effectual][94] force –
+A sea of melting pearl, which some call tears;
+Those at her father's churlish feet she tendered;
+With them, upon her knees, her humble self,
+Wringing her hands, whose whiteness so [became][95] them
+As if but now they waxed pale for woe.
+But neither bended knees, pure hands held up,
+[Sad][96] sighs, deep groans, nor silver-shedding tears,
+Could penetrate her uncompassionate sire –
+But Valentine, if he be ta'en, must die.
+Besides, her intercession [chafe][97]d him so,
+When she for thy [repeal][98] was suppliant,
+That to [close][99] prison he commanded her,
+With many bitter threats of [biding][100] there.
+
+[93]: {{page.q}}=8461  "doom (n.) 1: judgement, sentence, decision"
+[94]: {{page.q}}=10353  "effectual (adj.) 3: effective, actual, with full effect"
+[95]: {{page.q}}=1432  "become (v.) 1: be fitting, befit, be appropriate to"
+[96]: {{page.q}}=15557  "sad (adj.) 3: downcast, distressed, mournful, gloomy"
+[97]: {{page.q}}=4472  "chafe (v.) 2: enrage, irritate, anger"
+[98]: {{page.q}}=16833  "repeal (n.): recall, return from banishment"
+[99]: {{page.q}}=3143  "close (adj.) 2: private, secluded, sequestered"
+[100]: {{page.q}}=1070  "bide (v.) 3: remain, persist, continue in being"
+
+**VALENTINE**
+
+No more; unless the next word that thou speakest
+Have some malignant [power][101] upon my life;
+If so, I pray thee breathe it in mine ear,
+As [ending][104] [anthem][102] of my endless [dolour][103].
+
+[101]: {{page.q}}=12912  "power (n.) 7: control, influence, sway"
+[102]: {{page.q}}=562  "anthem (n.): song of mourning, hymn of grief"
+[103]: {{page.q}}=8881  "dolour (n.): sorrow, grief, lamentation"
+[104]: {{page.q}}=10191  "ending (adj.): dying, near one's end"
+
+**PROTEUS**
+
+Cease to lament for that thou canst not help,
+And [study][105] help for that which thou lamentest.
+Time is the nurse and breeder of all good;
+Here, if thou stay, thou canst not see thy love;
+Besides, thy staying will [abridge][106] thy life.
+Hope is a lover's staff; walk hence with that,
+And [manage][107] it against despairing thoughts.
+Thy letters may be here, though thou art hence,
+Which, being writ to me, shall be delivered
+Even in the milk-white bosom of thy love.
+The time now serves not to [expostulate][108].
+Come I'll convey thee through the city gate;
+And, ere I part with thee, confer at large
+Of all that may concern thy love affairs.
+As thou lovest Silvia, though not for thyself,
+[Regard][109] thy danger, and along with me.
+
+[105]: {{page.q}}=15066  "study (v.) 1: deliberate, meditate, reflect [on]"
+[106]: {{page.q}}=518  "abridge (v.) 1: shorten, cut short"
+[107]: {{page.q}}=10708  "manage (v.) 1: wield, handle, use"
+[108]: {{page.q}}=9673  "expostulate (v.) 1: expound, debate, discourse"
+[109]: {{page.q}}=16824  "regard (v.) 1: take note of, pay heed to, value"
+
+**VALENTINE**
+
+I pray thee, Launce, an if thou seest my boy,
+Bid him make haste and meet me at the Northgate.
+
+
+**PROTEUS**
+
+Go, sirrah, find him out. Come, Valentine.
+
+
+**VALENTINE**
+
+O my dear Silvia! Hapless Valentine!
+Exeunt Valentine and Proteus
+
+
+**LAUNCE**
+
+I am but a fool, look you, and yet I have the [wit][110] to
+think my master is a kind of a [knave][111]; but that's all one
+if he be but one knave. He lives not now that knows me
+to be in love; yet I am in love; but a team of horse shall
+not pluck that from me; nor who 'tis I love; and yet 'tis
+a woman; but what woman I will not tell myself; and
+yet 'tis a milkmaid; yet 'tis not a maid, for she hath had
+[gossip][112]s; yet 'tis a maid, for she is her master's maid and
+serves for wages. She hath more [qualities][113] than a
+water-spaniel – which is much in a bare Christian.
+He produces a paper
+Here is the [cate-log][114] of her [condition][115]. [Imprimis][116]: She can
+fetch and carry. Why, a horse can do no more; nay, a
+horse cannot fetch, but only carry; therefore is she better
+than a [jade][118]. [Item][117]: She can milk. Look you, a sweet
+virtue in a maid with clean hands.
+Enter Speed
+
+[110]: {{page.q}}=7583  "wit (n.) 1: intelligence, wisdom, good sense, mental ability"
+[111]: {{page.q}}=18989  "knave (n.) 1: scoundrel, rascal, rogue"
+[112]: {{page.q}}=17707  "gossip (n.) 1: godparent, baptismal sponsor"
+[113]: {{page.q}}=13854  "quality (n.) 2: accomplishment, capacity, ability"
+[114]: {{page.q}}=4219  "cate-log (n.): [idiosyncratic pronunciation of] catalogue, inventory, register"
+[115]: {{page.q}}=3031  "condition (n.) 2: quality, behaviour, attribute, habit"
+[116]: {{page.q}}=5126  "imprimis (adv.): in the first place"
+[117]: {{page.q}}=5127  "item (n.) 2: [legal] particular point"
+[118]: {{page.q}}=18843  "jade (n.) 1: worn-out horse, hack, worthless nag"
+
+**SPEED**
+
+How now, Signior Launce? What news with your
+[mastership][119]?
+
+[119]: {{page.q}}=10575  "mastership (n.): [ironic use] senior citizen, leading light"
+
+**LAUNCE**
+
+With my master's ship? Why, it is at sea.
+
+
+**SPEED**
+
+Well, your old vice [still][120]: mistake the word. What
+news, then, in your paper?
+
+[120]: {{page.q}}=14556  "still (adv.) 2: ever, now [as before]"
+
+**LAUNCE**
+
+The blackest news that ever thou heardest.
+
+
+**SPEED**
+
+Why, man? How black?
+
+
+**LAUNCE**
+
+Why, as black as ink.
+
+
+**SPEED**
+
+Let me read them.
+
+
+**LAUNCE**
+
+Fie on thee, [jolt-head][121]; thou canst not read.
+
+[121]: {{page.q}}=18961  "jolthead, jolt-head (n.): blockhead, dolt, numskull"
+
+**SPEED**
+
+Thou liest; I can.
+
+
+**LAUNCE**
+
+I will try thee. Tell me this: who [begot][122] thee?
+
+[122]: {{page.q}}=1437  "beget (v.), past form begot 1: give birth to, father, conceive"
+
+**SPEED**
+
+Marry, the son of my grandfather.
+
+
+**LAUNCE**
+
+O illiterate [loiterer][123]! It was the son of thy grandmother.
+This proves that thou canst not read.
+
+[123]: {{page.q}}=19553  "loiterer (n.): idler, layabout, vagabond"
+
+**SPEED**
+
+Come, fool, come; try me in thy paper.
+
+
+**LAUNCE**
+
+There; and Saint Nicholas be thy [speed][124]!
+He hands over the paper from which Speed reads
+
+[124]: {{page.q}}=16002  "speed (n.) 2: assistance, aid, protector"
+
+**SPEED**
+
+Imprimis: She can milk.
+
+
+**LAUNCE**
+
+Ay, that she can.
+
+
+**SPEED**
+
+Item: She brews good ale.
+
+
+**LAUNCE**
+
+And thereof comes the proverb: ‘ Blessing of
+your heart, you brew good ale.’
+
+
+**SPEED**
+
+Item: She can sew.
+
+
+**LAUNCE**
+
+That's as much as to say, ‘ Can she so?’
+
+
+**SPEED**
+
+Item: She can knit.
+
+
+**LAUNCE**
+
+What need a man care for a [stock][125] with a [wench][126],
+when she can knit him a [stock][127]?
+
+[125]: {{page.q}}=15595  "stock (n.) 5: dowry, wedding endowment"
+[126]: {{page.q}}=7615  "wench (n.): girl, lass"
+[127]: {{page.q}}=15596  "stock (n.) 3: stocking"
+
+**SPEED**
+
+Item: She can wash and scour.
+
+
+**LAUNCE**
+
+A special virtue; for then she need not be
+washed and scoured.
+
+
+**SPEED**
+
+Item: She can spin.
+
+
+**LAUNCE**
+
+Then may I set the world [on][128] wheels, when she
+can spin for her living.
+
+[128]: {{page.q}}=8014  "wheels, on: running smoothly, providing an easy life"
+
+**SPEED**
+
+Item: She hath many [nameless][129] virtues.
+
+[129]: {{page.q}}=11471  "nameless (adj.) 1: inexpressible, beyond words; or: too small to be worth describing"
+
+**LAUNCE**
+
+That's as much as to say, [bastard][130] virtues; that
+indeed know not their fathers, and therefore have no
+names.
+
+[130]: {{page.q}}=1681  "bastard (adj.) 2: inferior, low, of little value"
+
+**SPEED**
+
+Here follow her vices.
+
+
+**LAUNCE**
+
+Close at the heels of her virtues.
+
+
+**SPEED**
+
+Item: She is not to be kissed fast[in][131]g, in respect of her
+breath.
+
+[131]: {{page.q}}=17307  "respect of, in (prep.) 2: on account of"
+
+**LAUNCE**
+
+Well, that fault may be mended with a breakfast.
+Read on.
+
+
+**SPEED**
+
+Item: She hath a [sweet][132] mouth.
+
+[132]: {{page.q}}=15597  "sweet (adj.) 4: wanton, lecherous; or: with a sweet tooth"
+
+**LAUNCE**
+
+That makes amends for her sour breath.
+
+
+**SPEED**
+
+Item: She doth talk in her sleep.
+
+
+**LAUNCE**
+
+It's no matter for that; so she sleep not in her
+talk.
+
+
+**SPEED**
+
+Item: She is slow in words.
+
+
+**LAUNCE**
+
+O villain, that set this down among her vices!
+To be slow in words is a woman's only virtue. I pray
+thee, out with't, and place it for her chief virtue.
+
+
+**SPEED**
+
+Item: She is proud.
+
+
+**LAUNCE**
+
+Out with that too; it was Eve's legacy, and cannot
+be ta'en from her.
+
+
+**SPEED**
+
+Item: She hath no teeth.
+
+
+**LAUNCE**
+
+I care not for that neither, because I love crusts.
+
+
+**SPEED**
+
+Item: She is [curst][133].
+
+[133]: {{page.q}}=3144  "curst (adj.) 1: bad-tempered, quarrelsome, shrewish, cross"
+
+**LAUNCE**
+
+Well, the best is, she hath no teeth to bite.
+
+
+**SPEED**
+
+Item: She will often [praise][134] her liquor.
+
+[134]: {{page.q}}=13206  "praise (v.) 1: appraise, test, try out"
+
+**LAUNCE**
+
+If her liquor be good, she shall; if she will not,
+I will; for good things should be praised.
+
+
+**SPEED**
+
+Item: She is too [liberal][135].
+
+[135]: {{page.q}}=19471  "liberal (adj.) 1: overgenerous, licentious"
+
+**LAUNCE**
+
+Of her tongue she cannot, for that's writ down
+she is slow of; of her purse, she shall not, for that I'll
+keep shut. Now, of another thing she may, and that
+cannot I help. Well, proceed.
+
+
+**SPEED**
+
+Item: She hath more hair than [wit][136], and more faults
+than hairs, and more wealth than faults.
+
+[136]: {{page.q}}=7583  "wit (n.) 1: intelligence, wisdom, good sense, mental ability"
+
+**LAUNCE**
+
+Stop there; I'll have her; she was mine and not
+mine twice or thrice in that last article. [Rehearse][137] that
+once more.
+
+[137]: {{page.q}}=17173  "rehearse (v.) 3: repeat, recite, say over again"
+
+**SPEED**
+
+Item: She hath more hair than wit –
+
+
+**LAUNCE**
+
+More hair than wit? It may be I'll prove it: the
+cover of the salt hides the salt, and therefore it is more
+than the salt; the hair that covers the wit is more than
+the wit, for the greater hides the less. What's next?
+
+
+**SPEED**
+
+And more faults than hairs –
+
+
+**LAUNCE**
+
+That's monstrous. O, that that were out!
+
+
+**SPEED**
+
+And more wealth than faults.
+
+
+**LAUNCE**
+
+Why, that word makes the faults [gracious][138]. Well,
+I'll have her; an if it be a match, as nothing is
+impossible –
+
+[138]: {{page.q}}=17672  "gracious (adj.) 9: delightful, lovely, charming"
+
+**SPEED**
+
+What then?
+
+
+**LAUNCE**
+
+Why, then will I tell thee – that thy master stays
+for thee at the Northgate.
+
+
+**SPEED**
+
+For me?
+
+
+**LAUNCE**
+
+For thee! Ay, who art thou? He hath stayed for
+a better man than thee.
+
+
+**SPEED**
+
+And must I go to him?
+
+
+**LAUNCE**
+
+Thou must run to him, for thou hast [stay][139]ed so
+long that [going][140] will scarce serve the turn.
+
+[139]: {{page.q}}=16211  "stay (v.) 2: linger, tarry, delay"
+[140]: {{page.q}}=17945  "going (n.): walking, going at one's usual pace"
+
+**SPEED**
+
+Why didst not tell me sooner? Pox of your love
+letters!
+He returns the paper to Launce. Exit
+
+
+**LAUNCE**
+
+Now will he be [swinged][141] for reading my letter.
+An unmannerly slave, that will thrust himself into
+secrets! I'll after, to rejoice in the boy's [correction][142].
+
+Exit
+
+[141]: {{page.q}}=15587  "swinge (v.): beat, thrash, flog"
+[142]: {{page.q}}=3061  "correction (n.): punishment, retribution, rebuke"

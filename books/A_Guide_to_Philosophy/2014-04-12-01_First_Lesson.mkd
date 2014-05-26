@@ -1,0 +1,207 @@
+---
+title: First Lesson
+book:
+    title: A Guide to Philosophy
+    author: Witold Gombrowicz
+category: philosophy
+permalink: /books/a_guide_to_philosophy/01_first_lesson.html
+date: 2014-04-12 21:12:00 +0800
+layout: book_page 
+---
+
+First Lesson
+==============
+
+*Sunday, April 27,1969*<br>
+*Referendum[^1]*
+{: .text-right .small}
+
+[^1]: A popular referendum on April 27, 1969, offered French voters a variety of proposed administrative reforms. When President Charles de Gaulle received an unexpected defeat in the vote, he resigned the presidency the following day and went into retirement. [Translator’s note.]
+
+###Kant 1724 -1804###
+
+Beginning of modern thought.
+
+One could also say that this is *Descartes* (beginning of the 17th century).
+
+*Descartes:* a single important idea: *absolute doubt.*
+
+Here rationalism begins: subject everything to absolute doubt, until the moment when reason forces us to accept an idea.
+
+(Basis for the phenomenology of Husserl)
+
+* —subject: thinking self
+* —object: opera glasses—table 
+* —the idea of an object which forms in my consciousness.
+
+####Descartes reduces these three aspects of knowledge.####
+
+####I am certain that this is in my consciousness but does not correspond to reality. For example, the centaur.####
+
+####Systematic doubt. Puts the world in doubt, in parentheses:####
+
+####1. the object.####
+
+####2. everything involving the object.####
+
+####The only certainty is that they exist *in my consciousness.*####
+
+####In parentheses:####
+
+####the idea of God;####
+
+####the sciences which relate to reality (supposedly objective): sociology, psychology, except for the abstract sciences; mathematics and logic, because they do not concern the outside world, but are laws for my own consciousness.####
+
+####What is Descartes’ great error, “deviation” (to use Husserl’s term)? *Descartes feared the terrifying consequences* of his ideas. He tries to show the objective reality of God—and therefore of the world (as God’s creation).####
+
+Descartes’ fear is similar to that of Sartre. Because of it, all his later philosophy was distorted. For Descartes, the important thing is *Discourse on the Method.* to eliminate the object: Descartes’ great idea.
+
+Philosophy begins to deal with consciousness as something fundamental. Imagine an absolute night, with a single object. If this object does not encounter a consciousness capable of sensing its existence, then it does not exist.
+
+There is no individual consciousness, but *consciousness* in general.
+
+(The brain’s consciousness, etc.)
+
+The dog.
+
+Descartes, precursor of modern thought.
+
+######Kant######
+
+Berkeley (rural youth)
+
+Hume.
+
+######Kant######
+
+Newton, especially.
+
+Descartes.
+
+Kant is based on rational knowledge, organized scientifically. Influenced by Newton.
+
+Works: *Critique of Pure Reason; Critique of Practical Reason*
+
+Kant’s big thing: *Critique of Pure Reason.*
+
+It is not about a critique of pure reason; we want to judge our own consciousness. *Consciousness judged by consciousness.* Example: can we be sure of the existence of God through philosophical deduction?
+
+*Questions:* to what extent can one be sure about consciousness? To what extent can consciousness be authentic?
+
+Kant’s reasoning in the *Critique of Pure Reason*, even expressed obscurely, is:
+
+Everything that we know about the world is expressed in judgments.
+
+For example, “I exist,” and a conditional judgment, “If I kick Dominique[^2], he’ll kick me twice.” *This is the connection of causality.* Judgments are analytical or synthetic.
+
+[^2]: Dominique de Roux. [Except as otherwise specified, all notes appeared in the original French edition. —Ed.]
+
+Analytical judgments are those which derive from analysis, dissecting a whole into its significant parts. Kant says that analytical judgments add nothing to our knowledge because they underscore an element of their definition.
+
+Example, the definition of man: living being, mammal, etc. Take the notion “living”: “man is a living being.” Why? Because there is decomposition. It is a concept drawn from another concept, in other words, an element drawn from the definition.
+
+*Synthetic judgments.* A different approach: adding something. Therefore they enrich our knowledge of the world.
+
+Synthetic judgments have no *a priori* value (*a priori:* independent of any experience).
+
+Synthetic judgments are *a posteriori*, in other words, based on experience.
+
+Example: water boils when it reaches a certain degree of heat.
+
+Enrichment of our knowledge. New phenomenon in our understanding of the world.
+
+*A posteriori* judgments are not always accurate. Example: there is no guarantee that water will begin to boil again on the 10,000th try.
+
+Kant seeks precision. He grips reality. A solid mind.
+
+Nevertheless, there are some synthetic judgments which are *a priori,* which add something to reality, but at the same time one is convinced of their infallibility. Newton’s influence.
+
+Example: the action is equivalent to the reaction.
+
+From the moment that we discovered this, we are certain that *it will always be that way.*
+
+Example: the shortest distance between two points is a straight line.
+
+Yet for Einstein, the shortest distance between two points is a curved line. But that does not change anything, because it is a different reality from that of Newton. If you accept all of Newton’s premises, then Newton’s laws are absolute in the context of his reality.
+
+Some synthetic judgments are:
+
+*A priori* — which increase our knowledge — and which are absolute and valid for all of humanity.
+
+The whole problem of Kantian philosophy thus resides in a single question: how are *a priori* synthetic judgments possible?
+
+Kant asks this question because such judgments, without being accidental or based on experience, nevertheless enrich our knowledge, without being accidental or based on experience. Synthetic —which provides an eternal novelty.
+
+####Kant proceeds with####
+
+######*three analyses*######
+
+####three sections of the *Critique of Pure Reason.*####
+
+But since the subject is reason, or organized knowledge, everything must be based on synthetic knowledge.
+
+It is science which formulates *synthetic, a priori* judgments (that is, eternal).
+
+*First part: Transcendental Aesthetics.*
+
+(Transcendent means something outside of the self).
+
+Aesthetics used in the mathematical sense.
+
+Mathematics: science of forms and relationships.
+
+In this first part: How are synthetic *a priori* judgments possible in mathematics?
+
+*Second part: Transcendental Analytics.*
+
+We treat judgments in *physics.* Everything that we know about the subject of things (behavior, reactions). All that is the object of physics.
+
+It is the science of things.
+
+*Third part: Transcendental Dialectics,* where he deals with metaphysical problems such as that of the “existence of God.”
+
+With Kant begins the great reduction of thought, a process which lasts to the present day.
+
+####For the first time consciousness asks the question: *What are the limits of consciousness* (of reason)?####
+
+####*Kant’s great coup.* He had some stunning ideas that completely changed everything.####
+
+####*Question*: How are *a priori synthetic judgments* possible?####
+
+####*Answer: A priori* synthetic judgments are possible in general and therefore in transcendental aesthetics, *because time and space are not a property of things but rather a property of the subject.*####
+
+####In order for something to exist for us, we must inject it with time and space.####
+
+####And here Kantian reasoning is simple.####
+
+####He says, “There are three reasons why space does not exist in the objective world outside us, but is an integral part of our consciousness.”####
+
+####*First argument.* Space does not come from an experience, *but is the inevitable condition of all experience.* Space is not an object but the condition of the existence of the object. Space does not derive from experience.####
+
+####*Second argument.* Space is not a concept obtained by deduction. We cannot understand it as concrete, because it is not an object. Space is pure intuition. In other words, space is not a thing but####
+
+the condition of a thing, because we possess it within ourselves.
+
+*Third argument* (or rather, consequence). The intuition of space is the inevitable condition of our *a priori* synthetic judgments, conferring objective reality on things.
+
+Without it, these are merely impressions (parallel to Descartes).
+
+Example: geometry, resting on constructions in space, on figures, is not based on experience but valid because *[sentence incomplete in the* text].[^3]
+
+[^3]: Bracketed indications of gaps in the text appear in the French edition. [Editor’s note.]
+
+*Conclusion*
+
+We have demonstrated that Kant’s *a priori* synthetic judgments are in fact *analytical judgments.*
+
+This splendid construction collapses.
+
+And Kant’s idea of the categories of pure reason will collapse as well.
+
+That is the fate of all philosophy. No system endures. Through philosophy, human consciousness in progress discovers itself for itself, as Hegel will say so magnificently.
+
+—There is no point in asking whether one should do philosophy or not. We do philosophy because we must. It is inevitable. Our consciousness asks us questions and we must try to resolve them. Philosophy is a necessary thing.
+
+What was the most profound vision of the world in the 18th century? One finds it in Kant, without whom it would be impossible to know the development of consciousness through the centuries. Philosophy is needed for a global view of culture. It is important for writers.
+
+Philosophy allows us to organize culture, to introduce order, to find ourselves, and to attain intellectual confidence.

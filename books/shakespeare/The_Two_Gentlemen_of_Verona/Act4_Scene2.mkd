@@ -1,0 +1,489 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act IV - Scene II
+category: play
+author: shakespeare
+source: http://www.shakespeareswords.com/Plays.aspx?Ac=4&SC=1&IdPlay=5
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act4_scene2.html
+layout: book_page
+tag: [ shakespeare  ]
+creation: 1589-1593
+date: 2014-04-02 10:06:00 +0800
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+
+Enter Proteus
+
+
+**PROTEUS**
+
+Already have I been [false][1] to Valentine,
+And now I must be as unjust to Thurio;
+Under the [colour][2] of [commend][3]ing him,
+I have access my own love to [prefer][4];
+But Silvia is too fair, too true, too [holy][5],
+To be corrupted with my worthless gifts.
+When I protest true loyalty to her,
+She [twit][6]s me with my falsehood to my friend;
+When to her beauty I [commend][7] my vows,
+She bids me think how I have been [forsworn][8]
+In breaking faith with Julia, whom I loved;
+And notwithstanding all her [sudden][10] [quip][9]s,
+The least whereof would quell a lover's hope,
+Yet, [spaniel-like][11], the more she [spurn][12]s my love
+The more it grows and fawneth on her still.
+Enter Thurio and Musicians
+But here comes Thurio. Now must we to her window,
+And give some evening music to her ear.
+
+[1]: {{page.q}}=19780  "false (adj.) 1: treacherous, traitorous, perfidious"
+[2]: {{page.q}}=2981  "colour (n.) 1: pretext, pretence"
+[3]: {{page.q}}=2872  "commend (v.) 4: praise, admire, extol"
+[4]: {{page.q}}=12338  "prefer (v.) 1: promote, advance, recommend"
+[5]: {{page.q}}=18456  "holy (adj.) 1: virtuous, upright, of great excellence"
+[6]: {{page.q}}=6133  "twit (v.): taunt, upbraid, reproach"
+[7]: {{page.q}}=3508  "commend (v.) 6: declare, offer, direct"
+[8]: {{page.q}}=19872  "forswear (v), past forms forsworn, forswore 1: swear falsely, perjure [oneself], break one's word"
+[9]: {{page.q}}=13841  "quip (n.): retort, taunt, gibe"
+[10]: {{page.q}}=15599  "sudden (adj.) 7: sharp, caustic, biting"
+[11]: {{page.q}}=15600  "spaniel-like (adj.): fawningly, slavishly, like a tame dog"
+[12]: {{page.q}}=5894  "spurn (v.) 1: reject, scorn, despise, treat with contempt"
+
+**THURIO**
+
+How now, Sir Proteus, are you crept before us?
+
+
+**PROTEUS**
+
+Ay, [gentle][13] Thurio; for you know that love
+Will creep in service where it cannot [go][14].
+
+[13]: {{page.q}}=17495  "gentle (adj.) 1: well-born, honourable, noble"
+[14]: {{page.q}}=17754  "go (v.) 1: walk, travel on foot"
+
+**THURIO**
+
+Ay, but I hope, sir, that you love not here.
+
+
+**PROTEUS**
+
+Sir, but I do; or else I would be hence.
+
+
+**THURIO**
+
+Who? Silvia?
+
+
+**PROTEUS**
+
+                  Ay, Silvia – for your sake.
+
+
+**THURIO**
+
+I thank you for your own. Now, gentlemen,
+Let's [tune][16], and to it [lustily][15] awhile.
+Enter, some way off, the Host of the Inn, and Julia in
+a page's costume
+
+[15]: {{page.q}}=19555  "lustily (adv.): vigorously, heartily, with a will"
+[16]: {{page.q}}=6272  "tune (v.) 1: play"
+
+**HOST**
+
+Now, my young guest, [methinks][18] you're [allycholly][17];
+I pray you, why is it?
+
+[17]: {{page.q}}=304  "allicholy, allycholly (adj./n.): malapropism for ‘melancholy’"
+[18]: {{page.q}}=10439  "methinks(t), methought(s) (v.): it seems /seemed to me"
+
+**JULIA**
+
+Marry, mine host, because I cannot be merry.
+
+
+**HOST**
+
+Come, we'll have you merry; I'll bring you where
+you shall hear music, and see the gentleman that you
+asked for.
+
+
+**JULIA**
+
+But shall I hear him speak?
+
+
+**HOST**
+
+Ay, that you shall.
+
+
+**JULIA**
+
+That will be music.
+The Musicians play
+
+
+**HOST**
+
+Hark, hark!
+
+
+**JULIA**
+
+Is he among these?
+
+
+**HOST**
+
+Ay; but, peace! Let's hear 'em.
+Song
+Who is Silvia? What is she,
+That all our [swain][20]s [commend][19] her?
+[Holy][21], fair, and wise is she;
+The heaven such [grace][22] did lend her,
+That she might admired be.
+Is she [kind][23] as she is fair?
+For beauty lives with kindness.
+Love doth to her eyes [repair][24],
+To help him of his blindness;
+And, being helped, inhabits there.
+Then to Silvia let us sing
+That Silvia is excelling;
+She excels each mortal thing
+Upon the dull earth dwelling.
+To her let us garlands bring.
+
+[19]: {{page.q}}=2872  "commend (v.) 4: praise, admire, extol"
+[20]: {{page.q}}=15605  "swain (n.) 4: lover, wooer, sweetheart"
+[21]: {{page.q}}=18456  "holy (adj.) 1: virtuous, upright, of great excellence"
+[22]: {{page.q}}=17599  "grace (n.) 4: gracefulness, charm, elegance"
+[23]: {{page.q}}=19089  "kind (adj.) 4: gracious, full of courtesy"
+[24]: {{page.q}}=16609  "repair (v.) 1: come, go, make one's way"
+
+**HOST**
+
+How now? Are you [sad][25]der than you were before?
+How do you, man? The music [like][26]s you not.
+
+[25]: {{page.q}}=15557  "sad (adj.) 3: downcast, distressed, mournful, gloomy"
+[26]: {{page.q}}=19138  "like (v.) 1: please, suit"
+
+**JULIA**
+
+You mistake; the musician likes me not.
+
+
+**HOST**
+
+Why, my pretty youth?
+
+
+**JULIA**
+
+He plays [false][27], father.
+
+[27]: {{page.q}}=20667  "false (adv.) 3: wrongly, erroneously, in error"
+
+**HOST**
+
+How? Out of tune on the strings?
+
+
+**JULIA**
+
+Not so; but yet so false that he grieves my very
+heart-strings.
+
+
+**HOST**
+
+You have a [quick][28] ear.
+
+[28]: {{page.q}}=13810  "quick (adj.) 4: sharp, keen, alert"
+
+**JULIA**
+
+Ay, I would I were deaf; it makes me have a [slow][29]
+heart.
+
+[29]: {{page.q}}=15601  "slow (adj.) 1: heavy, gloomy, dejected"
+
+**HOST**
+
+I perceive you delight not in music.
+
+
+**JULIA**
+
+Not a whit, when it [jar][30]s so.
+
+[30]: {{page.q}}=18940  "jar (v.) 2: grate, sound discordantly"
+
+**HOST**
+
+Hark, what fine [change][31] is in the music!
+
+[31]: {{page.q}}=4473  "change (n.) 1: variation, modulation"
+
+**JULIA**
+
+Ay; that change is the [spite][32].
+
+[32]: {{page.q}}=14578  "spite (n.) 1: annoyance, vexation, irritation"
+
+**HOST**
+
+You would have them always play but one thing?
+
+
+**JULIA**
+
+I would always have one play but one thing.
+But, host, doth this Sir Proteus, that we talk on,
+Often resort unto this gentlewoman?
+
+
+**HOST**
+
+I tell you what Launce, his man, told me: he loved
+her out of all [nick][33].
+
+[33]: {{page.q}}=11472  "nick (n.) 2: reckoning, count, estimation"
+
+**JULIA**
+
+Where is Launce?
+
+
+**HOST**
+
+Gone to seek his dog, which tomorrow, by his
+master's command, he must carry for a present to his
+lady.
+
+
+**JULIA**
+
+Peace! Stand aside; the company [part][34]s.
+
+[34]: {{page.q}}=12396  "part (v.) 1: depart [from], leave, quit"
+
+**PROTEUS**
+
+Sir Thurio, fear not you; I will so plead
+That you shall say my cunning [drift][35] excels.
+
+[35]: {{page.q}}=8478  "drift (n.) 1: plan, intention, aim"
+
+**THURIO**
+
+Where meet we?
+
+
+**PROTEUS**
+
+                  At Saint Gregory's well.
+
+
+**THURIO**
+
+                                                         Farewell.
+Exeunt Thurio and Musicians
+Enter Silvia at an upstairs window
+
+
+**PROTEUS**
+
+Madam, good even to your ladyship.
+
+
+**SILVIA**
+
+I thank you for your music, gentlemen.
+Who is that that spake?
+
+
+**PROTEUS**
+
+One, lady, if you knew his pure heart's truth,
+You would quickly learn to know him by his voice.
+
+
+**SILVIA**
+
+Sir Proteus, as I take it.
+
+
+**PROTEUS**
+
+Sir Proteus, [gentle][36] lady, and your servant.
+
+[36]: {{page.q}}=17495  "gentle (adj.) 1: well-born, honourable, noble"
+
+**SILVIA**
+
+What's your [will][38]?
+
+[38]: {{page.q}}=7725  "will (n.) 1: desire, wish, liking, inclination"
+
+**PROTEUS**
+
+                  That I may [compass][37] yours.
+
+[37]: {{page.q}}=3504  "compass (v.) 2: win, obtain, attain"
+
+
+**SILVIA**
+
+You have your wish; my will is even this,
+That [presently][40] you [hie][39] you home to bed.
+Thou [subtle][42], perjured, [false][41], disloyal man,
+Thinkest thou I am so shallow, so [conceitless][43],
+To be seduced by thy flattery
+That hast deceived so many with thy vows?
+Return, return, and make thy love amends.
+For me – by this pale queen of night I swear –
+I am so far from granting thy request
+That I despise thee for thy wrongful [suit][44];
+And by and by intend to [chide][45] myself
+Even for this time I spend in talking to thee.
+
+[39]: {{page.q}}=18172  "hie (v.): hasten, hurry, speed"
+[40]: {{page.q}}=12248  "presently (adv.) 1: immediately, instantly, at once"
+[41]: {{page.q}}=19969  "false (adj.) 2: disloyal, faithless, inconstant, unfaithful"
+[42]: {{page.q}}=15065  "subtle, subtile (adj.) 1: crafty, cunning, wily"
+[43]: {{page.q}}=3509  "conceitless (adj.): dense, witless, unintelligent"
+[44]: {{page.q}}=14962  "suit (n.) 2: wooing, courtship"
+[45]: {{page.q}}=4299  "chide (v.), past form chid 1: scold, rebuke, reprove"
+[46]: {{page.q}}=4464  "chide (v.), past form chid 4: brusquely command, drive [away] with harsh words"
+
+**PROTEUS**
+
+I grant, sweet love, that I did love a lady,
+But she is dead.
+
+
+**JULIA**
+
+                   (aside) 'Twere false, if I should speak it;
+For I am sure she is not buried.
+
+
+**SILVIA**
+
+Say that she be; yet Valentine thy friend
+Survives, to whom, thyself art witness,
+I am betrothed; and art thou not ashamed
+To wrong him with thy [importunacy][47]?
+
+[47]: {{page.q}}=5191  "importunacy (n.): importunity, urgent solicitation, pressing entreaty"
+
+**PROTEUS**
+
+I likewise hear that Valentine is dead.
+
+
+**SILVIA**
+
+And so suppose am I; for in his grave
+Assure thyself my love is buried.
+
+
+**PROTEUS**
+
+Sweet lady, let me rake it from the earth.
+
+
+**SILVIA**
+
+Go to thy lady's grave and call hers thence;
+Or, at the least, in hers [sepulchre][48] thine.
+
+[48]: {{page.q}}=15640  "sepulchre (v.) 1: place in a sepulchre, bury"
+
+**JULIA**
+
+(aside)
+He heard not that.
+
+
+**PROTEUS**
+
+Madam, if your heart be so obdurate,
+Vouchsafe me yet your picture for my love,
+The picture that is hanging in your chamber;
+To that I'll speak, to that I'll sigh and weep;
+For since the [substance][51] of your [perfect][50] self
+Is [else][52] [devoted][49], I am but a [shadow][53];
+And to your [shadow][54] will I make true love.
+
+[49]: {{page.q}}=9099  "devoted (adj.) 2: holy, consecrated, dedicated"
+[50]: {{page.q}}=12982  "perfect (adj.) 10: complete, flawless, unblemished"
+[51]: {{page.q}}=14328  "substance (n.) 1: real thing, genuine article"
+[52]: {{page.q}}=10358  "else (adv.) 2: elsewhere, in another direction"
+[53]: {{page.q}}=14715  "shadow (n.) 5: spirit, phantom, spectre, ghost"
+[54]: {{page.q}}=14327  "shadow (n.) 1: image, likeness, portrait, semblance"
+
+**JULIA**
+
+(aside)
+If 'twere a substance, you would sure deceive it
+And make it but a [shadow][55], as I am.
+
+[55]: {{page.q}}=15593  "shadow (n.) 4: illusion, unreal image, delusion"
+
+**SILVIA**
+
+I am very loath to be your idol, sir;
+But, since your falsehood shall [become][56] you well
+To worship shadows and adore [false][57] shapes,
+Send to me in the morning and I'll send it;
+And so, good rest.
+
+[56]: {{page.q}}=1432  "become (v.) 1: be fitting, befit, be appropriate to"
+[57]: {{page.q}}=19980  "false (adj.) 3: sham, spurious, not genuine, artificial"
+
+**PROTEUS**
+
+                  As wretches have o'ernight
+That wait for execution in the [morn][58].
+Exeunt Proteus and Silvia
+
+[58]: {{page.q}}=10474  "morn (n.): morning, dawn"
+
+**JULIA**
+
+Host, will you go?
+
+
+**HOST**
+
+By my halidom, I was fast asleep.
+
+
+**JULIA**
+
+Pray you, where [lie][59]s Sir Proteus?
+
+[59]: {{page.q}}=19245  "lie (v.) 1: live, dwell, reside, lodge"
+
+**HOST**
+
+Marry, at my [house][60]. Trust me, I think 'tis almost day.
+
+[60]: {{page.q}}=18342  "house (n.) 1: inn, tavern"
+
+**JULIA**
+
+Not so; but it hath been the longest night
+That e'er I [watch][62]ed, and the most [heaviest][61].
+Exeunt
+
+[61]: {{page.q}}=18220  "heavy (adj.) 1: sorrowful, sad, gloomy"
+[62]: {{page.q}}=7558  "watch (v.) 1: stay awake, keep vigil"

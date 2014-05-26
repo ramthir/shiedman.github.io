@@ -1,0 +1,23 @@
+---
+title: PREFACE
+book:
+    title: The Problems of Philosophy
+    author: Bertrand Russell
+category: philosophy
+permalink: /books/the_problems_of_philosophy/preface.html
+date: 2014-04-11 20:47:00 +0800
+layout: book_page
+q: #
+---
+
+In the following pages I have [confined][1]  myself in the main to those problems of philosophy in regard to which I thought it possible to say something positive and constructive, since merely negative criticism seemed out of place. For this reason, theory of knowledge occupies a larger space than [metaphysics][2]  in the present volume, and some topics much discussed by philosophers are treated very briefly, if at all.
+    
+I have [derived][3]  valuable assistance from unpublished writings of G. E. Moore and J. M. Keynes: from the former, as regards the relations of sense-data to physical objects, and from the latter as regards probability and induction. I have also profited greatly by the [criticisms][4]  and suggestions of Professor Gilbert Murray.
+
+1912
+{: .text-right}
+
+[1]: {{q}}=1 "keep within limits: to keep somebody or something within particular limits or boundaries"
+[2]: {{q}}=2 "形而上学"
+[3]: {{q}}=3 "obtain"
+[4]: {{q}}=4 "the activity of giving your professional opinion about things such as new books, plays, or movies"

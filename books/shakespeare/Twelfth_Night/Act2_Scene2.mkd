@@ -1,0 +1,105 @@
+---
+title: Twelfth Night
+tagline: Act II - Scene II
+category: play
+author: shakespeare
+date: 2014-05-25 20:38:43 +0800
+permalink: /books/shakespeare/Twelfth_Night_act2_scene2.html
+layout: book_page
+creation: 1601-1602
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Viola and Malvolio at several doors_
+
+**MALVOLIO**
+
+Were not you even now with the Countess
+Olivia?
+
+
+
+**VIOLA**
+
+Even now, sir; on a moderate pace I have since
+arrived but hither.
+
+
+
+**MALVOLIO**
+
+She returns this ring to you, sir. You might
+have saved me my pains, to have taken it away yourself.
+She adds, moreover, that you should put your lord into
+a [desperate][2] [assurance][1] she will none of him; and one
+thing more, that you be never so [hardy][3] to come again in
+his affairs – unless it be to report your lord's taking of
+this. Receive it so.
+
+[1]: {{page.q}}=72 "assurance (n.) 1:  security, certainty, confidence"
+[2]: {{page.q}}=8398 "desperate (adj.) 1:  despairing, hopeless, without hope"
+[3]: {{page.q}}=18217 "hardy (adj.):  bold, daring, forward"
+
+
+**VIOLA**
+
+She took the ring of me, I'll none of it.
+
+
+
+**MALVOLIO**
+
+Come, sir, you peevishly threw it to her, and
+her will is it should be so returned. If it be worth stooping
+for, there it lies in your [eye][4]; if not, be it his that finds
+it.
+_Exit_
+
+[4]: {{page.q}}=9930 "eye (n.) 1:  sight, view, presence"
+
+
+**VIOLA**
+
+I left no ring with her; what means this lady?
+Fortune forbid my [outside][6] have not [charm][5]ed her!
+She made good [view][7] of me, indeed so much
+That – [methought][9] – her eyes had [lost][8] her tongue,
+For she did speak in [starts][11], [distractedly][10].
+She loves me, sure, the [cunning][12] of her passion
+Invites me in this churlish messenger.
+None of my lord's ring? Why, he sent her none.
+I am the man! If it be so – as 'tis –
+Poor lady, she were better love a dream.
+Disguise, I see thou art a wickedness
+Wherein the [pregnant][13] enemy does much.
+How easy is it for the [proper][15] [false][14]
+In women's waxen hearts to set their [form][16]s.
+Alas, our frailty is the cause, not we,
+For such as we are made, if such we be.
+How will this [fadge][17]? My master loves her dearly;
+And I, poor monster, [fond][18] as much on him;
+And she, mistaken, seems to dote on me.
+What will become of this? As I am man,
+My state is desperate for my master's love.
+As I am woman – now, alas the day,
+What [thriftless][19] sighs shall poor Olivia breathe!
+O time, thou must untangle this, not I!
+It is too hard a knot for me t' untie.
+_Exit_
+
+[5]: {{page.q}}=4293 "charm (v.) 1:  work magic [on], bewitch, enchant"
+[6]: {{page.q}}=11662 "outside (n.) 1:  appearance, look, outside show"
+[7]: {{page.q}}=7416 "view (n.) 2:  inspection, examination"
+[8]: {{page.q}}=19342 "lose (v.) 3:  lose sight of, forget"
+[9]: {{page.q}}=10439 "methinks(t), methought(s) (v.):  it seems /seemed to me"
+[10]: {{page.q}}=9578 "distractedly (adv.):  disjointedly, erratically, with agitation"
+[11]: {{page.q}}=16500 "starts, by / in:  in fits and starts"
+[12]: {{page.q}}=2840 "cunning (n.) 3:  deviousness, deceit, craftiness, artfulness"
+[13]: {{page.q}}=13253 "pregnant (adj.) 6:  resourceful, wily"
+[14]: {{page.q}}=20570 "false (n.):  false person, deceiver"
+[15]: {{page.q}}=12275 "proper (adj.) 1:  good-looking, handsome, comely"
+[16]: {{page.q}}=19868 "form (n.) 2:  imprinted shape, impressed image"
+[17]: {{page.q}}=20571 "fadge (v.) 2:  turn out, end up, come off"
+[18]: {{page.q}}=20572 "fond (v.):  dote, be infatuated"
+[19]: {{page.q}}=6280 "thriftless (adj.):  useless, worthless, unprofitable"

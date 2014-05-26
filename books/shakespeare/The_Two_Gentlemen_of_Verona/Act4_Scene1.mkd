@@ -1,0 +1,287 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act IV - Scene I
+category: play
+author: shakespeare
+source: http://www.shakespeareswords.com/Plays.aspx?Ac=4&SC=1&IdPlay=5
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act4_scene1.html
+layout: book_page
+tag: [ shakespeare  ]
+creation: 1589-1593
+date: 2014-04-02 10:01:00 +0800
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+
+Enter certain Outlaws
+
+
+**FIRST OUTLAW**
+
+Fellows, stand fast; I see a [passenger][1].
+
+[1]: {{page.q}}=12622  "passenger (n.): wayfarer, traveller, passer-by"
+
+**SECOND OUTLAW**
+
+If there be ten, shrink not, but down with 'em.
+
+Enter Valentine and Speed
+
+
+**THIRD OUTLAW**
+
+[Stand][2], sir, and throw us that you have about ye;
+If not, we'll make you sit, and [rifle][3] you.
+
+[2]: {{page.q}}=14055  "stand (v.) 3: stop, halt"
+[3]: {{page.q}}=17175  "rifle (v.): search and rob, plunder"
+
+**SPEED**
+
+Sir, we are [undone][4]; these are the villains
+That all the travellers do fear so much.
+
+[4]: {{page.q}}=7007  "undone (adj.): ruined, destroyed, brought down"
+
+**VALENTINE**
+
+My friends –
+
+
+**FIRST OUTLAW**
+
+That's not so, sir; we are your enemies.
+
+
+**SECOND OUTLAW**
+
+Peace! We'll hear him.
+
+
+**THIRD OUTLAW**
+
+Ay, by my beard, will we; for he's a [proper][5] man.
+
+[5]: {{page.q}}=12275  "proper (adj.) 1: good-looking, handsome, comely"
+
+**VALENTINE**
+
+Then know that I have little wealth to lose;
+A man I am [cross][6]ed with adversity;
+My riches are these poor [habiliment][7]s,
+Of which, if you should here [disfurnish][8] me,
+You take the sum and substance that I have.
+
+[6]: {{page.q}}=2937  "cross (v.) 3: afflict, plague, go against"
+[7]: {{page.q}}=18369  "habiliment, abiliment (n.): (usually plural) clothes, dress, attire, outfit"
+[8]: {{page.q}}=9168  "disfurnish (v.): deprive, strip, dispossess"
+
+**SECOND OUTLAW**
+
+Whither travel you?
+
+
+**VALENTINE**
+
+To Verona.
+
+
+**FIRST OUTLAW**
+
+Whence came you?
+
+
+**VALENTINE**
+
+From Milan.
+
+
+**THIRD OUTLAW**
+
+                  Have you long [sojourned][9] there?
+
+[9]: {{page.q}}=5910  "sojourn (v.) 1: pause, reside, stay for a while"
+
+
+**VALENTINE**
+
+Some sixteen months, and longer might have stayed,
+If [crooked][10] fortune had not thwarted me.
+
+[10]: {{page.q}}=3507  "crooked (adj.) 1: malignant, perverse, contrary, devious"
+
+**FIRST OUTLAW**
+
+What, were you banished thence?
+
+
+**VALENTINE**
+
+I was.
+
+
+**SECOND OUTLAW**
+
+For what offence?
+
+
+**VALENTINE**
+
+For that which now torments me to [rehearse][11]:
+I killed a man, whose death I much repent;
+But yet I slew him manfully in fight,
+Without [[false][14]][13] [vantage][15] or [base][12] treachery.
+
+[11]: {{page.q}}=16751  "rehearse (v.) 1: relate, recount, give an account of"
+[12]: {{page.q}}=1412  "base (adj.) 1: dishonourable, low, unworthy"
+[13]: {{page.q}}=19780  "false (adj.) 1: treacherous, traitorous, perfidious"
+[14]: {{page.q}}=20561  "false (adj.) 7: unfair, unjust, double-crossing"
+[15]: {{page.q}}=7313  "vantage (n.) 2: advantageous position, place of vantage, superiority"
+
+**FIRST OUTLAW**
+
+Why, ne'er repent it, if it were done so.
+But were you banished for so small a fault?
+
+
+**VALENTINE**
+
+I was, and held me glad of such a [doom][16].
+
+[16]: {{page.q}}=8461  "doom (n.) 1: judgement, sentence, decision"
+
+**SECOND OUTLAW**
+
+Have you the [tongue][17]s?
+
+[17]: {{page.q}}=6253  "tongue (n.) 2: (plural) foreign language"
+
+**VALENTINE**
+
+My youthful travel therein made me [happy][18],
+Or else I often had been miserable.
+
+[18]: {{page.q}}=18455  "happy (adj.) 3: accomplished, favoured, proficient"
+
+**THIRD OUTLAW**
+
+By the bare scalp of Robin Hood's fat friar,
+This fellow were a king for our wild [faction][19]!
+
+[19]: {{page.q}}=19772  "faction (n.) 1: party, group, set [of people]"
+
+**FIRST OUTLAW**
+
+We'll have him. Sirs, a word.
+The Outlaws draw aside to talk
+
+
+**SPEED**
+
+Master, be one of them; it's an honourable kind of
+thievery.
+
+
+**VALENTINE**
+
+Peace, villain!
+
+
+**SECOND OUTLAW**
+
+Tell us this: have you anything to [take][20]
+to?
+
+[20]: {{page.q}}=6610  "take to (v.) 2: subsist on, use as a resource"
+
+**VALENTINE**
+
+Nothing but my fortune.
+
+
+**THIRD OUTLAW**
+
+Know then that some of us are gentlemen,
+Such as the fury of ungoverned youth
+Thrust from the company of [awful][21] men;
+Myself was from Verona banished
+For [practising][22] to steal away a lady,
+An heir, and near [allied][23] unto the Duke.
+
+[21]: {{page.q}}=247  "awful (adj.) 1: awe-inspiring, worthy of respect"
+[22]: {{page.q}}=12234  "practise (v.) 1: plot, scheme, conspire"
+[23]: {{page.q}}=1243  "allied (adj.): related, connected"
+
+**SECOND OUTLAW**
+
+And I from Mantua, for a gentleman
+Who, in my [mood][24], I stabbed unto the heart.
+
+[24]: {{page.q}}=10637  "mood (n.) 1: anger, fury, frenzy, fit of temper"
+
+**FIRST OUTLAW**
+
+And I for such [like][25] petty crimes as these.
+But to the [purpose][26] – for we cite our faults
+That they may hold excused our lawless lives;
+And partly, seeing you are beautified
+With goodly shape, and by your own report
+A linguist, and a man of such perfection
+As we do in our [quality][27] much want –
+
+[25]: {{page.q}}=19136  "like (adj.) 1: same, similar, alike, equal"
+[26]: {{page.q}}=12296  "purpose (n.) 2: point at issue, matter in hand"
+[27]: {{page.q}}=13794  "quality (n.) 8: companions, associates, fraternity"
+
+**SECOND OUTLAW**
+
+Indeed, because you are a banished man,
+Therefore, above the rest, we [parle][28]y to you.
+Are you [content][29] to be our general –
+To make a virtue of necessity,
+And live as we do in this wilderness?
+
+[28]: {{page.q}}=13054  "parle, parley (v.) 1: discuss terms, treat, negotiate with"
+[29]: {{page.q}}=2862  "content (adj.) 1: agreeable, willing, ready"
+
+**THIRD OUTLAW**
+
+What sayst thou? Wilt thou be of our [consort][30]?
+Say ‘ ay,’ and be the captain of us all.
+We'll do thee homage, and be ruled by thee,
+Love thee as our commander and our king.
+
+[30]: {{page.q}}=3192  "consort (n.) 2: company, mob, crew"
+
+**FIRST OUTLAW**
+
+But if thou scorn our courtesy, thou diest.
+
+
+**SECOND OUTLAW**
+
+Thou shalt not live to [brag][31] what we have offered.
+
+[31]: {{page.q}}=2253  "brag (v.): talk with pride [about], sound off [about]"
+
+**VALENTINE**
+
+I take your offer, and will live with you,
+Provided that you do no outrages
+On [silly][33] women or poor [passenger][32]s.
+
+[32]: {{page.q}}=12622  "passenger (n.): wayfarer, traveller, passer-by"
+[33]: {{page.q}}=13896  "silly (adj.) 1: helpless, defenceless, vulnerable"
+
+**THIRD OUTLAW**
+
+No, we detest such vile [base][34] practices.
+Come, go with us; we'll bring thee to our [crew][35]s,
+And show thee all the treasure we have got;
+Which, with ourselves, all rest at thy [dispose][36].
+Exeunt
+
+[34]: {{page.q}}=1412  "base (adj.) 1: dishonourable, low, unworthy"
+[35]: {{page.q}}=3449  "crew (n.) 1: band, company, body of men"
+[36]: {{page.q}}=8659  "dispose (n.) 1: disposal, control, discretion"

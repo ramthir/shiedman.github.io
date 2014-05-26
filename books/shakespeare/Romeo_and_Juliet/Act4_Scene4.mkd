@@ -1,0 +1,124 @@
+---
+title: Romeo and Juliet
+tagline: Act IV - Scene IV
+category: play
+author: shakespeare
+date: 2014-05-26 17:55:14 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act4_scene4.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Lady Capulet and Nurse, with herbs_
+
+**LADY CAPULET**
+
+Hold, take these keys and fetch more spices, Nurse.
+
+
+
+**NURSE**
+
+They call for dates and quinces in the [pastry][1].
+_Enter Capulet_
+
+[1]: {{page.q}}=13438 "pastry (n.): pastry-making part of the kitchen"
+
+
+**CAPULET**
+
+Come, stir, stir, stir! The second cock hath crowed.
+The curfew bell hath rung. 'Tis three o'clock.
+Look to the [baked][2] meats, good Angelica.
+Spare not for [cost][3].
+
+[2]: {{page.q}}=1752 "baked meats (n.): pies, pastries"
+[3]: {{page.q}}=2876 "cost (n.) 1: outlay, expense, expenditure"
+
+
+**NURSE**
+
+Go, you [cot-quean][4], go.
+Get you to bed! Faith, you'll be sick tomorrow
+For this night's [watching][5].
+
+[4]: {{page.q}}=3782 "cot-quean (n.): man acting the housewife, meddler in household affairs"
+[5]: {{page.q}}=7768 "watching (n.): wakefulness, sleeplessness, vigilance"
+
+
+**CAPULET**
+
+No, not a whit. What! I have [watch][6]ed ere now
+All night for lesser cause, and ne'er been sick.
+
+[6]: {{page.q}}=7558 "watch (v.) 1: stay awake, keep vigil"
+
+
+**LADY CAPULET**
+
+Ay, you have been a [mouse-hunt][7] in your time.
+But I will watch you from such watching now.
+_Exeunt Lady Capulet and Nurse_
+
+[7]: {{page.q}}=11113 "mouse-hunt (n.): mouse-hunter; prowler, pursuer of women"
+
+
+**CAPULET**
+
+A [jealous][9] [hood][8], a jealous hood!
+_Enter three or four Servingmen with spits and logs and baskets_
+Now, fellow,
+What is there?
+
+[8]: {{page.q}}=18719 "hood (n.): [unclear meaning] head-covering, bonnet"
+[9]: {{page.q}}=18964 "jealous-hood (n.): [unclear meaning] state of being jealous"
+
+
+**FIRST SERVINGMAN**
+
+Things for the cook, sir; but I know not what.
+
+
+
+**CAPULET**
+
+Make haste, make haste.
+_Exit First Servingman_
+Sirrah, fetch drier logs.
+Call Peter. He will show thee where they are.
+
+
+
+**SECOND SERVINGMAN**
+
+I have a head, sir, that will find out logs
+And never trouble Peter for the matter.
+
+
+
+**CAPULET**
+
+Mass! and well said. A merry [whoreson][10], ha!
+Thou shalt be loggerhead.
+_Exit Second Servingman_
+Good Father! 'tis day.
+The [County][11] will be here with music [straight][12],
+For so he said he would.
+_Music plays_
+I hear him near.
+Nurse! Wife! What, ho! What, Nurse, I say!
+_Enter Nurse_
+Go waken Juliet. Go and trim her up.
+I'll go and chat with Paris. [Hie][13], make haste,
+Make haste! The bridegroom he is come already.
+Make haste, I say.
+_Exit Capulet_
+
+[10]: {{page.q}}=7804 "whoreson (n.): [son of a whore; serious or jocular term of abuse] fellow, bastard"
+[11]: {{page.q}}=3568 "county (n.) 1: [title of rank] count"
+[12]: {{page.q}}=14086 "straight (adv.): straightaway, immediately, at once"
+[13]: {{page.q}}=18172 "hie (v.): hasten, hurry, speed"
+
+

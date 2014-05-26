@@ -1,0 +1,1377 @@
+---
+title: Twelfth Night
+tagline: Act III - Scene IV
+category: play
+author: shakespeare
+date: 2014-05-25 21:23:22 +0800
+permalink: /books/shakespeare/Twelfth_Night_act3_scene4.html
+layout: book_page
+creation: 1601-1602
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Olivia and Maria_
+
+**OLIVIA**
+
+_aside_
+I have sent after him, he says he'll come.
+How shall I feast him? What [bestow][1] of him?
+For youth is bought more [oft][2] than begged or borrowed.
+I speak too loud.
+(To Maria) Where's Malvolio? He is sad and civil,
+And suits well for a servant with my fortunes.
+Where is Malvolio?
+
+[1]: {{page.q}}=1712 "bestow (v.) 2:  give as a gift [to], present [with]"
+[2]: {{page.q}}=11606 "oft (adv.):  often"
+
+
+**MARIA**
+
+He's coming, madam, but in very strange manner.
+He is sure possessed, madam.
+
+
+
+**OLIVIA**
+
+Why, what's the matter? Does he rave?
+
+
+
+**MARIA**
+
+No, madam, he does nothing but smile. Your
+ladyship were best to have some guard about you, if he
+come, for sure the man is [tainted][3] in's [wits][4].
+
+[3]: {{page.q}}=6203 "tainted (adj.) 1:  infected, diseased"
+[4]: {{page.q}}=8049 "wits, also five wits:  faculties of the mind (common wit, imagination, fantasy, estimation, memory) or body (the five senses)"
+
+
+**OLIVIA**
+
+Go, call him hither.
+_Exit Maria_
+I am as mad as he
+If [sad][5] and merry madness equal be.
+_Enter Malvolio and Maria_
+How now, Malvolio?
+
+[5]: {{page.q}}=13906 "sad (adj.) 1:  serious, grave, solemn"
+
+
+**MALVOLIO**
+
+Sweet lady! Ho! Ho!
+
+
+
+**OLIVIA**
+
+Smil'st thou? I sent for thee upon a [sad][6] occasion.
+
+[6]: {{page.q}}=13906 "sad (adj.) 1:  serious, grave, solemn"
+
+
+**MALVOLIO**
+
+Sad, lady? I could be sad; this does make
+some obstruction in the blood, this [cross-gartering][7] – but
+what of that? If it please the eye of one, it is with me as
+the very true [sonnet][8] is: ‘Please one and please all'.
+
+[7]: {{page.q}}=4796 "cross-gartering (n.):  wearing garters crossed along the legs"
+[8]: {{page.q}}=15816 "sonnet (n.) 1:  song, lyric"
+
+
+**OLIVIA**
+
+Why, how dost thou, man? What is the matter
+with thee?
+
+
+
+**MALVOLIO**
+
+Not black in my mind, though yellow in my
+legs. It did come to his hands; and commands shall be
+executed. I think we do know the sweet Roman hand.
+
+
+
+**OLIVIA**
+
+Wilt thou go to bed, Malvolio?
+
+
+
+**MALVOLIO**
+
+To bed! ‘ Ay, sweetheart, and I'll come to
+thee!’
+
+
+
+**OLIVIA**
+
+God comfort thee! Why dost thou smile so, and
+kiss thy hand so [oft][9]?
+
+[9]: {{page.q}}=11606 "oft (adv.):  often"
+
+
+**MARIA**
+
+How do you, Malvolio?
+
+
+
+**MALVOLIO**
+
+At your request? Yes; nightingales answer
+[daw][10]s.
+
+[10]: {{page.q}}=8615 "daw (n.) 1:  jackdaw [as noted for its stupidity]; dolt, fool"
+
+
+**MARIA**
+
+Why appear you with this ridiculous boldness
+before my lady?
+
+
+
+**MALVOLIO**
+
+‘ Be not afraid of greatness.’ 'Twas well writ.
+
+
+
+**OLIVIA**
+
+What mean'st thou by that, Malvolio?
+
+
+
+**MALVOLIO**
+
+‘ Some are born great – ’
+
+
+
+**OLIVIA**
+
+Ha?
+
+
+
+**MALVOLIO**
+
+‘ Some achieve greatness – ’
+
+
+
+**OLIVIA**
+
+What sayest thou?
+
+
+
+**MALVOLIO**
+
+‘ And some have greatness thrust upon
+them.’
+
+
+
+**OLIVIA**
+
+Heaven restore thee!
+
+
+
+**MALVOLIO**
+
+‘ Remember who [commend][11]ed thy yellow
+stockings – ’
+
+[11]: {{page.q}}=2872 "commend (v.) 4:  praise, admire, extol"
+
+
+**OLIVIA**
+
+Thy yellow stockings?
+
+
+
+**MALVOLIO**
+
+‘ – and wished to see thee [cross-gartered][12].’
+
+[12]: {{page.q}}=3684 "cross-gartered (adj.):  with garters crossed along the legs"
+
+
+**OLIVIA**
+
+Cross-gartered?
+
+
+
+**MALVOLIO**
+
+‘ Go to, thou art made if thou desir'st to be
+so.’
+
+
+
+**OLIVIA**
+
+Am I maid!
+
+
+
+**MALVOLIO**
+
+‘ If not, let me see thee a servant still.’
+
+
+
+**OLIVIA**
+
+Why, this is very midsummer madness.
+_Enter a Servant_
+
+
+
+**SERVANT**
+
+Madam, the young gentleman of the Count
+Orsino's is returned. I could [hardly][13] entreat him back. He
+[attend][14]s your ladyship's pleasure.
+
+[13]: {{page.q}}=18252 "hardly (adv.) 1:  with great difficulty, only with difficulty"
+[14]: {{page.q}}=78 "attend (v.) 1:  await, wait for, expect"
+
+
+**OLIVIA**
+
+I'll come to him.
+_Exit Servant_
+Good Maria, let this fellow be looked to. Where's my
+cousin Toby? Let some of my people have a special care
+care of him. I would not have him [miscarry][15] for the half of
+my dowry.
+_Exeunt Olivia and Maria different ways_
+
+[15]: {{page.q}}=10536 "miscarry (v.) 1:  come to harm, perish, meet death"
+
+
+**MALVOLIO**
+
+O ho! Do you [come][16] near me now? No worse
+man than Sir Toby to look to me! This concurs directly
+with the letter. She sends him on purpose, that I may
+appear stubborn to him; for she incites me to that in
+the letter. ‘ Cast thy humble slough,’ says she. ‘ Be
+opposite with a kinsman, surly with servants, let thy
+tongue tang with arguments of state, put thyself into the
+trick of singularity ’ – and [consequently][17] sets down the
+manner how: as, a [sad][20] face, a [reverend][19] [carriage][18], a slow
+tongue, in the [habit][21] of some [sir][22] of note, and so forth. I
+have [lime][23]d her! But it is Jove's doing, and Jove make me
+thankful! And when she went away now – ‘ let this fellow
+be looked to.’ Fellow! Not ‘ Malvolio,’ nor after my
+[degree][24], but ‘ [fellow][25] ’! Why, everything adheres together,
+that no [dram][26] of a [scruple][27], no scruple of a scruple, no
+obstacle, no [incredulous][28] or unsafe circumstance – what
+can be said? – nothing that can be, can come between
+me and the full prospect of my hopes. Well, Jove, not I,
+is the doer of this, and he is to be thanked.
+_Enter Sir Toby, Fabian, and Maria_
+
+[16]: {{page.q}}=3659 "come near (v.) 2:  begin to understand, start to appreciate"
+[17]: {{page.q}}=3124 "consequently (adv.):  subsequently, later, then"
+[18]: {{page.q}}=4144 "carriage (n.) 1:  bearing, demeanour, manner of behaviour"
+[19]: {{page.q}}=16628 "reverend (adj.):  revered, worthy, respected"
+[20]: {{page.q}}=13906 "sad (adj.) 1:  serious, grave, solemn"
+[21]: {{page.q}}=15263 "habit (n.) 1:  dress, clothing, costume"
+[22]: {{page.q}}=15151 "sir (n.) 2:  gentleman, lord, gallant, master"
+[23]: {{page.q}}=19542 "lime (v.) 1:  trap, snare, catch [as if by using birdlime]"
+[24]: {{page.q}}=8590 "degree (n.) 1:  rank, station, standing"
+[25]: {{page.q}}=20074 "fellow (n.) 2:  counterpart, match, equal"
+[26]: {{page.q}}=8471 "dram (n.) 1:  tiny amount, small quantity"
+[27]: {{page.q}}=15643 "scruple (n.) 1:  tiny amount, last ounce"
+[28]: {{page.q}}=5228 "incredulous (adj.):  incredible, unbelievable"
+
+
+**SIR TOBY**
+
+Which way is he, in the name of sanctity? If all
+the devils of hell be drawn in [little][29] and Legion himself
+possessed him, yet I'll speak to him.
+
+[29]: {{page.q}}=19150 "little, in:  on a small scale, in miniature"
+
+
+**FABIAN**
+
+Here he is, here he is. How is't with you, sir?
+How is't with you, man?
+
+
+
+**MALVOLIO**
+
+Go off, I discard you. Let me enjoy my [private][30].
+Go off.
+
+[30]: {{page.q}}=13332 "private (n.) 1:  privacy, own company, solitude"
+
+
+**MARIA**
+
+Lo, how hollow the fiend speaks within him. Did
+not I tell you? Sir Toby, my lady prays you to have a
+care of him.
+
+
+
+**MALVOLIO**
+
+Ah ha! Does she so!
+
+
+
+**SIR TOBY**
+
+Go to, go to! Peace, peace, we must deal gently
+with him. Let me alone. How do you, Malvolio? How
+is't with you? What, man, defy the devil! Consider,
+he's an enemy to mankind.
+
+
+
+**MALVOLIO**
+
+Do you know what you say?
+
+
+
+**MARIA**
+
+La you, an you speak [ill][31] of the devil, how he takes
+it at heart! Pray God he be not bewitched!
+
+[31]: {{page.q}}=4953 "ill (adv.) 1:  badly, adversely, unfavourably"
+
+
+**FABIAN**
+
+Carry his [water][32] to the [wise][33]woman.
+
+[32]: {{page.q}}=8088 "water (n.) 3:  urine"
+[33]: {{page.q}}=7792 "wise woman, wisewoman (n.):  fortune-teller, witch, sorceress"
+
+
+**MARIA**
+
+Marry, and it shall be done tomorrow morning, if
+I live. My lady would not lose him, for more than I'll
+say.
+
+
+
+**MALVOLIO**
+
+How now, mistress?
+
+
+
+**MARIA**
+
+O Lord!
+
+
+
+**SIR TOBY**
+
+Prithee, hold thy peace, this is not the way. Do
+you not see you [move][34] him? Let me alone with him.
+
+[34]: {{page.q}}=10634 "move (v.) 2:  move to anger, provoke, exasperate"
+
+
+**FABIAN**
+
+No way but gentleness, gently, gently. The fiend
+is rough, and will not be roughly used.
+
+
+
+**SIR TOBY**
+
+Why, how now, my [bawcock][35]? How dost thou,
+[chuck][36]?
+
+[35]: {{page.q}}=1036 "bawcock (n.):  [fine bird] fine fellow, good chap"
+[36]: {{page.q}}=4498 "chuck (n.):  chicken, chick [usually as a term of endearment]"
+
+
+**MALVOLIO**
+
+Sir!
+
+
+
+**SIR TOBY**
+
+Ay, [biddy][37], come with me. What, man, 'tis not
+for [gravity][39] to play at [cherry-pit][38] with Satan. Hang him,
+foul [collier][40]!
+
+[37]: {{page.q}}=1073 "biddy (n.):  chicken; chickabiddy [as childish form]"
+[38]: {{page.q}}=4499 "cherry-pit (n.):  [children's game] throwing cherry-stones into a hole"
+[39]: {{page.q}}=17659 "gravity (n.) 1:  respectability, authority, dignified position"
+[40]: {{page.q}}=3660 "collier (n.):  coalman, coal-vendor"
+
+
+**MARIA**
+
+Get him to say his prayers, good Sir Toby; get him
+to pray.
+
+
+
+**MALVOLIO**
+
+My prayers, minx!
+
+
+
+**MARIA**
+
+No, I [warrant][41] you, he will not hear of godliness.
+
+[41]: {{page.q}}=7550 "warrant (v.) 1:  assure, promise, guarantee, confirm"
+
+
+**MALVOLIO**
+
+Go, hang yourselves all. You are idle, shallow
+things; I am not of your [element][42]. You shall know more
+hereafter.
+_Exit Malvolio_
+
+[42]: {{page.q}}=9923 "element (n.) 7:  place, sphere, station"
+
+
+**SIR TOBY**
+
+Is't possible?
+
+
+
+**FABIAN**
+
+If this were played upon a stage now, I could
+condemn it as an improbable fiction.
+
+
+
+**SIR TOBY**
+
+His very [genius][43] hath taken the infection of the
+[device][44], man.
+
+[43]: {{page.q}}=17990 "genius (n.) 1:  soul, spirit, being"
+[44]: {{page.q}}=8403 "device (n.) 1:  plot, stratagem, trick"
+
+
+**MARIA**
+
+Nay, pursue him now, lest the [device][46] take [air][45], and
+[taint][47].
+
+[45]: {{page.q}}=634 "air, take:  become known, spread about"
+[46]: {{page.q}}=8403 "device (n.) 1:  plot, stratagem, trick"
+[47]: {{page.q}}=6342 "taint (v.) 5:  spoil, go rotten"
+
+
+**FABIAN**
+
+Why, we shall make him mad indeed.
+
+
+
+**MARIA**
+
+The house will be the quieter.
+
+
+
+**SIR TOBY**
+
+Come, we'll have him in a dark room and
+bound. My niece is already in the belief that he's mad.
+We may [carry][48] it thus for our pleasure and his penance
+till our very pastime, tired out of breath, prompt us to
+have mercy on him; at which time, we will bring the
+[device][49] to the bar, and crown thee for a [finder][50] of madmen.
+But see, but see!
+_Enter Sir Andrew_
+
+[48]: {{page.q}}=4233 "carry (v.) 8:  maintain, keep going, carry on with"
+[49]: {{page.q}}=8403 "device (n.) 1:  plot, stratagem, trick"
+[50]: {{page.q}}=20713 "finder (n.):  jury-member who determines if someone is insane, ascertainer"
+
+
+**FABIAN**
+
+More matter for a May morning!
+
+
+
+**SIR ANDREW**
+
+Here's the challenge, read it. I [warrant][51]
+there's vinegar and pepper in't.
+
+[51]: {{page.q}}=7550 "warrant (v.) 1:  assure, promise, guarantee, confirm"
+
+
+**FABIAN**
+
+Is't so [saucy][52]?
+
+[52]: {{page.q}}=14344 "saucy (adj.) 1:  insolent, impudent, presumptuous, defiant"
+
+
+**SIR ANDREW**
+
+Ay, is't, I [warrant][53] him. Do but read.
+
+[53]: {{page.q}}=7550 "warrant (v.) 1:  assure, promise, guarantee, confirm"
+
+
+**SIR TOBY**
+
+Give me.
+_He reads_
+_Youth, whatsoever thou art, thou art but a scurvy fellow._
+
+
+
+**FABIAN**
+
+Good and valiant.
+
+
+
+**SIR TOBY**
+
+_reads_
+_Wonder not, nor admire not in thy mind,_
+_why I do call thee so, for I will show thee no reason for't._
+
+
+
+**FABIAN**
+
+A good note, that keeps you from the blow of the
+law.
+
+
+
+**SIR TOBY**
+
+_reads_
+_Thou com'st to the Lady Olivia, and in_
+_my sight she uses thee kindly. But thou liest in thy throat;_
+_that is not the matter I challenge thee for._
+
+
+
+**FABIAN**
+
+Very brief, and to exceeding good sense – (aside)
+less!
+
+
+
+**SIR TOBY**
+
+_reads_
+_I will waylay thee going home; where, if_
+_it be thy chance to kill me_
+
+
+
+**FABIAN**
+
+Good!
+
+
+
+**SIR TOBY**
+
+_reads_
+_thou kill'st me like a rogue and a_
+_villain._
+
+
+
+**FABIAN**
+
+[Still][54] you keep o' the [windy][55] side of the law;
+good.
+
+[54]: {{page.q}}=14556 "still (adv.) 2:  ever, now [as before]"
+[55]: {{page.q}}=8050 "windy (adj.):  windward, situated towards the wind [so that scent will travel away from the follower]"
+
+
+**SIR TOBY**
+
+_reads_
+_Fare thee well, and God have mercy upon_
+_one of our souls. He may have mercy upon mine, but my_
+_hope is better – and so, look to thyself. Thy friend as thou_
+_usest him, and thy sworn enemy, Andrew Aguecheek._
+this letter move him not, his legs cannot. I'll give't him.
+
+
+
+**MARIA**
+
+You may have very [fit][56] occasion for't. He is now in
+some [commerce][58] with my lady, and will [by and by][57]
+depart.
+
+[56]: {{page.q}}=19837 "fit (adj.) 1:  suited, fitting, appropriate"
+[57]: {{page.q}}=1950 "by and by (adv.) 2:  shortly, soon, before long"
+[58]: {{page.q}}=2674 "commerce (n.):  dealings, transactions, intercourse"
+
+
+**SIR TOBY**
+
+Go, Sir Andrew. [Scout][59] me for him at the
+corner of the [orchard][61] like a [bum-baily][60]. So soon as ever
+thou seest him, draw, and as thou drawest, swear horrible;
+for it comes to pass [oft][62] that a terrible oath, with a
+swaggering accent sharply twanged off, gives manhood
+more [approbation][63] than ever [proof][64] itself would have
+earned him. Away!
+
+[59]: {{page.q}}=15818 "scout (v.) 2:  keep a look-out, watch out"
+[60]: {{page.q}}=1074 "bum-baily, bum-bailiff (n.):  bailiff, sheriff's officer [who catches people by sneaking up behind them]"
+[61]: {{page.q}}=11618 "orchard (n.):  garden"
+[62]: {{page.q}}=11606 "oft (adv.):  often"
+[63]: {{page.q}}=372 "approbation (n.) 2:  proof, confirmation, attestation"
+[64]: {{page.q}}=12273 "proof (n.) 3:  test, trial"
+
+
+**SIR ANDREW**
+
+Nay, let me [alone][65] for swearing.
+_Exit_
+
+[65]: {{page.q}}=113 "alone, let [one] 1:  leave it to [one], you can rely on [one]"
+
+
+**SIR TOBY**
+
+Now will not I deliver his letter. For the behaviour
+of the young gentleman gives him out to be of
+good capacity and breeding; his employment between
+his lord and my niece confirms no less. Therefore this
+letter, being so excellently ignorant, will breed no terror
+in the youth; he will find it comes from a [clodpole][66]. But,
+sir, I will deliver his challenge by word of mouth; set
+upon Aguecheek a notable report of valour, and drive
+the gentleman – as I know his youth will [aptly][67] [receive][68] it
+– into a most hideous opinion of his rage, skill, fury, and
+impetuosity. This will so [fright][69] them both, that they
+will kill one another by the look, like [cockatrice][70]s.
+_Enter Olivia and Viola_
+
+[66]: {{page.q}}=3661 "clodpole (n.):  blockhead, thickhead, dolt"
+[67]: {{page.q}}=44 "aptly (adv.):  easily, readily"
+[68]: {{page.q}}=16580 "receive (v.) 1:  consider, believe, regard"
+[69]: {{page.q}}=19973 "fright (v.), past form frighted:  frighten, scare, terrify"
+[70]: {{page.q}}=3443 "cockatrice (n.):  murderous serpent, basilisk"
+
+
+**FABIAN**
+
+Here he comes with your niece. Give them way
+till he take leave, and [presently][71] after him.
+
+[71]: {{page.q}}=12248 "presently (adv.) 1:  immediately, instantly, at once"
+
+
+**SIR TOBY**
+
+I will meditate the while upon some [horrid][72]
+message for a challenge.
+_Exit Maria_
+_Sir Toby and Fabian stand aside_
+
+[72]: {{page.q}}=18197 "horrid (adj.):  horrifying, frightful, terrifying"
+
+
+**OLIVIA**
+
+I have said too much unto a heart of stone,
+And laid mine honour too [unchary][73] on't.
+There's something in me that reproves my fault.
+But such a headstrong, potent fault it is,
+That it but mocks reproof.
+
+[73]: {{page.q}}=7016 "unchary (adv.):  carelessly, incautiously, unguardedly"
+
+
+**VIOLA**
+
+With the same '[haviour][74] that your [passion][75] bears
+Goes on my master's griefs.
+
+[74]: {{page.q}}=18145 "haviour (n.):  behaviour, manner, demeanour"
+[75]: {{page.q}}=12162 "passion (n.) 3:  suffering, torment, deep grief"
+
+
+**OLIVIA**
+
+Here, wear this [jewel][76] for me, 'tis my picture.
+Refuse it not, it hath no tongue to [vex][77] you.
+And, I beseech you, come again tomorrow.
+What shall you ask of me that I'll deny,
+That honour saved may upon asking give?
+
+[76]: {{page.q}}=18950 "jewel (n.) 2:  miniature in a jewelled setting"
+[77]: {{page.q}}=7261 "vex (v.):  afflict, trouble, torment"
+
+
+**VIOLA**
+
+Nothing but this: your true love for my master.
+
+
+
+**OLIVIA**
+
+How with mine honour may I give him that
+Which I have given to you?
+
+
+
+**VIOLA**
+
+I will [acquit][78] you.
+
+[78]: {{page.q}}=635 "acquit (v.) 1:  release, free, discharge"
+
+
+**OLIVIA**
+
+Well, come again tomorrow. [Fare][79] thee well.
+A fiend like thee might bear my soul to hell.
+_Exit_
+_Sir Toby and Fabian come forward_
+
+[79]: {{page.q}}=20910 "fare ... well: "
+
+
+**SIR TOBY**
+
+Gentleman, God save thee!
+
+
+
+**VIOLA**
+
+And you, sir.
+
+
+
+**SIR TOBY**
+
+That [defence][81] thou hast, [betake][80] thee to't. Of
+what nature the wrongs are thou hast done him, I know
+not; but thy intercepter, full of [despite][83], [bloody][82] as the
+hunter, [attend][84]s thee at the [orchard][86] end. [Dismount][85] thy
+[tuck][87]; be [yare][88] in thy preparation; for thy assailant is
+quick, skilful, and deadly.
+
+[80]: {{page.q}}=1713 "betake (v.) 2:  resort, have recourse, commit oneself"
+[81]: {{page.q}}=8384 "defence (n.) 1:  fencing, swordsmanship, skill of self-defence"
+[82]: {{page.q}}=1075 "bloody (adj.) 1:  blood-thirsty, warlike, ferocious"
+[83]: {{page.q}}=8628 "despite (n.) 2:  malice, spite, hatred"
+[84]: {{page.q}}=78 "attend (v.) 1:  await, wait for, expect"
+[85]: {{page.q}}=9241 "dismount (v.) 2:  [fencing] draw, remove from the sheath"
+[86]: {{page.q}}=11618 "orchard (n.):  garden"
+[87]: {{page.q}}=5686 "tuck (n.):  rapier, long slender sword"
+[88]: {{page.q}}=8327 "yare (adj.) 2:  quick, deft, adept"
+
+
+**VIOLA**
+
+You mistake, sir. I am sure no man hath any
+quarrel to me. My [remembrance][89] is very free and clear
+from any image of offence done to any man.
+
+[89]: {{page.q}}=17226 "remembrance (n.) 1:  memory, bringing to mind, recollection"
+
+
+**SIR TOBY**
+
+You'll find it otherwise, I assure you. Therefore,
+if you hold your life at any price, [betake][90] you to
+your guard; for your [opposite][91] hath in him what youth,
+strength, skill, and wrath can furnish man withal.
+
+[90]: {{page.q}}=1713 "betake (v.) 2:  resort, have recourse, commit oneself"
+[91]: {{page.q}}=11730 "opposite (n.) 1:  opponent, adversary, anatagonist"
+
+
+**VIOLA**
+
+I pray you, sir, what is he?
+
+
+
+**SIR TOBY**
+
+He is knight dubbed with [unhatched][92] rapier and
+on [carpet][93] consideration – but he is a devil in private
+brawl. Souls and bodies hath he divorced three; and his
+[incensement][94] at this moment is so implacable, that
+satisfaction can be none, but by pangs of death, and
+sepulchre. [Hob][95], nob! is his word: give't or take't.
+
+[92]: {{page.q}}=7017 "unhatched (adj.) 2:  unmarked, unhacked; or: undrawn"
+[93]: {{page.q}}=4055 "carpet (adj.):  for exploits ‘on the carpet’ [relating to the court, appropriate to a drawing room] not ‘in the field’"
+[94]: {{page.q}}=5229 "incensement (n.):  anger, wrath, fury"
+[95]: {{page.q}}=18655 "hob, nob:  give or take, come what may"
+
+
+**VIOLA**
+
+I will return again into the house and desire some
+[conduct][96] of the lady. I am no fighter. I have heard of
+some kind of men that put quarrels purposely on others
+to [taste][99] their valour. [Belike][97] this is a man of that [quirk][98].
+
+[96]: {{page.q}}=3091 "conduct (n.) 4:  care, protection"
+[97]: {{page.q}}=1442 "belike (adv.):  probably, presumably, perhaps, so it seems"
+[98]: {{page.q}}=13860 "quirk (n.) 1:  trick, turn, peculiarity"
+[99]: {{page.q}}=6341 "taste (v.) 1:  try out, test, put to the proof"
+
+
+**SIR TOBY**
+
+Sir, no. His indignation derives itself out of a
+very [computent][100] injury. Therefore, get you on and give
+him his desire. Back you shall not to the house, unless
+you [undertake][101] that with me, which with as much safety
+you might answer him. Therefore on, or strip your
+sword stark naked; for [meddle][102] you must, that's certain,
+or [forswear][103] to wear iron about you.
+
+[100]: {{page.q}}=3662 "competent, computent (adj.) 2:  to be reckoned with, needing to be settled"
+[101]: {{page.q}}=6869 "undertake (v.) 5:  take on, fight with, engage in combat with"
+[102]: {{page.q}}=5844 "meddle (v.) 1:  fight, engage in combat, exchange blows"
+[103]: {{page.q}}=19977 "forswear (v), past forms forsworn, forswore 2:  abandon, renounce, reject, give up"
+
+
+**VIOLA**
+
+This is as uncivil as strange. I beseech you, do me
+this courteous [office][105], as to [know][104] of the knight what my
+offence to him is. It is something of my negligence,
+nothing of my [purpose][106].
+
+[104]: {{page.q}}=19064 "know (v.) 4:  find out, ascertain, learn [from]"
+[105]: {{page.q}}=11936 "office (n.) 1:  task, service, duty, responsibility"
+[106]: {{page.q}}=12449 "purpose (n.) 1:  intention, aim, plan"
+
+
+**SIR TOBY**
+
+I will do so. Signor Fabian, stay you by this
+gentleman till my return.
+_Exit_
+
+
+
+**VIOLA**
+
+Pray you, sir, do you know of this matter?
+
+
+
+**FABIAN**
+
+I know the knight is incensed against you, even
+to a [mortal][108] [arbitrement][107], but nothing of the circumstance
+more.
+
+[107]: {{page.q}}=385 "arbitrament, arbitrement (n.) 1:  deciding of a dispute, determination, settlement"
+[108]: {{page.q}}=10654 "mortal (adj.) 1:  fatal, deadly, lethal"
+
+
+**VIOLA**
+
+I beseech you, what manner of man is he?
+
+
+
+**FABIAN**
+
+Nothing of that wonderful promise, to read him
+by his [form][109], as you are [like][110] to find him in the [proof][111]
+of his valour. He is indeed, sir, the most skilful, [bloody][112],
+and [fatal][113] [opposite][114] that you could possibly have found in
+any part of Illyria. Will you walk towards him? I will
+make your peace with him, if I can.
+
+[109]: {{page.q}}=19871 "form (n.) 8:  physical appearance, outward appearance"
+[110]: {{page.q}}=19137 "like (adv.) 1:  likely, probable / probably"
+[111]: {{page.q}}=12508 "proof (n.) 4:  evidence, demonstration, testimony"
+[112]: {{page.q}}=1075 "bloody (adj.) 1:  blood-thirsty, warlike, ferocious"
+[113]: {{page.q}}=20543 "fatal (adj.) 3:  death-dealing, death-boding"
+[114]: {{page.q}}=11730 "opposite (n.) 1:  opponent, adversary, anatagonist"
+
+
+**VIOLA**
+
+I shall be much bound to you for't. I am one that
+had rather go with Sir Priest than Sir Knight; I care not
+who knows so much of my mettle.
+_Enter Sir Toby and Sir Andrew_
+
+
+
+**SIR TOBY**
+
+Why, man, he's a very devil. I have not seen
+such a [firago][115]. I had a [pass][116] with him, rapier, scabbard
+and all; and he gives me the [stuck-in][118] with such a [mortal][117]
+[motion][121] that it is [inevitable][120]; and on the [answer][119], he [pay][122]s
+you as surely as your feet hits the ground they step on.
+They say he has been fencer to the Sophy.
+
+[115]: {{page.q}}=20714 "firago (n.):  virago, hero, fighter"
+[116]: {{page.q}}=12156 "pass (n.) 2:  bout, exchange, round [in fencing]"
+[117]: {{page.q}}=10654 "mortal (adj.) 1:  fatal, deadly, lethal"
+[118]: {{page.q}}=15819 "stuck-in (n.):  [fencing] thrust, lunge"
+[119]: {{page.q}}=32 "answer (n.) 5:  [fencing] return hit"
+[120]: {{page.q}}=5230 "inevitable:  unavoidable, unable to be averted"
+[121]: {{page.q}}=10477 "motion (n.) 10:  [fencing] attack, execution"
+[122]: {{page.q}}=12359 "pay (v.) 2:  punish, pay back, retaliate against"
+
+
+**SIR ANDREW**
+
+Pox on't! I'll not meddle with him.
+
+
+
+**SIR TOBY**
+
+Ay, but he will not now be pacified. Fabian can
+scarce hold him yonder.
+
+
+
+**SIR ANDREW**
+
+Plague on't! An I thought he had been
+valiant, and so cunning in fence, I'd have seen him
+damned ere I'd have challenged him. Let him let the
+matter slip, and I'll give him my horse, grey Capilet.
+
+
+
+**SIR TOBY**
+
+I'll make the [motion][123]. Stand here, make a good
+show on't. This shall end without the [perdition][124] of souls.
+(Aside, as he crosses to Fabian) Marry, I'll ride your
+horse as well as I ride you! (To Fabian) I have his horse
+to [take][125] up the quarrel. I have persuaded him the youth's
+a devil.
+
+[123]: {{page.q}}=10610 "motion (n.) 6:  proposal, proposition, suggestion, offer"
+[124]: {{page.q}}=12997 "perdition (n.) 1:  ruin, destruction, devastation"
+[125]: {{page.q}}=5422 "take up (v.) 1:  settle, make up, resolve"
+
+
+**FABIAN**
+
+He is as horribly [conceited][126] of him, and pants and
+looks pale as if a bear were at his heels.
+
+[126]: {{page.q}}=3663 "conceited (adj.) 2:  of the same opinion, minded"
+
+
+**SIR TOBY**
+
+_to Viola_
+There's no remedy, sir, he will fight
+with you for's oath's sake. Marry, he hath better
+bethought him of his quarrel, and he finds that now scarce
+to be worth talking of. Therefore, draw for the [supportance][127]
+of his vow. He protests he will not hurt you.
+
+[127]: {{page.q}}=14531 "supportance (n.):  support, propping up, reinforcement"
+
+
+**VIOLA**
+
+_aside_
+Pray God defend me! A little thing would
+make me tell them how much I lack of a man.
+
+
+
+**FABIAN**
+
+Give ground if you see him furious.
+
+
+
+**SIR TOBY**
+
+_crossing to Sir Andrew_
+Come, Sir Andrew,
+there's no remedy. The gentleman will, for his honour's
+_duello_
+avoid it. But he has promised me, as he is a gentleman
+and a soldier, he will not hurt you. Come on, to't!
+
+
+
+**SIR ANDREW**
+
+Pray God, he keep his oath!
+_He draws_
+_Enter Antonio_
+
+
+
+**VIOLA**
+
+I do assure you, 'tis against my will.
+_She draws_
+
+
+
+**ANTONIO**
+
+Put up your sword. If this young gentleman
+Have done offence, I take the [fault][128] on me.
+If you offend him, I for him defy you.
+
+[128]: {{page.q}}=20223 "fault (n.) 1:  sin, offence, crime"
+
+
+**SIR TOBY**
+
+You, sir? Why, what are you?
+
+
+
+**ANTONIO**
+
+One, sir, that for his love dares yet do more
+Than you have heard him brag to you he will.
+
+
+
+**SIR TOBY**
+
+Nay, if you be an [undertaker][129], I am for you.
+_Enter Officers_
+
+[129]: {{page.q}}=5768 "undertaker (n.) 1:  person who takes on a task"
+
+
+**FABIAN**
+
+O good Sir Toby, hold! Here come the Officers.
+
+
+
+**SIR TOBY**
+
+_to Antonio_
+I'll be with you [anon][130].
+
+[130]: {{page.q}}=30 "anon (adv.) 1:  soon, shortly, presently"
+
+
+**VIOLA**
+
+_to Sir Andrew_
+Pray sir, put your sword up, if
+you please.
+
+
+
+**SIR ANDREW**
+
+Marry, will I, sir. And for that I promised
+you, I'll be as good as my word. He will bear you easily,
+and reins well.
+
+
+
+**FIRST OFFICER**
+
+This is the man; do thy [office][131].
+
+[131]: {{page.q}}=11936 "office (n.) 1:  task, service, duty, responsibility"
+
+
+**SECOND OFFICER**
+
+Antonio, I arrest thee at the [suit][132]
+Of Count Orsino.
+
+[132]: {{page.q}}=14102 "suit (n.) 1:  formal request, entreaty, petition"
+
+
+**ANTONIO**
+
+You do mistake me, sir.
+
+
+
+**FIRST OFFICER**
+
+No, sir, no jot. I know your [favour][133] well,
+Though now you have no sea-cap on your head.
+Take him away; he knows I know him well.
+
+[133]: {{page.q}}=20678 "favour (n.) 1:  [facial] appearance, countenance, features, looks"
+
+
+**ANTONIO**
+
+I must obey. (To Viola) This comes with seeking you.
+But there's no remedy, I shall [answer][134] it.
+What will you do, now my necessity
+Makes me to ask you for my purse? It grieves me
+Much more for what I cannot do for you
+Than what [befall][136]s myself. You stand [amazed][135];
+But be of comfort.
+
+[134]: {{page.q}}=231 "answer (v.) 4:  suffer the consequences [for], be accountable [for]"
+[135]: {{page.q}}=356 "amazed (adj.):  dumbfounded, stunned, thunderstruck, overwhelmed"
+[136]: {{page.q}}=1555 "befall (v.), past forms befallen, befell 2:  happen to, come to"
+
+
+**SECOND OFFICER**
+
+Come, sir, away!
+
+
+
+**ANTONIO**
+
+I must entreat of you some of that money.
+
+
+
+**VIOLA**
+
+What money, sir?
+For the fair kindness you have showed me here,
+And part being prompted by your present trouble,
+Out of my [lean][138] and low [ability][137],
+I'll lend you something. My [having][139] is not much.
+I'll make division of my [present][140] with you.
+Hold: there's half my [coffer][141].
+
+[137]: {{page.q}}=689 "ability (n.) 3:  means, resources, funds"
+[138]: {{page.q}}=19341 "lean (adj.) 1:  slight, mean, poor"
+[139]: {{page.q}}=18500 "having (n.) 1:  fortune, estate, means"
+[140]: {{page.q}}=13333 "present (n.) 2:  available means, current resources"
+[141]: {{page.q}}=3664 "coffer (n.) 2:  funds, money, wealth"
+
+
+**ANTONIO**
+
+Will you deny me now?
+Is't possible that my [desert][142]s to you
+Can lack persuasion? Do not [tempt][143] my misery,
+Lest that it make me so unsound a man
+As to upbraid you with those kindnesses
+That I have done for you.
+
+[142]: {{page.q}}=8630 "desert, desart (n.) 3:  worthy deed, meritorious action"
+[143]: {{page.q}}=5615 "tempt (v.) 1:  try, test, make trial of"
+
+
+**VIOLA**
+
+I know of none.
+Nor know I you by voice or any feature.
+I hate ingratitude more in a man
+Than lying, [vainness][144], babbling drunkenness,
+Or any taint of vice whose strong corruption
+Inhabits our frail blood –
+
+[144]: {{page.q}}=7433 "vainness (n.):  boasting, ostentation, vanity"
+
+
+**ANTONIO**
+
+O heavens themselves!
+
+
+
+**SECOND OFFICER**
+
+Come, sir, I pray you go.
+
+
+
+**ANTONIO**
+
+Let me speak a little. This youth that you see here
+I snatched one half out of the jaws of death;
+[Relieve][145]d him with such [sanctity][146] of love;
+And to his [image][147], which [methought][148] did promise
+Most [venerable][149] worth, did I devotion.
+
+[145]: {{page.q}}=16961 "relieve (v.):  aid, assist, rescue"
+[146]: {{page.q}}=15820 "sanctity (n.) 2:  true devotion, sacred intensity"
+[147]: {{page.q}}=5247 "image (n.) 4:  appearance, aspect, countenance"
+[148]: {{page.q}}=10439 "methinks(t), methought(s) (v.):  it seems /seemed to me"
+[149]: {{page.q}}=7434 "venerable:  commanding esteem, deserving of great respect"
+
+
+**FIRST OFFICER**
+
+What's that to us? The time goes by. Away!
+
+
+
+**ANTONIO**
+
+But O, how [vild][150] an idol proves this god!
+Thou hast, Sebastian, done good feature shame.
+In nature, there's no blemish but the mind;
+None can be called deformed, but the unkind.
+Virtue is beauty; but the beauteous evil
+Are empty trunks [o'er-flourished][151] by the devil.
+
+[150]: {{page.q}}=7327 "vile, vild (adj.) 3:  shameful, contemptible, wretched"
+[151]: {{page.q}}=11947 "over-flourish (v.):  heavily embellish, richly decorate"
+
+
+**FIRST OFFICER**
+
+The man grows mad; away with him. Come, come, sir.
+
+
+
+**ANTONIO**
+
+Lead me on.
+_Exeunt Antonio and Officers_
+
+
+
+**VIOLA**
+
+_aside_
+[Methinks][152] his words do from such passion fly
+That he believes himself; so do not I?
+Prove true, imagination, O, prove true –
+That I, dear brother, be now ta'en for you!
+
+[152]: {{page.q}}=10439 "methinks(t), methought(s) (v.):  it seems /seemed to me"
+
+
+**SIR TOBY**
+
+Come hither, knight; come hither, Fabian.
+We'll whisper o'er a [couplet][153] or two of most [sage][154] [saw][155]s.
+
+[153]: {{page.q}}=4779 "couplet (n.) 1:  couple, brace"
+[154]: {{page.q}}=13909 "sage (adj.):  solemn, grave, dignified"
+[155]: {{page.q}}=13918 "saw (n.):  wise saying, platitude, maxim"
+
+
+**VIOLA**
+
+He named Sebastian. I my brother know
+Yet living in my [glass][156]. Even such and so
+In [favour][157] was my brother; and he went
+[Still][158] in this fashion, colour, ornament,
+For him I imitate. O, if it [prove][159],
+Tempests are kind, and salt waves fresh in love!
+_Exit_
+
+[156]: {{page.q}}=17507 "glass (n.) 1:  mirror, looking-glass"
+[157]: {{page.q}}=20678 "favour (n.) 1:  [facial] appearance, countenance, features, looks"
+[158]: {{page.q}}=14077 "still (adv.) 1:  constantly, always, continually"
+[159]: {{page.q}}=13334 "prove (v.) 4:  prove to be true, turn out to be the truth"
+
+
+**SIR TOBY**
+
+A very [dishonest][160], paltry boy, and more a
+coward than a hare. His [dishonesty][161] appears in leaving
+his friend here in necessity and [deny][162]ing him; and for his
+[cowardship][163], ask Fabian.
+
+[160]: {{page.q}}=9182 "dishonest (adj.) 2:  dishonourable, discreditable, shameful"
+[161]: {{page.q}}=8982 "dishonesty (n.) 1:  dishonour, shameful deed, disgraceful action"
+[162]: {{page.q}}=8652 "deny (v.) 4:  disown, disavow, renounce"
+[163]: {{page.q}}=3666 "cowardship (n.):  cowardice, fearfulness, timidity"
+
+
+**FABIAN**
+
+A coward, a most devout coward, [religious][164] in it!
+
+[164]: {{page.q}}=17255 "religious (adj.) 1:  devout, conscientious, scrupulous"
+
+
+**SIR ANDREW**
+
+'Slid! I'll after him again and beat him.
+
+
+
+**SIR TOBY**
+
+Do, cuff him soundly, but never draw thy
+sword.
+
+
+
+**SIR ANDREW**
+
+An I do not –
+_Exit_
+
+
+
+**FABIAN**
+
+Come, let's see the [event][165].
+
+[165]: {{page.q}}=9663 "event (n.):  outcome, issue, consequence"
+
+
+**SIR TOBY**
+
+I dare lay any money, 'twill be nothing yet.
+_Exeunt_
+

@@ -1,0 +1,178 @@
+---
+title: Romeo and Juliet
+tagline: Act IV - Scene II
+category: play
+author: shakespeare
+date: 2014-05-26 17:51:31 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act4_scene2.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Capulet, Lady  Capulet, Nurse, and two or three_
+
+_Servingmen_
+
+**CAPULET**
+
+So many guests invite as here are writ.
+_Exit a Servingman_
+Sirrah, go hire me twenty [cunning][1] cooks.
+
+[1]: {{page.q}}=2789 "cunning (adj.) 1: knowledgeable, skilful, clever"
+
+
+**SERVINGMAN**
+
+You shall have none [ill][2], sir. For I'll [try][3] if
+they can lick their fingers.
+
+[2]: {{page.q}}=4905 "ill (adj.) 3: poor, inadequate, miserable"
+[3]: {{page.q}}=6307 "try (v.) 1: prove, ascertain, find out"
+
+
+**CAPULET**
+
+How! Canst thou try them so?
+
+
+
+**SERVINGMAN**
+
+Marry, sir, 'tis an ill cook that cannot lick
+his own fingers. Therefore he that cannot lick his fingers
+goes not with me.
+
+
+
+**CAPULET**
+
+Go, begone.
+_Exit Servingman_
+We shall be much [unfurnished][4] for this time.
+What, is my daughter gone to Friar Laurence?
+
+[4]: {{page.q}}=7076 "unfurnished (adj.) 1: unprepared, unready"
+
+
+**NURSE**
+
+Ay, [forsooth][5].
+
+[5]: {{page.q}}=20059 "forsooth (adv.): in truth, certainly, truly, indeed"
+
+
+**CAPULET**
+
+Well, he may chance to do some good on her.
+A [peevish][7] self-willed [harlotry][6] it is.
+_Enter Juliet_
+
+[6]: {{page.q}}=18352 "harlotry (n.) 2: [affectionate] little wretch, baggage"
+[7]: {{page.q}}=13294 "peevish (adj.) 2: obstinate, perverse, self-willed [contrast modern sense of ‘irritable, morose’]"
+
+
+**NURSE**
+
+See where she comes from shrift with merry look.
+
+
+
+**CAPULET**
+
+How now, my headstrong! Where have you been gadding?
+
+
+
+**JULIET**
+
+Where I have learned me to repent the sin
+Of disobedient opposition
+To you and your [behest][8]s, and am enjoined
+By holy Laurence to fall prostrate here
+To beg your pardon. Pardon, I beseech you!
+Henceforward I am ever ruled by you.
+
+[8]: {{page.q}}=1474 "behest (n.): command, bidding, decree"
+
+
+**CAPULET**
+
+Send for the [County][9]. Go tell him of this.
+I'll have this knot knit up tomorrow morning.
+
+[9]: {{page.q}}=3568 "county (n.) 1: [title of rank] count"
+
+
+**JULIET**
+
+I met the youthful lord at Laurence' cell
+And gave him what [becomed][10] love I might,
+Not step o'er the bounds of modesty.
+
+[10]: {{page.q}}=1750 "becomed (adj.): becoming, befitting, appropriate"
+
+
+**CAPULET**
+
+Why, I am glad on't. This is well. Stand up.
+This is as't should be. Let me see, the County.
+Ay, marry, go, I say, and fetch him hither.
+Now, afore God, this reverend holy Friar,
+All our whole city is much [bound][11] to him.
+
+[11]: {{page.q}}=1897 "bound (adj.) 1: obliged, indebted, under an obligation"
+
+
+**JULIET**
+
+Nurse, will you go with me into my [closet][12]
+To help me sort such needful ornaments
+As you think fit to [furnish][13] me tomorrow?
+
+[12]: {{page.q}}=2649 "closet (n.) 1: private chamber, study, own room"
+[13]: {{page.q}}=19897 "furnish (v.) 3: dress, clothe, equip, fit out"
+
+
+**LADY CAPULET**
+
+No, not till Thursday. There is time enough.
+
+
+
+**CAPULET**
+
+Go, Nurse, go with her. We'll to church tomorrow.
+_Exeunt Juliet and Nurse_
+
+
+
+**LADY CAPULET**
+
+We shall be short in our provision.
+'Tis now near night.
+
+
+
+**CAPULET**
+
+Tush, I will stir about,
+And all things shall be well, I [warrant][14] thee, wife.
+Go thou to Juliet, help to [deck][15] up her.
+I'll not to bed tonight. Let me alone.
+I'll play the housewife for this once. What, ho!
+They are all forth. Well, I will walk myself
+To County Paris, to [prepare][16] up him
+Against tomorrow. My heart is wondrous [light][17],
+Since this same wayward girl is so [reclaim][18]ed.
+_Exeunt_
+
+[14]: {{page.q}}=7550 "warrant (v.) 1: assure, promise, guarantee, confirm"
+[15]: {{page.q}}=9320 "deck up (v.): array, attire, adorn"
+[16]: {{page.q}}=13437 "prepare up (v.): prepare, put in readiness"
+[17]: {{page.q}}=19279 "light (adj.) 2: joyful, merry, light-hearted"
+[18]: {{page.q}}=17117 "reclaim (v.) 1: subdue, tame, make obedient"
+
+

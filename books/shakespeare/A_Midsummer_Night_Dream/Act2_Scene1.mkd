@@ -1,0 +1,627 @@
+---
+title: A Midsummer Night's Dream
+tagline: Act II - Scene I
+category: play
+author: shakespeare
+date: 2014-05-25 14:56:23 +0800
+permalink: /books/shakespeare/A_Midsummer_Night_Dream_act2_scene1.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter a Fairy at one door, and Puck_
+
+_Robin Goodfellow_
+
+_at another_
+
+**PUCK**
+
+How now, spirit; whither wander you?
+
+
+
+**FAIRY**
+
+Over hill, over dale,
+Thorough bush, thorough brier,
+Over [park][2], over [pale][1],
+Thorough flood, thorough fire –
+I do wander everywhere
+Swifter than the moon's [sphere][3],
+And I serve the Fairy Queen,
+To [dew][4] her [orb][5]s upon the green.
+The cowslips tall her [pensioner][6]s be;
+In their gold coats spots you see –
+Those be rubies, fairy [favour][7]s;
+In those freckles live their savours.
+I must go seek some dewdrops here,
+And hang a pearl in every cowslip's ear.
+Farewell, thou [lob][8] of spirits; I'll be gone.
+Our Queen and all our elves come here [anon][9].
+
+[1]: {{page.q}}=12768 "pale (n.) 2:  fenced land, park, enclosure"
+[2]: {{page.q}}=13193 "park (n.):  hunting ground"
+[3]: {{page.q}}=15747 "sphere (n.) 1:  celestial globe in which a heavenly body was thought to move, orbit"
+[4]: {{page.q}}=8960 "dew (v.):  bedew, moisten, water"
+[5]: {{page.q}}=11776 "orb (n.) 5:  fairy ring, circle"
+[6]: {{page.q}}=12769 "pensioner (n.):  gentleman of the royal bodyguard"
+[7]: {{page.q}}=20221 "favour (n.) 5:  mark of favour, gift, token [often a love-token]"
+[8]: {{page.q}}=19337 "lob (n.):  clown, country lout, yokel"
+[9]: {{page.q}}=30 "anon (adv.) 1:  soon, shortly, presently"
+
+
+**PUCK**
+
+The King doth keep his revels here tonight.
+Take heed the Queen come not within his sight,
+For Oberon is [passing][11] [fell][10] and wrath
+Because that she as her attendant hath
+A lovely boy stolen from an Indian king.
+She never had so sweet a [changeling][12],
+And jealous Oberon would have the child
+Knight of his train, to [trace][13] the forests wild.
+But she [perforce][14] [withhold][15]s the loved boy,
+Crowns him with flowers, and makes him all her joy.
+And now they never meet – in grove or green,
+By fountain clear or spangled starlight [sheen][16] –
+But they do [square][17], that all their elves for fear
+Creep into acorn cups and hide them there.
+
+[10]: {{page.q}}=19813 "fell (adj.) 1:  cruel, fierce, savage"
+[11]: {{page.q}}=12159 "passing (adv.):  very, exceedingly, extremely"
+[12]: {{page.q}}=4389 "changeling (n./adj.) 1:  child taken by fairies, stolen child"
+[13]: {{page.q}}=5975 "trace (v.) 3:  range over, pass through, traverse"
+[14]: {{page.q}}=12178 "perforce (adv.) 1:  forcibly, by force, violently"
+[15]: {{page.q}}=8248 "withhold (v.) 2:  detain, keep in possession"
+[16]: {{page.q}}=13978 "sheen (n.):  brightness, shining, radiance"
+[17]: {{page.q}}=14686 "square (v.) 1:  quarrel, fall out, disagree"
+
+
+**FAIRY**
+
+Either I mistake your shape and [making][18] quite,
+Or else you are that [shrewd][19] and knavish sprite
+Called Robin Goodfellow. Are not you he
+That [fright][20]s the maidens of the [villagery][21],
+Skim milk, and sometimes labour in the [quern][22],
+And [bootless][23] make the breathless housewife churn,
+And sometime make the drink to bear no [barm][24],
+Mislead night-wanderers, laughing at their harm?
+Those that ‘ Hobgoblin’ call you, and ‘ Sweet Puck,’
+You do their work, and they shall have good luck.
+Are not you he?
+
+[18]: {{page.q}}=10692 "making (n.):  physical appearance, bodily form, build"
+[19]: {{page.q}}=14313 "shrewd (adj.) 5:  wily, cunning, mischievous"
+[20]: {{page.q}}=19973 "fright (v.), past form frighted:  frighten, scare, terrify"
+[21]: {{page.q}}=7314 "villagery (n.):  villages"
+[22]: {{page.q}}=13790 "quern (n.):  hand-mill for grinding corn"
+[23]: {{page.q}}=2040 "bootless (adv.):  fruitlessly, uselessly, unsuccessfully, in vain"
+[24]: {{page.q}}=1592 "barm (n.):  froth on the top of fermenting ale"
+
+
+**PUCK**
+
+                         Thou speakest aright:
+I am that merry wanderer of the night.
+I jest to Oberon, and make him smile
+When I a fat and bean-fed horse [beguile][25],
+Neighing in likeness of a [filly][26] foal;
+And sometime lurk I in a [gossip][27]'s bowl
+In very likeness of a roasted [crab][28];
+And when she drinks, against her lips I [bob][29],
+And on her withered [dewlap][30] pour the ale.
+The wisest [aunt][31] telling the [sad][32]dest tale
+Sometime for threefoot stool mistaketh me;
+Then slip I from her bum. Down topples she,
+And ‘ Tailor ’ cries, and falls into a cough;
+And then the whole [choir][33] hold their hips and laugh,
+And [waxen][35] in their mirth, and [neeze][34], and swear
+A merrier hour was never [waste][36]d there.
+But room, Fairy: here comes Oberon.
+
+[25]: {{page.q}}=1438 "beguile (v.) 1:  cheat, deceive, trick"
+[26]: {{page.q}}=20222 "filly (adj.):  female"
+[27]: {{page.q}}=17743 "gossip (n.) 4:  old woman, gossiping woman"
+[28]: {{page.q}}=1148 "crab (n.):  crab-apple, sour apple"
+[29]: {{page.q}}=2046 "bob (v.) 2:  knock, bump, bang"
+[30]: {{page.q}}=8839 "dewlap, dewlop (n.):  folds of loose skin hanging about the neck"
+[31]: {{page.q}}=322 "aunt (n.) 1:  old woman, gossip"
+[32]: {{page.q}}=13906 "sad (adj.) 1:  serious, grave, solemn"
+[33]: {{page.q}}=4390 "choir, quire (n.) 1:  company, group, assembly"
+[34]: {{page.q}}=11386 "neeze (v.):  sneeze"
+[35]: {{page.q}}=7799 "waxen (v.):  increase, grow"
+[36]: {{page.q}}=7555 "waste (v.) 1:  pass, spend, while away"
+
+
+**FAIRY**
+
+And here my mistress. Would that he were gone!
+_Enter Oberon, the King of Fairies, at one door, with_
+_his train; and Titania, the Queen, at another with hers_
+
+
+
+**OBERON**
+
+[Ill][37] met by moonlight, proud Titania!
+
+[37]: {{page.q}}=4953 "ill (adv.) 1:  badly, adversely, unfavourably"
+
+
+**TITANIA**
+
+What, jealous Oberon? Fairy, skip hence.
+I have [forsworn][38] his bed and company.
+
+[38]: {{page.q}}=19977 "forswear (v), past forms forsworn, forswore 2:  abandon, renounce, reject, give up"
+
+
+**OBERON**
+
+[Tarry][39], rash [wanton][40]! Am not I thy lord?
+
+[39]: {{page.q}}=5567 "tarry (v.) 1:  stay, remain, linger"
+[40]: {{page.q}}=7759 "wanton (n.) 4:  wilful creature, obstinate individual"
+
+
+**TITANIA**
+
+Then I must be thy lady. But I know
+When thou hast stolen away from Fairyland
+And in the shape of Corin sat all day
+Playing on pipes of corn, and versing love
+To amorous Phillida. Why art thou here
+Come from the farthest [step][42] of India
+But that, [forsooth][41], the bouncing Amazon,
+Your [buskined][43] mistress and your warrior love,
+To Theseus must be wedded? – and you come
+To give their bed joy and prosperity.
+
+[41]: {{page.q}}=20059 "forsooth (adv.):  in truth, certainly, truly, indeed"
+[42]: {{page.q}}=14687 "step (n.) 1:  limit, distance, reach"
+[43]: {{page.q}}=2041 "buskined (adj.):  wearing high hunting boots [buskins]"
+
+
+**OBERON**
+
+How canst thou thus, for shame, Titania,
+[Glance][44] at my credit with Hippolyta,
+Knowing I know thy love to Theseus?
+Didst thou not lead him through the glimmering night
+From Perigenia, whom he ravished,
+And make him with fair Aegles break his faith,
+With Ariadne and Antiopa?
+
+[44]: {{page.q}}=17744 "glance at (v.) 2:  pick on, snipe at, cast aspersions on"
+
+
+**TITANIA**
+
+These are the forgeries of jealousy;
+And never since the middle summer's [spring][45]
+Met we on hill, in dale, forest, or [mead][46],
+By [paved][47] fountain or by rushy brook,
+Or in the [beached][48] [margent][49] of the sea
+To dance our [ringlet][50]s to the whistling wind,
+But with thy brawls thou hast disturbed our [sport][51].
+Therefore the winds, piping to us in vain,
+As in revenge have sucked up from the sea
+[Contagious][52] fogs which, falling in the land,
+Have every [pelting][53] river made so [proud][54]
+That they have overborne their [continent][55]s.
+The ox hath therefore stretched his yoke in vain,
+The ploughman lost his sweat, and the green corn
+Hath rotted ere his youth attained a beard.
+The fold stands empty in the drowned field,
+And crows are fatted with the [murrion][57] flock.
+The nine men's [morris][58] is filled up with mud,
+And the [quaint][61] [maze][60]s in the [wanton][62] [green][59]
+For lack of tread are [undistinguishable][63].
+The human mortals [want][64] their winter cheer.
+No night is now with hymn or [carol][65] blessed.
+Therefore the moon, the [governess][66] of floods,
+Pale in her anger, [wash][67]es all the air,
+That [rheumatic][68] diseases do abound;
+And thorough this [distemperature][69] we see
+The seasons alter; hoary-headed frosts
+Far in the fresh lap of the crimson rose,
+And on old [Hiems][70]' thin and icy crown
+An odorous [chaplet][71] of sweet summer buds
+Is as in mockery set. The spring, the summer,
+The [childing][73] autumn, angry winter [change][72]
+Their [wonted][76] [liveries][74], and the [mazed][75] world
+By their [increase][77] now knows not which is which.
+And this same progeny of evils
+Comes from our [debate][78], from our dissension.
+We are their parents and [original][79].
+
+[45]: {{page.q}}=15886 "spring (n.) 1:  first moment, dawn, break"
+[46]: {{page.q}}=10519 "mead (n.):  meadow"
+[47]: {{page.q}}=12770 "paved (adj.):  with a paved base, pebbled"
+[48]: {{page.q}}=1593 "beached (adj.):  having a beach, shingly, sandy"
+[49]: {{page.q}}=10746 "margent (n.) 2:  margin, edge, border"
+[50]: {{page.q}}=16931 "ringlet (n.):  fairy dance in a ring, circular dance"
+[51]: {{page.q}}=14044 "sport (n.) 1:  recreation, amusement, entertainment"
+[52]: {{page.q}}=1149 "contagious (adj.) 1:  pestilential, harmful, noxious"
+[53]: {{page.q}}=12333 "pelting (adj.):  paltry, petty, worthless, insignificant"
+[54]: {{page.q}}=12771 "proud (adj.) 6:  swollen, high, in flood"
+[55]: {{page.q}}=1150 "continent (n.) 5:  bank, embankment, course"
+[56]: {{page.q}}=11631 "overbear (v.) 1:  overwhelm, overcome, overpower"
+[57]: {{page.q}}=10747 "murrion (adj.):  infected with plague [murrain], diseased"
+[58]: {{page.q}}=10700 "morris, nine men's:  area marked out in squares for playing nine men's morris [a type of open-air game using nine ‘men’ on each side]"
+[59]: {{page.q}}=17745 "green (n.) 1:  greenery, grass, vegetation"
+[60]: {{page.q}}=10748 "maze (n.) 1:  arrangement of paths, network of tracks"
+[61]: {{page.q}}=13781 "quaint (adj.) 3:  intricate, elaborate"
+[62]: {{page.q}}=7761 "wanton (adj.) 11:  luxuriant, flourishing, lush, profuse in growth"
+[63]: {{page.q}}=6821 "undistinguishable (adj.):  unrecognizable, undetectable, impossible to pick out"
+[64]: {{page.q}}=7539 "want (v.) 1:  lack, need, be without"
+[65]: {{page.q}}=4659 "carol (n.) 2:  song of joy"
+[66]: {{page.q}}=18129 "governess (n.):  ruler, mistress"
+[67]: {{page.q}}=7800 "wash (v.):  make damp, moisten, wet"
+[68]: {{page.q}}=16932 "rheumatic (adj.) 1:  with symptoms of rheum [watery discharge], catarrhal, cold-like"
+[69]: {{page.q}}=8840 "distemperature (n.) 2:  disordered condition, inclement state [of weather]"
+[70]: {{page.q}}=18365 "Hiems (n.):  winter [personified]"
+[71]: {{page.q}}=4312 "chaplet (n.):  garland, wreath"
+[72]: {{page.q}}=4340 "change (v.) 1:  exchange, trade"
+[73]: {{page.q}}=4391 "childing (adj.):  fertile, fruitful, teeming"
+[74]: {{page.q}}=19153 "livery (n.) 1:  uniform, costume, special clothing"
+[75]: {{page.q}}=10749 "mazed (adj.):  bewildered, confused, perplexed"
+[76]: {{page.q}}=7593 "wonted (adj.):  accustomed, usual, customary"
+[77]: {{page.q}}=5049 "increase (n.) 1:  produce, growth, yield, crop"
+[78]: {{page.q}}=8841 "debate (n.):  quarrel, wrangling, strife"
+[79]: {{page.q}}=11777 "original (n.):  point of origin, cause, source"
+
+
+**OBERON**
+
+Do you amend it, then! It lies in you.
+Why should Titania cross her Oberon?
+I do but beg a little [changeling][80] boy
+To be my [henchman][81].
+
+[80]: {{page.q}}=4389 "changeling (n./adj.) 1:  child taken by fairies, stolen child"
+[81]: {{page.q}}=18399 "henchman (n.):  squire, page of honour"
+
+
+**TITANIA**
+
+                         Set your heart at rest.
+The fairy land buys not the child of me.
+His mother was a [votaress][82] of my order,
+And in the spiced Indian air by night
+Full often hath she [gossip][83]ed by my side,
+And sat with me on Neptune's yellow sands
+[Mark][85]ing th' embarked [trader][86]s on the [flood][84],
+When we have laughed to see the sails conceive
+And grow big-bellied with the [wanton][87] wind;
+Which she with pretty and with swimming gait
+Following – her womb then rich with my young [squire][88] –
+Would imitate, and sail upon the land
+To fetch me trifles, and return again
+As from a voyage, rich with merchandise.
+But she, being mortal, of that boy did die,
+And for her sake do I rear up her boy;
+And for her sake I will not part with him.
+
+[82]: {{page.q}}=7299 "votaress (n.):  woman under vow, votary, devotee [of an order]"
+[83]: {{page.q}}=17748 "gossip (v.) 1:  be a close companion, talk together"
+[84]: {{page.q}}=19844 "flood (n.) 1:  sea, deep, waves, rushing water"
+[85]: {{page.q}}=10405 "mark (v.) 1:  note, pay attention [to], take notice [of]"
+[86]: {{page.q}}=5713 "trader (n.):  trading ship, merchant vessel"
+[87]: {{page.q}}=7940 "wanton (adj.) 5:  sexually hot, passionate, sportive"
+[88]: {{page.q}}=15463 "squire (n.) 2:  lad, fellow, youngster"
+
+
+**OBERON**
+
+How long within this wood intend you stay?
+
+
+
+**TITANIA**
+
+[Perchance][89] till after Theseus' wedding day.
+If you will patiently dance in our [round][90]
+And see our moonlight revels, go with us.
+If not, shun me, and I will [spare][91] your haunts.
+
+[89]: {{page.q}}=12175 "perchance (adv.) 1:  perhaps, maybe"
+[90]: {{page.q}}=16885 "round (n.) 1:  circle dance, ring"
+[91]: {{page.q}}=14602 "spare (v.) 2:  avoid, shun, keep away from"
+
+
+**OBERON**
+
+Give me that boy and I will go with thee.
+
+
+
+**TITANIA**
+
+Not for thy fairy kingdom! Fairies, away.
+We shall [chide][92] [downright][93] if I longer stay.
+_Exit Titania with her train_
+
+[92]: {{page.q}}=4378 "chide (v.), past form chid 3:  quarrel, wrangle, fight"
+[93]: {{page.q}}=8846 "downright (adv.) 2:  outright, totally, utterly"
+
+
+**OBERON**
+
+Well, go thy way. Thou shalt not from this grove
+Till I torment thee for this [injury][94].
+My [gentle][95] Puck, come hither. Thou rememberest
+Since once I sat upon a promontory
+And heard a mermaid on a dolphin's back
+Uttering such [dulcet][97] and harmonious [breath][96]
+That the [rude][98] sea grew civil at her song,
+And certain stars shot madly from their [sphere][99]s
+To hear the [sea-maid][100]'s music?
+
+[94]: {{page.q}}=5024 "injury (n.) 2:  insult, affront, slight"
+[95]: {{page.q}}=17496 "gentle (adj.) 2:  courteous, friendly, kind"
+[96]: {{page.q}}=2003 "breath (n.) 2:  voice, song, sound"
+[97]: {{page.q}}=8485 "dulcet (adj.):  sweet, mild, pleasant, agreeable"
+[98]: {{page.q}}=16903 "rude (adj.) 3:  [of wind or water] stormy, turbulent, harsh"
+[99]: {{page.q}}=15747 "sphere (n.) 1:  celestial globe in which a heavenly body was thought to move, orbit"
+[100]: {{page.q}}=15512 "sea-maid (n.):  mermaid, sea-nymph"
+
+
+**PUCK**
+
+                         I remember.
+
+
+
+**OBERON**
+
+That very time I saw – but thou couldst not –
+Flying between the cold moon and the earth
+Cupid all armed. A [certain][101] aim he took
+At a fair [vestal][102] throned by the west,
+And loosed his [loveshaft][103] smartly from his bow
+As it should pierce a hundred thousand hearts;
+But I might see young Cupid's fiery shaft
+Quenched in the chaste beams of the watery moon,
+And the imperial [votaress][104] passed on
+In maiden meditation, fancy-free.
+Yet [mark][106]ed I where the [bolt][105] of Cupid fell:
+It fell upon a little western flower,
+Before, milk-white; now purple with love's wound:
+And maidens call it ‘ love in idleness.’
+Fetch me that flower – the herb I showed thee once.
+The juice of it on sleeping eyelids laid
+Will make or man or woman madly dote
+Upon the next live creature that it sees.
+Fetch me this herb, and be thou here again
+Ere the [leviathan][107] can swim a league.
+
+[101]: {{page.q}}=4158 "certain (adj.) 3:  sure, unerring, accurate"
+[102]: {{page.q}}=7297 "vestal (n.):  woman vowed to chastity, virgin, priestess"
+[103]: {{page.q}}=19338 "loveshaft (n.):  love-causing arrow"
+[104]: {{page.q}}=7299 "votaress (n.):  woman under vow, votary, devotee [of an order]"
+[105]: {{page.q}}=1836 "bolt (n.) 1:  [short and thick, crossbow] arrow"
+[106]: {{page.q}}=10405 "mark (v.) 1:  note, pay attention [to], take notice [of]"
+[107]: {{page.q}}=19303 "leviathan (n.):  sea-monster, whale"
+
+
+**PUCK**
+
+I'll put a girdle round about the earth
+In forty minutes!
+_Exit_
+
+
+
+**OBERON**
+
+Having once this juice
+I'll watch Titania when she is asleep,
+And drop the liquor of it in her eyes.
+The next thing then she, waking, looks upon –
+Be it on lion, bear, or wolf, or bull,
+On meddling monkey or on busy ape –
+She shall pursue it with the [soul][108] of love.
+And ere I take this charm from off her [sight][109] –
+As I can take it with another herb –
+I'll make her render up her page to me.
+But who comes here? I am invisible,
+And I will overhear their conference.
+_Enter Demetrius, Helena following him_
+
+[108]: {{page.q}}=14698 "soul (n.) 1:  driving force, animating principle"
+[109]: {{page.q}}=14470 "sight (n.) 1:  eye"
+
+
+**DEMETRIUS**
+
+I love thee not, therefore pursue me not.
+Where is Lysander, and fair Hermia?
+The one I'll slay; the other slayeth me.
+Thou toldest me they were stolen unto this wood,
+And here am I, and [wood][110] within this [wood][110]
+Because I cannot meet my Hermia.
+Hence, get thee gone, and follow me no more!
+
+[110]: {{page.q}}=7684 "wood (adj.):  mad, wild, furious"
+
+
+**HELENA**
+
+You draw me, you hard-hearted [adamant][111]!
+But yet you draw not iron: for my heart
+Is true as steel. Leave you your power to draw,
+And I shall have no power to follow you.
+
+[111]: {{page.q}}=178 "adamant (n.):  legendary substance of great hardness and magnetism"
+
+
+**DEMETRIUS**
+
+Do I entice you? Do I speak you [fair][112]?
+Or rather do I not in plainest truth
+Tell you I do not nor I cannot love you?
+
+[112]: {{page.q}}=20162 "fair (adv.) 1:  kindly, encouragingly, courteously"
+
+
+**HELENA**
+
+And even for that do I love you the more.
+I am your spaniel; and, Demetrius,
+The more you beat me I will fawn on you.
+Use me but as your spaniel: [spurn][113] me, strike me,
+Neglect me, lose me; only give me leave,
+Unworthy as I am, to follow you.
+What worser place can I beg in your love –
+And yet a place of high respect with me –
+Than to be used as you use your dog?
+
+[113]: {{page.q}}=14317 "spurn (v.) 2:  kick, strike, stamp [on], dash"
+
+
+**DEMETRIUS**
+
+Tempt not too much the hatred of my spirit;
+For I am [sick][114] when I do look on thee.
+
+[114]: {{page.q}}=16324 "sick (adj.) 5:  full of loathing, full of repugnance"
+
+
+**HELENA**
+
+And I am sick when I look not on you.
+
+
+
+**DEMETRIUS**
+
+You do [impeach][115] your modesty too much,
+To leave the city and commit yourself
+Into the hands of one that loves you not;
+To trust the opportunity of night
+And the [ill][116] counsel of a desert place
+With the rich worth of your virginity.
+
+[115]: {{page.q}}=5028 "impeach (v.) 2:  discredit, disparage, call into question"
+[116]: {{page.q}}=4918 "ill (adj.) 1:  bad, adverse, unfavourable"
+
+
+**HELENA**
+
+Your [virtue][117] is my privilege. For that
+It is not night when I do see your face,
+Therefore I think I am not in the night;
+Nor doth this wood lack worlds of company,
+For you in my [respect][118] are all the world.
+Then how can it be said I am alone
+When all the world is here to look on me?
+
+[117]: {{page.q}}=7426 "virtue (n.) 1:  quality, accomplishment, ability"
+[118]: {{page.q}}=16945 "respect (n.) 3:  regard, admiration, favour, opinion"
+
+
+**DEMETRIUS**
+
+I'll run from thee and hide me in the [brake][119]s,
+And leave thee to the mercy of wild beasts.
+
+[119]: {{page.q}}=1872 "brake (n.) 1:  bush, thicket"
+
+
+**HELENA**
+
+The wildest hath not such a heart as you.
+Run when you will. The story shall be changed:
+Apollo flies, and Daphne [hold][120]s the chase;
+The dove pursues the [griffin][121]; the mild [hind][122]
+Makes speed to catch the tiger – [bootless][123] speed,
+When cowardice pursues, and valour flies.
+
+[120]: {{page.q}}=18635 "hold (v.) 1:  keep, maintain, observe"
+[121]: {{page.q}}=17709 "griffin (n.):  fabulous beast, part lion part eagle"
+[122]: {{page.q}}=18366 "hind (n.) 3:  female deer"
+[123]: {{page.q}}=1852 "bootless (adj.):  useless, worthless, fruitless, unavailing"
+
+
+**DEMETRIUS**
+
+I will not [stay][124] thy questions. Let me go;
+Or if thou follow me, do not believe
+But I shall do thee mischief in the wood.
+
+[124]: {{page.q}}=14068 "stay (v.) 1:  wait (for), await"
+
+
+**HELENA**
+
+Ay – in the temple, in the town, the field,
+You do me mischief. Fie, Demetrius,
+Your wrongs do set a scandal on my sex.
+We cannot fight for love, as men may do;
+We should be wooed, and were not made to woo.
+_Exit Demetrius_
+I'll follow thee, and make a heaven of hell,
+To die upon the hand I love so well.
+_Exit Helena_
+
+
+
+**OBERON**
+
+[Fare][125] thee well, nymph. Ere he do leave this grove
+Thou shalt fly him, and he shall seek thy love.
+_Enter Puck_
+Hast thou the flower there? Welcome, wanderer.
+
+[125]: {{page.q}}=20910 "fare ... well: "
+
+
+**PUCK**
+
+Ay, there it is.
+
+
+
+**OBERON**
+
+I pray thee give it me.
+I know a bank where the wild thyme [blow][126]s,
+Where oxlips and the nodding violet grows,
+Quite overcanopied with luscious [woodbine][127],
+With [sweet][128] muskroses and with eglantine.
+There sleeps Titania sometime of the night,
+Lulled in these flowers with dances and delight.
+And there the snake [throw][130]s her [enamelled][129] skin,
+[Weed][131] wide enough to wrap a fairy in.
+And with the juice of this I'll streak her eyes
+And make her full of hateful [fantasies][132].
+Take thou some of it, and seek through this grove.
+A sweet Athenian lady is in love
+With a disdainful youth – anoint his eyes;
+But do it when the next thing he espies
+May be the lady. Thou shalt know the man
+By the Athenian garments he hath on.
+Effect it with some care, that he may prove
+More [fond][133] on her than she upon her love.
+And look thou meet me ere the first cock crow.
+
+[126]: {{page.q}}=1846 "blow (v.) 1:  blossom, bloom, flower"
+[127]: {{page.q}}=8041 "woodbine (n.) 1:  honeysuckle"
+[128]: {{page.q}}=15000 "sweet (adj.) 1:  perfumed, scented, fragrant"
+[129]: {{page.q}}=9712 "enamelled (adj.):  brightly coloured, multi-coloured, kaleidoscopic"
+[130]: {{page.q}}=5714 "throw (v.) 1:  throw off, cast, discard"
+[131]: {{page.q}}=7709 "weed (n.) 2:  garment, piece of clothing"
+[132]: {{page.q}}=19789 "fantasy (n.) 1:  imagining, delusion, hallucination"
+[133]: {{page.q}}=19981 "fond (adj.) 4:  infatuated, doting, passionate"
+
+
+**PUCK**
+
+Fear not, my lord; your servant shall do so.
+_Exeunt Oberon and Puck_
+

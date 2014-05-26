@@ -1,0 +1,1057 @@
+---
+title: Twelfth Night
+tagline: Act I - Scene V
+category: play
+author: shakespeare
+date: 2014-05-25 18:45:25 +0800
+permalink: /books/shakespeare/Twelfth_Night_act1_scene5.html
+layout: book_page
+creation: 1601-1602
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Maria and Feste the Clown_
+
+**MARIA**
+
+Nay, either tell me where thou hast been, or I will
+not open my lips so wide as a bristle may enter, in way of
+thy excuse. My lady will hang thee for thy absence.
+
+
+
+**FESTE**
+
+Let her hang me. He that is well hanged in this
+world needs to fear no [colours][1].
+
+[1]: {{page.q}}=3713 "colours, fear no:  fear no enemy, fear nothing"
+
+
+**MARIA**
+
+[Make][2] that good.
+
+[2]: {{page.q}}=10500 "make good 1:  justify, vindicate, confirm"
+
+
+**FESTE**
+
+He shall see none to fear.
+
+
+
+**MARIA**
+
+A good [lenten][3] answer! I can tell thee where that
+saying was born, of ‘ I fear no colours.’
+
+[3]: {{page.q}}=19117 "lenten (adj.) 2:  dismal, meagre, scanty"
+
+
+**FESTE**
+
+Where, good Mistress Mary?
+
+
+
+**MARIA**
+
+In the wars; and that may you be bold to say in
+your foolery.
+
+
+
+**FESTE**
+
+Well, God give them wisdom that have it; and
+those that are fools, let them use their talents.
+
+
+
+**MARIA**
+
+Yet you will be hanged for being so long absent;
+or to be [turn][4]ed away – is not that as good as a hanging
+to you?
+
+[4]: {{page.q}}=5733 "turn away (v.):  send away, dismiss from service"
+
+
+**FESTE**
+
+Many a good hanging prevents a bad marriage;
+and for turning away, let summer [bear][5] it out.
+
+[5]: {{page.q}}=1504 "bear out (v.) 1:  endure, weather, cope [with]"
+
+
+**MARIA**
+
+You are resolute, then?
+
+
+
+**FESTE**
+
+Not so neither, but I am resolved on two [point][6]s.
+
+[6]: {{page.q}}=13081 "point (n.) 2:  (usually plural) tagged lace [especially for attaching hose to the doublet]"
+
+
+**MARIA**
+
+That if one break, the other will hold; or if both
+break, your [gaskins][7] fall.
+
+[7]: {{page.q}}=17950 "gaskins (n.):  loose-fitting trousers, wide breeches"
+
+
+**FESTE**
+
+Apt, in good faith, very apt. Well, go thy way, if
+Sir Toby would leave drinking, thou wert as witty a
+piece of Eve's flesh as any in Illyria.
+
+
+
+**MARIA**
+
+Peace, you rogue, no more o' that. Here comes my
+lady. Make your excuse wisely, you were [best][8].
+_Exit_
+_Enter Olivia with Malvolio and attendants_
+
+[8]: {{page.q}}=1595 "best, thou wert / you were:  you are best advised"
+
+
+**FESTE**
+
+Wit, an't be thy will, put me into good fooling.
+Those [wit][10]s that think they have thee do very [oft][9] prove
+fools; and I that am sure I lack thee may pass for a wise
+man. For what says Quinapalus? ‘ Better a [witty][11] fool
+than a foolish [wit][12].’ God bless thee, lady!
+
+[9]: {{page.q}}=11606 "oft (adv.):  often"
+[10]: {{page.q}}=8225 "wit (n.) 6:  lively person, sharp-minded individual"
+[11]: {{page.q}}=7772 "witty (adj.) 2:  intelligent, ingenious, sensible"
+[12]: {{page.q}}=8225 "wit (n.) 6:  lively person, sharp-minded individual"
+
+
+**OLIVIA**
+
+Take the fool away.
+
+
+
+**FESTE**
+
+Do you not hear, fellows? Take away the lady.
+
+
+
+**OLIVIA**
+
+Go to, y' are a [dry][13] fool. I'll no more of you. Besides,
+you grow [dishonest][14].
+
+[13]: {{page.q}}=9185 "dry (adj.) 1:  barren, arid, yielding no result"
+[14]: {{page.q}}=9186 "dishonest (adj.) 1:  undutiful, unreliable, irresponsible"
+
+
+**FESTE**
+
+Two faults, madonna, that drink and good counsel
+will amend. For give the dry fool drink, then is the fool
+not dry. Bid the dishonest man mend himself: if he
+mend, he is no longer dishonest; if he cannot, let the
+[botcher][15] mend him. Anything that's mended, is but
+patched: virtue that transgresses is but patched with
+sin; and sin that [amend][16]s is but patched with virtue. If
+that this simple syllogism will serve, so; if it will not,
+what remedy? As there is no true [cuckold][18] but calamity,
+so beauty's a flower. The lady [bade][17] take away the fool;
+therefore I say again – take her away!
+
+[15]: {{page.q}}=1942 "botcher (n.):  mender of old clothes, tailor who does repairs, patcher-up"
+[16]: {{page.q}}=424 "amend (v.) 3:  make better, ameliorate, lessen the evil of"
+[17]: {{page.q}}=2049 "bid (v.), past form bade 1:  command, order, enjoin, tell"
+[18]: {{page.q}}=2786 "cuckold (n.):  [mocking name] man with an unfaithful wife"
+
+
+**OLIVIA**
+
+Sir, I bade them take away you.
+
+
+
+**FESTE**
+
+_cucullus_
+_non facit monachum_
+[motley][20] in my brain. Good [madonna][19], give me leave to
+prove you a fool.
+
+[19]: {{page.q}}=10997 "madonna (n.):  my lady, madam"
+[20]: {{page.q}}=10554 "motley (n.) 1:  distinctive dress of a fool"
+
+
+**OLIVIA**
+
+Can you do it?
+
+
+
+**FESTE**
+
+[Dexteriously][21], good madonna.
+
+[21]: {{page.q}}=9187 "dexteriously (adv.):  with dexterity, adroitly, skilfully"
+
+
+**OLIVIA**
+
+Make your proof.
+
+
+
+**FESTE**
+
+I must [catechize][22] you for it, madonna. Good my
+mouse of virtue, answer me.
+
+[22]: {{page.q}}=4205 "catechize (v.) 2:  question systematically, cross-examine, interrogate"
+
+
+**OLIVIA**
+
+Well, sir, for [want][25] of other [idleness][24], I'll [bide][23] your
+proof.
+
+[23]: {{page.q}}=1920 "bide (v.) 2:  face, await, undergo"
+[24]: {{page.q}}=5195 "idleness (n.):  pastime, foolishness, silly diversion"
+[25]: {{page.q}}=7663 "want (n.) 1:  lack, shortage, dearth"
+
+
+**FESTE**
+
+Good madonna, why mourn'st thou?
+
+
+
+**OLIVIA**
+
+Good fool, for my brother's death.
+
+
+
+**FESTE**
+
+I think his soul is in hell, madonna.
+
+
+
+**OLIVIA**
+
+I know his soul is in heaven, fool.
+
+
+
+**FESTE**
+
+The more fool, madonna, to mourn for your
+brother's soul, being in heaven. Take away the fool,
+gentlemen.
+
+
+
+**OLIVIA**
+
+What think you of this fool, Malvolio? Doth he
+not [mend][26]?
+
+[26]: {{page.q}}=11030 "mend (v.) 1:  amend, improve, make better, put right"
+
+
+**MALVOLIO**
+
+Yes, and shall do, till the pangs of death shake
+him. Infirmity, that decays the wise, doth ever make the
+better fool.
+
+
+
+**FESTE**
+
+God send you, sir, a speedy infirmity for the better
+increasing your folly. Sir Toby will be sworn that I am
+no fox, but he will not pass his word for twopence that
+you are no fool.
+
+
+
+**OLIVIA**
+
+How say you to that, Malvolio?
+
+
+
+**MALVOLIO**
+
+I marvel your ladyship takes delight in such a
+[barren][27] rascal. I saw him [put][28] down the other day with an
+ordinary fool that has no more brain than a stone. Look
+you now, he's out of his guard already; unless you laugh
+and [minister][29] [occasion][30] to him, he is gagged. I protest I
+take these wise men, that crow so at these [set][31] kind of
+fools, no better than the fools' [zanies][32].
+
+[27]: {{page.q}}=1584 "barren (adj.) 2:  stupid, empty-headed, dull"
+[28]: {{page.q}}=13246 "put down (v.):  crush, defeat, put to silence"
+[29]: {{page.q}}=10856 "minister (v.) 1:  provide, supply, give"
+[30]: {{page.q}}=11600 "occasion (n.) 1:  circumstance, opportunity"
+[31]: {{page.q}}=14223 "set (adj.) 3:  carefully composed, deliberately expressed"
+[32]: {{page.q}}=8331 "zany (n.):  stooge, clown's assistant, mimic"
+
+
+**OLIVIA**
+
+O, you are sick of self-love, Malvolio, and taste
+with a [distempered][33] appetite. To be generous, guiltless,
+and of [free][35] disposition, is to take those things for [bird-bolt][34]s
+that you deem cannon bullets. There is no slander
+in an [allowed][36] fool, though he do nothing but [rail][37]; nor no
+[railing][38] in a known discreet man, though he do nothing
+but reprove.
+
+[33]: {{page.q}}=9188 "distempered (adj.) 3:  disordered, disturbed, diseased"
+[34]: {{page.q}}=2281 "bird-bolt, burbolt (n.):  short blunt-headed arrow for shooting birds"
+[35]: {{page.q}}=20339 "free (adj.) 2:  generous, magnanimous"
+[36]: {{page.q}}=583 "allowed (adj.) 2:  licensed, authorized, permitted"
+[37]: {{page.q}}=17089 "rail (v.):  rant, rave, be abusive [about]"
+[38]: {{page.q}}=16560 "railing (n.):  abuse, insulting speech, vilification"
+
+
+**FESTE**
+
+Now Mercury [endue][39] thee with [leasing][40], for thou
+speak'st well of fools.
+_Enter Maria_
+
+[39]: {{page.q}}=4972 "indue, endue (v.) 1:  endow, furnish, provide"
+[40]: {{page.q}}=15350 "leasing (n.) 2:  skill in lying, ability to lie"
+
+
+**MARIA**
+
+Madam, there is at the gate a young gentleman
+much desires to speak with you.
+
+
+
+**OLIVIA**
+
+From the Count Orsino, is it?
+
+
+
+**MARIA**
+
+I know not, madam. 'Tis a fair young man, and
+well [attend][41]ed.
+
+[41]: {{page.q}}=913 "attend (v.) 2:  serve, follow, wait [on/upon]"
+
+
+**OLIVIA**
+
+Who of my people hold him in delay?
+
+
+
+**MARIA**
+
+Sir Toby, madam, your kinsman.
+
+
+
+**OLIVIA**
+
+Fetch him off, I pray you, he speaks nothing but
+madman. Fie on him! Go you, Malvolio. If it be a [suit][42]
+from the Count, I am sick or not at home – what you
+will, to dismiss it.
+_Exit Malvolio_
+Now you see, sir, how your fooling grows [old][43] and people
+dislike it?
+
+[42]: {{page.q}}=14102 "suit (n.) 1:  formal request, entreaty, petition"
+[43]: {{page.q}}=11869 "old (adj.) 2:  hackneyed, worn-out, stale"
+
+
+**FESTE**
+
+Thou hast spoke for us, madonna, as if thy eldest
+son should be a fool; whose skull Jove cram with brains,
+for – here he comes –
+_Enter Sir Toby_
+_pia mater_
+
+
+
+**OLIVIA**
+
+By mine honour, half drunk! What is he at the
+gate, cousin?
+
+
+
+**SIR TOBY**
+
+A gentleman.
+
+
+
+**OLIVIA**
+
+A gentleman! What gentleman?
+
+
+
+**SIR TOBY**
+
+'Tis a gentleman here – a plague o' these
+pickle-herring! (To Feste) How now, sot!
+
+
+
+**FESTE**
+
+Good Sir Toby!
+
+
+
+**OLIVIA**
+
+Cousin, cousin, how have you come so early by
+this lethargy?
+
+
+
+**SIR TOBY**
+
+Lechery! I defy lechery! There's one at the
+gate.
+
+
+
+**OLIVIA**
+
+Ay, marry, what is he?
+
+
+
+**SIR TOBY**
+
+Let him be the devil an he will, I care not. Give
+me faith, say I. Well, it's [all][44] one.
+_Exit Sir Toby, followed by Maria_
+
+[44]: {{page.q}}=104 "all is one; that's / it's all one:  it makes no difference, it's one and the same, it doesn't matter"
+
+
+**OLIVIA**
+
+What's a drunken man like, fool?
+
+
+
+**FESTE**
+
+Like a drowned man, a fool, and a madman. One
+draught above [heat][45] makes him a fool, the second mads
+him, and a third drowns him.
+
+[45]: {{page.q}}=18615 "heat (n.) 4:  normal body temperature"
+
+
+**OLIVIA**
+
+Go thou and seek the [crowner][46], and let him sit o'
+my coz, for he's in the third [degree][47] of drink – he's
+drowned. Go, look after him.
+
+[46]: {{page.q}}=2782 "crowner (n.):  coroner"
+[47]: {{page.q}}=8701 "degree (n.) 3:  step, stage, rung"
+
+
+**FESTE**
+
+He is but mad yet, madonna, and the fool shall look
+to the madman.
+_Exit_
+_Enter Malvolio_
+
+
+
+**MALVOLIO**
+
+Madam, yond young fellow swears he will
+speak with you. I told him you were sick; he takes on
+him to understand so much, and therefore comes to
+speak with you. I told him you were asleep; he seems to
+have a foreknowledge of that too, and therefore comes
+to speak with you. What is to be said to him, lady? He's
+fortified against any denial.
+
+
+
+**OLIVIA**
+
+Tell him, he shall not speak with me.
+
+
+
+**MALVOLIO**
+
+He's been told so; and he says he'll stand at
+your door like a sheriff's [post][48] and be the supporter to a
+bench, but he'll speak with you.
+
+[48]: {{page.q}}=12530 "post (n.) 3:  door-post"
+
+
+**OLIVIA**
+
+What kind o' man is he?
+
+
+
+**MALVOLIO**
+
+Why, of mankind.
+
+
+
+**OLIVIA**
+
+What manner of man?
+
+
+
+**MALVOLIO**
+
+Of very [ill][49] manner; he'll speak with you, will
+you or no.
+
+[49]: {{page.q}}=4918 "ill (adj.) 1:  bad, adverse, unfavourable"
+
+
+**OLIVIA**
+
+Of what [personage][50] and years is he?
+
+[50]: {{page.q}}=13249 "personage (n.):  appearance, demeanour"
+
+
+**MALVOLIO**
+
+Not yet old enough for a man, nor young
+enough for a boy; as a [squash][52] is before 'tis a [peascod][51], or
+a [codling][53] when 'tis almost an apple. 'Tis with him in
+[standing][54] water between boy and man. He is very [well-favoured][55],
+and he speaks very [shrewishly][56]. One would
+think his mother's milk were scarce out of him.
+
+[51]: {{page.q}}=12313 "peascod (n.):  pea-plant, pea-pod"
+[52]: {{page.q}}=15660 "squash (n.) 1:  unripe pea-pod"
+[53]: {{page.q}}=3554 "codling (n.):  unripe apple, half-grown apple"
+[54]: {{page.q}}=15661 "standing (adj.) 3:  not ebbing or flowing"
+[55]: {{page.q}}=7824 "well-favoured (adj.):  good-looking, attractive in appearance"
+[56]: {{page.q}}=15662 "shrewishly (adv.):  like a woman, shrilly, sharply"
+
+
+**OLIVIA**
+
+Let him approach. Call in my gentlewoman.
+
+
+
+**MALVOLIO**
+
+Gentlewoman, my lady calls.
+_Exit_
+_Enter Maria_
+
+
+
+**OLIVIA**
+
+Give me my veil. Come, throw it o'er my face.
+We'll once more hear Orsino's [embassy][57].
+_Enter Viola_
+
+[57]: {{page.q}}=9897 "embassy (n.) 1:  message [especially via an ambassador]"
+
+
+**VIOLA**
+
+The honourable lady of the house, which is she?
+
+
+
+**OLIVIA**
+
+Speak to me, I shall answer for her. Your will?
+
+
+
+**VIOLA**
+
+Most radiant, exquisite, and unmatchable beauty –
+I pray you, tell me if this be the lady of the house, for I
+never saw her. I would be loath to cast away my speech;
+for besides that it is excellently well penned, I have
+taken great pains to [con][58] it. Good beauties, let me sustain
+no scorn. I am very [comptible][59], even to the least [sinister][60]
+[usage][61].
+
+[58]: {{page.q}}=2691 "con (v.) 1:  learn by heart, commit to memory"
+[59]: {{page.q}}=3555 "comptible (adj.):  sensitive, thin-skinned, impressionable"
+[60]: {{page.q}}=15837 "sinister (adj.) 3:  malicious, adverse, impolite"
+[61]: {{page.q}}=7140 "usage (n.):  treatment, handling, conduct"
+
+
+**OLIVIA**
+
+Whence came you, sir?
+
+
+
+**VIOLA**
+
+I can say little more than I have [studied][62], and that
+question's out of my part. Good [gentle][64] one, give me
+[modest][65] [assurance][63] if you be the lady of the house, that I
+may proceed in my speech.
+
+[62]: {{page.q}}=14094 "study (v.) 3:  learn by heart, commit to memory"
+[63]: {{page.q}}=71 "assurance (n.) 2:  confirmation, pledge, guarantee"
+[64]: {{page.q}}=17495 "gentle (adj.) 1:  well-born, honourable, noble"
+[65]: {{page.q}}=11034 "modest (adj.) 1:  moderate, reasonable, mild, limited"
+
+
+**OLIVIA**
+
+Are you a [comedian][66]?
+
+[66]: {{page.q}}=3556 "comedian (n.):  actor, stage-player"
+
+
+**VIOLA**
+
+No, my profound heart; and yet, by the very fangs
+of malice, I swear I am not that I play. Are you the lady
+of the house?
+
+
+
+**OLIVIA**
+
+If I do not [usurp][67] myself, I am.
+
+[67]: {{page.q}}=6993 "usurp (v.) 1:  supplant, oust, impersonate"
+
+
+**VIOLA**
+
+Most certain, if you are she, you do [usurp][68] yourself;
+for what is yours to bestow is not yours to reserve.
+But this is from my [commission][69]. I will on with my
+speech in your praise, and then show you the heart of
+my message.
+
+[68]: {{page.q}}=6883 "usurp (v.) 3:  take wrongful possession of, misappropriate"
+[69]: {{page.q}}=2675 "commission (n.) 1:  warrant, authority [to act]"
+
+
+**OLIVIA**
+
+Come to what is important in't. I [forgive][70] you the
+praise.
+
+[70]: {{page.q}}=20569 "forgive (v.):  excuse, let off"
+
+
+**VIOLA**
+
+Alas, I took great pains to study it, and 'tis poetical.
+
+
+
+**OLIVIA**
+
+It is the more [like][71] to be feigned; I pray you, keep it
+in. I heard you were [saucy][72] at my gates, and allowed your
+approach rather to [wonder][73] at you than to hear you. If
+you be not mad, be gone; if you have reason, be brief.
+'Tis not that time of moon with me, to make one in so
+[skipping][74] a dialogue.
+
+[71]: {{page.q}}=19137 "like (adv.) 1:  likely, probable / probably"
+[72]: {{page.q}}=14344 "saucy (adj.) 1:  insolent, impudent, presumptuous, defiant"
+[73]: {{page.q}}=8093 "wonder (v.) 2:  stare in curiosity, look in fascination"
+[74]: {{page.q}}=14553 "skipping (adj.) 1:  frivolous, flighty, frolicsome"
+
+
+**MARIA**
+
+_showing Viola the way out_
+Will you hoist sail, sir?
+Here lies your way.
+
+
+
+**VIOLA**
+
+No, good [swabber][76], I am to [hull][75] here a little longer.
+Some [mollification][77] for your giant, sweet lady! Tell me
+your mind; I am a messenger.
+
+[75]: {{page.q}}=18578 "hull (v.):  lie, float, drift [with sails furled]"
+[76]: {{page.q}}=15015 "swabber (n.):  deckhand, sailor who washes the deck"
+[77]: {{page.q}}=11000 "mollification (n.):  appeasement, placating, pacifying"
+
+
+**OLIVIA**
+
+Sure, you have some hideous matter to deliver,
+when the [courtesy][78] of it is so [fearful][79]. Speak your [office][80].
+
+[78]: {{page.q}}=3637 "courtesy, cur'sy, curtsy (n.) 3:  salutation, first greeting, expression of courtesy"
+[79]: {{page.q}}=19996 "fearful (adj.) 2:  causing fear, awe-inspiring, terrifying, alarming"
+[80]: {{page.q}}=11936 "office (n.) 1:  task, service, duty, responsibility"
+
+
+**VIOLA**
+
+It alone concerns your ear. I bring no [overture][81] of
+war, no [taxation][84] of [homage][82]. I hold the [olive][83] in my hand;
+my words are as full of peace as [matter][85].
+
+[81]: {{page.q}}=11800 "overture (n.) 1:  disclosure, revelation"
+[82]: {{page.q}}=18616 "homage (n.) 1:  act of homage, acknowledgement of allegiance"
+[83]: {{page.q}}=11952 "olive (n.):  olive-branch [symbol of peace]"
+[84]: {{page.q}}=6279 "taxation (n.) 2:  demand for money, financial claim"
+[85]: {{page.q}}=10513 "matter (n.) 4:  affair(s), business, real issue"
+
+
+**OLIVIA**
+
+Yet you began rudely. What are you? What
+would you?
+
+
+
+**VIOLA**
+
+The rudeness that hath appeared in me have I
+learned from my [entertainment][86]. What I am and what I
+would are as secret as maidenhead; to your ears divinity,
+to any others profanation.
+
+[86]: {{page.q}}=9764 "entertainment (n.) 1:  treatment, hospitality, reception"
+
+
+**OLIVIA**
+
+Give us the place alone.
+_Maria and attendants withdraw_
+We will hear this divinity. Now, sir, what is your text?
+
+
+
+**VIOLA**
+
+Most sweet lady –
+
+
+
+**OLIVIA**
+
+A [comfortable][87] doctrine, and much may be said of
+it. Where lies your text?
+
+[87]: {{page.q}}=3615 "comfortable (adj.) 2:  comforting, encouraging, reassuring"
+
+
+**VIOLA**
+
+In Orsino's [bosom][88].
+
+[88]: {{page.q}}=2300 "bosom (n.) 1:  heart, inner person"
+
+
+**OLIVIA**
+
+In his bosom! In what chapter of his bosom?
+
+
+
+**VIOLA**
+
+To answer by the [method][89], in the first of his heart.
+
+[89]: {{page.q}}=11001 "method (n.) 2:  table of contents, summary arrangement"
+
+
+**OLIVIA**
+
+O, I have read it; it is heresy. Have you no more to
+say?
+
+
+
+**VIOLA**
+
+Good madam, let me see your face.
+
+
+
+**OLIVIA**
+
+Have you any [commission][90] from your lord to negotiate
+with my face? You are now out of your [text][91]; but
+we will draw the curtain and show you the picture. Look
+you, sir, such a one I was this [present][92]. Is't not well
+done?
+
+[90]: {{page.q}}=2675 "commission (n.) 1:  warrant, authority [to act]"
+[91]: {{page.q}}=6354 "text (n.) 1:  theme, subject, topic"
+[92]: {{page.q}}=13250 "present, this:  just now, recently"
+
+
+**VIOLA**
+
+Excellently done – if God did all.
+
+
+
+**OLIVIA**
+
+'Tis in [grain][93], sir, 'twill endure wind and weather.
+
+[93]: {{page.q}}=17660 "grain, in:  inherent, ingrained, indelible"
+
+
+**VIOLA**
+
+'Tis beauty truly [blent][94], whose red and white
+Nature's own sweet and [cunning][95] hand laid on.
+Lady, you are the cruellest [she][96] alive,
+If you will lead these graces to the grave,
+And leave the world no copy.
+
+[94]: {{page.q}}=2273 "blent (adj.):  blended, mixed, applied [as of painting]"
+[95]: {{page.q}}=2789 "cunning (adj.) 1:  knowledgeable, skilful, clever"
+[96]: {{page.q}}=14885 "she (n.):  lady, woman, girl"
+
+
+**OLIVIA**
+
+O, sir, I will not be so hard-hearted. I will give
+out [divers][97] [schedule][98]s of my beauty. It shall be inventoried,
+and every particle and [utensil][100] [label][99]led to my will.
+As, item: two lips, [indifferent][101] red; item: two grey eyes,
+with lids to them; item: one neck, one chin, and so forth.
+Were you sent hither to [praise][102] me?
+
+[97]: {{page.q}}=9213 "divers (adj.):  different, various, several"
+[98]: {{page.q}}=15663 "schedule (n.) 1:  inventory, list, itemization"
+[99]: {{page.q}}=15351 "label (v.):  attach as a codicil, affix as a supplementary note"
+[100]: {{page.q}}=6994 "utensil (n.) 1:  distinctive feature, functional organ"
+[101]: {{page.q}}=4855 "indifferent (adv.) 1:  moderately, tolerably, reasonably"
+[102]: {{page.q}}=13251 "praise (v.) 2:  appraise, assess, put a valuation on"
+
+
+**VIOLA**
+
+I see you what you are, you are too proud.
+But if you were the devil, you are fair.
+My lord and master loves you – O, such love
+Could be but recompensed, though you were crowned
+The [nonpareil][103] of beauty!
+
+[103]: {{page.q}}=11411 "nonpareil (n.):  person without equal, unique one, paragon"
+
+
+**OLIVIA**
+
+How does he love me?
+
+
+
+**VIOLA**
+
+With adorations, [fertile][104] tears,
+With groans that thunder love, with sighs of fire.
+
+[104]: {{page.q}}=20256 "fertile (adj.):  abundant, profuse, rich"
+
+
+**OLIVIA**
+
+Your lord does know my mind, I cannot love him.
+Yet I suppose him virtuous, know him noble,
+Of great [estate][105], of fresh and stainless youth,
+In [voice][108]s well [divulge][106]d, [free][107], learned, and valiant,
+And in [dimension][109] and the [shape][111] of nature
+A [gracious][110] person. But yet I cannot love him.
+He might have took his answer long ago.
+
+[105]: {{page.q}}=9654 "estate (n.) 2:  high rank, standing, status"
+[106]: {{page.q}}=8828 "divulge (v.) 1:  proclaim, reveal, make publicly known"
+[107]: {{page.q}}=19925 "free (adj.) 3:  noble, honourable, worthy"
+[108]: {{page.q}}=7518 "voice (n.) 4:  talk, rumour, opinion"
+[109]: {{page.q}}=9246 "dimension (n.) 1:  bodily form, physical frame"
+[110]: {{page.q}}=17951 "gracious (adj.) 10:  graceful, elegant, attractive"
+[111]: {{page.q}}=15733 "shape (n.) 1:  appearance, aspect, visible form"
+
+
+**VIOLA**
+
+If I did love you in my master's flame,
+With such a suffering, such a [deadly][112] life,
+In your denial I would find no sense;
+I would not understand it.
+
+[112]: {{page.q}}=9252 "deadly (adj.):  deathly, death-like"
+
+
+**OLIVIA**
+
+Why, what would you?
+
+
+
+**VIOLA**
+
+Make me a [willow][114] [cabin][113] at your gate,
+And call upon my soul within the house;
+Write loyal [canton][115]s of [contemned][116] love
+And sing them loud even in the dead of night;
+[Hallow][117] your name to the [reverberate][118] hills
+And make the babbling gossip of the air
+Cry out ‘ Olivia!’ O, you should not rest
+Between the elements of air and earth,
+But you should pity me.
+
+[113]: {{page.q}}=4619 "cabin (n.) 1:  small room, hut, shelter"
+[114]: {{page.q}}=8004 "willow (adj.):  made of leaves from the willow tree [a symbol of the grief felt by a deserted or unrequited lover]"
+[115]: {{page.q}}=4042 "canton (n.):  song, ballad, verse"
+[116]: {{page.q}}=3557 "contemned (adj.) 2:  despised, rejected, spurned"
+[117]: {{page.q}}=18222 "hallow, holloa, hollow (v.) 1:  shout, yell, cry out"
+[118]: {{page.q}}=17201 "reverberate (adj.):  reverberating, resounding, echoing"
+
+
+**OLIVIA**
+
+You might do much.
+What is your parentage?
+
+
+
+**VIOLA**
+
+Above my fortunes, yet my [state][119] is well.
+I am a gentleman.
+
+[119]: {{page.q}}=13887 "state (n.) 2:  status, rank, position"
+
+
+**OLIVIA**
+
+Get you to your lord.
+I cannot love him. Let him send no more –
+Unless, [perchance][120], you come to me again
+To tell me how he takes it. [Fare][121] you well.
+I thank you for your pains. Spend this for me.
+
+[120]: {{page.q}}=12175 "perchance (adv.) 1:  perhaps, maybe"
+[121]: {{page.q}}=20910 "fare ... well: "
+
+
+**VIOLA**
+
+I am no [fee'd][122] [post][123], lady; keep your purse.
+My master, not myself, lacks recompense.
+Love make his heart of flint, that you shall love,
+And let your fervour like my master's be
+Placed in contempt. Farewell, fair cruelty!
+_Exit_
+
+[122]: {{page.q}}=20325 "fee'd (adj.):  paid by a fee, hired, bribed"
+[123]: {{page.q}}=12610 "post (n.) 1:  express messenger, courier"
+
+
+**OLIVIA**
+
+‘ What is your parentage?’
+‘ Above my fortunes, yet my state is well.
+I am a gentleman.’ I'll be sworn thou art.
+Thy tongue, thy face, thy limbs, actions, and spirit
+Do give thee fivefold [blazon][124]. Not too fast! soft, soft –
+Unless the master were the man. How now?
+Even so quickly may one catch the plague?
+[Methinks][125] I feel this youth's perfections,
+With an invisible and [subtle][127] [stealth][126],
+To creep in at mine eyes. Well, let it be!
+What ho, Malvolio!
+_Enter Malvolio_
+
+[124]: {{page.q}}=2037 "blazon (n.) 1:  armorial bearing, banner showing a coat-of-arms"
+[125]: {{page.q}}=10439 "methinks(t), methought(s) (v.):  it seems /seemed to me"
+[126]: {{page.q}}=14636 "stealth (n.) 1:  stealing away, furtive journey, clandestine act"
+[127]: {{page.q}}=15065 "subtle, subtile (adj.) 1:  crafty, cunning, wily"
+
+
+**MALVOLIO**
+
+Here, madam, at your service.
+
+
+
+**OLIVIA**
+
+Run after that same [peevish][128] messenger,
+The [County][129]'s man. He left this ring behind him,
+Would I or not. Tell him, I'll none of it.
+Desire him not to [flatter][130] with his lord,
+Nor hold him up with hopes; I am not for him.
+If that the youth will come this way tomorrow,
+I'll give him reasons for't. [Hie][131] thee, Malvolio!
+
+[128]: {{page.q}}=12403 "peevish (adj.) 1:  silly, foolish; or: headstrong, impulsive"
+[129]: {{page.q}}=3568 "county (n.) 1:  [title of rank] count"
+[130]: {{page.q}}=20026 "flatter with / withal (v.) 1:  encourage, foster [false] hope"
+[131]: {{page.q}}=18172 "hie (v.):  hasten, hurry, speed"
+
+
+**MALVOLIO**
+
+Madam, I will.
+_Exit_
+
+
+
+**OLIVIA**
+
+I do I know not what, and fear to find
+Mine eye too great a flatterer for my mind.
+Fate, show thy force; ourselves we do not [owe][132].
+What is decreed must be, and be this so.
+_Exit_
+
+[132]: {{page.q}}=11935 "owe (v.) 1:  own, possess, have"

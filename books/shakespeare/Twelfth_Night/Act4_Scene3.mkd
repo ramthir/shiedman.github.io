@@ -1,0 +1,88 @@
+---
+title: Twelfth Night
+tagline: Act IV - Scene III
+category: play
+author: shakespeare
+date: 2014-05-25 22:00:56 +0800
+permalink: /books/shakespeare/Twelfth_Night_act4_scene3.html
+layout: book_page
+creation: 1601-1602
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Sebastian_
+
+**SEBASTIAN**
+
+This is the air; that is the glorious sun;
+This pearl she gave me, I do feel't and see't;
+And though 'tis [wonder][2] that [enwrap][1]s me thus,
+Yet 'tis not madness. Where's Antonio, then?
+I could not find him at the Elephant.
+Yet there he was; and there I found this [credit][3]
+That he did [range][4] the town to seek me out.
+His counsel now might do me golden service.
+For though my soul disputes well with my sense
+That this may be some error, but no madness,
+Yet doth this [accident][5] and flood of fortune
+So far exceed all [instance][7], all [discourse][6],
+That I am ready to distrust mine eyes,
+And wrangle with my reason that persuades me
+To any other trust but that I am mad –
+Or else the lady's mad; yet if 'twere so,
+She could not [sway][8] her house, command her followers,
+Take and give back affairs and their [dispatch][9],
+With such a smooth, discreet, and [stable][10] bearing
+As I perceive she does. There's something in't
+That is [deceivable][11]. But here the lady comes.
+_Enter Olivia and a Priest_
+
+[1]: {{page.q}}=10169 "enwrap (v.):  absorb, engross, enfold"
+[2]: {{page.q}}=7841 "wonder (n.) 1:  feeling of wonder, astonishment, marvelling"
+[3]: {{page.q}}=3669 "credit (n.) 4:  report, news, story"
+[4]: {{page.q}}=16561 "range (v.) 1:  wander freely, roam, rove"
+[5]: {{page.q}}=710 "accident (n.) 1:  occurrence, event, happening"
+[6]: {{page.q}}=8427 "discourse (n.) 2:  rationality, faculty of understanding"
+[7]: {{page.q}}=4873 "instance (n.) 2:  illustration, example, case"
+[8]: {{page.q}}=14117 "sway (v.) 1:  control, rule, direct, govern"
+[9]: {{page.q}}=8907 "dispatch, despatch (n.) 6:  management, direction, supervision"
+[10]: {{page.q}}=16492 "stable (adj.) 2:  steady, poised, self-possessed"
+[11]: {{page.q}}=9243 "deceivable (adj.) 1:  deceptive, illusory"
+
+
+**OLIVIA**
+
+Blame not this haste of mine. If you mean well,
+Now go with me and with this holy man
+Into the [chantry][13] [by][12]; there before him
+And underneath that consecrated roof
+Plight me the full [assurance][14] of your faith,
+That my most [jealous][16] and too [doubtful][15] soul
+May live at peace. He shall conceal it
+Whiles you are willing it shall come to note;
+What time we will our celebration keep
+According to my [birth][17]. What do you say?
+
+[12]: {{page.q}}=1078 "by (adv.) 1:  near by, close at hand"
+[13]: {{page.q}}=4500 "chantry (n.):  small private chapel"
+[14]: {{page.q}}=71 "assurance (n.) 2:  confirmation, pledge, guarantee"
+[15]: {{page.q}}=8921 "doubtful (adj.) 1:  fearful, worried, apprehensive"
+[16]: {{page.q}}=18952 "jealous (adj.) 3:  anxious, uneasy, worried [about]"
+[17]: {{page.q}}=1065 "birth (n.) 1:  royal birth, noble ancestry"
+
+
+**SEBASTIAN**
+
+I'll follow this good man, and go with you;
+And having sworn truth, ever will be true.
+
+
+
+**OLIVIA**
+
+Then lead the way, good father, and heavens so shine
+That they may fairly [note][18] this act of mine!
+_Exeunt_
+
+[18]: {{page.q}}=11320 "note (v.) 1:  observe, pay attention [to], take special note [of]"

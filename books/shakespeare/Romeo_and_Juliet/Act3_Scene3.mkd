@@ -1,0 +1,468 @@
+---
+title: Romeo and Juliet
+tagline: Act III - Scene III
+category: play
+author: shakespeare
+date: 2014-05-26 17:40:04 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act3_scene3.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Friar Laurence_
+
+**FRIAR**
+
+Romeo, come forth. Come forth, thou fearful man.
+Affliction is enamoured of thy [part][1]s,
+And thou art wedded to calamity.
+_Enter Romeo_
+
+[1]: {{page.q}}=12150 "part (n.) 1: quality, attribute, gift, accomplishment [of mind or body]"
+
+
+**ROMEO**
+
+Father, what news? What is the Prince's doom?
+What sorrow [crave][2]s acquaintance at my hand
+That I yet know not?
+
+[2]: {{page.q}}=2863 "crave (v.) 2: need, demand, require"
+
+
+**FRIAR**
+
+Too familiar
+Is my dear son with such sour company.
+I bring thee tidings of the Prince's doom.
+
+
+
+**ROMEO**
+
+What less than doomsday is the Prince's doom?
+
+
+
+**FRIAR**
+
+A [gentle][3]r judgement vanished from his lips:
+Not body's death, but body's banishment.
+
+[3]: {{page.q}}=17496 "gentle (adj.) 2: courteous, friendly, kind"
+
+
+**ROMEO**
+
+Ha, banishment? Be merciful, say ‘ death.’
+For exile hath more terror in his look,
+Much more than death. Do not say ‘ banishment.’
+
+
+
+**FRIAR**
+
+Hence from Verona art thou banished.
+Be patient, for the world is broad and wide.
+
+
+
+**ROMEO**
+
+There is no world [without][4] Verona walls,
+But purgatory, torture, hell itself.
+Hence banished is banished from the world,
+And world's exile is death. Then ‘ banished ’
+Is death mistermed. Calling death ‘ banished,’
+Thou cuttest my head off with a golden axe
+And smilest upon the stroke that murders me.
+
+[4]: {{page.q}}=5794 "without (conj.) 3: outside"
+
+
+**FRIAR**
+
+O deadly sin! O rude unthankfulness!
+Thy fault our law calls death. But the kind Prince,
+Taking thy part, hath rushed aside the law,
+And turned that black word ‘ death ’ to banishment.
+This is dear mercy, and thou seest it not.
+
+
+
+**ROMEO**
+
+'Tis torture, and not mercy. Heaven is here,
+Where Juliet lives. And every cat and dog
+And little mouse, every unworthy thing,
+Live here in heaven and may look on her.
+But Romeo may not. More [validity][5],
+More honourable state, more [courtship][6] lives
+In [carrion][7] flies than Romeo. They may seize
+On the white wonder of dear Juliet's hand
+And steal immortal blessing from her lips,
+Who, even in pure and [vestal][8] modesty,
+[Still][9] blush, as thinking their own kisses sin.
+This may flies do, when I from this must fly.
+And sayest thou yet that exile is not death?
+But Romeo may not, he is banished.
+Flies may do this but I from this must fly.
+They are free men. But I am banished.
+Hadst thou no poison mixed, no sharp-ground knife,
+No sudden [mean][11] of death, though ne'er so mean,
+But ‘ banished ’ to kill me – ‘ banished ’?
+O Friar, the damned use that word in hell.
+Howlings [attend][12]s it! How hast thou the heart,
+Being a [divine][13], a [ghostly][14] confessor,
+A sin-absolver, and my friend professed,
+To mangle me with that word ‘ banished ’?
+
+[5]: {{page.q}}=7315 "validity (n.) 1: value, worth, estimation"
+[6]: {{page.q}}=2760 "courtship (n.): court life, courtliness; also: wooing, courting"
+[7]: {{page.q}}=4247 "carrion (adj.) 2: preying on rotting flesh"
+[8]: {{page.q}}=7458 "vestal (adj.) 2: virgin"
+[9]: {{page.q}}=14077 "still (adv.) 1: constantly, always, continually"
+[10]: {{page.q}}=10516 "mean (adj.) 2: lowly, humble, poor"
+[11]: {{page.q}}=10600 "mean (n.) 1: means, way, method"
+[12]: {{page.q}}=76 "attend (v.) 4: accompany, follow closely, go with"
+[13]: {{page.q}}=8589 "divine (n.) 1: clergyman, priest, parson"
+[14]: {{page.q}}=17917 "ghostly (adj.): spiritual, holy"
+
+
+**FRIAR**
+
+Thou [fond][15] mad man, hear me a little speak.
+
+[15]: {{page.q}}=19852 "fond (adj.) 1: foolish, stupid, mad"
+
+
+**ROMEO**
+
+O, thou wilt speak again of banishment.
+
+
+
+**FRIAR**
+
+I'll give thee armour to keep off that word –
+Adversity's sweet milk, philosophy,
+To comfort thee, though thou art banished.
+
+
+
+**ROMEO**
+
+Yet ‘ banished ’? Hang up philosophy!
+Unless philosophy can make a Juliet,
+[Displant][16] a town, reverse a prince's doom,
+It helps not, it prevails not. Talk no more.
+
+[16]: {{page.q}}=9312 "displant (v.): transplant, remove, displace"
+
+
+**FRIAR**
+
+O, then I see that madmen have no ears.
+
+
+
+**ROMEO**
+
+How should they, when that wise men have no eyes?
+
+
+
+**FRIAR**
+
+Let me [dispute][17] with thee of thy [estate][18].
+
+[17]: {{page.q}}=8989 "dispute (v.) 1: discuss, consider, deal with [a state of affairs]"
+[18]: {{page.q}}=9655 "estate (n.) 1: state, situation, circumstances"
+
+
+**ROMEO**
+
+Thou canst not speak of that thou dost not feel.
+Wert thou as young as I, Juliet thy love,
+An hour but married, Tybalt murdered,
+Doting like me, and like me banished,
+Then mightst thou speak; then mightst thou tear thy hair,
+And fall upon the ground, as I do now,
+Taking the measure of an unmade grave.
+_Knock_
+
+
+
+**FRIAR**
+
+Arise. One knocks. Good Romeo, hide thyself.
+
+
+
+**ROMEO**
+
+Not I; unless the breath of heartsick groans
+Mist-like [infold][19] me from the search of eyes.
+_Knock_
+
+[19]: {{page.q}}=5293 "infold (v.): enfold, wrap up, conceal"
+
+
+**FRIAR**
+
+Hark, how they knock! – Who's there? – Romeo, arise.
+Thou wilt be taken. – Stay awhile! – Stand up.
+_Knock_
+Run to my study. – By and by! – God's will,
+What [simpleness][20] is this! – I come, I come!
+_Knock_
+Who knocks so hard? Whence come you? What's your will?
+
+[20]: {{page.q}}=15988 "simpleness (n.) 3: idiocy, stupidity, foolishness"
+
+
+**NURSE**
+
+Let me come in, and you shall know my errand.
+I come from Lady Juliet.
+
+
+
+**FRIAR**
+
+Welcome then.
+_Enter Nurse_
+
+
+
+**NURSE**
+
+O holy Friar, O, tell me, holy Friar,
+Where's my lady's lord, where's Romeo?
+
+
+
+**FRIAR**
+
+There on the ground, with his own tears made drunk.
+
+
+
+**NURSE**
+
+O, he is even in my mistress' [case][21],
+[Just][22] in her case! O woeful [sympathy][23]!
+Piteous predicament! Even so lies she,
+Blubbering and weeping, weeping and blubbering.
+Stand up, stand up! Stand, an you be a man.
+For Juliet's sake, for her sake, rise and stand!
+Why should you fall into so deep an [O][24]?
+_He rises_
+
+[21]: {{page.q}}=4136 "case (n.) 1: state, plight, situation, circumstance"
+[22]: {{page.q}}=18893 "just (adv.) 1: exactly, precisely"
+[23]: {{page.q}}=14697 "sympathy (n.) 1: accord, agreement, harmony"
+[24]: {{page.q}}=12014 "O (n.) 4: sorrowful exclamation"
+
+
+**ROMEO**
+
+Nurse –
+
+
+
+**NURSE**
+
+Ah sir! ah sir! Death's the end of all.
+
+
+
+**ROMEO**
+
+Spakest thou of Juliet? How is it with her?
+Doth not she think me an [old][25] murderer,
+Now I have stained the childhood of our joy
+With blood removed but little from her own?
+Where is she? and how doth she? and what says
+My [concealed][27] lady to our [cancelled][26] love?
+
+[25]: {{page.q}}=11923 "old (adj.) 6: experienced, practised, skilled"
+[26]: {{page.q}}=4068 "cancelled (adj.): made null and void, invalidated"
+[27]: {{page.q}}=3779 "concealed (adj.) 1: unrevealed, kept secret, unacknowledged"
+
+
+**NURSE**
+
+O, she says nothing, sir, but weeps and weeps,
+And now falls on her bed, and then starts up,
+And Tybalt calls, and then [on][28] Romeo cries,
+And then down falls again.
+
+[28]: {{page.q}}=12018 "on (prep.) 1: against"
+
+
+**ROMEO**
+
+As if that name,
+Shot from the deadly [level][29] of a gun,
+Did murder her; as that name's cursed hand
+Murdered her kinsman. O, tell me, Friar, tell me,
+In what vile part of this [anatomy][30]
+Doth my name lodge? Tell me, that I may [sack][31]
+The hateful mansion.
+
+_He [offers][32] to stab himself, and the Nurse snatches the dagger away_
+
+[29]: {{page.q}}=19634 "level (n.) 2: line of fire"
+[30]: {{page.q}}=877 "anatomy (n.) 2: body, cadaver, corpse"
+[31]: {{page.q}}=15989 "sack (v.): plunder, pillage, despoil"
+[32]: {{page.q}}=11701 "offer (v.) 1: attempt, start, try, make a move"
+
+
+**FRIAR**
+
+Hold thy desperate hand.
+Art thou a man? Thy form cries out thou art.
+Thy tears are womanish. Thy wild acts denote
+The [unreasonable][33] fury of a beast.
+Unseemly woman in a [seeming][34] man!
+And [ill-beseeming][35] beast in seeming both!
+Thou hast amazed me. By my holy order,
+I thought thy [disposition][36] better [temper][37]ed.
+Hast thou slain Tybalt? Wilt thou slay thyself?
+And slay thy lady that in thy life lives,
+By doing damned hate upon thyself?
+Why [rail][38]est thou on thy birth, the heaven, and earth?
+Since birth and heaven and earth, all three, do meet
+In thee at once; which thou at once wouldst lose.
+Fie, fie, thou shamest thy shape, thy love, thy [wit][39],
+Which, like a [usurer][40], aboundest in all,
+And usest none in that [true][41] use indeed
+Which should bedeck thy shape, thy love, thy wit.
+Thy noble shape is but a [form][42] of wax,
+[Digress][43]ing from the valour of a man;
+Thy dear love sworn but hollow perjury,
+Killing that love which thou hast vowed to cherish;
+Thy wit, that ornament to shape and love,
+[Misshapen][45] in the [conduct][44] of them both,
+Like [powder][47] in a skilless soldier's [flask][46]
+Is set [afire][48] by thine own ignorance,
+And thou [dismember][50]ed with thine own [defence][49].
+What, rouse thee, man! Thy Juliet is alive,
+For whose dear sake thou wast but lately dead.
+There art thou [happy][51]. Tybalt would kill thee,
+But thou slewest Tybalt. There art thou happy.
+The law, that threatened death, becomes thy friend
+And turns it to exile. There art thou happy.
+A pack of blessings light upon thy back.
+Happiness courts thee in her best array.
+But, like a [mishaved][52] and sullen [wench][53],
+Thou pouts upon thy [fortune][54] and thy love.
+Take heed, take heed, for such die miserable.
+Go, get thee to thy love, as was [decree][55]d.
+Ascend her chamber. Hence and comfort her.
+But look thou stay not till the [Watch][56] be set,
+For then thou canst not pass to Mantua,
+Where thou shalt live till we can find a time
+To [blaze][57] your marriage, reconcile your friends,
+Beg pardon of the Prince, and call thee back
+With twenty hundred thousand times more joy
+Than thou wentest forth in lamentation.
+Go before, Nurse. [Commend][58] me to thy lady,
+And bid her hasten all the house to bed,
+Which [heavy][61] sorrow makes them [apt][59] unto.
+Romeo is coming.
+
+[33]: {{page.q}}=6966 "unreasonable (adj.): lacking the faculty of reason, irrational"
+[34]: {{page.q}}=14562 "seeming (adj.): apparent, convincing in appearance"
+[35]: {{page.q}}=5163 "ill-beseeming (adj.): unseemly, inappropriate, unbecoming"
+[36]: {{page.q}}=8713 "disposition (n.) 2: natural temperament, normal state of mind"
+[37]: {{page.q}}=5435 "temper (v.) 1: blend, mix, concoct, compound"
+[38]: {{page.q}}=17089 "rail (v.): rant, rave, be abusive [about]"
+[39]: {{page.q}}=7583 "wit (n.) 1: intelligence, wisdom, good sense, mental ability"
+[40]: {{page.q}}=6851 "usurer (n.): money-lender, one who charges excessive interest"
+[41]: {{page.q}}=5411 "true (adj.) 3: honourable, virtuous, sincere"
+[42]: {{page.q}}=19870 "form (n.) 1: image, likeness, shape"
+[43]: {{page.q}}=9313 "digress (v.): deviate, diverge, depart"
+[44]: {{page.q}}=3213 "conduct (n.) 2: guidance, direction"
+[45]: {{page.q}}=11109 "misshapen (adj.): gone awry, badly directed"
+[46]: {{page.q}}=20606 "flask (n.): powder-flask, case for carrying gunpowder"
+[47]: {{page.q}}=13447 "powder (n.): gunpowder"
+[48]: {{page.q}}=329 "afire (adj.): on fire, burning"
+[49]: {{page.q}}=9524 "defence (n.) 3: arms, armour, means of defence"
+[50]: {{page.q}}=9314 "dismember (v.): blow to pieces, divide limb from limb"
+[51]: {{page.q}}=18293 "happy (adj.) 1: fortunate, lucky, favoured"
+[52]: {{page.q}}=11110 "mishaved (adj.): badly behaved"
+[53]: {{page.q}}=7615 "wench (n.): girl, lass"
+[54]: {{page.q}}=19927 "fortune (n.) 4: lucky chance, good luck"
+[55]: {{page.q}}=9325 "decree (v.): arrange, decide, resolve"
+[56]: {{page.q}}=7733 "watch (n.) 1: watchmen, officers, street patrol"
+[57]: {{page.q}}=1747 "blaze, blaze forth (v.): proclaim, divulge, make known"
+[58]: {{page.q}}=2672 "commend (v.) 1: convey greetings, present kind regards"
+[59]: {{page.q}}=123 "apt (adj.) 4: likely, inclined, prone"
+[60]: {{page.q}}=18156 "heavy (adj.) 2: grave, serious, weighty"
+[61]: {{page.q}}=18220 "heavy (adj.) 1: sorrowful, sad, gloomy"
+
+
+**NURSE**
+
+O Lord, I could have stayed here all the night
+To hear good counsel. O, what learning is! –
+My lord, I'll tell my lady you will come.
+
+
+
+**ROMEO**
+
+Do so, and bid my sweet prepare to [chide][62].
+_The Nurse begins to go in and turns back again_
+
+[62]: {{page.q}}=4299 "chide (v.), past form chid 1: scold, rebuke, reprove"
+
+
+**NURSE**
+
+Here, sir, a ring she bid me give you, sir.
+[Hie][63] you, make haste, for it grows very late.
+_Exit Nurse_
+
+[63]: {{page.q}}=18172 "hie (v.): hasten, hurry, speed"
+
+
+**ROMEO**
+
+How well my [comfort][64] is revived by this!
+
+[64]: {{page.q}}=3780 "comfort (n.) 2: happiness, joy, cheerfulness"
+
+
+**FRIAR**
+
+Go hence. Good night. And here [stand][65]s all your [state][66]:
+Either be gone before the Watch be set,
+Or by the break of day disguised from hence.
+[Sojourn][67] in Mantua. I'll find out your man,
+And he shall [signify][68] from time to time
+Every good [hap][69] to you that chances here.
+Give me thy hand. 'Tis late. Farewell. Good night.
+
+[65]: {{page.q}}=15754 "stand (v.) 1: be, appear"
+[66]: {{page.q}}=5904 "state (n.) 1: condition, circumstances, situation, state of affairs"
+[67]: {{page.q}}=5910 "sojourn (v.) 1: pause, reside, stay for a while"
+[68]: {{page.q}}=13997 "signify (v.): report, make known, declare"
+[69]: {{page.q}}=18731 "hap (n.) 3: happening, event, occurrence"
+
+
+**ROMEO**
+
+But that a joy past joy calls out on me,
+It were a grief so [brief][70] to [part][71] with thee.
+Farewell.
+_Exeunt_
+
+[70]: {{page.q}}=1748 "brief (adv.) 2: hurriedly, rapidly, in a rush"
+[71]: {{page.q}}=12396 "part (v.) 1: depart [from], leave, quit"
+
+

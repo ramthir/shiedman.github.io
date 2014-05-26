@@ -1,0 +1,139 @@
+---
+title: Twelfth Night
+tagline: Act II - Scene I
+category: play
+author: shakespeare
+date: 2014-05-25 20:26:59 +0800
+permalink: /books/shakespeare/Twelfth_Night_act2_scene1.html
+layout: book_page
+creation: 1601-1602
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Antonio and Sebastian_
+
+**ANTONIO**
+
+Will you stay no longer? Nor will you not that
+I go with you?
+
+
+
+**SEBASTIAN**
+
+By your patience, no. My stars shine [darkly][1]
+over me. The [malignancy][2] of my fate might perhaps
+[distemper][3] yours; therefore I shall [crave][4] of you your
+leave, that I may bear my [evil][5]s alone. It were a bad
+recompense for your love to lay any of them on you.
+
+[1]: {{page.q}}=9102 "darkly (adv.) 2:  frowningly, ominously; gloomily"
+[2]: {{page.q}}=11002 "malignancy (n.):  evil influence, inauspicious character"
+[3]: {{page.q}}=8543 "distemper (v.):  disorder, derange, disturb, confuse"
+[4]: {{page.q}}=2904 "crave (v.) 1:  beg, entreat, request"
+[5]: {{page.q}}=9690 "evil (n.) 1:  affliction, misfortune, hardship"
+
+
+**ANTONIO**
+
+Let me yet know of you whither you are bound.
+
+
+
+**SEBASTIAN**
+
+No, [sooth][8], sir; my [determinate][6] voyage is [mere][7]
+[extravagancy][9]. But I perceive in you so excellent a touch
+of [modesty][10], that you will not extort from me what I am
+willing to keep in; therefore it [charge][11]s me in manners
+the rather to [express][12] myself. You must know of me
+then, Antonio, my name is Sebastian which I called
+Roderigo. My father was that Sebastian of Messaline
+whom I know you have heard of. He left behind him
+myself and a sister, both born in an [hour][13] – if the
+heavens had been pleased, would we had so ended! But
+you, sir, altered that, for some hour before you took me
+from the [breach][14] of the sea was my sister drowned.
+
+[6]: {{page.q}}=9189 "determinate (adj.) 1:  determined upon, intended, proposed"
+[7]: {{page.q}}=10433 "mere (adj.) 1:  complete, total, absolute, utter"
+[8]: {{page.q}}=16474 "sooth (adv.):  truly"
+[9]: {{page.q}}=10112 "extravagancy (n.):  wandering, drifting, roving about"
+[10]: {{page.q}}=10462 "modesty (n.) 2:  propriety, protocol, seemly behaviour"
+[11]: {{page.q}}=4481 "charge (v.) 4:  oblige, constrain, compel"
+[12]: {{page.q}}=9675 "express (v.):  show, reveal, display"
+[13]: {{page.q}}=18617 "hour, in an:  at the same time"
+[14]: {{page.q}}=2274 "breach (n.) 4:  surf, breaking waves"
+
+
+**ANTONIO**
+
+Alas the day!
+
+
+
+**SEBASTIAN**
+
+A lady, sir, though it was said she much resembled
+me, was yet of many accounted beautiful. But
+though I could not with such [estimable][15] wonder [over-far][16]
+believe that, yet thus far I will boldly [publish][17] her: she
+bore a mind that [envy][18] could not but call fair. She is
+drowned already, sir, with salt water, though I seem to
+drown her [remembrance][19] again with more.
+
+[15]: {{page.q}}=10113 "estimable (adj.):  appreciative, full of regard"
+[16]: {{page.q}}=11924 "over-far (adv.):  too far, to too great an extent"
+[17]: {{page.q}}=13252 "publish (v.) 2:  speak openly of, talk about"
+[18]: {{page.q}}=9707 "envy (n.) 1:  malice, ill-will, enmity"
+[19]: {{page.q}}=17226 "remembrance (n.) 1:  memory, bringing to mind, recollection"
+
+
+**ANTONIO**
+
+Pardon me, sir, your bad [entertainment][20].
+
+[20]: {{page.q}}=9764 "entertainment (n.) 1:  treatment, hospitality, reception"
+
+
+**SEBASTIAN**
+
+O good Antonio, forgive me your trouble.
+
+
+
+**ANTONIO**
+
+If you will not murder me for my love, let me
+be your servant.
+
+
+
+**SEBASTIAN**
+
+If you will not undo what you have done –
+that is, kill him whom you have [recover][22]ed – [desire][21] it not.
+[Fare][24] ye well at once; my [bosom][23] is full of [kindness][25], and I
+am yet so near the manners of my mother that, upon the
+least occasion more, mine eyes will tell tales of me. I am
+bound to the Count Orsino's court. Farewell.
+_Exit_
+
+[21]: {{page.q}}=8613 "desire (v.) 1:  request, wish, ask [for]"
+[22]: {{page.q}}=16587 "recover (v.) 1:  revive, restore to health"
+[23]: {{page.q}}=2300 "bosom (n.) 1:  heart, inner person"
+[24]: {{page.q}}=20910 "fare ... well: "
+[25]: {{page.q}}=19039 "kindness (n.) 3:  friendship, affection, good will"
+
+
+**ANTONIO**
+
+The gentleness of all the gods go with thee!
+I have many enemies in Orsino's court,
+Else would I very shortly see thee there –
+But come what may, I do adore thee so
+That danger shall seem [sport][26], and I will go!
+_Exit_
+
+[26]: {{page.q}}=14044 "sport (n.) 1:  recreation, amusement, entertainment"

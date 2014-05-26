@@ -1,0 +1,253 @@
+---
+title: Glossary
+book: 
+  title: on human nature
+  author: Edward O. Wilson
+category: human_nature
+permalink: /books/on_human_nature/Glossary.html
+date: 2014-04-11 20:17:00 +0800
+layout: book_page 
+---
+
+For the convenience of the reader I have prepared the following glossary of some of the terms used in this book that may be unfamiliar because they are technical or that, because of their importance, deserve a more than usually precise definition.
+
+Adaptation
+: In biology, a particular anatomical structure, physiological process, or behavior that improves an organism’s fitness to survive and reproduce. Also, the evolutionary process that leads to the acquisition of such a trait.
+
+Aggression
+: Any physical act or threat of action by one individual that reduces the freedom or genetic fitness of another.
+
+Altruism
+: Self-destructive behavior performed for the benefit of others. Altruism may be entirely rational, or automatic and unconscious, or conscious but guided by innate emotional responses.
+
+Asexual reproduction
+: A form of reproduction, such as spore formation, budding, or simple cell division, that does not involve the fusion of sex cells.
+
+Autocatalysis
+: The process in which the products of a reaction serve as catalysts, that is, they speed up the rate of the same reaction that produced them and cause it to accelerate.
+
+Band
+: The term often applied to groups of hunter-gatherers.
+
+Behavioral biology
+: The scientific study of all aspects of behavior, including neurophysiology (study of the nervous system), ethology (study of whole patterns of behavior), and sociobiology (study of the biological basis of social behavior and organization).
+
+Budding
+: A form of asexual reproduction in which a more or less complete new organism simply grows from the body of the parent organism.
+
+Carnivore
+: A creature that eats fresh meat.
+
+Catalysis
+: The process by which a substance accelerates a reaction without itself being consumed in the overall course of the-reaction.
+
+Chromosome
+: A complex, often spherical or rod-shaped structure, found in the nucleus of cells and bearing part of the genetic information (genes) of the organism.
+
+Cortex
+: In human anatomy, the outer layer of nervous tissue of the brain, the “gray matter” that contains the centers of consciousness and rational thought.
+
+Darwinism
+: The theory of evolution by natural selection as argued by Charles Darwin (especially, in The Origin of Species, 1859). It holds that the genetic compositions of populations change dirough rime—and thus evolve—first because individual members of the population vary among themselves in their hereditary material, and second because those endowed with the properties best fitting them for survival and reproduction will be disproportionately represented in later generations. This mode of evolution is viewed by modern biologists as the only one that operates beyond and above the mere statistical fluctuation of genetic types within populations.
+
+Demography
+: The rate of growth and the age structure of populations, and the processes that determine these properties; also the scientific study of the properties.
+
+Density dependence
+: An increase or decrease in the influence that some factor, such as disease or territorial behavior, exercises on the rate of population growth as a result of an increase in the density of the population.	
+
+Determinism
+: Loosely employed to designate any form of constraint on the development of an anatomical organ, physiological process, or behavior. Genetic determinism means some degree of constraint that is based on the possession of a particular set of genes.
+
+Developmental landscape
+: A metaphor used to resolve the nature-nurture controversy. The development of a trait is compared to the passage of a ball rolling down a genetically fixed landscape, in which it comes periodically to divided channels and rolls into one or the other branches according to its momentum and the relative accessibility of the branches.
+
+DNA (deoxyribonucleic acid)
+: The fundamental hereditary material of all organisms. The genes are composed of the functional segments of DNA molecules.
+
+Dominance system
+: In sociobiology, the set of relationships within a group of animals or men, often established and maintained by some form of aggression or coercion, in which one individual has precedence over all others in eating, mating, etc., a second individual has precedence over the remaining members of the group, and so on down a dominance hierarchy or “pecking order.” Dominance orders are simple and strict in chickens but complex and subtle in human beings.
+
+Drive
+: A term used loosely to describe the tendency of an animal to seek out an object, such as a mate, an item of food, or a nesting site, and to perform an appropriate response toward it.
+
+Environmentalism
+: In the study of behavior, the belief that experience with the environment mostly or entirely determines the development of behavioral patterns.
+
+Estrus
+: The period of heat, or maximum sexual receptivity, in the female. Under ordinary conditions the estrus is also the rime of release of the female’s eggs from the ovaries.
+
+Ethology
+: The study of whole patterns of animal behavior in natural environments, with emphasis on analyzing adaptation and evolution of the patterns.
+
+Evolution
+: Any gradual change. Organic evolution, often referred to as evolution for short, is any genetic change in a population of organisms from generation to generation.
+
+Evolutionary biology
+: All of the branches of biology, including ecology, taxonomy, population biology, ethology, and sociobiology, that study the evolutionary process and the characteristics of whole populations and communities of organisms.
+
+Fitness
+: See genetic fitness.
+
+Gamete
+: A sex cell: an egg or a sperm.
+
+Gene
+: A basic unit of heredity, a portion of the giant DNA molecule that affects the development of any trait at the most elementary biochemical level. The term gene is often applied more precisely to the cistron, the section of DNA that carries the code for the formation of a particular portion of a protein molecule.
+
+Gene pool
+: All of the genes in an entire population of organisms.
+
+Genetic
+: Hereditary; refers to variation in traits that is based at least in part on differences in genes.
+
+Genetic fitness
+: The contribution to the next generation of one genetically distinct kind of organism relative to the contributions of other genetically different kinds belonging to the same population. By definition, those kinds with higher genetic fitness eventually come to prevail in the population; the process is called evolution by natural selection.
+
+Genetics
+: The scientific study of heredity.
+
+Genus
+: A group of similar, related species.
+
+Gonad
+: An organ that produces sex cells; ordinarily, either an ovary (female gonad) or testis (male gonad).
+
+Group selection
+: Any process, such as competition, the effects of disease, or the ability to reproduce, that results in one group of individuals leaving more descendants than another group. The “group” is loosely defined in theory: it can be a set of kin (usually more extended than merely parents and offspring; see kin selection), or part or all of a tribe or larger social group. Contrast with individual selection.
+
+Haplodiploidy
+: The means of sex determination, such as that found in ants and other hymenopterous insects, in which males come from unfertilized eggs (hence they are haploid, having only one set of chromosomes) and females from fertilized eggs (making them diploid, or the possessors of two sets of chromosomes).
+
+Hermaphroditism
+: The coexistence of both female and male sex organs in the same organism.
+
+Homology
+: A similarity between anatomical structures, physiological processes, or behavioral patterns in two or more species due to the possession of a common ancestor and hence the possession of at least some genes that are identical by common descent.
+
+Homozygous
+: Each ordinary cell in the body has two chromosomes of a kind; when the genes located at a given site on one of these chromosome pairs are identical to each other, the organism is said to be homozygous for that particular chromosome site.
+
+Human nature
+: In the broader sense, the full set of innate behavioral predispositions that characterize the human species; and in the narrower sense, those predispositions that affect social behavior.
+
+Hymenoptera
+: The insect order that contains all bees, wasps, and ants.
+
+Hyper gamy
+: The female practice of acquiring a mate of equal or higher social rank.
+
+Hypertrophy
+: The extreme development of a preexisting structure. The elephant's tusk, for example, represents the hypertrophic enlargement and change in shape through evolution of a tooth that originally had an ordinary form. In this book it is suggested that most kinds of human social behavior are hypertrophic forms of original, simpler responses that were of more direct adaptive advantage in hunter-gatherer and primitively agricultural societies.
+
+Hypothesis
+: A proposition that can be tested and is subject to possible disproof by further observation and experimentation. By the usual canons of scientific evidence, it is difficult if not impossible to prove a hypothesis with finality, but one can be tested so thoroughly and rigorously as to be transformed eventually into accepted fact—but never dogma. See theory.
+
+Individual selection
+: Natural selection favoring the individual and its direct descendants. Contrast with group selection and kin selection.
+
+Innate
+: Same as genetic: referring to variation based at least in part on differences in genes.
+
+Instinct
+: Behavior that is relatively stereotyped, more complex than simple reflexes such as salivation and eye blinking, and usually directed at particular objects in the environment. Learning may or may not be involved in the development of instinctive behavior; the important point is that the behavior develops toward a comparatively narrow, predictable end product. Because of its vagueness the term “instinct” is seldom used in technical scientific literature anymore, but it is so thoroughly entrenched in the English language—and useful as an occasional shorthand expression—that attempts at a precise definition are justified.
+
+Kin selection
+: The increase of certain genes over others in a population as a result of one or more individuals favoring the survival and reproduction of relatives who therefore are likely to possess the same genes by common descent. Kin selection is one way in which altruistic behavior can evolve as a biological trait. Although kin are defined so as to include offspring, the term kin selection is ordinarily used only if at least some other relatives, such as brothers, sisters, or parents, are also affected. Contrast with individual selection.
+
+Lamarckism
+: The theory, expounded by jean Baptiste de Lamarck in 1809, that species evolve through physical and behavioral characteristics acquired by organisms during their lifetime and transmitted directly to their offspring. Lamarckism proved wrong as the explanation for biological evolution and was superseded by Darwinism, or evolution by natural selection.
+
+Learning rule
+: A predisposition to learn one alternative behavior as opposed to another, even when both are taught with equal intensity. An example of a learning rule is the development of handedness: persons who are genetically right-handed can be trained to be left-handed only with difficulty, whereas the reverse is true of genetically left-handed persons.
+
+Limbic system
+: A group of structures and regions in the deeper part of the forebrain that are interconnected and participate strongly in emotion, motivation, and reinforcement of learning. The principal parts include the hypothalamus, rhinencephalon (nosebrain), and hippocampus.
+
+Mammal
+: Any animal of the class Mammalia (including man), characterized by the production of milk by the female mammary glands and the possession of hair for body covering.
+
+Maturation
+: The automatic development of a pattern of behavior which becomes increasingly complex or precise as the animal matures. Unlike learning, the development does not require experience to occur.
+
+Mutation
+: In the broad sense, any discontinuous change in the genetic constitution of an organism. A mutation can consist of a change in the chemical structure of a gene (segment of DNA) or in the structure or number of entire chromosomes.
+
+Natural selection
+: The differential contribution of offspring to the next generation by various genetic types belonging to the same population. This mechanism of evolution was suggested by Charles Darwin and is thus also called Darwinism. It has been supported and greatly strengthened by the findings of modem genetics.
+
+Neurobiology
+: The scientific study of the anatomy (neuroanatomy) and physiology (neurophysiology) of the nervous system.
+
+Neuron
+: A nerve cell; the basic unit of the nervous system.
+
+Neurophysiology
+: See neurobiology.
+
+Nucleus
+: The central body of the cell, containing the hereditary material of the organism. (Genes are carried on structures within the nucleus called chromosomes.)
+
+Ontogeny
+: The development of a single organism throughout its lifetime (contrast with phylogeny).
+
+Pbylogeny
+: The evolutionary history of a particular group of organisms; also, the “family tree” that shows which species gave rise to others (contrast with ontogeny).
+
+Physiology
+: The scientific study of the functions of living organisms and the individual organs, tissues, and cells of which they are composed.
+
+Polygamy
+: The possession of multiple mates by an individual, either multiple females by a male (polygyny) or multiple males by a female (polyandry).
+
+Polygyny
+: The possession of two or more mates by a male.
+
+Population
+: Any group of organisms capable of interbreeding for the most part and coexisting at the same time and in the same place.
+
+Prepared learning
+: An innate predisposition to learn one thing as opposed to another, even when the intensity of training is made equal for both. For example, a person who is genetically right-handed is prepared to learn use of the right hand and deterred from learning to use the left hand, or can be induced only by special effort to do so.
+
+Primate
+: A member of the order Primates, such as a lemur, monkey, ape, or man.
+
+Reciprocal altruism
+: The trading of altruistic acts by individuals at different times. For example, one person saves a drowning person in exchange for the promise (or at least the reasonable expectation) that the altruistic act will be repaid if circumstances are ever reversed.
+
+Scientific materialism
+: The view that all phenomena in the universe, including the human mind, have a material basis, are subject to the same physical laws, and can be most deeply understood by scientific analysis.
+
+Selection
+: See natural selection.
+
+Sex ratio
+: The ratio of males to females (for example, two males to one female) in a population or society.
+
+Social insect
+: One of the kinds of insect that form colonies with reproductive castes and worker castes; in particular, the termites, ants, social bees, and social wasps.
+
+Sociality
+: The combined properties and processes of social existence.
+
+Society
+: A group of individuals belonging to the same species and organized in a cooperative manner. The principal criterion for applying the term “society” is the existence of reciprocal communication of a cooperative nature that extends beyond mere sexual activity.
+
+Sociobiology
+: The scientific study of the biological basis of all forms of social behavior in all kinds of organisms, including man.
+
+Species
+: A population or set of populations of closely related and similar organisms, which ordinarily breed freely among themselves and not with members of other populations.
+
+Taxonomy
+: The science and art of the classification of organisms.
+
+Territory
+: A fixed area from which an organism or group of organisms excludes other members of the same species by aggressive behavior or display.
+
+Theory
+: A set of broad propositions about some process in nature, such as the mode of evolution or the history of the earth’s continents, that lead to the creation of conjectures—“hypotheses”—about specific phenomena that can be tested. A theory is regarded as truthful if it stimulates the invention of new hypotheses, if the hypotheses stand up under testing, and if as a result the explanations made possible by the theory are more effective and satisfying in explaining some part of reality than the explanations pressed by rival theories.
+
+Zoology
+: The scientific study of animals.
+

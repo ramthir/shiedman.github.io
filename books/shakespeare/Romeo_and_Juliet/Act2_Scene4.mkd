@@ -1,0 +1,808 @@
+---
+title: Romeo and Juliet
+tagline: Act II - Scene IV
+category: play
+author: shakespeare
+date: 2014-05-26 14:03:23 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act2_scene4.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Benvolio and Mercutio_
+
+**MERCUTIO**
+
+Where the devil should this Romeo be? Came
+he not home [tonight][1]?
+
+[1]: {{page.q}}=5571 "tonight (adv.): last night, this past night"
+
+
+**BENVOLIO**
+
+Not to his father's. I spoke with his man.
+
+
+
+**MERCUTIO**
+
+Ah, that same pale hard-hearted [wench][2], that Rosaline,
+Torments him so that he will sure run mad.
+
+[2]: {{page.q}}=7615 "wench (n.): girl, lass"
+
+
+**BENVOLIO**
+
+Tybalt, the kinsman to old Capulet,
+Hath sent a letter to his father's house.
+
+
+
+**MERCUTIO**
+
+A challenge, on my life.
+
+
+
+**BENVOLIO**
+
+Romeo will [answer][3] it.
+
+[3]: {{page.q}}=215 "answer (v.) 5: cope with, face, encounter"
+
+
+**MERCUTIO**
+
+Any man that can write may answer a letter.
+
+
+
+**BENVOLIO**
+
+Nay, he will answer the letter's master, how he
+[dare][4]s, being dared.
+
+[4]: {{page.q}}=9307 "dare (v.) 1: challenge, confront, defy"
+
+
+**MERCUTIO**
+
+Alas, poor Romeo, he is already dead! –
+stabbed with a white wench's black eye; shot through the
+ear with a love song; the very [pin][5] of his heart cleft with
+the blind bow-boy's [butt-shaft][6]. And is he a man to
+encounter Tybalt?
+
+[5]: {{page.q}}=13428 "pin (n.) 3: [archery] peg in the middle of a target; centre"
+[6]: {{page.q}}=1744 "butt-shaft (n.): blunt-headed arrow"
+
+
+**BENVOLIO**
+
+Why, what is Tybalt?
+
+
+
+**MERCUTIO**
+
+More than Prince of Cats, I can tell you. O,
+he's the courageous [captain][7] of [compliment][8]s. He fights as
+you sing [pricksong][10]: keeps time, [distance][9], and [proportion][11].
+He rests his minim rests, one, two, and the third in
+your bosom. The very butcher of a silk button. A duellist,
+a duellist. A gentleman of the very first [house][12], of the
+_first and second cause. Ah, the immortal passado! the_
+_punto reverso! the hay!_
+
+[7]: {{page.q}}=3958 "captain (n.): commander, chief, leader"
+[8]: {{page.q}}=3878 "compliment, complement (n.) 1: example of good manners, instance of proper behaviour"
+[9]: {{page.q}}=8824 "distance (n.) 1: [fencing] regulation space to be kept between contestants"
+[10]: {{page.q}}=13429 "pricksong (n.): vocal music written down, printed music"
+[11]: {{page.q}}=12625 "proportion (n.) 10: proper rhythm, correct value [of notes]"
+[12]: {{page.q}}=18711 "house (n.) 4: school of instruction, training school"
+
+
+**BENVOLIO**
+
+The what?
+
+
+
+**MERCUTIO**
+
+The [pox][16] of such [antic][13], lisping, affecting
+[fantasticoes][14], these new tuners of [accent][17]! ‘ By Jesu, a very
+good blade! a very [tall][18] man! a very good whore!’ Why, is
+not this a lamentable thing, [grandsire][19], that we should be
+thus afflicted with these strange [flies][20], these fashion-mongers,
+these ‘ pardon-me's ’, who [stand][21] so much on the
+new [form][22] that they cannot sit at ease on the old bench?
+O, their bones, their bones!
+_Enter Romeo_
+
+<!--[14] and [15] is the same-->
+[13]: {{page.q}}=869 "antic, antick(e), antique (adj.) 1: fantastic, bizarre, weird"
+[14]: {{page.q}}=20599 "fantastico (n.): absurdity, person of wild ideas"
+[15]: {{page.q}}=13446 "phantasime (n.): one full of fancies, extravagantly behaved individual"
+[16]: {{page.q}}=13357 "pox (n.): venereal disease; also: plague, or any other disease displaying skin pustules"
+[17]: {{page.q}}=880 "accent (n.) 1: talk, speech, utterance, words"
+[18]: {{page.q}}=5549 "tall (adj.) 1: brave, valiant, bold"
+[19]: {{page.q}}=17887 "grandsire (n.) 1: grandfather"
+[20]: {{page.q}}=20600 "fly (n.): parasite, flatterer, hanger-on"
+[21]: {{page.q}}=14513 "stand (v.) 5: make a stand, be resolute [on a point]"
+[22]: {{page.q}}=19867 "form (n.) 5: way of behaving, behaviour, code of conduct"
+
+
+**BENVOLIO**
+
+Here comes Romeo, here comes Romeo!
+
+
+
+**MERCUTIO**
+
+Without his roe, like a dried herring. O flesh,
+flesh, how art thou fishified! Now is he for the [number][23]s
+that Petrarch flowed in. Laura, to his lady, was a kitchen
+wench – marry, she had a better love to [berhyme][24] her –
+Dido a [dowdy][25], Cleopatra a gypsy, Helen and Hero
+[hilding][28]s and [harlot][27]s, Thisbe a [grey][26] eye or so, but not to
+_the purpose. Signor Romeo, bon jour. There's a French_
+salutation to your French [slop][30]. You gave us the [counterfeit][29]
+[fairly][31] last night.
+
+[23]: {{page.q}}=11488 "number (n.) 2: (plural) metre, versification"
+[24]: {{page.q}}=1464 "berhyme, be-rime (v.): celebrate in rhyme, put into rhyme"
+[25]: {{page.q}}=9308 "dowdy (n.): unattractive woman, shabbily dressed girl"
+[26]: {{page.q}}=17927 "grey (adj.) 3: [of eyes] grey-blue, blue-tinged"
+[27]: {{page.q}}=18136 "harlot (n.): prostitute, whore"
+[28]: {{page.q}}=18236 "hilding (n.): good-for-nothing, worthless individual"
+[29]: {{page.q}}=2914 "counterfeit (n.) 1: false imitation, spurious image"
+[30]: {{page.q}}=15686 "slop, slops (n.): large loose breeches, baggy trousers"
+[31]: {{page.q}}=19951 "fairly (adv.) 5: fully, completely, entirely"
+
+
+**ROMEO**
+
+Good [morrow][32] to you both. What counterfeit did I
+give you?
+
+[32]: {{page.q}}=10890 "morrow (n.): morning"
+
+
+**MERCUTIO**
+
+The [slip][34], sir, the slip. Can you not [conceive][33]?
+
+[33]: {{page.q}}=2813 "conceive (v.) 1: understand, comprehend, follow"
+[34]: {{page.q}}=16007 "slip (n.) 4: countefeit coin; also: evasion"
+
+
+**ROMEO**
+
+Pardon, good Mercutio. My business was great,
+and in such a case as mine a man may strain courtesy.
+
+
+
+**MERCUTIO**
+
+That's as much as to say, such a case as yours
+constrains a man to bow in the [hams][35].
+
+[35]: {{page.q}}=18610 "hams (n.): thighs, legs"
+
+
+**ROMEO**
+
+Meaning, to curtsy.
+
+
+
+**MERCUTIO**
+
+Thou hast most [kindly][36] hit it.
+
+[36]: {{page.q}}=19072 "kindly (adv.) 4: naturally, spontaneously, convincingly"
+
+
+**ROMEO**
+
+A most courteous exposition.
+
+
+
+**MERCUTIO**
+
+Nay, I am the very pink of courtesy.
+
+
+
+**ROMEO**
+
+Pink for flower.
+
+
+
+**MERCUTIO**
+
+Right.
+
+
+
+**ROMEO**
+
+Why, then is my pump well-flowered.
+
+
+
+**MERCUTIO**
+
+Sure [wit][37], follow me this jest now till thou hast
+worn out thy pump, that, when the single sole of it
+is worn, the jest may remain, after the wearing, solely
+singular.
+
+[37]: {{page.q}}=7645 "wit (n.) 2: mental sharpness, acumen, quickness, ingenuity"
+
+
+**ROMEO**
+
+O [single-soled][39] jest, [solely][41] [singular][40] for the [singleness][38]!
+
+[38]: {{page.q}}=15978 "singleness: simplicity, shallowness, silliness"
+[39]: {{page.q}}=15977 "single-soled (adj.): thin, poor, worthless"
+[40]: {{page.q}}=14857 "singular (adj.): unmatched, preeminent, outstanding"
+[41]: {{page.q}}=15758 "solely (adv.) 1: wholly, entirely, altogether"
+
+
+**MERCUTIO**
+
+Come between us, good Benvolio! My [wits][42]
+faint.
+
+[42]: {{page.q}}=8049 "wits, also five wits: faculties of the mind (common wit, imagination, fantasy, estimation, memory) or body (the five senses)"
+
+
+**ROMEO**
+
+[Swits][43] and spurs, swits and spurs! or I'll cry a
+[match][44].
+
+[43]: {{page.q}}=15979 "swits and spurs: [switches] at full speed, in hot haste"
+[44]: {{page.q}}=11107 "match (n.) 5: victory, success, triumph"
+
+
+**MERCUTIO**
+
+Nay, if our wits run the wild-goose chase, I
+am done. For thou hast more of the wild goose in one of
+thy [wits][45] than, I am sure, I have in my whole five. Was I
+with you there for the [goose][46]?
+
+[45]: {{page.q}}=8049 "wits, also five wits: faculties of the mind (common wit, imagination, fantasy, estimation, memory) or body (the five senses)"
+[46]: {{page.q}}=18046 "goose (n.) 1: prostitute, whore"
+
+
+**ROMEO**
+
+Thou wast never with me for anything when
+thou wast not there for the goose.
+
+
+
+**MERCUTIO**
+
+I will bite thee by the ear for that jest.
+
+
+
+**ROMEO**
+
+Nay, good goose, bite not.
+
+
+
+**MERCUTIO**
+
+Thy [wit][48] is a very bitter [sweeting][47]. It is a most
+sharp sauce.
+
+[47]: {{page.q}}=15980 "sweeting (n.) 2: sweet-flavoured variety of apple"
+[48]: {{page.q}}=7645 "wit (n.) 2: mental sharpness, acumen, quickness, ingenuity"
+
+
+**ROMEO**
+
+And is it not, then, well served in to a sweet
+goose?
+
+
+
+**MERCUTIO**
+
+O, here's a wit of [cheverel][49], that stretches from
+an inch narrow to an [ell][50] broad!
+
+[49]: {{page.q}}=4516 "cheverel (n.): kid leather [noted for its pliancy]"
+[50]: {{page.q}}=9816 "ell (n.): measure of length [45 inches / c.114 cm in England]"
+
+
+**ROMEO**
+
+I stretch it out for that word ‘ [broad][51] ’, which, added
+to the goose, proves thee far and wide a broad goose.
+
+[51]: {{page.q}}=2619 "broad (adj.) 5: plain, evident, obvious"
+
+
+**MERCUTIO**
+
+Why, is not this better now than groaning for
+love? Now art thou sociable. Now art thou Romeo. Now
+[art][52] thou what thou art, by art as well as by nature. For
+this drivelling love is like a great [natural][53] that runs lolling
+up and down to hide his [bauble][54] in a hole.
+
+[52]: {{page.q}}=53 "art (n.) 8: rhetorical art, verbal artistry"
+[53]: {{page.q}}=11276 "natural (n.): congenital idiot, half-wit, fool"
+[54]: {{page.q}}=1710 "bauble (n.) 3: decorated rod of office, fool's staff"
+
+
+**BENVOLIO**
+
+Stop there, stop there!
+
+
+
+**MERCUTIO**
+
+Thou desirest me to stop in my [tale][55] against
+the [hair][56].
+
+[55]: {{page.q}}=5702 "tale (n.) 1: talking, discourse"
+[56]: {{page.q}}=18713 "hair, against the: against the grain, contrary to inclination"
+
+
+**BENVOLIO**
+
+Thou wouldst else have made thy tale large.
+
+
+
+**MERCUTIO**
+
+O, thou art deceived! I would have made it
+short; for I was come to the whole depth of my tale, and
+meant indeed to [occupy][58] the [argument][57] no longer.
+
+[57]: {{page.q}}=45 "argument (n.) 2: story, subject, plot"
+[58]: {{page.q}}=11960 "occupy (v.): fornicate, have sexual dealings [with]"
+
+
+**ROMEO**
+
+Here's [goodly][60] [gear][59]!
+_Enter Nurse and her man, Peter_
+
+[59]: {{page.q}}=17831 "gear (n.) 1: business, affair, matter"
+[60]: {{page.q}}=17844 "goodly (adj.) 1: splendid, excellent, fine"
+
+
+**MERCUTIO**
+
+A sail, a sail!
+
+
+
+**BENVOLIO**
+
+Two, two. A shirt and a [smock][61].
+
+[61]: {{page.q}}=15735 "smock (n.): woman's undergarment, shift, slip, chemise"
+
+
+**NURSE**
+
+Peter!
+
+
+
+**PETER**
+
+[Anon][62].
+
+[62]: {{page.q}}=30 "anon (adv.) 1: soon, shortly, presently"
+
+
+**NURSE**
+
+My fan, Peter.
+
+
+
+**MERCUTIO**
+
+Good Peter, to hide her face. For her fan's the
+fairer face.
+
+
+
+**NURSE**
+
+God ye good-[morrow][63], gentlemen.
+
+[63]: {{page.q}}=10890 "morrow (n.): morning"
+
+
+**MERCUTIO**
+
+God ye good-e'en, fair gentlewoman.
+
+
+
+**NURSE**
+
+Is it good-e'en?
+
+
+
+**MERCUTIO**
+
+'Tis no less, I tell ye, for the bawdy hand of
+the [dial][64] is now upon the prick of noon.
+
+[64]: {{page.q}}=8408 "dial (n.): watch, timepiece, pocket sundial"
+
+
+**NURSE**
+
+Out upon you! What a man are you!
+
+
+
+**ROMEO**
+
+One, gentlewoman, that God hath made for himself
+to mar.
+
+
+
+**NURSE**
+
+By my troth, it is well said. ‘ For himself to mar,’
+[quoth][65] 'a? Gentlemen, can any of you tell me where I
+may find the young Romeo?
+
+[65]: {{page.q}}=13725 "quoth (v.): said"
+
+
+**ROMEO**
+
+I can tell you. But young Romeo will be older
+when you have found him than he was when you sought
+him. I am the youngest of that name, for [fault][66] of a
+worse.
+
+[66]: {{page.q}}=20601 "fault of, for (prep.): in default of, in the absence of"
+
+
+**NURSE**
+
+You say well.
+
+
+
+**MERCUTIO**
+
+Yea, is the worst well? Very well took, i'faith,
+wisely, wisely!
+
+
+
+**NURSE**
+
+If you be he, sir, I desire some [confidence][67] with
+you.
+
+[67]: {{page.q}}=3157 "confidence (n.) 3: malapropism for ‘conference’"
+
+
+**BENVOLIO**
+
+She will [endite][68] him to some supper.
+
+[68]: {{page.q}}=10225 "endite (v.): deliberate malapropism for ‘invite’"
+
+
+**MERCUTIO**
+
+A [bawd][69], a bawd, a bawd! So ho!
+
+[69]: {{page.q}}=1420 "bawd (n.): pimp, procurer, pander, go-between"
+
+
+**ROMEO**
+
+What hast thou found?
+
+
+
+**MERCUTIO**
+
+No hare, sir; unless a hare, sir, in a [lenten][70] pie,
+that is [something][72] [stale][74] and [hoar][71] ere it be [spent][73].
+_He walks by them and sings_
+An old hare hoar,
+And an old hare hoar,
+Is very good meat in Lent.
+But a hare that is hoar
+Is too much for a [score][75]
+When it hoars ere it be spent.
+Romeo, will you come to your father's? We'll to dinner
+thither.
+
+[70]: {{page.q}}=19632 "lenten (adj.) 1: made in Lent [without meat]"
+[71]: {{page.q}}=18714 "hoar (adj.) 2: mouldy, musty, rotten"
+[72]: {{page.q}}=14025 "something (adv.) 1: somewhat, rather"
+[73]: {{page.q}}=14944 "spend (v.) 1: use up, wear out, exhaust, bring to an end"
+[74]: {{page.q}}=15981 "stale (adj.) 4: unfresh, old, deteriorating"
+[75]: {{page.q}}=15165 "score (n.) 2: tavern-bill, alehouse tally"
+
+
+**ROMEO**
+
+I will follow you.
+
+
+
+**MERCUTIO**
+
+_Farewell, ancient lady. Farewell. (He sings)_
+Lady, lady, lady.
+_Exeunt Mercutio and Benvolio_
+
+
+
+**NURSE**
+
+I pray you, sir, what [saucy][77] [merchant][76] was this that
+was so full of his [ropery][78]?
+
+[76]: {{page.q}}=11108 "merchant (n.) 2: fellow, character, lad"
+[77]: {{page.q}}=14344 "saucy (adj.) 1: insolent, impudent, presumptuous, defiant"
+[78]: {{page.q}}=17313 "ropery (n.): roguery, tricks, rascal ways"
+
+
+**ROMEO**
+
+A gentleman, Nurse, that loves to hear himself
+talk and will speak more in a minute than he will [stand][79]
+to in a month.
+
+[79]: {{page.q}}=14500 "stand to (v.) 1: maintain, uphold, be steadfast in"
+
+
+**NURSE**
+
+An 'a speak anything against me, I'll [take][80] him
+down, an 'a were [lustier][81] than he is, and twenty such
+[Jack][82]s; and if I cannot, I'll find those that shall. [Scurvy][83]
+[knave][85]! I am none of his [flirt-gill][84]s. I am none of his
+_skains-mates. (She turns to Peter her man) And thou_
+must stand by too, and [suffer][87] every [knave][86] to use me at
+his pleasure!
+
+[80]: {{page.q}}=6428 "take down (v.) 1: humble, lower, cut down to size"
+[81]: {{page.q}}=19182 "lusty (adj.) 2: merry, cheerful, lively"
+[82]: {{page.q}}=18880 "Jack (n.) 1: Jack-in-office, ill-mannered fellow, lout, knave"
+[83]: {{page.q}}=15014 "scurvy (adj.) 1: contemptible, despicable, wretched"
+[84]: {{page.q}}=20602 "flirt-gill (n.): fast girl, loose woman"
+[85]: {{page.q}}=18989 "knave (n.) 1: scoundrel, rascal, rogue"
+[86]: {{page.q}}=18989 "knave (n.) 1: scoundrel, rascal, rogue"
+[87]: {{page.q}}=14128 "suffer (v.) 1: allow, permit, let"
+
+
+**PETER**
+
+I saw no man use you at his pleasure. If I had, my
+weapon should quickly have been out. I [warrant][88] you,
+I dare [draw][89] as soon as another man, if I see occasion in
+a good quarrel, and the law on my side.
+
+[88]: {{page.q}}=7550 "warrant (v.) 1: assure, promise, guarantee, confirm"
+[89]: {{page.q}}=8910 "draw (v.) 10: draw a sword"
+
+
+**NURSE**
+
+Now, afore God, I am so vexed that every part
+about me quivers. Scurvy knave! Pray you, sir, a word;
+and, as I told you, my young lady bid me inquire you
+out. What she bid me say, I will keep to myself. But
+first let me tell ye, if ye should lead her in a fool's paradise,
+as they say, it were a very [gross][90] kind of behaviour,
+as they say. For the [gentlewoman][91] is young; and therefore,
+if you should deal [double][92] with her, truly it were an
+ill thing to be offered to any gentlewoman, and very
+[weak][93] dealing.
+
+[90]: {{page.q}}=17569 "gross (adj.) 8: vile, abhorrent, wicked"
+[91]: {{page.q}}=17658 "gentlewoman (n.): woman of good breeding, well-born lady"
+[92]: {{page.q}}=9309 "double (adv.) 2: deceptively, deceitfully, in a two-faced way"
+[93]: {{page.q}}=5799 "weak (adj.) 3: contemptible, despicable, dishonourable"
+
+
+**ROMEO**
+
+Nurse, [commend][94] me to thy lady and mistress. I
+[protest][95] unto thee –
+
+[94]: {{page.q}}=2672 "commend (v.) 1: convey greetings, present kind regards"
+[95]: {{page.q}}=12731 "protest (v.) 2: declare, say, swear"
+
+
+**NURSE**
+
+Good heart, and i'faith I will tell her as much.
+Lord, Lord! She will be a joyful woman.
+
+
+
+**ROMEO**
+
+What wilt thou tell her, Nurse? Thou dost not [mark][96] me.
+
+[96]: {{page.q}}=10405 "mark (v.) 1: note, pay attention [to], take notice [of]"
+
+
+**NURSE**
+
+I will tell her, sir, that you do [protest][97], which, as I
+take it, is a gentlemanlike offer.
+
+[97]: {{page.q}}=13432 "protest (v.) 4: declare love"
+
+
+**ROMEO**
+
+Bid her devise
+Some means to come to [shrift][98] this afternoon,
+And there she shall at Friar Laurence' [cell][99]
+Be [shrive][100]d and married. Here is for thy pains.
+
+[98]: {{page.q}}=15983 "shrift (n.) 1: confession"
+[99]: {{page.q}}=4172 "cell (n.): small humble dwelling"
+[100]: {{page.q}}=14312 "shrive (v.): hear confession, grant absolution, forgive"
+
+
+**NURSE**
+
+No, truly, sir. Not a penny.
+
+
+
+**ROMEO**
+
+Go to! I say you shall.
+
+
+
+**NURSE**
+
+This afternoon, sir? Well, she shall be there.
+
+
+
+**ROMEO**
+
+And stay, good Nurse, behind the abbey wall.
+Within this hour my man shall be with thee
+And bring thee cords made like a [tackled][102] [stair][101],
+Which to the high [topgallant][103] of my joy
+Must be my [convoy][104] in the secret night.
+Farewell. Be trusty, and I'll [quit][105] thy pains.
+Farewell. Commend me to thy mistress.
+
+[101]: {{page.q}}=15984 "stair (n.): ladder"
+[102]: {{page.q}}=6429 "tackled (adj.): made of rope"
+[103]: {{page.q}}=6430 "topgallant (n.): summit, top platform"
+[104]: {{page.q}}=2736 "convoy (n.): means of transport, method of conveyance"
+[105]: {{page.q}}=13747 "quit (v.) 5: pay back, repay, reward"
+
+
+**NURSE**
+
+Now God in heaven bless thee! Hark you, sir.
+
+
+
+**ROMEO**
+
+What sayest thou, my dear Nurse?
+
+
+
+**NURSE**
+
+Is your man secret? Did you ne'er hear say,
+Two may keep counsel, putting one away?
+
+
+
+**ROMEO**
+
+[Warrant][106] thee my man's as true as steel.
+
+[106]: {{page.q}}=7550 "warrant (v.) 1: assure, promise, guarantee, confirm"
+
+
+**NURSE**
+
+Well, sir, my mistress is the sweetest lady. Lord,
+Lord! when 'twas a little [prating][107] thing – O there is a
+nobleman in town, one Paris, that would [fain][108] [lay][109] knife
+aboard. But she, good soul, [had as lief][110] see a toad, a very
+toad, as see him. I anger her sometimes, and tell her that
+Paris is the [proper][111]er man. But I'll [warrant][112] you, when I
+say so, she looks as pale as any [clout][113] in the [versal][114] world.
+Doth not rosemary and Romeo begin both with a letter?
+
+[107]: {{page.q}}=12237 "prating (adj.): prattling, chattering, blathering"
+[108]: {{page.q}}=19773 "fain (adv.): gladly, willingly"
+[109]: {{page.q}}=19633 "lay knife aboard: make a claim, establish a position"
+[110]: {{page.q}}=19129 "lief, had as: should like just as much"
+[111]: {{page.q}}=12275 "proper (adj.) 1: good-looking, handsome, comely"
+[112]: {{page.q}}=7550 "warrant (v.) 1: assure, promise, guarantee, confirm"
+[113]: {{page.q}}=2651 "clout (n.) 1: piece of cloth, rag; handkerchief"
+[114]: {{page.q}}=7459 "versal (adj.): malapropism for ‘universal’"
+
+
+**ROMEO**
+
+Ay, Nurse. What of that? Both with an ‘ R.’
+
+
+
+**NURSE**
+
+Ah, mocker! That's the dog's name. ‘ R ’ is for the –
+No, I know it begins with some other letter; and she hath
+the prettiest [sententious][115] of it, of you and rosemary, that
+it would do you good to hear it.
+
+[115]: {{page.q}}=15985 "sententious (adj.) 2: malapropism for ‘sentences’"
+
+
+**ROMEO**
+
+Commend me to thy lady.
+_Exit Romeo_
+
+
+
+**NURSE**
+
+Ay, a thousand times. Peter!
+
+
+
+**PETER**
+
+Anon.
+
+
+
+**NURSE**
+
+[Before][117], and [apace][116].
+_Exeunt_
+
+[116]: {{page.q}}=139 "apace (adv.): quickly, speedily, at a great rate"
+[117]: {{page.q}}=1601 "before (adv.) 1: ahead, in advance"
+
+

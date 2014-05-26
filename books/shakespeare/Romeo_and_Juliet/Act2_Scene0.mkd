@@ -1,0 +1,46 @@
+---
+title: Romeo and Juliet
+tagline: Act II - Scene #
+category: play
+author: shakespeare
+date: 2014-05-26 13:53:40 +0800
+permalink: /books/shakespeare/Romeo_and_Juliet_act2_scene0.html
+layout: book_page
+creation: 1594-1595
+type: comedy
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Chorus_
+
+**CHORUS**
+
+Now old desire doth in his deathbed lie,
+And young [affection][1] [gape][2]s to be his heir.
+That [fair][3] for which love groaned for and would die,
+With tender Juliet matched, is now not fair.
+Now Romeo is beloved and loves again,
+Alike bewitched by the [charm][4] of looks.
+But to his foe supposed he must [complain][5],
+And she steal love's sweet bait from [fearful][6] hooks.
+Being held a foe, he may not have access
+To [breathe][7] such vows as lovers [use][8] to swear,
+And she as much in love, her means much less
+To meet her new beloved anywhere.
+But passion lends them power, time means, to meet,
+[Temper][11]ing [extremities][9] with extreme [sweet][10].
+_Exit_
+
+[1]: {{page.q}}=228 "affection (n.) 3: desire, passion, lustful feeling"
+[2]: {{page.q}}=17615 "gape (v.): long, be eager, yearn"
+[3]: {{page.q}}=19976 "fair (n.) 1: fair face, beauty"
+[4]: {{page.q}}=4358 "charm (n.) 1: magic spell, enchantment"
+[5]: {{page.q}}=2683 "complain (v.): lament, bewail, bemoan"
+[6]: {{page.q}}=19970 "fearful (adj.) 1: timid, timorous, frightened, full of fear"
+[7]: {{page.q}}=1807 "breathe (v.) 1: speak, utter, talk"
+[8]: {{page.q}}=6700 "use (v.) 1: be accustomed, make a habit [of]"
+[9]: {{page.q}}=9682 "extremity (n.) 3: utmost severity, extreme intensity, hardship"
+[10]: {{page.q}}=15968 "sweet (n.) 1: sweetness, pleasure, delight"
+[11]: {{page.q}}=6440 "temper (v.) 5: moderate, soften, tone down"
+
+

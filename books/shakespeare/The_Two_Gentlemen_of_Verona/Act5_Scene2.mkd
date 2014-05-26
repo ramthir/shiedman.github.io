@@ -1,0 +1,288 @@
+---
+title: The Two Gentlemen of Verona
+tagline: Act V - Scene II
+category: play
+author: shakespeare
+date: 2014-05-25 14:18:06 +0800
+permalink: /books/shakespeare/The_Two_Gentlement_of_Verona_act5_scene2.html
+layout: book_page
+creation: 1589-1593
+q: http://www.shakespeareswords.com/Headwords-Instance.aspx?Ref
+---
+
+_Enter Thurio, Proteus, and Julia dressed in a page's_
+
+_costume_
+
+**THURIO**
+
+Sir Proteus, what says Silvia to my [suit][1]?
+
+[1]: {{page.q}}=14962 "suit (n.) 2:  wooing, courtship"
+
+
+**PROTEUS**
+
+O, sir, I find her milder than she was;
+And yet she takes [exception][2]s at your person.
+
+[2]: {{page.q}}=10076 "exception (n.) 1:  (often plural) objection, dislike, disapproval"
+
+
+**THURIO**
+
+What? That my leg is too long?
+
+
+
+**PROTEUS**
+
+No, that it is too [little][3].
+
+[3]: {{page.q}}=15346 "little (adj.) 3:  thin, lean, skinny"
+
+
+**THURIO**
+
+I'll wear a [boot][4] to make it somewhat rounder.
+
+[4]: {{page.q}}=2254 "boot (n.) 5:  riding-boot"
+
+
+**JULIA**
+
+_aside_
+But love will not be spurred to what it loathes.
+
+
+
+**THURIO**
+
+What says she to my face?
+
+
+
+**PROTEUS**
+
+She says it is a [fair][5] one.
+
+[5]: {{page.q}}=20546 "fair (adj.) 3:  pale, of light complexion"
+
+
+**THURIO**
+
+Nay then, the [wanton][7] lies; my face is [black][6].
+
+[6]: {{page.q}}=2163 "black (adj.) 1:  dark-complexioned, swarthy"
+[7]: {{page.q}}=7759 "wanton (n.) 4:  wilful creature, obstinate individual"
+
+
+**PROTEUS**
+
+But pearls are fair; and the old saying is:
+[Black][8] men are pearls in beauteous ladies' eyes.
+
+[8]: {{page.q}}=2163 "black (adj.) 1:  dark-complexioned, swarthy"
+
+
+**JULIA**
+
+_aside_
+'Tis true, such pearls as put out ladies' eyes;
+For I had rather [wink][9] than look on them.
+
+[9]: {{page.q}}=7633 "wink (v.) 1:  shut one's eyes"
+
+
+**THURIO**
+
+How likes she my [discourse][10]?
+
+[10]: {{page.q}}=8673 "discourse (n.) 1:  conversation, talk, chat"
+
+
+**PROTEUS**
+
+[Ill][11], when you talk of war.
+
+[11]: {{page.q}}=4953 "ill (adv.) 1:  badly, adversely, unfavourably"
+
+
+**THURIO**
+
+But well when I [discourse][12] of love and peace?
+
+[12]: {{page.q}}=8513 "discourse (v.) 1:  talk, chat, converse"
+
+
+**JULIA**
+
+_aside_
+But better, indeed, when you hold your peace.
+
+
+
+**THURIO**
+
+What says she to my valour?
+
+
+
+**PROTEUS**
+
+O, sir, she makes no [doubt][13] of that.
+
+[13]: {{page.q}}=9157 "doubt (n.) 3:  question, difficulty, hesitation [over]"
+
+
+**JULIA**
+
+_aside_
+She needs not, when she knows it cowardice.
+
+
+
+**THURIO**
+
+What says she to my birth?
+
+
+
+**PROTEUS**
+
+That you are well [derived][14].
+
+[14]: {{page.q}}=8838 "derived (adj.):  descended, in lineage"
+
+
+**JULIA (aside)**
+
+_aside_
+True; from a gentleman to a fool.
+
+
+
+**THURIO**
+
+Considers she my possessions?
+
+
+
+**PROTEUS**
+
+O, ay; and pities them.
+
+
+
+**THURIO**
+
+Wherefore?
+
+
+
+**JULIA**
+
+_aside_
+That such an ass should owe them.
+
+
+
+**PROTEUS**
+
+That they are out by [lease][15].
+_Enter the Duke of Milan_
+
+[15]: {{page.q}}=19557 "lease, out by:  let out to others, not under one's full ownership"
+
+
+**JULIA**
+
+Here comes the Duke.
+
+
+
+**DUKE**
+
+How now, Sir Proteus! How now, Thurio!
+Which of you saw Sir Eglamour of [late][16]?
+
+[16]: {{page.q}}=19247 "late, of:  recently, a little while ago"
+
+
+**THURIO**
+
+Not I.
+
+
+
+**PROTEUS**
+
+Nor I.
+
+
+
+**DUKE**
+
+Saw you my daughter?
+
+
+
+**PROTEUS**
+
+
+
+
+
+**DUKE**
+
+Why then,
+She's fled unto that [peasant][17] Valentine;
+And Eglamour is in her company.
+'Tis true; for Friar Laurence met them both
+As he in penance wandered through the forest;
+Him he knew well, and guessed that it was she,
+But, being masked, he was not sure of it;
+Besides, she did intend confession
+At Patrick's cell this [even][18]; and there she was not.
+These likelihoods confirm her flight from hence;
+Therefore, I pray you, [stand][20] not to [discourse][19],
+But mount you [presently][21], and meet with me
+Upon the rising of the [mountain-foot][22]
+That leads towards Mantua, whither they are fled.
+[Dispatch][23], sweet gentlemen, and follow me.
+_Exit_
+
+[17]: {{page.q}}=12171 "peasant (adj.) 1:  base, low, villainous"
+[18]: {{page.q}}=10092 "even (n.) 1:  evening"
+[19]: {{page.q}}=8513 "discourse (v.) 1:  talk, chat, converse"
+[20]: {{page.q}}=15531 "stand (v.) 8:  waste time, delay, wait"
+[21]: {{page.q}}=12248 "presently (adv.) 1:  immediately, instantly, at once"
+[22]: {{page.q}}=10984 "mountain-foot (n.):  foothills"
+[23]: {{page.q}}=8763 "dispatch, despatch (v.) 4:  hurry up, be quick"
+
+
+**THURIO**
+
+Why, this it is to be a [peevish][24] girl
+That flies her fortune when it follows her.
+I'll after, more to be revenged on Eglamour
+Than for the love of reckless Silvia.
+_Exit_
+
+[24]: {{page.q}}=13294 "peevish (adj.) 2:  obstinate, perverse, self-willed [contrast modern sense of ‘irritable, morose’]"
+
+
+**PROTEUS**
+
+And I will follow, more for Silvia's love
+Than hate of Eglamour, that goes with her.
+_Exit_
+
+
+
+**JULIA**
+
+And I will follow, more to cross that love
+Than hate for Silvia, that is gone for love.
+_Exit_
+

@@ -1,0 +1,18 @@
+---
+title: 五笔简要教程
+category: 备忘
+layout: blog_page
+date: 2014-04-01 01:55:00 +0800
+
+---
+
+
+### 五笔98版简繁体码元总表
+
+![码表](wubi_wb98jf.gif)
+
+
+### 五笔字型编码流程图
+
+
+![码表](wubi_bmlc.gif)

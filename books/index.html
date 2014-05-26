@@ -1,0 +1,82 @@
+---
+layout: book
+title: Books
+permalink: /books/
+author: all
+style: |
+  .index li h3 { margin-top: 10px; }
+  .index li a { color: #2aa198; }
+
+---
+<article class="index">
+<!-- sort by date -->
+{% capture ids %}
+{% for p in site.pages %}
+{% assign filename = p.path | split: '/' | last %}
+{% if (filename == 'index.markdown' or p.index) and p.url contains page.url %}
+{% if p.date %}
+${{p.date |date: '%Y%m%d%H%M%S'}}#{{p.url}}
+{% else %}
+${{site.time |date: '%Y%m%d%H%M%S'}}#{{p.url}}
+{% endif %}
+{% endif %}
+{% endfor %}
+{% endcapture %}
+
+<!-- [<date>#<url>, <date>#<url>, ...] -->
+{% assign collection = ids | strip_newlines | remove_first: '$' | split: '$' | sort %}
+<!-- pages -->
+<ul>
+  {% for id in collection %}
+  {% assign uri = id | split: '#' | last %}
+{% capture li %}
+{% for p in site.pages %}
+{% if p.url == uri %}
+<li>
+<h3>
+  <a href="{{p.url}}">{{p.title}}</a> 
+  {% if p.date %}<time>{{p.date | date: "%Y-%m-%d" }}</time>{% endif %}
+</h3>
+</li>
+{% endif %}
+{% endfor %}
+{% endcapture %}
+    {{ li | strip_newlines }}
+  {% endfor %}
+</ul>
+<!-- /pages -->
+<!--
+* ### [管子](guanzi/) <time>2014-03-12</time>
+      
+    《管子》以中国春秋时代政治家、哲学家管仲命名，其中也记载了管仲死后的事情，并非管仲所著，但仍被认为可以体现管仲的主要思想。文章大概出自深受管仲影响的稷下学派之手。汉朝学者刘向约于公元前26年为《管子》进行编辑。
+
+    《管子》一书共八十六篇，其中有十篇文已佚。《管子》全书十六万言，内容可分八类：《经言》九篇，《外言》八篇，《内言》七篇，《短语》十七篇，《区言》五篇，《杂篇》十篇，《管子解》四篇，《管子轻重》十六篇。
+
+* ### [红楼梦](story_of_stone/) <time>2014-01-12</time> 
+
+    《红楼梦》，原名《石头记》，中国古典长篇章回小说，中国四大名著之一。《红楼梦》书内提及的书名，还有《情僧录》、《风月宝鉴》、《金陵十二钗》，乾隆四十九年甲辰（1784年）梦觉主人序本题为《红楼梦》（甲辰梦序抄本）。1791年在第一次活字印刷后（程甲本），《红楼梦》便取代《石头记》而成为通行的书名。
+
+* ### [古文观止](story_of_stone/) <time>2014-01-12</time> 
+* ### [周易正义](story_of_stone/) <time>2014-01-12</time> 
+* ### [东列国志传](story_of_stone/) <time>2014-01-12</time> 
+
+* ### [On Human Nature](on_human_nature/) <time>2014-03-27</time> 
+* ### [The Problems of Philosophy ](on_human_nature/) <time>2014-03-27</time> 
+* ### [A Guide to Philosophy ](on_human_nature/) <time>2014-03-27</time> 
+
+* ### [銀河鉄道の夜](miyazawa_kenji/railroad/) <time>2014-04-04</time> 
+
+* ### [星の王子さま](miyazawa_kenji/railroad/) <time>2014-04-04</time> 
+
+* ### [金刚经](books/diamond_sutra/) <time>2014-05-24</time> 
+-->
+
+</article>
+<div style="font-size: 0.8em;">
+    
+  <h3> ・字體及兼容性・</h3>
+
+  <p> 古書使用到大量頗爲少見的漢字。爲了顯示這些漢字，您的電腦必須具備一個支持這些字的Unicode字體（尤其是支持「CJK擴展A區」至「D區」中的字）， 否則您的電腦將無法顯示這些字。一個很恰當的字體「<a href="http://fonts.jp/hanazono/">[花園]</a>」是可免費下載的。
+  </p>
+</div>
+
